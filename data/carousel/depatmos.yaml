@@ -1,0 +1,11 @@
+weight: 1
+title: "연세대학교 대기과학과"
+description: >
+  <ul class="list-style-none">
+    <li>기초 과학분야의 지식과 </li>
+    <li>슈퍼컴퓨터, 위성 등의 첨단 기술로 </li>
+    <li>일기와 기후현상과 같은 </li>
+    <li>지구환경의 핵심 문제들을 연구하고 있습니다.</li>
+  </ul>
+image: "img/carousel/typhoonhaiyan.png"
+dest: "about"

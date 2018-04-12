@@ -1,0 +1,11 @@
+{{ if or (isset .Params "categories") (eq .Type "categories") }}
+{{ partial "widgets/categories.html" . }}
+{{ end }}
+
+{{ if or (isset .Params "teams") (eq .Type "teams") }}
+{{ partial "widgets/teams.html" . }}
+{{ end }}
+
+{{ partial "widgets/tags.html" . }}
+
+{{ partial "widgets/search.html" . }}

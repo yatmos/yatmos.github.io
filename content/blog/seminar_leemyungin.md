@@ -1,0 +1,15 @@
++++
+title = "[세미나] Prof. Myung-in Lee"
+date = 2018-03-18T12:49:47+09:00
+categories = ["세미나"]
+banner = "img/placeholder.png"
+icon = "microphone"
++++
+### Korean Heatwaves and Their Association with Large-scale Atmospheric Circulation Patterns
+<br>
+#### Prof. Myong-In Lee (Ulsan National Institute of Science and Technology)
+#### 2018/3/20 (Tuesday) 16:00
+#### Science Hall #553
+<br>
+#### Abstract
+Heatwave is a natural disaster with prolonged hot weather lasting for a few days or even longer than a few weeks, increasing mortality and heat diseases, as well as many harmful impacts on property loss and daily lives. As the global mean temperature increases especially in recent years, many regions in the globe are suffering from more frequent development of heatwaves and tropical nights with unprecedented intensity during warm season. Experts project this tendency will be one of the most serious threats until the end of this century. This study first examines the characteristics of the Korean heatwaves and tropical nights by analyzing long-term surface observations of daily maximum and minimum temperature. The analysis highlights there is a significant trend in the number of heatwave days. This signal is contributed not only by the increase during June to August, but also by the increase in non-summer seasons such as May and September. The number frequency of heatwave days in Korea also exhibit pronounced interannual variability, being affected by large-scale atmospheric circulation patterns. Focusing on the large-scale circulation patterns responsible for the development of heatwaves in East Asia including Korea, this study conducted the EOF analysis to the number frequency of heatwave days to obtain dominant mode of interannual and interdecadal variability. Even though the signal separation is not clear from the trend, the decadal variability of heatwave frequency is apparently associated with the sea surface temperature variability in the Atlantic, as represented by the Atlantic Multidecadal Oscillation (AMO). On the other hand, for the interannual time scale, the large-scale atmospheric teleconnection patterns associated with the Eurasian pattern (also known as the Scandinavian pattern (SCAND)), and the circumglobal teleconnection pattern (CGT). The subsequent EOF analysis by separating the data period before and after mid-1990s demonstrates that there is a significant change in interannual variation of heatwave in mid-1990s. Before mid-1990s, the heatwave is highly related with CGT pattern, whereas the SCANT pattern exhibits more important contribution to the interannual variability after mid-1990s. The results has an implication that the mid-latitude large-scale atmospheric circulation is an important factor to trigger the large-scale heatwaves in East Asia. Several dynamical and physical processes engaged with the large-scale teleconnection pattern change are discussed, including land surface condition in Eurasia and the retarding of subtropical Jetstream.
