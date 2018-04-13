@@ -14,7 +14,7 @@ images = "img/_img_intro.jpg"
 </div>
 <div class="col-sm-6">
   <div class='image'>
-   <img src="../img/_img_intro.jpg" class="img-responsive" alt="" style="float:right;">
+   <img src="../img/img_intro.jpg" class="img-responsive" alt="" style="float:right;">
   </div>
 </div>
 <br>
