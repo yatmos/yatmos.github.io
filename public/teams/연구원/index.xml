@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>연구원 on 대기과학과</title>
+    <link>https://yatmos.github.io/teams/%EC%97%B0%EA%B5%AC%EC%9B%90/</link>
+    <description>Recent content in 연구원 on 대기과학과</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko</language>
+    <lastBuildDate>Sat, 24 Mar 2018 13:39:46 +0200</lastBuildDate>
+    
+	<atom:link href="https://yatmos.github.io/teams/%EC%97%B0%EA%B5%AC%EC%9B%90/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Olson Roman</title>
+      <link>https://yatmos.github.io/people/olsonroman/</link>
+      <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
+      
+      <guid>https://yatmos.github.io/people/olsonroman/</guid>
+      <description>연구분야 Improving multi-model climate prediction methods Global</description>
+    </item>
+    
+    <item>
+      <title>구자호</title>
+      <link>https://yatmos.github.io/people/jahokoo/</link>
+      <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
+      
+      <guid>https://yatmos.github.io/people/jahokoo/</guid>
+      <description>연구분야 Asian/Pacific air pollution and environment Polar</description>
+    </item>
+    
+    <item>
+      <title>김세현</title>
+      <link>https://yatmos.github.io/people/sehyunkim/</link>
+      <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
+      
+      <guid>https://yatmos.github.io/people/sehyunkim/</guid>
+      <description>연구분야 Data assimilation Ensemble forecast 학력</description>
+    </item>
+    
+    <item>
+      <title>김지원</title>
+      <link>https://yatmos.github.io/people/jiwonkim/</link>
+      <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
+      
+      <guid>https://yatmos.github.io/people/jiwonkim/</guid>
+      <description>연구분야 ENSO teleconnection ENSO dynamics 학력</description>
+    </item>
+    
+    <item>
+      <title>이유리</title>
+      <link>https://yatmos.github.io/people/yurilee/</link>
+      <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
+      
+      <guid>https://yatmos.github.io/people/yurilee/</guid>
+      <description>연구분야 Remote sensing for precipitation estimation 학</description>
+    </item>
+    
+    <item>
+      <title>최명제</title>
+      <link>https://yatmos.github.io/people/myungjechoi/</link>
+      <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
+      
+      <guid>https://yatmos.github.io/people/myungjechoi/</guid>
+      <description>연구분야 Retrieval of aerosol optical properties using</description>
+    </item>
+    
+    <item>
+      <title>황승언</title>
+      <link>https://yatmos.github.io/people/seungonhwang/</link>
+      <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
+      
+      <guid>https://yatmos.github.io/people/seungonhwang/</guid>
+      <description>연구분야 자료동화, 수</description>
+    </item>
+    
+    <item>
+      <title>김시완</title>
+      <link>https://yatmos.github.io/people/siwankim/</link>
+      <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
+      
+      <guid>https://yatmos.github.io/people/siwankim/</guid>
+      <description>연구분야 Air quality (tropospheric ozone and aerosols)</description>
+    </item>
+    
+    <item>
+      <title>이진행</title>
+      <link>https://yatmos.github.io/people/jinhaenglee/</link>
+      <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
+      
+      <guid>https://yatmos.github.io/people/jinhaenglee/</guid>
+      <description>연구분야 Quasi-Biennial Oscillation 학력 M.Sc (2018)</description>
+    </item>
+    
+  </channel>
+</rss>
