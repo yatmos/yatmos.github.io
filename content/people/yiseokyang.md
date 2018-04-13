@@ -12,13 +12,15 @@ weight = 40
 +++
 
 #### 연구분야
-+ Study of cloud properties using satellite observation
++ Cloud optical and microphysical properties
++ Cloud satellite observation
 
 
 #### 학력
  + **B.Sc** (2011) in Atmospheric Sciences, Yonsei University, Seoul, Korea
 
 #### 수상내역
++ 우수상, 제3회 대학(원)생 기상위성활용 연구성과 경진대회 (2017. 11. 15)
 
 #### 논문
 

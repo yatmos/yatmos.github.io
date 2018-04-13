@@ -20,3 +20,5 @@ Vincent Van Gough의 Starry Night (별이 빛나는 밤)에 표현된 대기에�
  <div class='image'>
  <img src="/img/seminar/seminar_SYKIM.PNG" class="img-responsive" alt="">
  </div>
+
+ <br>
