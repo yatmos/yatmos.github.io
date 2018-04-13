@@ -2,8 +2,8 @@
 title = "[세미나] 김성용 교수님"
 date = 2018-04-13T12:49:47+09:00
 categories = ["세미나"]
-#banner = "img/placeholder.png"
-banner = "img/seminar/seminar_SYKIM.PNG"
+banner = "img/placeholder.png"
+#banner = "img/seminar/seminar_SYKIM.PNG"
 icon = "microphone"
 +++
 ### Van Gogh's Starry Night으로부터 배우는 바다에서의 난류
@@ -17,6 +17,6 @@ Vincent Van Gough의 Starry Night (별이 빛나는 밤)에 표현된 대기에�
 
 <br>
 
-#<div class='image'>
-#<img src="/img/seminar/seminar_SYKIM.PNG" class="img-responsive" alt="">
-#</div>
+ <div class='image'>
+ <img src="/img/seminar/seminar_SYKIM.PNG" class="img-responsive" alt="">
+ </div>
