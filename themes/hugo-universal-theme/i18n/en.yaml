@@ -23,7 +23,7 @@
   translation: "Contact"
 
 - id: contactForm
-  translation: "Contact form"
+  translation: "메세지 남기기"
 
 - id: contactName
   translation: "Your Name"
