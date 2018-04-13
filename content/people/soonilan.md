@@ -8,7 +8,7 @@ job = "정교수"
 phone = "02-2123-5684"
 room = "기후이론 연구실 / 과학관 538호"
 web = "http://web.yonsei.ac.kr/climate"
-weight = 5
+weight = 6
 +++
 
 #### 연구분야

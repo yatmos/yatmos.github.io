@@ -8,7 +8,7 @@ job = "부교수"
 phone = "02-2123-5693"
 room = "생물대기 연구실 / 과학관 542호"
 web = "http://eapl.yonsei.ac.kr"
-weight = 7
+weight = 8
 +++
 
 #### 연구분야

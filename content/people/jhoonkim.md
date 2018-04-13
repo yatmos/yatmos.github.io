@@ -8,7 +8,7 @@ job = "정교수"
 phone = "02-2123-5682"
 room = "대기복사 연구실 / 과학관 545호"
 web = "http://web.yonsei.ac.kr/oasis"
-weight = 3
+weight = 4
 +++
 
 #### 연구분야

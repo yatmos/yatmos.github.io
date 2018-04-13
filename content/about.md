@@ -27,7 +27,59 @@ images = "img/img_intro.jpg"
 현재 대기과학의 모든 주요 분야를 다루고 있는 10여명의 교수진은 교육 뿐 아니라 다른 연구원들과 협력하여 연구를 활발히 수행하고 있으며, 또한 대기과학 관련 국내외 활동에 있어서도 중요한 역할을 하고 있습니다.
 <br>
 <br>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-top-width:1px;border-bottom-width:1px;border-color:black;}
+.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-top-width:1px;border-bottom-width:1px;border-color:black;}
+.tg .tg-io4b{font-weight:bold;background-color:#efefef;color:#000000;border-color:inherit;text-align:center;vertical-align:top}
+.tg .tg-aj90{font-weight:bold;background-color:#efefef;color:#000000;border-color:inherit;text-align:center}
+.tg .tg-u4so{font-weight:bold;font-size:100%;border-color:inherit;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 100%">
+<colgroup>
+<col style="width: 25%">
+<col style="width: 75%">
+</colgroup>
+  <tr>
+    <th class="tg-aj90">1967년</th>
+    <th class="tg-u4so">천문기상학과 설립</th>
+  </tr>
+  <tr>
+    <td class="tg-io4b">1989년</td>
+    <td class="tg-u4so">천문대기학과로 명칭 변경</td>
+  </tr>
+  <tr>
+    <td class="tg-io4b">1993년</td>
+    <td class="tg-u4so">지구환경연구소 설립<br>대형프로젝트 G7 선정</td>
+  </tr>
+  <tr>
+    <td class="tg-io4b">1998년</td>
+    <td class="tg-u4so">대기과학과로 분리</td>
+  </tr>
+  <tr>
+    <td class="tg-io4b">1999년</td>
+    <td class="tg-u4so">국가지정연구실 대기모형 연구실 유치</td>
+  </tr>
+  <tr>
+    <td class="tg-io4b">2004년</td>
+    <td class="tg-u4so">기상청 지구대기감시 위탁관측소 지정</td>
+  </tr>
+  <tr>
+    <td class="tg-io4b">2005년</td>
+    <td class="tg-u4so">국가지정연구실 대기역학 연구실 유치</td>
+  </tr>
+  <tr>
+    <td class="tg-io4b">2006년</td>
+    <td class="tg-u4so">BK21 지구대기천문사업단 선정</td>
+  </tr>
+  <tr>
+    <td class="tg-io4b">2008년</td>
+    <td class="tg-u4so">AsiaFlux Main Office 유치</td>
+  </tr>
+</table>
 
+<br>
+<br>
 ## 졸업 후 진로
 --------------
 연세대학교 대기과학과의 졸업생들은 기상청 및 정부기관, 전세계의 여러 연구소와 대학, 고등학교, 기상 관련 산업, 언론 등 여러 분야에서 활동하고 있습니다.
