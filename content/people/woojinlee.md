@@ -8,6 +8,7 @@ job = "연구 교수"
 phone = "010-9395-1778"
 room = "대기역학 연구실 / 과학관 535호"
 web = "http://atmosdyn.yonsei.ac.kr"
+weight = 19
 +++
 
 #### 연구분야

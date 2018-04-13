@@ -76,6 +76,14 @@ images = "img/img_intro.jpg"
     <td class="tg-io4b">2008년</td>
     <td class="tg-u4so">AsiaFlux Main Office 유치</td>
   </tr>
+  <tr>
+    <td class="tg-io4b">2012년</td>
+    <td class="tg-u4so">환경부 환경탑재체알고리즘개발연구단 유치</td>
+  </tr>
+  <tr>
+    <td class="tg-io4b">2013년</td>
+    <td class="tg-u4so">BK21+ 지구대기천문사업단 유치</td>
+  </tr>
 </table>
 
 <br>
