@@ -88,6 +88,12 @@ summarylength = 10
 
 [[menu.topbar]]
     weight = 1
+    name = "school"
+    url = "http://www.yonsei.ac.kr/sc/"
+    pre = "연세대학교"
+
+[[menu.topbar]]
+    weight = 2
     name = "Language"
     url = "http://web.yonsei.ac.kr/atmoseng"
     pre = "English"
@@ -117,7 +123,7 @@ summarylength = 10
     # - you're done. Happy mailing!
     #
     # Enable the contact form by entering your Formspree.io email
-    email = "atmosyonsei@gmail.com"
+    email = "yonseiatmos@gmail.com"
 
     about_us = "<p>연세대학교 이과대학 대기과학과</p>"
     copyright = "Copyright (c) 2018 - 2018, Department of Atmospheric Sciences, Yonsei University; all rights reserved."
