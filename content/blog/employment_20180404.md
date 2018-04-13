@@ -31,10 +31,10 @@ icon = "bolt"
 
 <br>
 
-[20180319 WMO JPO 진출 추진 현황](/atmoskor/files/20180319_WMO_JPO_진출_추진_현황.hwp)  
-[직무기술서(GFCS)](/atmoskor/files/직무기술서_GFCS.DOC)
-[직무기술서(MHEWS)](/atmoskor/files/직무기술서_MHEWS.DOC)
-[직무기술서(OSCAR)](/atmoskor/files/직무기술서_OSCAR.DOC)
-[2017년 JPO 선발시험 시행계획 공고](/atmoskor/files/★2017년_JPO_선발시험_시행계획_공고.hwp)
+[20180319 WMO JPO 진출 추진 현황](/files/20180319_WMO_JPO_진출_추진_현황.hwp)  
+[직무기술서(GFCS)](/files/직무기술서_GFCS.DOC)
+[직무기술서(MHEWS)](/files/직무기술서_MHEWS.DOC)
+[직무기술서(OSCAR)](/files/직무기술서_OSCAR.DOC)
+[2017년 JPO 선발시험 시행계획 공고](/files/★2017년_JPO_선발시험_시행계획_공고.hwp)
 
 <br>

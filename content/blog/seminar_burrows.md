@@ -11,7 +11,7 @@ date = 2018-04-06T06:48:02+09:00
 #### 2018년 4월 10일 (화) 16:00
 ####  과학관 553호
 <br>
-[세미나 공고문](/atmoskor/files/0410poster_Prof_John_Burrows.pdf)  
+[세미나 공고문](/files/0410poster_Prof_John_Burrows.pdf)  
 <br>
 #### Abstract
 Prior to the Neolithic Revolution around 12 000 Yr BP,
