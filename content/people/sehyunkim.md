@@ -7,7 +7,7 @@ email = "kshyunn@yonsei.ac.kr"
 job = "박사후 연구원"
 phone = "02-2123-4815"
 room = "박사후 연구원 연구실/ 과학관 532호"
-web = "http://web.yonsei.ac.kr/apdalr"
+web = "http://web.yonsei.ac.kr/apdal"
 weight = 20
 +++
 
