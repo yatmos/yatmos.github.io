@@ -13,7 +13,7 @@ weight = 1
 
 <!--more-->
 <div class='image'>
-<img src="../../img/cbackground.jpg" class="img-responsive" alt="">
+<img src="/img/cbackground.jpg" class="img-responsive" alt="">
 </div>
 
 <br>
