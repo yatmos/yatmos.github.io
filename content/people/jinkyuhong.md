@@ -3,17 +3,19 @@ title = "홍진규"
 date = "2015-08-03T13:39:46+02:00"
 teams = ["교수진"]
 banner = "img/people/jinkyuhong.jpg"
-email = "jhong@yonsei.kr"
+email = "jhong@yonsei.ac.kr"
 job = "부교수"
 phone = "02-2123-5693"
-room = "생물대기 연구실 / 과학관 542호"
+room = "미기상 연구실 / 과학관 542호"
 web = "http://eapl.yonsei.ac.kr"
 weight = 8
 +++
 
 #### 연구분야
 + 탄소 및 물 순환
-+ 기상난류
++ 도시 기후학 및 도시 환경
++ 식생-대기 상호 작용
++ 에너지-기후 상호 작용
 
 #### 학력
 + **Ph.D.** (2005) Department of Atmospheric Sciences, Yonsei University, Seoul, Korea
@@ -23,7 +25,7 @@ weight = 8
 #### 연구경력
 + 2016 - 현재 : 부교수, 연세대학교 대기과학과
 + 2012 - 2016 : 조교수, 연세대학교 대기과학과
-+ 2010 - 2012 : 선임연구원, National Institute for Mathematical Sciences
++ 2010 - 2012 : 선임연구원, 국가수리과학연구소
 + 2008 - 2010 : 연구교수, 연세대학교 대기과학과
 + 2006 - 2008 : Postdoctoral Researcher, Univ. of Georgia, USA
 
@@ -41,11 +43,10 @@ weight = 8
 #### Courses
 + 미기상학
 + 생물-대기 상호작용
++ 대기관측
++ 응용기상학
 
 #### Selected Publications
-+ Tang, W., A. Arellano, J. DiGangi, Y. Choi, G. Diskin, A. Agustí-Panareda, M. Parrington, S. Massart, B. Gaubert, Y. Lee, D. Kim, J. Jung, J. Hong, J.-W. Hong, Y. Kanaya, M. Lee, R. Stauffer, A. Thompson, J. Flynn, and J. Woo (2018) Evaluating High-Resolution Forecasts of Atmospheric CO and CO2 from a Global Prediction System during KORUS-AQ Field Campaign, Atmospheric Chemistry and Physics, submitted.
-
-+ Lim, K., J. Lim, H. Shin, J. Hong, and Y. Ji (2018) Impacts of subgrid-scale orography parameterization on simulated atmospheric fields in the high-resolution atmospheric forecast model, Meteorology and Atmospheric Physics, in revision.
 + Song, I., U. Byun, J. Hong and S. Park (2018) Domain-size and top-height dependence in regional predictions for East Asia in spring, Atmospheric Science Letters, 19, e799. https://doi:10.1002/asl.799. [Open Access]
 + Kent, C., K. Lee, H. C. Ward, J.-W. Hong, J. Hong, D. Gatey, and S. Grimmond (2018) Aerodynamic roughness variation with vegetation: Analysis in a suburban neighbourhood and a city park, Urban Ecosystems, doi:10.1007/s11252-017-0710-1. [Open Access]
 + Lee, C., K. Han, J. Yeom, K. Lee, M. Seo, J. Hong, J.-W. Hong, K. Lee, J. Shin, I. Shim, J. Chun, and J.-L. Roujean (2018) Surface albedo from the geostationary Communication, Ocean and Meteorological Satellite (COMS)/Meteorological Imager (MI) observation system, GIScience & Remote Sensing, 28, 38-62. doi:10.1080/15481603.2017.1360578.
