@@ -16,7 +16,6 @@ weight = 10
 + 탄소순환
 + 대기-해양 모델링
 + 자료동화
-+ web
 
 #### 학력
 + **Ph.D.** (2011) Scripps Institution of Oceanography, University of California, San Diego, USA
