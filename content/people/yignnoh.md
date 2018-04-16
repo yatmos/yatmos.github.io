@@ -16,6 +16,16 @@ weight = 1
 + 해양물리
 + 미기상학
 
+#### 학력
++ **Ph.D.** (1987) Dep. of Earth & Planetary Sciences, The Johns Hopkins University, Baltimore, MD, USA
++ **M.Sc.** (1982) Dep. of Physics, Seoul National University, Seoul, Korea
++ **B.Sc.** (1980) Dep. of Oceanography, Seoul National University, Seoul, Korea
+
+#### 연구경력
++ 1993-현재 : 연세대학교 대기과학과 교수
++ 1992-1993 : 군산대학교 전임강사
++ 1987-1992 : 연구원, Arizona State University in U.S.A 
+
 #### 담당과목
 + 유체역학
 + 전산유체역학
