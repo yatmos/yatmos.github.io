@@ -8,7 +8,7 @@ job = "정교수"
 phone = "02-2123-5683"
 room = "대기예측성, 자료동화 연구실 / 과학관 541호"
 web = "http://web.yonsei.ac.kr/apdal"
-weight = 6
+weight = 5
 +++
 
 #### 연구분야

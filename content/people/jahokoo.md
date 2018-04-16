@@ -8,7 +8,7 @@ job = "연구 교수"
 phone = "02-2123-7616"
 room = "대기관측 연구실 / 과학관 701호"
 web = "https://sites.google.com/site/cvjahokoo/"
-weight = 20
+weight = 19
 +++
 
 #### 연구분야

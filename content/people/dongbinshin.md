@@ -8,7 +8,7 @@ job = "정교수"
 phone = "02-2123-5685"
 room = "위성관측 연구실 / 과학관 546호"
 web = "http://arsl.yonsei.ac.kr"
-weight = 4
+weight = 7
 +++
 
 #### 연구분야
