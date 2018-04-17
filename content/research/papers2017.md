@@ -90,11 +90,11 @@ weight = 4
 
 <br>
 
-+ Lee, C., K. Han, J. Yeom, K. Lee, M. Seo, J. Hong, J.-W. Hong, K. Lee, J. Shin, I. Shim, J. Chun, and J.-L. Roujean (2018) Surface albedo from the geostationary Communication, Ocean and Meteorological Satellite (COMS)/Meteorological Imager (MI) observation system, GIScience & Remote Sensing, 28, 38-62. doi:10.1080/15481603.2017.1360578.
++ Lee, C., K. Han, J. Yeom, K. Lee, M. Seo, J. Hong, J.-W. Hong, K. Lee, J. Shin, I. Shim, J. Chun, and J.-L. Roujean (2018) Surface albedo from the geostationary Communication, Ocean and Meteorological Satellite (COMS)/Meteorological Imager (MI) observation system, GIScience & Remote Sensing, 28, 38-62. doi:10.1080*/* 15481603.2017.1360578. 
 
 <br>
 
-+ Yeom, J., R. Deo, J. Chun, J. Hong, D. Kim, K. Han, and J. Cho (2017) Synthetic retrieval of hourly net ecosystem exchange using the neural network model with combined MI and GOCI geostationary sensor datasets and ground-based measurements, International Journal of Remote Sensing, 38, 7441-7456, doi:10.1080/01431161.2017.1375573. [Open Access]
++ Yeom, J., R. Deo, J. Chun, J. Hong, D. Kim, K. Han, and J. Cho (2017) Synthetic retrieval of hourly net ecosystem exchange using the neural network model with combined MI and GOCI geostationary sensor datasets and ground-based measurements, International Journal of Remote Sensing, 38, 7441-7456, doi:10.1080/01431161.2017.1375573. 
 
 <br>
 
