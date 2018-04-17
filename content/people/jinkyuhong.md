@@ -17,15 +17,18 @@ weight = 8
 + 생태계-대기 상호 작용
 + 에너지-기후 상호 작용
 
+
+
 #### 학력
+
 + **Ph.D.** (2005) Department of Atmospheric Sciences, Yonsei University, Seoul, Korea
-: Land-Atmosphere Interactions on the Tibetna Plateau: From Turbulence To Monsoon
-
+  [Land-Atmosphere Interactions on the Tibetna Plateau: From Turbulence To Monsoon]
 + **M.S.** (1999) Department of Atmospheric Sciences, Yonsei University, Seoul, Korea
-: Basic Characteristics of Canopy Turbulence in a Homogeneous Rice Paddy
-
+  [Basic Characteristics of Canopy Turbulence in a Homogeneous Rice Paddy]
 + **B.S.** (1997) Department of Astronomy and Atmospheric Sciences, Yonsei University, Seoul, Korea
-: Evapotranspiration into the Atmosphere: Micrometeorological Perspectives
+  [Evapotranspiration into the Atmosphere: Micrometeorological Perspectives]
+
+
 
 #### 경력
 + 2016 - 현재 : 부교수, 연세대학교 대기과학과
@@ -33,6 +36,8 @@ weight = 8
 + 2010 - 2012 : 선임연구원, 국가수리과학연구소
 + 2008 - 2010 : 연구교수, 연세대학교 대기과학과
 + 2006 - 2008 : Postdoctoral Researcher, Univ. of Georgia, USA
+
+
 
 
 #### Selected Publications
@@ -58,7 +63,6 @@ weight = 8
 + Hong, J. and J. Kim (2008) Scale-dependency of surface fluxes in an atmospheric mesoscale model: Effect of spatial heterogeneity in atmospheric conditions, *Nonlinear Processes in Geophysics*, 15, 965-975.
 + Hong, J. and J. Kim (2008) Simulation of surface radiation balance on the Tibetan Plateau, *Geophysical Research Letters*, 35, L08814, doi:10.1029/2008GL033613.
 + Hong, J., J. Kim, D. H. Lee, and J. H. Lim (2008) Estimation of the storage and advection effects on H2O and CO2 exchanges in a hilly KoFlux forest catchment, *Water Resources Research*, 44, W01426, doi:10.1029/2007WR006408.
-+ Kim, J., D. H. Lee, J. Hong, S. K. Kang, S. J. Kim, S. Moon, J. H. Lim, Y. H. Son, J. S. Lee, S. H. Kim, N. C. Woo, K. Kim, B. Lee, B. L. Lee, and S. Kim (2006) HydroKorea and CarboKorea: Cross-scale studies of ecohydrology and biogeochemistry in a heterogeneous and complex forest catchment of Korea, *Ecological Research*, 21, 881-889.
 + Hong, J., T. J. Choi, H. Ishikawa, and J. Kim (2004) Turbulence Structures in the Near-Neutral Surface Layer on the Tibetan Plateau. *Geophysical Research Letters*, 31, L15016, doi:10.1029/2004GL019935.
 + Choi, T. J., J. Hong, J. Kim, H. C. Lee, J. Asanuma, H. Ishikawa, G. Zhiqiu, Y. Ma, J. Wang, T. Koike, T. Yasunari, K. Ueno, and O. Tsukamoto (2004) Turbulent Exchange of Heat, Water Vapor and Momentum Over a Tibetan Prairie by Eddy Covariance and Flux-Variance Measurements. *Journal of Geophysical Research*, 109, D211106, doi:10.1029/2004JD004767.
 + Hong, J., J. Kim, A. Miyata, and Y. Harazono (2002) Basic Characteristics of Canopy Turbulence in a Homogeneous Rice Paddy, *Journal of Geophysical Research*, 107(D22), 4623, doi:10.1029/2002JD002223.
