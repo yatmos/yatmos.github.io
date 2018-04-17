@@ -1,6 +1,6 @@
 +++
 title = "이진행"
-date = "2018-03-24T13:39:46+02:00"
+date = "2016-03-24T13:39:46+02:00"
 teams = ["연구원"]
 banner = "img/people/JHL.jpg"
 email = "leejh93@yonsei.ac.kr"

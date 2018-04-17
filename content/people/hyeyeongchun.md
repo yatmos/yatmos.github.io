@@ -1,6 +1,6 @@
 +++
 title = "전혜영"
-date = "2015-08-03T13:39:46+02:00"
+date = "2018-04-16T13:39:46+02:00"
 teams = ["교수진"]
 banner = "img/people/hyeyeongchun.jpg"
 email = " chunhy@yonsei.ac.kr"

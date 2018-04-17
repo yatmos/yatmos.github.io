@@ -1,6 +1,6 @@
 +++
 title = "홍성유"
-date = "2015-08-03T13:39:46+02:00"
+date = "2016-04-10T13:39:46+02:00"
 teams = ["교수진"]
 banner = "img/people/songyoohong.jpg"
 job = "퇴임교수"

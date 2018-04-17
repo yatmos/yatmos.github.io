@@ -1,6 +1,6 @@
 +++
 title = "김현미"
-date = "2015-08-03T13:39:46+02:00"
+date = "2018-04-13T13:39:46+02:00"
 teams = ["교수진"]
 banner = "img/people/hyunmeekim.jpg"
 email = "khm@yonsei.ac.kr"
