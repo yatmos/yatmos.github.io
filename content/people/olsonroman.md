@@ -1,5 +1,5 @@
 +++
-title = "Olson Roman"
+title = "Roman Olson"
 date = "2018-03-24T13:39:46+02:00"
 teams = ["연구원"]
 banner = "img/people/romanolson.jpg"

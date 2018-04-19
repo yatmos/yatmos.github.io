@@ -7,7 +7,7 @@ email = "subdus@yonsei.ac.kr"
 job = "박사 후 연구원"
 phone = "없음"
 room = "박사후 연구실 / 과학관 529A호"
-web = "http://atmosdyn.yonsei.ac.kr"
+web = "http:/web.yonsei.ac.kr/climatelab/"
 weight = 20
 +++
 
