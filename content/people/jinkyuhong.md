@@ -3,7 +3,7 @@ title = "홍진규"
 date = "2018-04-10T13:39:46+02:00"
 teams = ["교수진"]
 banner = "img/people/jinkyuhong.jpg"
-email = "jhong@yonsei.ac.kr"
+email = "jhong[at]yonsei.ac.kr"
 job = "부교수"
 phone = "02-2123-5693"
 room = "미기상 연구실 / 과학관 542호"
@@ -19,14 +19,22 @@ weight = 8
 
 
 
+
+#### 교육
+
+- 미기상학/경계층기상학
+- 대기관측
+- 생물-대기 상호작용
+
+
+
 #### 학력
 
 + **Ph.D.** (2005) Department of Atmospheric Sciences, Yonsei University, Seoul, Korea
-  [Land-Atmosphere Interactions on the Tibetna Plateau: From Turbulence To Monsoon]
 + **M.S.** (1999) Department of Atmospheric Sciences, Yonsei University, Seoul, Korea
-  [Basic Characteristics of Canopy Turbulence in a Homogeneous Rice Paddy]
 + **B.S.** (1997) Department of Astronomy and Atmospheric Sciences, Yonsei University, Seoul, Korea
-  [Evapotranspiration into the Atmosphere: Micrometeorological Perspectives]
+
+
 
 
 
