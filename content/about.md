@@ -103,10 +103,9 @@ images = "img/img_intro.jpg"
 
 - **산업체** : 대한항공, 신한데이터센터 등
 
+<div class="col-sm-6">
 <div id="piechart"></div>
-
 <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
-
 <script type="text/javascript">
 // Load google charts
 google.charts.load('current', {'packages':['corechart']});
@@ -124,20 +123,18 @@ function drawChart() {
 ]);
 
   // Optional; add a title and set the width and height of the chart
-  var options = {'title':'최근 10년간 석사 졸업생 진로', 'width':720, 'height':500};
+  var options = {'title':'최근 10년간 석사 졸업생 진로', 'width':400, 'height':300};
 
   // Display the chart inside the <div> element with id="piechart"
   var chart = new google.visualization.PieChart(document.getElementById('piechart'));
   chart.draw(data, options);
 }
 </script>
+</div>
 
-
-
+<div class="col-sm-6">
 <div id="piechart1"></div>
-
 <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
-
 <script type="text/javascript">
 // Load google charts
 google.charts.load('current', {'packages':['corechart']});
@@ -154,14 +151,14 @@ function drawChart() {
 ]);
 
   // Optional; add a title and set the width and height of the chart
-  var options = {'title':'최근 10년간 박사 졸업생 진로', 'width':720, 'height':500};
+  var options = {'title':'최근 10년간 박사 졸업생 진로', 'width':400, 'height':300};
 
   // Display the chart inside the <div> element with id="piechart"
   var chart = new google.visualization.PieChart(document.getElementById('piechart1'));
   chart.draw(data, options);
 }
 </script>
-
+</div>
 
 
 
