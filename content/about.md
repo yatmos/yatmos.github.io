@@ -103,6 +103,10 @@ images = "img/img_intro.jpg"
 
 - **산업체** : 대한항공, 신한데이터센터 등
 
+<br>
+
+<br>
+
 <div class="row">
   <div class="col-xs-12 col-md-6">
     <div id="piechart"></div>
@@ -124,7 +128,7 @@ images = "img/img_intro.jpg"
     ]);
 
       // Optional; add a title and set the width and height of the chart
-      var options = {'title':'최근 10년간 석사 졸업생 진로', 'width':400, 'height':300, chartArea:{left:30,top:20,width:'75%',height:'100%'},legend:'right', titleTextStyle:{fontSize:14}};
+      var options = {'title':'최근 10년간 석사 졸업생 진로', 'width':400, 'height':300, chartArea:{left:10,top:20,width:'75%',height:'100%'},legend:'right', titleTextStyle:{fontSize:14}};
 
       // Display the chart inside the <div> element with id="piechart"
       var chart = new google.visualization.PieChart(document.getElementById('piechart'));
@@ -150,7 +154,7 @@ images = "img/img_intro.jpg"
     ]);
 
       // Optional; add a title and set the width and height of the chart
-      var options = {'title':'최근 10년간 박사 졸업생 진로', 'width':400, 'height':300, chartArea:{left:30,top:20,width:'75%',height:'100%'}, legend:'right', titleTextStyle:{fontSize:14}};
+      var options = {'title':'최근 10년간 박사 졸업생 진로', 'width':400, 'height':300, chartArea:{left:10,top:20,width:'75%',height:'100%'}, legend:'right', titleTextStyle:{fontSize:14}};
 
       // Display the chart inside the <div> element with id="piechart"
       var chart = new google.visualization.PieChart(document.getElementById('piechart1'));
@@ -159,6 +163,6 @@ images = "img/img_intro.jpg"
     </script></div>
 </div>
 
-
+<br>
 
 <a id="bottom"></a>
