@@ -124,7 +124,7 @@ function drawChart() {
 ]);
 
   // Optional; add a title and set the width and height of the chart
-  var options = {'title':'최근 10년간 석사 졸업생 진로', 'width':720, 'height':540};
+  var options = {'title':'최근 10년간 석사 졸업생 진로', 'width':720, 'height':500};
 
   // Display the chart inside the <div> element with id="piechart"
   var chart = new google.visualization.PieChart(document.getElementById('piechart'));
@@ -154,7 +154,7 @@ function drawChart() {
 ]);
 
   // Optional; add a title and set the width and height of the chart
-  var options = {'title':'최근 10년간 박사 졸업생 진로', 'width':720, 'height':540};
+  var options = {'title':'최근 10년간 박사 졸업생 진로', 'width':720, 'height':500};
 
   // Display the chart inside the <div> element with id="piechart"
   var chart = new google.visualization.PieChart(document.getElementById('piechart1'));
