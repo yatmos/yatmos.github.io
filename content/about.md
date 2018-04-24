@@ -103,61 +103,60 @@ images = "img/img_intro.jpg"
 
 - **산업체** : 대한항공, 신한데이터센터 등
 
-<div class="col-sm-6">
-<div id="piechart"></div>
-<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
-<script type="text/javascript">
-// Load google charts
-google.charts.load('current', {'packages':['corechart']});
-google.charts.setOnLoadCallback(drawChart);
+<div class="row">
+  <div class="col-xs-12 col-md-6">
+    <div id="piechart"></div>
+    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+    <script type="text/javascript">
+    // Load google charts
+    google.charts.load('current', {'packages':['corechart']});
+    google.charts.setOnLoadCallback(drawChart);
 
-// Draw the chart and set the chart values
-function drawChart() {
-  var data = google.visualization.arrayToDataTable([
-  ['분류', '명'],
-  ['국내외 연구소 및 대학 연구원', 8],
-  ['국내외 대학원', 26],
-  ['정부기관 및 공공기관', 11],
-  ['관련 산업', 3],
-  ['공군', 2]
-]);
+    // Draw the chart and set the chart values
+    function drawChart() {
+      var data = google.visualization.arrayToDataTable([
+      ['분류', '명'],
+      ['국내외 연구소 및 대학 연구원', 8],
+      ['국내외 대학원', 26],
+      ['정부기관 및 공공기관', 11],
+      ['관련 산업', 3],
+      ['공군', 2]
+    ]);
 
-  // Optional; add a title and set the width and height of the chart
-  var options = {'title':'최근 10년간 석사 졸업생 진로', 'width':400, 'height':300};
+      // Optional; add a title and set the width and height of the chart
+      var options = {'title':'최근 10년간 석사 졸업생 진로', 'width':400, 'height':300, chartArea:{left:30,top:20,width:'75%',height:'100%'},legend:'right', titleTextStyle:{fontSize:14}};
 
-  // Display the chart inside the <div> element with id="piechart"
-  var chart = new google.visualization.PieChart(document.getElementById('piechart'));
-  chart.draw(data, options);
-}
-</script>
-</div>
+      // Display the chart inside the <div> element with id="piechart"
+      var chart = new google.visualization.PieChart(document.getElementById('piechart'));
+      chart.draw(data, options);
+    }
+    </script></div>
+  <div class="col-xs-12 col-md-6">
+    <div id="piechart1"></div>
+    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+    <script type="text/javascript">
+    // Load google charts
+    google.charts.load('current', {'packages':['corechart']});
+    google.charts.setOnLoadCallback(drawChart);
 
-<div class="col-sm-6">
-<div id="piechart1"></div>
-<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
-<script type="text/javascript">
-// Load google charts
-google.charts.load('current', {'packages':['corechart']});
-google.charts.setOnLoadCallback(drawChart);
+    // Draw the chart and set the chart values
+    function drawChart() {
+      var data = google.visualization.arrayToDataTable([
+      ['분류', '명'],
+      ['국내 연구소 및 대학 연구원', 21],
+      ['해외 연구소 및 대학 연구원', 14],
+      ['교수', 3],
+      ['정부기관 및 공공기관', 10]
+    ]);
 
-// Draw the chart and set the chart values
-function drawChart() {
-  var data = google.visualization.arrayToDataTable([
-  ['분류', '명'],
-  ['국내 연구소 및 대학 연구원', 21],
-  ['해외 연구소 및 대학 연구원', 14],
-  ['교수', 3],
-  ['정부기관 및 공공기관', 10]
-]);
+      // Optional; add a title and set the width and height of the chart
+      var options = {'title':'최근 10년간 박사 졸업생 진로', 'width':400, 'height':300, chartArea:{left:30,top:20,width:'75%',height:'100%'}, legend:'right', titleTextStyle:{fontSize:14}};
 
-  // Optional; add a title and set the width and height of the chart
-  var options = {'title':'최근 10년간 박사 졸업생 진로', 'width':400, 'height':300};
-
-  // Display the chart inside the <div> element with id="piechart"
-  var chart = new google.visualization.PieChart(document.getElementById('piechart1'));
-  chart.draw(data, options);
-}
-</script>
+      // Display the chart inside the <div> element with id="piechart"
+      var chart = new google.visualization.PieChart(document.getElementById('piechart1'));
+      chart.draw(data, options);
+    }
+    </script></div>
 </div>
 
 
