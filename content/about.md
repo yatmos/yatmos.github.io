@@ -103,9 +103,64 @@ images = "img/img_intro.jpg"
 
 - **산업체** : 대한항공, 신한데이터센터 등
 
-<iframe src='//charts.hohli.com/embed.html?created=1524548550062#w=360&h=360&d={"containerId":"chart","dataTable":{"cols":[{"label":"A","type":"string"},{"label":"B","type":"number"}],"rows":[{"c":[{"v":"\uad6d\ub0b4\uc678 \uc5f0\uad6c\uc18c \ubc0f \ub300\ud559 \uc5f0\uad6c\uc6d0"},{"v":8}]},{"c":[{"v":"\uad6d\ub0b4\uc678 \ub300\ud559\uc6d0"},{"v":26}]},{"c":[{"v":"\uc815\ubd80\uae30\uad00 \ubc0f \uacf5\uacf5\uae30\uad00"},{"v":11}]},{"c":[{"v":"\uad00\ub828 \uc0b0\uc5c5"},{"v":3}]},{"c":[{"v":"\uacf5\uad70"},{"v":2}]}]},"options":{"width":360,"height":360,"legacyScatterChartLabels":true,"is3D":false,"pieHole":0,"booleanRole":"certainty","hAxis":{"useFormatFromData":true,"viewWindow":{"max":null,"min":null},"minValue":null,"maxValue":null},"vAxes":[{"useFormatFromData":true,"viewWindow":{"max":null,"min":null},"minValue":null,"maxValue":null},{"useFormatFromData":true,"viewWindow":{"max":null,"min":null},"minValue":null,"maxValue":null}],"slices":{"0":{"color":"#3366cc"}},"title":"\ucd5c\uadfc 10\ub144\uac04 \uc11d\uc0ac \uc878\uc5c5\uc0dd \uc9c4\ub85c","titleTextStyle":{"color":"#000000","fontSize":"14","bold":true},"legend":"none","pieSliceText":"percentage","legendTextStyle":{"color":"#222","fontSize":"10"}},"state":{},"view":{"columns":null,"rows":null},"isDefaultVisualization":true,"chartType":"PieChart"}' frameborder='0' width='370' height='370'></iframe>
+<div id="piechart"></div>
 
-<iframe src='//charts.hohli.com/embed.html?created=1524548496176#w=360&h=360&d={"containerId":"chart","dataTable":{"cols":[{"label":"A","type":"string"},{"label":"B","type":"number"}],"rows":[{"c":[{"v":"\uad50\uc218"},{"v":3}]},{"c":[{"v":"\uad6d\ub0b4 \uc5f0\uad6c\uc18c \ubc0f \ub300\ud559 \uc5f0\uad6c\uc6d0"},{"v":21}]},{"c":[{"v":"\ud574\uc678 \uc5f0\uad6c\uc18c \ubc0f \ub300\ud559 \uc5f0\uad6c\uc6d0"},{"v":14}]},{"c":[{"v":"\uc815\ubd80\uae30\uad00 \ubc0f \uacf5\uacf5\uae30\uad00"},{"v":10}]}]},"options":{"width":360,"height":360,"legacyScatterChartLabels":true,"is3D":false,"pieHole":0,"booleanRole":"certainty","hAxis":{"useFormatFromData":true,"viewWindow":{"max":null,"min":null},"minValue":null,"maxValue":null},"vAxes":[{"useFormatFromData":true,"viewWindow":{"max":null,"min":null},"minValue":null,"maxValue":null},{"useFormatFromData":true,"viewWindow":{"max":null,"min":null},"minValue":null,"maxValue":null}],"slices":{"0":{"color":"#3366cc"}},"title":"\ucd5c\uadfc 10\ub144\uac04 \ubc15\uc0ac \uc878\uc5c5\uc0dd \uc9c4\ub85c","titleTextStyle":{"color":"#000000","fontSize":"14","bold":true},"legend":"none","pieSliceText":"percentage"},"state":{},"view":{"columns":null,"rows":null},"isDefaultVisualization":true,"chartType":"PieChart"}' frameborder='0' width='370' height='370'></iframe>
+<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+
+<script type="text/javascript">
+// Load google charts
+google.charts.load('current', {'packages':['corechart']});
+google.charts.setOnLoadCallback(drawChart);
+
+// Draw the chart and set the chart values
+function drawChart() {
+  var data = google.visualization.arrayToDataTable([
+  ['분류', '명'],
+  ['국내외 연구소 및 대학 연구원', 8],
+  ['국내외 대학원', 26],
+  ['정부기관 및 공공기관', 11],
+  ['관련 산업', 3],
+  ['공군', 2]
+]);
+
+  // Optional; add a title and set the width and height of the chart
+  var options = {'title':'최근 10년간 석사 졸업생 진로', 'width':720, 'height':540};
+
+  // Display the chart inside the <div> element with id="piechart"
+  var chart = new google.visualization.PieChart(document.getElementById('piechart'));
+  chart.draw(data, options);
+}
+</script>
+
+
+
+<div id="piechart1"></div>
+
+<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+
+<script type="text/javascript">
+// Load google charts
+google.charts.load('current', {'packages':['corechart']});
+google.charts.setOnLoadCallback(drawChart);
+
+// Draw the chart and set the chart values
+function drawChart() {
+  var data = google.visualization.arrayToDataTable([
+  ['분류', '명'],
+  ['국내 연구소 및 대학 연구원', 21],
+  ['해외 연구소 및 대학 연구원', 14],
+  ['교수', 3],
+  ['정부기관 및 공공기관', 10]
+]);
+
+  // Optional; add a title and set the width and height of the chart
+  var options = {'title':'최근 10년간 박사 졸업생 진로', 'width':720, 'height':540};
+
+  // Display the chart inside the <div> element with id="piechart"
+  var chart = new google.visualization.PieChart(document.getElementById('piechart1'));
+  chart.draw(data, options);
+}
+</script>
 
 
 
