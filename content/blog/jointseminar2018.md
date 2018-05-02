@@ -11,7 +11,7 @@ icon = "microphone"
 #### 박상훈 교수님 (연세대학교) : Atmospheric Mesoscale Kinetic Energy Spectrum in a Global Model
 <br>
 #### 2018년 5월 8일 (화) 15:30
-#### 연세대학교 삼성학술정보관 ++7층 장기원 국제회의실++
+#### 연세대학교 삼성학술정보관 7층 장기원 국제회의실
 <br>
 
 자세한 내용은 붙임파일을 참조하시기 바랍니다.
