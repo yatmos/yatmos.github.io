@@ -1,4 +1,4 @@
-+++
+﻿+++
 title = "김아현"
 date = "2018-03-24T13:39:46+02:00"
 teams = ["학생"]
@@ -22,5 +22,5 @@ weight = 30
 
 #### 논문
 + Kim, A.-H., and Lee, T.-Y., 2016. A Study of a Heavy Rainfall Event in the Middle Korean Peninsula in a Situation of a Synoptic-Scale Ridge Over the Korean Peninsula. Atmosphere, 26, 577-598 (in Korean).
-
++ hihi
  
