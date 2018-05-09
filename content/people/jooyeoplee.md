@@ -1,5 +1,5 @@
 ﻿+++
-title = "이주엽123"
+title = "이주엽"
 date = "2018-03-24T13:39:46+02:00"
 teams = ["학생"]
 banner = "img/people/jooyeoplee.png"
