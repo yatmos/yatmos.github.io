@@ -1,9 +1,9 @@
-+++
+﻿+++
 title = "최지수"
 date = "2018-03-24T13:39:46+02:00"
 teams = ["학생"]
 banner = "img/people/jisuchoi.png"
-email = "js9515@yonsei.ac.kr"
+email = "js4975@yonsei.ac.kr"
 job = "통합과정"
 phone = ""
 room = "위성관측 연구실 / 과학관 529B호"
