@@ -1,5 +1,5 @@
 +++
-title = "우수강의 교수상"
+title = "박상훈 교수, 우수강의 교수상 수상"
 date = 2018-03-03T13:42:03+09:00
 categories = ["새소식"]
 banner = "img/placeholder.png"
