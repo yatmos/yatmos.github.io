@@ -1,5 +1,5 @@
 baseurl = "https://yatmos.github.io/"
-title = "대기과학과"
+title = "연세대학교 대기과학과"
 theme = "hugo-universal-theme"
 languageCode = "ko"
 # Site language. Available translations in the theme's `/i18n` directory.
