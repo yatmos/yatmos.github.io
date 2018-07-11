@@ -22,6 +22,8 @@ weight = 10
 + **B.S.** (2005) Department of Atmospheric Sciences, Yonsei University, Seoul, Korea
 
 #### 연구경력
++ 2018.3 - : 조교수, 연세대학교 대기과학과
++ 2018.7 - 2018.8 : Visiting Scholar, MIT, Cambridge, USA
 + 2013-2018: Research Scientist / Postdoctoral Associate, MIT, Cambridge, USA
 + 2011-2013: Postdoctoral Associate, University of California, Santa Cruz, USA
 + 2005-2011: Assistant Researcher, Scripps Institution of Oceanography, La Jolla, USA
@@ -32,6 +34,7 @@ weight = 10
 + 해양모델링
 
 #### 논문
++ Song, H., M. C. Long, P. Gaube, I. Frenger, J. Marshall and D. J. McGillicuddy Jr., 2018: Seasonal variation in the correlation between anomalies of sea level and chlorophyll in the Antarctic Circumpolar Current region. Geophys. Res. Lett., 45, 5011-5019.
 + Stukel, M. R., L. I. Aluwihare, K. A. Barbeau, A. M. Chekalyuk, R. Goericke, A. J. Miller, M. D. Ohman, A. Ruacho, H. Song, B. Stephens, M. R. Landry, 2017: Mesoscale ocean fronts enhance carbon export due to gravitational sinking and subduction. PNAS, 114, 1252-1257.
 + Mattern, J. P., H. Song, C. A. Edwards, A. M. Moore and J. Fiechter, 2017: Data assimilation of physical and chlorophyll observations in the California Current System using two biogeochemical models. Ocean Model., 109, 55-71.
 + Song, H., J. Marshall, D. R. Munro, S. Dutkiewicz, C. Sweeney, D. J. McGillicuddy Jr. and U. Hausmann, 2016: Mesoscale modulation of air-sea CO2 flux in Drake Passage. J. Geophys. Res., 121, 6635-6649.
