@@ -23,5 +23,5 @@ weight = 40
  + (2017) Outstanding Young Scientists Award in 9th International Workshop on Modeling the Ocean
 
 #### 논문
-+ Y. Noh, and Y. Choi (2018), Comments on “Langmuir Turbulence and Surface Heating in the Ocean Surface Boundary Layer”, J. Phys. Oceanogr., (accepted)
-+ Ok, H., Y. Noh, and Y. Choi (2017), Influence of Pycnocline Smoothing and Subgrid-Scale Variability of Density Profiles on the Determination of Mixed Layer Depth, J. Atmos. Oceanic Technol., 34, 2083-2101.
++ Noh. Y. and Y. Choi (2018), Comments on “Langmuir Turbulence and Surface Heating in the Ocean Surface Boundary Layer”, J. Phys. Oceanogr., 455-458.
++ Ok. H., Y. Noh, and Y. Choi (2017), Influence of Pycnocline Smoothing and Subgrid-Scale Variability of Density Profiles on the Determination of Mixed Layer Depth, J. Atmos. Oceanic Technol., 34, 2083-2101.
