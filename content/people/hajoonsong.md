@@ -7,7 +7,7 @@ email = "hajsong@yonsei.ac.kr"
 job = "조교수"
 phone = "02-2123-2579"
 room = "대기해양 모델링 연구실, 과학관 544호"
-web = "http://hajsong.github.io"
+web = "https://airsea.yonsei.ac.kr"
 weight = 10
 +++
 
