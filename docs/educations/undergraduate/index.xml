@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Undergraduate on Dep. of Atmos. Sci.</title>
+    <link>https://hajsong.github.io/Yatmosweb/educations/undergraduate/</link>
+    <description>Recent content in Undergraduate on Dep. of Atmos. Sci.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 18 Dec 2017 14:08:23 -0500</lastBuildDate>
+    
+	<atom:link href="https://hajsong.github.io/Yatmosweb/educations/undergraduate/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Undergraduate</title>
+      <link>https://hajsong.github.io/Yatmosweb/education/undergraduate/</link>
+      <pubDate>Mon, 18 Dec 2017 14:08:23 -0500</pubDate>
+      
+      <guid>https://hajsong.github.io/Yatmosweb/education/undergraduate/</guid>
+      <description>Admissions Please visit the offical admissions for undergraduates course</description>
+    </item>
+    
+  </channel>
+</rss>

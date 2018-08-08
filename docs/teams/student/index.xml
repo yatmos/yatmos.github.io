@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Student on Dep. of Atmos. Sci.</title>
+    <link>https://hajsong.github.io/Yatmosweb/teams/student/</link>
+    <description>Recent content in Student on Dep. of Atmos. Sci.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 03 Aug 2015 13:39:46 +0200</lastBuildDate>
+    
+	<atom:link href="https://hajsong.github.io/Yatmosweb/teams/student/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Yeon Ju, Choi</title>
+      <link>https://hajsong.github.io/Yatmosweb/people/yeonjuchoi/</link>
+      <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
+      
+      <guid>https://hajsong.github.io/Yatmosweb/people/yeonjuchoi/</guid>
+      <description>Research interests  Air-sea interactions Carbon cycle Data assimilation  Education  B.</description>
+    </item>
+    
+  </channel>
+</rss>

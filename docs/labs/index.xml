@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Labs on Dep. of Atmos. Sci.</title>
+    <link>https://hajsong.github.io/Yatmosweb/labs/</link>
+    <description>Recent content in Labs on Dep. of Atmos. Sci.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 18 Dec 2017 14:08:33 -0500</lastBuildDate>
+    
+	<atom:link href="https://hajsong.github.io/Yatmosweb/labs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>GFDL</title>
+      <link>https://hajsong.github.io/Yatmosweb/labs/gfdl/</link>
+      <pubDate>Mon, 18 Dec 2017 14:08:33 -0500</pubDate>
+      
+      <guid>https://hajsong.github.io/Yatmosweb/labs/gfdl/</guid>
+      <description>We study an Ocean mixed layer and an Atmospheric boundary layer using the Parallel LES Model (PALM).</description>
+    </item>
+    
+    <item>
+      <title>Cloud Physics Laboratory</title>
+      <link>https://hajsong.github.io/Yatmosweb/labs/cloudphysics/</link>
+      <pubDate>Mon, 18 Dec 2017 14:08:23 -0500</pubDate>
+      
+      <guid>https://hajsong.github.io/Yatmosweb/labs/cloudphysics/</guid>
+      <description>In the Cloud Physics Laboratory, we make measurements of physical/chemical properties of atmospheric aerosols, cloud condensation nuclei (CCN) distributions, cloud droplet and precipitation drop distributions.</description>
+    </item>
+    
+  </channel>
+</rss>

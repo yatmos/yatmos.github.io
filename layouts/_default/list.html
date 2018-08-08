@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+
+  {{ partial "head.html" . }}
+
+  <body>
+
+    <div id="all">
+
+        <header>
+
+          {{ partial "top.html" . }}
+          {{ partial "nav.html" . }}
+
+        </header>
+
+        {{ partial "breadcrumbs.html" . }}
+
+        <div id="content">
+            <div class="container">
+                <div class="row">
+
+                    <!-- *** LEFT COLUMN *** -->
+                    <div class="col-md-3">
+
+                        <!-- *** MENUS AND WIDGETS *** -->
+
+                        {{ partial "sidebar.html" . }}
+
+                        <!-- *** MENUS AND FILTERS END *** -->
+                    </div>
+                    <!-- /.col-md-3 -->
+                    <!-- *** LEFT COLUMN END *** -->
+
+                    <!-- *** RIGHT COLUMN *** -->
+
+                    <div class="col-md-9" id="blog-listing-medium">
+
+                        {{ if or (isset .Params "teams") (eq .Type "teams") }}
+
+                        <!-- List page for "teams" -->
+                        <section class="post">
+                        <!--div class="row equal"-->
+                        <div class="row center-block">
+                        {{ $paginator := (.Paginate .Data.Pages) }}
+                        {{ range $paginator.Pages }}
+                            <div class="col-sm-3">
+                                <div class="team-member">
+                                    <!--div class="image center-block" style="width:100%; max-height:200px;max-width:200px;">
+                                        <a href="{{ .Permalink }}"-->
+                                    <div class="center-block" style="width:95%; max-width:200px;">
+                                        <a href="{{ .Permalink }}">
+                                        <img src="{{ .Site.BaseURL}}{{ .Params.banner }}" alt="" class="img-responsive" style="margin: 0 auto;">
+                                        <center/a>
+                                    </div>
+                                    <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+                                    <p class="role">{{ .Params.job }}</p>
+                                </div>
+                            </div>
+                        {{ end }}
+                        </div>
+                        <!--/div-->
+                        </section>
+
+                        {{ else if or (isset .Params "educations") (eq .Type "educations") }}
+                        {{ .Type }}
+                        <!--  List page for "educations"  -->
+                        {{ $paginator := (.Paginate .Data.Pages) }}
+                        {{ range $paginator.Pages }}
+                        <section class="post">
+                            <div class="row">
+                                <div class="col-md-4">
+                                  <div class="image">
+                                      <a href="{{ .Permalink }}">
+                                          {{ if .Params.banner }}
+                                          <img src="{{ .Site.BaseURL}}{{ .Params.banner }}" class="img-responsive" alt="">
+                                          {{ else }}
+                                          <img src="{{ .Site.BaseURL}}img/placeholder.png" class="img-responsive" alt="">
+                                          {{ end }}
+                                      </a>
+                                  </div>
+                                </div>
+                                <div class="col-md-8">
+                                    <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+                                    <div class="clearfix">
+                                        <p class="author-category">
+                                          {{ if isset .Params "author" }}
+                                          {{ i18n "authorBy" }} <a href="#">{{ .Params.author }}</a>
+                                          {{ end }}
+                                        </p>
+                                        <p class="date-comments">
+                                            <a href="{{ .Permalink }}"><i class="fa fa-calendar-o"></i> {{ .Date.Format .Site.Params.date_format }}</a>
+                                        </p>
+                                    </div>
+                                    <p class="intro">{{ .Summary }}</p>
+                                    <p class="read-more"><a href="{{ .Permalink }}" class="btn btn-template-main">{{ i18n "continueReading" }}</a>
+                                    </p>
+                                </div>
+                            </div>
+                        </section>
+                        {{ end }}
+
+                        {{ else }}
+
+                        <!-- List page for "blog" -->
+                        {{ $paginator := (.Paginate .Data.Pages) }}
+                        {{ range $paginator.Pages }}
+                        <section class="post">
+                            <div class="row">
+                                <div class="col-md-12">
+                                    <div class="col-sm-1">
+                                        <span class="fa-stack fa-lg">
+                                          <i class="fa fa-circle-thin fa-stack-2x"></i>
+                                          <i class="fa fa-{{ .Params.icon }} fa-stack-1x"></i>
+                                        </span>
+                                    </div>
+                                    <div class="col-sm-11">
+                                    <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+                                    <p class="date-comments">
+                                        <a href="{{ .Permalink }}"><i class="fa fa-calendar-o"></i> {{ .Date.Format .Site.Params.date_format }}</a>
+                                    </p>
+                                    <p class="intro">{{ .Summary }}</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </section>
+                        {{ end }}
+                        {{ end }}
+
+                        <ul class="pager">
+                            {{ if .Paginator.HasPrev }}
+                            <li class="previous"><a href="{{ .Site.BaseURL }}{{ "../.." }}{{ .Paginator.Prev.URL }}">&larr; {{ i18n "prev" }}</a></li>
+                            {{ else }}
+                            <li class="previous disabled"><a href="#">&larr; {{ i18n "prev" }}</a></li>
+                            {{ end }}
+
+                            {{ if .Paginator.HasNext }}
+                            <li class="next"><a href="{{ .Site.BaseURL }}{{ "../.." }}{{ .Paginator.Next.URL }}">{{ i18n "next" }} &rarr;</a></li>
+                            {{ else }}
+                            <li class="next disabled"><a href="#">{{ i18n "next" }} &rarr;</a></li>
+                            {{ end }}
+                        </ul>
+                    </div>
+                    <!-- *** RIGHT COLUMN END *** -->
+                </div>
+                <!-- /.row -->
+            </div>
+            <!-- /.container -->
+        </div>
+        <!-- /#content -->
+
+        {{ partial "footer.html" . }}
+
+    </div>
+    <!-- /#all -->
+
+    {{ partial "scripts.html" . }}
+
+  </body>
+</html>

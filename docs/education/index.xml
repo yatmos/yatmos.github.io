@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Education on Dep. of Atmos. Sci.</title>
+    <link>https://hajsong.github.io/Yatmosweb/education/</link>
+    <description>Recent content in Education on Dep. of Atmos. Sci.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 01 Mar 2018 14:08:23 -0500</lastBuildDate>
+    
+	<atom:link href="https://hajsong.github.io/Yatmosweb/education/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Scholarship</title>
+      <link>https://hajsong.github.io/Yatmosweb/education/scholarship/</link>
+      <pubDate>Thu, 01 Mar 2018 14:08:23 -0500</pubDate>
+      
+      <guid>https://hajsong.github.io/Yatmosweb/education/scholarship/</guid>
+      <description>Admissions Please visit the offical admissions for graduates course</description>
+    </item>
+    
+    <item>
+      <title>Seminar 1</title>
+      <link>https://hajsong.github.io/Yatmosweb/education/seminar1/</link>
+      <pubDate>Thu, 01 Mar 2018 14:08:23 -0500</pubDate>
+      
+      <guid>https://hajsong.github.io/Yatmosweb/education/seminar1/</guid>
+      <description>Admissions Please visit the offical admissions for graduates course</description>
+    </item>
+    
+    <item>
+      <title>Graduate</title>
+      <link>https://hajsong.github.io/Yatmosweb/education/graduate/</link>
+      <pubDate>Mon, 18 Dec 2017 14:08:23 -0500</pubDate>
+      
+      <guid>https://hajsong.github.io/Yatmosweb/education/graduate/</guid>
+      <description>Admissions Please visit the offical admissions for graduates course</description>
+    </item>
+    
+    <item>
+      <title>Undergraduate</title>
+      <link>https://hajsong.github.io/Yatmosweb/education/undergraduate/</link>
+      <pubDate>Mon, 18 Dec 2017 14:08:23 -0500</pubDate>
+      
+      <guid>https://hajsong.github.io/Yatmosweb/education/undergraduate/</guid>
+      <description>Admissions Please visit the offical admissions for undergraduates course</description>
+    </item>
+    
+  </channel>
+</rss>
