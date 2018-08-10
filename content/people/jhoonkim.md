@@ -1,6 +1,6 @@
 +++
 title = "Jhoon Kim"
-date = "2015-08-03T13:39:46+02:00"
+date = "2018-04-14T13:39:46+02:00"
 teams = ["faculty"]
 banner = "img/people/jhoonkim.jpg"
 email = "jkim2@yonsei.ac.kr"
@@ -8,6 +8,7 @@ job = "Professor"
 phone = "02-2123-5682"
 room = "Science Hall #545"
 web = "http://web.yonsei.ac.kr/oasis"
+weight = 4
 +++
 
 #### Research interests
@@ -28,16 +29,16 @@ web = "http://web.yonsei.ac.kr/oasis"
 + 2018 - Present  : Associate Editor, Remote Sensing
 + 2016 - Present  : Guest Editor, Atmospheric Measurement Technique(AMT)
 + 2017 - 2020    :   Commissioner, IRC (International Radiation Commission)
-+ 2016 - 현재      :   Editorial Board, Advances in Atmospheric Sciences(AAS)
++ 2016 - present      :   Editorial Board, Advances in Atmospheric Sciences(AAS)
 + 2016 - 2018      : Editorial Board, Asia Pacific Journal of Atmospheric Sciences(APAS)
 + 2014-2015      :   Deputy Director, Institute of Natural Sciences(INS), Yonsei University
 + 2013 - 2017    :   Member, NDACC (Network for the Detection of Atmospheric Composition Change) Satellite WG
 + 2012 - 2020    :   Member,  IO3C (International Ozone Commision), 위원
 + 2010 - Present :  P.I., GEMS (Geostationary Environment Monitoring Spectrometer) Mission
-+ 2010 - 현재     :   Member,  CEOS (Committee on Earth Observing Satellites) ACC
++ 2010 - present     :   Member,  CEOS (Committee on Earth Observing Satellites) ACC
 + 2011 - 2012    :   Chair, MEST-NASA Cooperation System in Space, Earth Science Subcommittee
 + 2009 - 2010    :  Visiting Independent Advisor, NASA Jet Propulsion Laboratory, CalTech; Visiting Scholar, UCLA
-+ 2009 - 2012    :  Cochair, NIER (National Institute of Environmental Research) - NASA Technical Group on Atmospheric Composition Measurements
++ 2009 - 2012    :  Cochair, NIER (National Institute of Environmental Research) - NASA Technical Group on Atmospheric Composition Measurements 
                              from Geostationary Satellites
 + 2008 - 2012    :  Cochair, Working Group 8, Commission VIII, ISPRS (International Society for Photogrammetry and Remote Sensing)
 

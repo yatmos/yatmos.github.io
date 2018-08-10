@@ -1,12 +1,13 @@
 +++
 title = "Tae-Young Lee"
-date = "2015-08-03T13:39:46+02:00"
+date = "2017-04-10T13:39:46+02:00"
 teams = ["faculty"]
 banner = "img/people/taeyounglee.jpg"
 email = "lty@yonsei.ac.kr"
-job = "Professor Emeritus"
+job = "Professor Emeritus(1987.3~2017.2)"
 phone = "02-2123-2687"
 room = "Science Hall #539"
+weight = 11
 +++
 
 #### Research interests

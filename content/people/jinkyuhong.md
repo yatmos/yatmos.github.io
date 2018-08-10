@@ -1,6 +1,6 @@
 +++
 title = "Jinkyu Hong"
-date = "2015-08-03T13:39:46+02:00"
+date = "2018-04-10T13:39:46+02:00"
 teams = ["faculty"]
 banner = "img/people/jinkyuhong.jpg"
 email = "jhong@yonsei.kr"
@@ -8,6 +8,7 @@ job = "Associate Professor"
 phone = "02-2123-5693"
 room = "Science Hall #542"
 web = "http://koflux.yonsei.ac.kr"
+weight = 8
 +++
 
 #### Research interests

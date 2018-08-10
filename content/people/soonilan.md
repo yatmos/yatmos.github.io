@@ -1,6 +1,6 @@
 +++
 title = "Soon-Il An"
-date = "2015-08-03T13:39:46+02:00"
+date = "2018-04-12T13:39:46+02:00"
 teams = ["faculty"]
 banner = "img/people/soonilan.jpg"
 email = "sian@yonsei.ac.kr"
@@ -8,6 +8,7 @@ job = "Professor"
 phone = "02-2123-5684"
 room = "Science Hall #538"
 web = "http://web.yonsei.ac.kr/climate"
+weight = 6
 +++
 
 #### Research interests
@@ -32,7 +33,7 @@ web = "http://web.yonsei.ac.kr/climate"
 + 기후역학
 + 해양-대기 상호작용
 
-#### Publications
+#### Selected Publications
 + So-Jung Shin, Soon-Il An, 2018 :Interdecadal Change in the Relationship Between the North Pacific Oscillation and the Pacific Meridional Mode and Its Impact on ENSO. Asia-Pacific Journal of Atmospheric Sciences, DOI:10.1007/s13143-017-0060-1
 + Jongsoo Shin, R. Olson, Soon-Il An, 2018 : Projected Heat Wave Characteristics over the Korean Peninsula During the Twenty-First Century. Asia-Pacific Journal of Atmospheric Sciences. DOI:10.1007/s13143-017-0059-7
 + R. Olson,  S. -I. An, Y. Fan, J. P. Evans, L. Caesar, 2017 : North Atlantic observations sharpen meridional overturning projections. Climate Dynamics, doi:10.1007/s00382-017-3867-7. 

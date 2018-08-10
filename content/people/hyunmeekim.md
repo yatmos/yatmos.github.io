@@ -1,6 +1,6 @@
 +++
 title = "Hyun Mee Kim"
-date = "2015-08-03T13:39:46+02:00"
+date = "2018-04-13T13:39:46+02:00"
 teams = ["faculty"]
 banner = "img/people/hyunmeekim.jpg"
 email = "khm@yonsei.ac.kr"
@@ -8,6 +8,7 @@ job = "Professor"
 phone = "02-2123-5683"
 room = "Science Hall #541"
 web = "http://web.yonsei.ac.kr/apdal"
+weight = 5
 +++
 
 #### Research interests

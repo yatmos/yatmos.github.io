@@ -1,6 +1,6 @@
 +++
 title = "Hajoon Song"
-date = "2015-08-03T13:39:46+02:00"
+date = "2018-04-08T13:39:46+02:00"
 teams = ["Faculty"]
 active = "people"
 banner = "img/people/HajoonSong.png"
@@ -9,6 +9,7 @@ job = "Assistant Professor"
 phone = "+82-2-2123-2579"
 room = "Science BLDG 544"
 web = "https://hajsong.github.io"
+weight = 10
 +++
 
 #### Research interests

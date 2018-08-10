@@ -1,6 +1,6 @@
 +++
 title = "Dong-Bin Shin"
-date = "2015-08-03T13:39:46+02:00"
+date = "2018-04-11T13:39:46+02:00"
 teams = ["faculty"]
 banner = "img/people/dongbinshin.jpg"
 email = "dbshin@yonsei.ac.kr"
@@ -8,6 +8,7 @@ job = "Professor"
 phone = "02-2123-5685"
 room = "Science Hall 546"
 web = "http://arsl.yonsei.ac.kr"
+weight = 7
 +++
 
 #### Research interests

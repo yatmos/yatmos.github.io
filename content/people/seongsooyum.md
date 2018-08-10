@@ -1,6 +1,6 @@
 +++
 title = "Seongsoo Yum"
-date = "2015-08-03T13:39:46+02:00"
+date = "2018-04-15T13:39:46+02:00"
 teams = ["faculty"]
 banner = "img/people/seongsooyum.jpg"
 email = "ssyum@yonsei.ac.kr"
@@ -8,6 +8,7 @@ job = "Professor"
 phone = "02-2123-5681"
 room = "Science Hall #547"
 web = "http://cloud.yonsei.ac.kr"
+weight = 3
 +++
 
 #### Research interests
