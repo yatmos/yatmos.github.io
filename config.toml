@@ -123,7 +123,7 @@ summarylength = 20
     # - you're done. Happy mailing!
     #
     # Enable the contact form by entering your Formspree.io email
-    email = "yonseiatmos@gmail.com"
+    email = "atmos@yonsei.ac.kr"
 
     about_us = "<p>연세대학교 이과대학 대기과학과</p>"
     copyright = "Copyright (c) 2018 - 2018, Department of Atmospheric Sciences, Yonsei University; all rights reserved."
@@ -184,10 +184,10 @@ summarylength = 20
 
 [params.movie]
     enable = true
-    #moviefile = "http://thenewcode.com/assets/videos/polina.mp4" 
-    moviefile = "img/iss.mp4" 
-    snapfile = "img/iss_ini.jpg" 
-    sourcefile = "https://youtu.be/W0LHTWG-UmQ" 
+    #moviefile = "http://thenewcode.com/assets/videos/polina.mp4"
+    moviefile = "img/iss.mp4"
+    snapfile = "img/iss_ini.jpg"
+    sourcefile = "https://youtu.be/W0LHTWG-UmQ"
     title = "대기과학이란?"
     subtitle = "21세기 인류가 당면한 가장 도전적인 문제인 지구환경 분야를 선도하는 대기과학은 자연과 인간의 조화로운 공존을 위해 책임 있는 해결을 제시할 수 있는 핵심 과학입니다."
 
@@ -200,7 +200,7 @@ summarylength = 20
     link_text = "학사안내"
 
 [params.clients]
-    enable = true 
+    enable = true
     # All clients are defined in their own files. You can find example items
     # at 'exampleSite/data/clients'.
     # For more informtion take a look at the README.
