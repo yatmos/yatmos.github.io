@@ -123,7 +123,7 @@ summarylength = 20
     # - you're done. Happy mailing!
     #
     # Enable the contact form by entering your Formspree.io email
-    email = "atmos@yonsei.ac.kr"
+    email = "yonseiatmos@gmail.com"
 
     about_us = "<p>연세대학교 이과대학 대기과학과</p>"
     copyright = "Copyright (c) 2018 - 2018, Department of Atmospheric Sciences, Yonsei University; all rights reserved."
