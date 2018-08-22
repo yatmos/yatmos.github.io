@@ -1,14 +1,14 @@
 +++
 title = "Myungje Choi"
 date = "2017-03-24T13:39:46+02:00"
-teams = ["연구원"]
+teams = ["researchers"]
 banner = "img/people/myungjechoi.jpg"
 email = "choi816@yonsei.ac.kr"
 job = "Postdoctoral Researcher"
 phone = "02-2123-8116"
 room = "Atmospheric Radiation Laboratory / Science Hall 522B"
 web = "http://web.yonsei.ac.kr/oasis "
-weight = 20
+weight = 30
 +++
 
 #### Research interests

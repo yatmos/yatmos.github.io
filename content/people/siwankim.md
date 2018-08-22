@@ -1,14 +1,14 @@
 +++
 title = "Si-Wan Kim"
 date = "2018-03-24T13:39:46+02:00"
-teams = ["연구원"]
+teams = ["researchers"]
 banner = "img/people/siwankim.png"
 email = "siwan.kim@yonsei.ac.kr"
 job = "Research Professor"
 phone = ""
 room = "Science Hall 549"
 web =  ""
-weight = 19
+weight = 20
 +++
 
 #### Research interests

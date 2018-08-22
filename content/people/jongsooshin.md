@@ -4,11 +4,11 @@ date = "2018-03-24T13:39:46+02:00"
 teams = ["students"]
 banner = "img/people/jongsooshin.png"
 email = "js-shin@yonsei.ac.kr"
-job = "Ph. D. Course"
+job = "Ph.D. student"
 phone = "010-6307-1666"
 room = "Climate Theory Lab / Science Hall 536A"
 web = "http:/web.yonsei.ac.kr/climatelab/"
-weight = 30
+weight = 40
 +++
 
 #### Research interests

@@ -4,11 +4,11 @@ date = "2018-03-24T13:39:46+02:00"
 teams = ["students"]
 banner = "img/people/Han-Chang Ko.png"
 email = "gcinc@yonsei.ac.kr"
-job = "Master Course"
+job = "M.Sc. student"
 phone = "02-2123-7643"
 room = "Laboratory for Atmospheric Dynamics / Science Hall 533A"
 web = "http://atmosdyn.yonsei.ac.kr/"
-weight = 40
+weight = 50
 +++
 
 #### Research interests

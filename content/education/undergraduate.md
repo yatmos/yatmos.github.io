@@ -2,16 +2,27 @@
 title: "Undergraduate"
 date: 2017-12-18T14:08:23-05:00
 type: education
-layout: single 
-active: education
-educations: ["Undergraduate"]
+layout: single
+weight: 1
 banner: "img/banners/banner-1.jpg"
+icon: "university"
 ---
+Guide to admissions and courses for undergraduate school
+<!--more-->
+
+<br>
+<br>
 
 ## Admissions
-Please visit the offical admissions for undergraduates course
+_ _ _
+
+[Link to admission information for undergraduate school](http://admission.yonsei.ac.kr/seoul/foreign/html/eng/about.asp)
+
+<br>
+<br>
 
 ## Courses
+_ _ _
 
 #### ATM1001 Global Environment and Atmospheric Sciences 
 Scientific understanding of global environmental problems such as global warming, destruction of the ozone layer, air pollution, desertification, El Nino/ La Nino severe weather, etc. and related research areas and methodologies in atmospheric sciences.
@@ -69,3 +80,6 @@ Properties and measurements of air pollutants, effects of synoptic meteorologica
  
 #### ATM4105 Climate Dynamics 
 Dynamic background of global climate and its fluctuation and change, distribution and variation of climate, predictability of climate system, atmospheric general circulation and climate system, impacts of ocean, climate change theory, and numerical models of climate system.
+
+<br>
+<br>

@@ -1,6 +1,12 @@
 - id: home
   translation: "Home"
 
+- id: prev
+  translation: "Previous"
+
+- id: next
+  translation: "Next"
+
 - id: templateBy
   translation: "Template by"
 
@@ -61,18 +67,8 @@
 - id: recentPosts
   translation: "Recent posts"
 
-- id: recentNews
-  translation: "Recent news"
-
-
 - id: aboutUs
   translation: "About us"
-
-- id: prev
-  translation: "Previous"
-
-- id: next
-  translation: "Next"
 
 - id: newer
   translation: "Newer"

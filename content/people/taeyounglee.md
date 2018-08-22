@@ -19,8 +19,5 @@ weight = 11
 #### Education
 + **Ph.D.** (1984) Oregon State University, Korea
 
-#### Professional Experience
-
-#### Selected Publications
-+ Publication 1
-+ Publication 2
+#### Tenure
+1987.3~2017.2

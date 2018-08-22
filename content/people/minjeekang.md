@@ -4,11 +4,11 @@ date = "2018-03-24T13:39:46+02:00"
 teams = ["students"]
 banner = "img/people/minjeekang.jpg"
 email = "kangmj@yonsei.ac.kr"
-job = "Ph. D. Course"
+job = "Ph.D. student"
 phone = "02-2123-7643"
 room = "Laboratory for Atmospheric Dynamics / Science Hall 533-A"
 web = "http://atmosdyn.yonsei.ac.kr"
-weight = 30
+weight = 40
 +++
 
 #### Research interests

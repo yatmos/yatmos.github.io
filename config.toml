@@ -1,19 +1,25 @@
 baseurl = "http://web.mit.edu/hajsong/www/"
-#baseurl = "http://web.yonsei.ac.kr/atmoseng/"
-title = "Dep. of Atmos. Sci."
+title = "Department of Atmospheric Sciences, Yonsei University"
 theme = "hugo-universal-theme"
+
+
+# Site language. Available translations in the theme's `/i18n` directory.
+
+
+# languageCode = "en-us"
 languageCode = "en-us"
 # Site language. Available translations in the theme's `/i18n` directory.
 defaultContentLanguage = "en"
 # Enable comments by entering your Disqus shortname
 # disqusShortname = "yatmos"
 # Enable Google Analytics by entering your tracking code
+#googleAnalytics = "UA-117501743-1"
 googleAnalytics = ""
+hasCJKLanguage = true
 
 # Define the number of posts per page
-paginate = 12 
-
-summarylength = 10
+paginate = 20
+summarylength = 20
 
 [menu]
 
@@ -33,7 +39,7 @@ summarylength = 10
     name = "People"
     identifier = "peo"
     url  = "/people/"
-    weight = 2
+    weight = 3
 
 #[[menu.main]]
 #    name = "Faculty"
@@ -56,7 +62,7 @@ summarylength = 10
 [[menu.main]]
     name = "Research"
     url  = "/research/"
-    weight = 1.5
+    weight = 2
 
 [[menu.main]]
     name = "News"
@@ -67,7 +73,7 @@ summarylength = 10
     name = "Education"
     identifier = "edu"
     url  = "/education/"
-    weight = 3
+    weight = 4
 
 #[[menu.main]]
 #    name = "Undergraduate"
@@ -87,10 +93,16 @@ summarylength = 10
 #    weight = 6
 
 [[menu.topbar]]
-    weight = 1
+    weight = 2
     name = "Language"
-    url = "http://web.yonsei.ac.kr/atmoskor"
+    url = "http://atmos.yonsei.ac.kr"
     pre = "한글"
+
+[[menu.topbar]]
+    weight = 1
+    name = "School"
+    url = "http://www.yonsei.ac.kr/en_sc/"
+    pre = "YONSEI"
 
 [params]
     viewMorePostLink = "/blog/"
@@ -117,15 +129,16 @@ summarylength = 10
     # - you're done. Happy mailing!
     #
     # Enable the contact form by entering your Formspree.io email
-    email = "atmosyonsei@gmail.com"
+    email = "yonseiatmos@gmail.com"
 
     about_us = "<p>Department of Atmospheric Sciences <br> College of Science <br> Yonsei University</p>"
-    copyright = "Copyright (c) 2012 - 2018, Department of Atmospheric Sciences, Yonsei University; all rights reserved."
+    copyright = "Copyright (c) 2018 - 2018, Department of Atmospheric Sciences, Yonsei University; all rights reserved."
 
     # Format dates with Go's time formatting
     date_format = "January 2, 2006"
 
-    logo = "img/atmos_symbol_eng.jpg"
+    # logo = "img/apple-touch-icon.png"
+
     address = """<p><strong>Department of Atmospheric Sciences</strong>
         <br><strong>Yonsei University</strong>
         <br>50 Yonsei-ro
@@ -157,11 +170,9 @@ summarylength = 10
     tags = false
     search = true
     teams = true
-    educations = true
-
 
 [params.carousel]
-    enable = true
+    enable = false
     # All carousel items are defined in their own files. You can find example items
     # at 'exampleSite/data/carousel'.
     # For more informtion take a look at the README.
@@ -180,29 +191,37 @@ summarylength = 10
     title = "Testimonials"
     subtitle = "We have worked with many clients and we always like to hear they come out from the cooperation happy and satisfied. Have a look what our clients said about us."
 
+[params.movie]
+    enable = true
+    #moviefile = "http://thenewcode.com/assets/videos/polina.mp4"
+    moviefile = "img/iss.mp4"
+    snapfile = "img/iss_ini.jpg"
+    sourcefile = "https://youtu.be/W0LHTWG-UmQ"
+    title = "Atmospheric Sciences?"
+    subtitle = "Atmospheric sciences can provide responsible solutions for the global environment, the most challenging issue in the 21st century, and harmonious coexsitence of nature and human beings."
+
 [params.see_more]
     enable = true
     icon = "fa fa-paper-plane"
     title = "Apply"
-    subtitle = "Check out our education program."
+    subtitle = "We are looking forward to your participation."
     link_url = "education"
-    link_text = "Check other homepages"
+    link_text = "Check out our education program"
 
 [params.clients]
-    enable = false
+    enable = true
     # All clients are defined in their own files. You can find example items
     # at 'exampleSite/data/clients'.
     # For more informtion take a look at the README.
-    title = "Our Clients"
-    subtitle = ""
+    title = "Congratulations!"
+    subtitle = "Congratulations for winning awards."
 
 [params.recent_posts]
     enable = true
     title = "News and Events"
-    subtitle = "Recent publications and researches."
+    subtitle = "See the News tab for further details."
 
 [taxonomies]
     tag = "tags"
     category = "categories"
     team = "teams"
-    education = "educations"

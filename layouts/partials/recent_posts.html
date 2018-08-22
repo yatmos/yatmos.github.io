@@ -20,7 +20,7 @@
                 {{ range first 4 $posts.Pages }}
                 <div class="col-md-3 col-sm-6">
                     <div class="box-image-text blog">
-                        <div class="top">
+                        <!--div class="top">
                             <div class="image" style="overflow:hidden">
                                 {{ if isset .Params "banner" }}
                                 <img src="{{ .Site.BaseURL}}{{ .Params.banner }}" class="img-responsive" alt="" >
@@ -34,7 +34,7 @@
                                     <a href="{{ .Permalink }}" class="btn btn-template-transparent-primary"><i class="fa fa-link"></i> {{ i18n "readMore" }}</a>
                                 </p>
                             </div>
-                        </div>
+                        </div-->
 
                         <div class="content">
                             <h4><a href="{{ .Permalink }}">{{ .Title }}</a></h4>

@@ -4,11 +4,11 @@ date = "2018-03-24T13:39:46+02:00"
 teams = ["students"]
 banner = "img/people/dongcheol.png"
 email = "mr_cheol@yonsei.ac.kr"
-job = "Ph. D. Course"
+job = "Ph.D. student"
 phone = ""
 room = "Atmospheric Remote Sensing Laboratory / Science Hall 529B"
 web = "http://arsl.yonsei.ac.kr"
-weight = 30
+weight = 40
 +++
 
 #### Research interests

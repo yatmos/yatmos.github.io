@@ -2,7 +2,7 @@
 title = "Jhoon Kim"
 date = "2018-04-14T13:39:46+02:00"
 teams = ["faculty"]
-banner = "img/people/jhoonkim.jpg"
+banner = "img/people/jhoonkim2.jpg"
 email = "jkim2@yonsei.ac.kr"
 job = "Professor"
 phone = "02-2123-5682"
@@ -38,7 +38,7 @@ weight = 4
 + 2010 - present     :   Member,  CEOS (Committee on Earth Observing Satellites) ACC
 + 2011 - 2012    :   Chair, MEST-NASA Cooperation System in Space, Earth Science Subcommittee
 + 2009 - 2010    :  Visiting Independent Advisor, NASA Jet Propulsion Laboratory, CalTech; Visiting Scholar, UCLA
-+ 2009 - 2012    :  Cochair, NIER (National Institute of Environmental Research) - NASA Technical Group on Atmospheric Composition Measurements 
++ 2009 - 2012    :  Cochair, NIER (National Institute of Environmental Research) - NASA Technical Group on Atmospheric Composition Measurements
                              from Geostationary Satellites
 + 2008 - 2012    :  Cochair, Working Group 8, Commission VIII, ISPRS (International Society for Photogrammetry and Remote Sensing)
 

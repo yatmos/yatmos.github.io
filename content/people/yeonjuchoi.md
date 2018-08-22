@@ -4,11 +4,11 @@ date = "2018-03-24T13:39:46+02:00"
 teams = ["students"]
 banner = "img/people/yeonjuchoi.png"
 email = "ywn0709@yonsei.ac.kr"
-job = "Ph. D. Course"
-phone = "02-2123-2690"
+job = "Combined M.Sc./Ph.D. student"
+phone = ""
 room = "Geophysical Fluid Dynamics Laboratory / Science Hall 534"
 web = "http://gfdl.yonsei.ac.kr"
-weight = 40
+weight = 60
 +++
 
 #### Research interests

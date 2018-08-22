@@ -20,7 +20,7 @@
             <div class="container">
                 <div class="row">
 
-                    <div class="col-md-3">
+                    <div class="col-sm-3">
 
                         <!-- *** MENUS AND WIDGETS *** -->
                         <div class="panel panel-default sidebar-menu">
@@ -38,28 +38,28 @@
                             </div>
                         </div>
 
+                        {{ partial "widgets/search.html" . }}
                         <!-- *** MENUS AND FILTERS END *** -->
                     </div>
                     <!-- *** RIGHT COLUMN *** -->
 
-                    <div class="col-md-9">
+                    <div class="col-sm-9">
 
                         <!-- List page for "blog" -->
                         {{ $paginator := (.Paginate .Data.Pages) }}
                         {{ range $paginator.Pages }}
                         <section class="post">
                             <div class="row">
-                                <div class="col-md-12">
-                                    <div class="col-sm-1">
-                                        <span class="fa-stack fa-lg">
-                                          <i class="fa fa-circle-thin fa-stack-2x"></i>
-                                          <i class="fa fa-{{ .Params.icon }} fa-stack-1x"></i>
-                                        </span>
-                                    </div>
-                                    <div class="col-sm-11">
+                                <div class="col-sm-1 col-xs-2">
+                                    <span class="fa-stack fa-lg">
+                                      <i class="fa fa-circle-thin fa-stack-2x"></i>
+                                      <i class="fa fa-{{ .Params.icon }} fa-stack-1x"></i>
+                                    </span>
+                                </div>
+                                <div class="col-sm-11 col-xs-10">
                                     <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
                                     <p class="intro">{{ .Summary }}</p>
-                                    </div>
+                                    <p class="read-more"><a href="{{ .Permalink }}" class="btn btn-template-main">{{ i18n "continueReading" }}</a>
                                 </div>
                             </div>
                         </section>

@@ -1,14 +1,14 @@
 +++
 title = "Ashley Brereton"
 date = "2017-03-24T13:39:46+02:00"
-teams = ["Researchers"]
+teams = ["researchers"]
 banner = "img/people/AshleyBrereton.jpg"
 email = "ashbre@yonsei.ac.kr"
-job = "Post doctor"
+job = "Postdoctoral Researcher"
 phone = " "
 room = "Geophysical Fluid Dynamics Laboratory/ Science Hall 529A"
 web = " "
-weight = 20
+weight = 30
 +++
 
 #### Research interests

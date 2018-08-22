@@ -1,14 +1,14 @@
 ﻿+++
 title = "Yuri Lee"
 date = "2017-03-24T13:39:46+02:00"
-teams = ["Researcher"]
+teams = ["researchers"]
 banner = "img/people/yrlee.png"
 email = "yrlee12@yonsei.ac.kr"
-job = "Post Doc. Course"
+job = "Postdoctoral Researcher"
 phone = " "
 room = "Atmospheric Remote Sensing Laboratory / Science Hall 549"
 web = "http://arsl.yonsei.ac.kr"
-weight = 20
+weight = 30
 +++
 
 #### Research interests

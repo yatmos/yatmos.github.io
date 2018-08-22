@@ -1,14 +1,14 @@
 +++
 title = "Woo-Jin Lee"
 date = "2018-03-24T13:39:46+02:00"
-teams = ["Researchers"]
+teams = ["researchers"]
 banner = "img/people/LEEwoojin.jpg"
 email = "wjlee1977@gmail.com"
 job = "Research professor"
 phone = "+82-010-9395-1778"
 room = "Science Hall 535"
 web = "http://atmosdyn.yonsei.ac.kr"
-weight = 19
+weight = 20
 +++
 
 #### Research interests

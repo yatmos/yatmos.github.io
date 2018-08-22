@@ -15,7 +15,7 @@
 
                 <div id="contact-message"></div>
 
-                <form class="contact-form" method="post" action="https://formspree.io/{{ .Site.Params.email }}">
+                <form class="contact-form" method="POST" action="https://formspree.io/yonseiatmos@gmail.com">
                     <div class="row">
                         <div class="col-sm-6">
                             <div class="form-group">
@@ -56,6 +56,7 @@
             <section>
 
               <h3 class="text-uppercase"> {{ i18n "contactAddrTitle" }}</h3>
+              <!--h3 class="text-uppercase"> {{ i18n "contactAddrTitle" }}</h3-->
 
                 {{ .Site.Params.address | safeHTML }}
 

@@ -1,7 +1,7 @@
 +++
 title = "Hajoon Song"
 date = "2018-04-08T13:39:46+02:00"
-teams = ["Faculty"]
+teams = ["faculty"]
 active = "people"
 banner = "img/people/HajoonSong.png"
 email = "hajsong@yonsei.ac.kr"
@@ -22,7 +22,7 @@ weight = 10
 + **B.S.** (2005) Department of Atmospheric Sciences, Yonsei University, Seoul, Korea
 
 #### Research Experience
-+ MIT, Cambridge, USA (2013-2018) 
++ MIT, Cambridge, USA (2013-2018)
 + University of California, Santa Cruz, USA (2011-2013)
 + Scripps Institution of Oceanography, La Jolla, USA (2005-2011)
 

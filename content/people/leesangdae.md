@@ -1,10 +1,10 @@
 ﻿+++
 title = "Sang-Dae Lee"
 date = "2018-03-24T13:39:46+02:00"
-teams = ["student"]
+teams = ["students"]
 banner = "img/people/LEESANGDAE.png"
 email = "lsd4354@yonsei.ac.kr"
-job = "MSc student"
+job = "M.Sc. student"
 phone = "02-2123-5680"
 room = "Ecosystem-Atmosphere Processes Lab / Science Hall 533B"
 web = "http://eapl.yonsei.ac.kr"

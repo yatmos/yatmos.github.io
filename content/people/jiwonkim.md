@@ -1,14 +1,14 @@
 ﻿+++
 title = "Ji-Won Kim"
 date = "2017-03-24T13:39:46+02:00"
-teams = ["Researcher"]
+teams = ["researchers"]
 banner = "img/people/jiwonkim.png"
 email = "subdus@yonsei.ac.kr"
-job = "Post Doctor"
+job = "Postdoctoral Researcher"
 phone = "None"
 room = "Climate Theory Lab / Science Hall 529A"
 web = "http:/web.yonsei.ac.kr/climatelab/"
-weight = 20
+weight = 30
 +++
 
 #### Research interests

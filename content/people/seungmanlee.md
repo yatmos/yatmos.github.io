@@ -11,8 +11,7 @@ weight = 14
 +++
 
 #### Research interests
++ Cloud Physics
 
-#### Education
-+ **Ph.D.**
-
-#### Professional Experience
+#### Tenure
+1979.8 ~ 2001.2

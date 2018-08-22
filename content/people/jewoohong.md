@@ -4,11 +4,11 @@ date = "2018-03-24T13:39:46+02:00"
 teams = ["students"]
 banner = "img/people/jewoohong.png"
 email = "jewoo@yonsei.ac.kr"
-job = "Ph. D. Course"
+job = "Ph.D. student"
 phone = "02-2123-5680"
 room = "Ecosystem-Atmosphere Processes Lab / Science Hall 533B"
 web = "http://eapl.yonsei.ac.kr"
-weight = 30
+weight = 40
 +++
 
 #### Research interests

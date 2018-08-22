@@ -4,11 +4,11 @@ date = "2018-03-24T13:39:46+02:00"
 teams = ["students"]
 banner = "img/people/Dan-Bi Lee.png"
 email = "leedb@yonsei.ac.kr"
-job = "Ph. D. Course"
+job = "Ph.D. student"
 phone = "02-2123-7643"
 room = "Laboratory for Atmospheric Dynamics / Science Hall 533A"
 web = "http://atmosdyn.yonsei.ac.kr"
-weight = 30
+weight = 40
 +++
 
 #### Research interests
@@ -19,7 +19,7 @@ weight = 30
  + **B.Sc** (2011) in Atmospheric Sciences, Yonsei University, Seoul, Korea
 
 #### Awards
- + (2018.3.23) The award of director-general of aviation meteorological office 
+ + (2018.3.23) The award of director-general of aviation meteorological office
  + (2014.10.14) Best paper presentation award in Korean meteorological society fall meeting
 
 #### Publications

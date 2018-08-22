@@ -4,11 +4,11 @@ date = "2018-03-24T13:39:46+02:00"
 teams = ["students"]
 banner = "img/people/yejichoi.png"
 email = "yj0108@yonsei.ac.kr"
-job = "Unified Master's and Doctor's Course"
+job = "Combined M.Sc./Ph.D. student"
 phone = "010-8885-0221"
 room = "Atmospheric Remote Sensing Laboratory / Science Hall 529B"
 web = "http://arsl.yonsei.ac.kr"
-weight = 40
+weight = 60
 +++
 
 #### Research intersets

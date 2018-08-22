@@ -4,11 +4,11 @@ date = "2018-03-24T13:39:46+02:00"
 teams = ["students"]
 banner = "img/people/soohyunkim.png"
 email = "kimsh12@yonsei.ac.kr"
-job = "Combined M. S. and Ph. D. student"
+job = "Combined M.Sc./Ph.D. student"
 phone = "02-2123-7643"
 room = "Laboratory for Atmospheric Dynamics / Science Hall 533A"
 web = "http://atmosdyn.yonsei.ac.kr"
-weight = 40
+weight = 60
 +++
 
 #### Research interests

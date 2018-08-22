@@ -1,14 +1,14 @@
 +++
 title = "Ja-Ho Koo"
 date = "2018-03-24T13:39:46+02:00"
-teams = ["연구원"]
+teams = ["researchers"]
 banner = "img/people/jahokoo.jpg"
 email = "zach45@yonsei.ac.kr"
 job = "Research Professor"
 phone = "02-2123-7616"
 room = "Atmospheric Radiation Laboratory / Science Hall 701"
 web = "https://sites.google.com/site/cvjahokoo/"
-weight = 19
+weight = 20
 +++
 
 #### Research interests
