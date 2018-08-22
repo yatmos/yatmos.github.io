@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Research on Department of Atmospheric Sciences, Yonsei University</title>
-    <link>http://web.mit.edu/hajsong/www/research/</link>
+    <link>http://atmos.yonsei.ac.kr/eng/research/</link>
     <description>Recent content in Research on Department of Atmospheric Sciences, Yonsei University</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://web.mit.edu/hajsong/www/research/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://atmos.yonsei.ac.kr/eng/research/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Research</title>
-      <link>http://web.mit.edu/hajsong/www/research/research/</link>
+      <link>http://atmos.yonsei.ac.kr/eng/research/research/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://web.mit.edu/hajsong/www/research/research/</guid>
+      <guid>http://atmos.yonsei.ac.kr/eng/research/research/</guid>
       <description>&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Publications in 2017</title>
-      <link>http://web.mit.edu/hajsong/www/research/papers2017/</link>
+      <link>http://atmos.yonsei.ac.kr/eng/research/papers2017/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://web.mit.edu/hajsong/www/research/papers2017/</guid>
+      <guid>http://atmos.yonsei.ac.kr/eng/research/papers2017/</guid>
       <description>&lt;p&gt;&lt;strong&gt;The research papers published in 2017&lt;/strong&gt;
 &lt;/p&gt;</description>
     </item>

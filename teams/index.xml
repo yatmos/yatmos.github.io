@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Teams on Department of Atmospheric Sciences, Yonsei University</title>
-    <link>http://web.mit.edu/hajsong/www/teams/</link>
+    <link>http://atmos.yonsei.ac.kr/eng/teams/</link>
     <description>Recent content in Teams on Department of Atmospheric Sciences, Yonsei University</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 17 Apr 2018 13:39:46 +0200</lastBuildDate>
     
-	<atom:link href="http://web.mit.edu/hajsong/www/teams/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://atmos.yonsei.ac.kr/eng/teams/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Faculty</title>
-      <link>http://web.mit.edu/hajsong/www/teams/faculty/</link>
+      <link>http://atmos.yonsei.ac.kr/eng/teams/faculty/</link>
       <pubDate>Tue, 17 Apr 2018 13:39:46 +0200</pubDate>
       
-      <guid>http://web.mit.edu/hajsong/www/teams/faculty/</guid>
+      <guid>http://atmos.yonsei.ac.kr/eng/teams/faculty/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Researchers</title>
-      <link>http://web.mit.edu/hajsong/www/teams/researchers/</link>
+      <link>http://atmos.yonsei.ac.kr/eng/teams/researchers/</link>
       <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
       
-      <guid>http://web.mit.edu/hajsong/www/teams/researchers/</guid>
+      <guid>http://atmos.yonsei.ac.kr/eng/teams/researchers/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Students</title>
-      <link>http://web.mit.edu/hajsong/www/teams/students/</link>
+      <link>http://atmos.yonsei.ac.kr/eng/teams/students/</link>
       <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
       
-      <guid>http://web.mit.edu/hajsong/www/teams/students/</guid>
+      <guid>http://atmos.yonsei.ac.kr/eng/teams/students/</guid>
       <description></description>
     </item>
     

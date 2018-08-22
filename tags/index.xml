@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Department of Atmospheric Sciences, Yonsei University</title>
-    <link>http://web.mit.edu/hajsong/www/tags/</link>
+    <link>http://atmos.yonsei.ac.kr/eng/tags/</link>
     <description>Recent content in Tags on Department of Atmospheric Sciences, Yonsei University</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://web.mit.edu/hajsong/www/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://atmos.yonsei.ac.kr/eng/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
