@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Department of Atmospheric Sciences, Yonsei University</title>
+    <link>http://web.mit.edu/hajsong/www/categories/</link>
+    <description>Recent content in Categories on Department of Atmospheric Sciences, Yonsei University</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://web.mit.edu/hajsong/www/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>News</title>
+      <link>http://web.mit.edu/hajsong/www/categories/news/</link>
+      <pubDate>Sat, 03 Mar 2018 13:42:03 +0900</pubDate>
+      
+      <guid>http://web.mit.edu/hajsong/www/categories/news/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Seminar</title>
+      <link>http://web.mit.edu/hajsong/www/categories/seminar/</link>
+      <pubDate>Fri, 10 Aug 2018 12:49:47 +0900</pubDate>
+      
+      <guid>http://web.mit.edu/hajsong/www/categories/seminar/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Education on Department of Atmospheric Sciences, Yonsei University</title>
+    <link>http://web.mit.edu/hajsong/www/education/</link>
+    <description>Recent content in Education on Department of Atmospheric Sciences, Yonsei University</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 18 Dec 2017 14:08:23 -0500</lastBuildDate>
+    
+	<atom:link href="http://web.mit.edu/hajsong/www/education/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Undergraduate</title>
+      <link>http://web.mit.edu/hajsong/www/education/undergraduate/</link>
+      <pubDate>Mon, 18 Dec 2017 14:08:23 -0500</pubDate>
+      
+      <guid>http://web.mit.edu/hajsong/www/education/undergraduate/</guid>
+      <description>&lt;p&gt;Guide to admissions and courses for undergraduate school
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Graduate</title>
+      <link>http://web.mit.edu/hajsong/www/education/graduate/</link>
+      <pubDate>Mon, 18 Dec 2017 14:08:23 -0500</pubDate>
+      
+      <guid>http://web.mit.edu/hajsong/www/education/graduate/</guid>
+      <description>&lt;p&gt;Guide to admissions and courses for graduate school
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Academic calendar</title>
+      <link>http://web.mit.edu/hajsong/www/education/calender/</link>
+      <pubDate>Mon, 18 Dec 2017 14:08:23 -0500</pubDate>
+      
+      <guid>http://web.mit.edu/hajsong/www/education/calender/</guid>
+      <description>&lt;p&gt;Academic calendar
+&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
