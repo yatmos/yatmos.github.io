@@ -43,7 +43,7 @@ Congratulations to the winners!
     <td class="tg-l711">Comparison of turbulence indicators obtained from in situ flight data</td>
   </tr>
   <tr>
-    <td class="tg-88nc"><a href="../../../../../people/junpark"></a>Jun Park</td>
+    <td class="tg-88nc"><a href="../../../../../people/junpark">Jun Park</a></td>
     <td class="tg-l711">Impacts of spectral nudging on the simulated surface air temperature in summer compared with the selection of shortwave radiation and land surface model physics parameterization in a high-resolution regional atmospheric model</td>
   </tr>
   <tr>
