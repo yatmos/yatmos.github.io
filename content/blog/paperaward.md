@@ -51,7 +51,7 @@ Congratulations to the winners!
     <td class="tg-l711">Projected Heat Wave Characteristics over the Korean Peninsula During the Twenty-First Century</td>
   </tr>
   <tr>
-    <td class="tg-88nc"><a href="../../../../../people/eungyeongyang">Eungyeong Yang</a></td>
+    <td class="tg-88nc"><a href="../../../../../people/eungyeongyang">Eun-Gyeong Yang</a></td>
     <td class="tg-l711">Evaluation of a Regional Reanalysis and ERA-Interim over East Asia Using In Situ Observations during 2013–14</td>
   </tr>
   <tr>
