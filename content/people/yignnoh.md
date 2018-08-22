@@ -7,7 +7,7 @@ banner = "img/people/yignnoh.jpg"
 email = " noh@yonsei.ac.kr"
 job = "Professor"
 phone = "+82-2-2123-2690"
-room = "Science BLDG 544"
+room = "Geophysical Fluid Dynamics Laboratory / Science Hall 540"
 web = "http://gfdl.yonsei.ac.kr"
 weight = 1
 +++
@@ -16,6 +16,7 @@ weight = 1
 + Geophysical Fluid Dynamics
 + Turbulence
 + Suspension
++ Lagrangian Cloud Model
 + Parallel Computational Fluid Dynamics
 + Physical Oceanography
 + Ocean Mixed Layer
@@ -28,11 +29,16 @@ weight = 1
 + **B.Sc.** (1980) Department of Oceanography, Seoul National University, Seoul, Korea.
 
 #### Work Experience
++ 1993-present : Professor, Department of Atmospheric Sciences, Yonsei University, Korea
++ 1992-1993 : Full-time lecturer, Kunsan National University, Korea
++ 1987-1992 : Researcher, Arizona State University in U.S.A
 
 #### Courses
-+ 유체역학
-+ 전산유체역학
-+ 미기상학
++ Fluid Dynamics
++ Computational Fluid Dynamics
++ Physical oceanography
++ Geophysical Fluid dynamics
++ Turbulence
 
 #### Selected Publications
 + Ok, H., Y. Noh, and Y. Choi, "Influence of Pycnocline Smoothing and Subgrid-Scale Variability of Density Profiles on the Determination of Mixed Layer Depth", J. Atmos. Oceanic Technol., 34, 2083-2101, doi: 10.1175/JTECH-D-17-0016.1, 2017.

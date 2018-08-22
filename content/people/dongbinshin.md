@@ -29,19 +29,19 @@ weight = 7
 + 2000 : Assistant Research Scientist, Center for Earth Observing and Space Research, School of Computational Sciences, George Mason University, Fairfax, VA, USA.
 
 #### Courses
-+ 위성기상학
-+ 마이크로파복사 및 원격탐사이론
++ Satellite Meteorology
++ Atmospheric Measurements
 
 #### Selected Publications
 + Hong, S.-B., D.-B. Shin, B.-H. Park, and D.-W. So, 2016: Development of prototype algorithms for quantitative precipitation nowcasts from AMI onboard the GEO-KOMPSAT-2A satellite, IEEE Transactions on Geoscience and Remote Sensing, 54(12),7149-7156
 + Kim, S.-W., D.-B. Shin, and Y.-J. Choi, 2016: Effects of the three-dimensional hydrometeor distributions of precipitating clouds on passive microwave rainfall estimations, IEEE Transactions on Geoscience and Remote Sensing, 54(4), 1957-1966.
 + Lee, Y.-R., D.-B. Shin, J.-H. Kim, and H.-S. Park, 2015: Precipitation estimation over radar gap areas based on satellite and adjacent radar observations, Atmospheric Measurement Techniques, 8, 719-728.
-+ Yoo, J.-M., Y.-R. Lee, D. Kim, S.-M. Oh, M.-J. Jeong, W.R. Stockwell, P. K. Kundu, D.-B. Shin, and S.-J. Lee, 2014: New indices for wet scavenging of air pollutants (O3, CO, NO2, SO2, and PM10) by summertime rain, Atmospheric Environment, 82, 226-237. 
++ Yoo, J.-M., Y.-R. Lee, D. Kim, S.-M. Oh, M.-J. Jeong, W.R. Stockwell, P. K. Kundu, D.-B. Shin, and S.-J. Lee, 2014: New indices for wet scavenging of air pollutants (O3, CO, NO2, SO2, and PM10) by summertime rain, Atmospheric Environment, 82, 226-237.
 + Kim, J.-H., D.-B. Shin, and C. Kummerow, 2013: Impacts of a-priori databases using six WRF microphysics schemes on passive microwave rainfall retrievals. Journal of Atmospheric and Oceanic Technology, 30, 2367-2381.
 + Park, H.-J., D.-B. Shin, and J.-M. Yoo, 2013: Atmospheric water balance over oceanic regions as estimated from satellite, merged, and reanalysis data. J. Geophys. Res., 118, 3495-3505, doi:10.1002/jgrd.50414.
 + Lee, Y.-R., J.-M. Yoo, M.-J. Jeong, Y.-I. Won, T. Hearty, and D.-B. Shin, 2013: Comparison between MODIS and AIRS/AMSU satellite-derived surface skin temperatures. Atmospheric Measurement Techniques, 6, 445-455.
 + Yoo, J.-M., Y.-I. Won, M.-J. Jeong, K.-M. Kim, D.-B. Shin, Y.-R. Lee, and Y.-J. Cho, 2013: Intensity of climate variability derived from the satellite and MERRA reanalysis temperatures: AO, ENSO, and QBO. Journal of Atmospheric and Solar-Terrestrial Physics, 95-96, 15-27, doi:10.1016/j.jastp.2013.01.002.
-+ Chiu, L. S., S. Gao and D.-B. Shin, 2013: Climate-Scale Oceanic Rainfall Based on Passive Microwave Radiometry, Satellite-based Applications on Climate Change, J. Qu, A. Powell, M.V.K. Sivakumar (Eds), Springer, 225-245, ISBN: 978-94-007-5871-1 
++ Chiu, L. S., S. Gao and D.-B. Shin, 2013: Climate-Scale Oceanic Rainfall Based on Passive Microwave Radiometry, Satellite-based Applications on Climate Change, J. Qu, A. Powell, M.V.K. Sivakumar (Eds), Springer, 225-245, ISBN: 978-94-007-5871-1
 + Kim, J.-H, D.-B. Shin and K.-W. Jin, 2012: Impact of proxy variables of the rain column height on monthly oceanic rainfall estimations from passive microwave sensors. International Journal of Remote Sensing, 33(12), 3693 - 3712, doi:10.1080/01431161.2011.631952
 + Yoo. J.-M., Y.-I. Won, Y.-J. Cho, M.-J. Jeong, D.-B. Shin, S.-J. Lee, Y.-R. Lee, S.-M. Oh, and S.J. Ban, 2011: Temperature trends in the skin/surface, mid-troposphere and low stratosphere near Korea from satellite and ground measurements. Asia Pacific Journal of Atmospheric Sciences, 47(5), 439-455, doi:10.1007/s13143-011-0029-4.
 + Shin, D.-B., J.-H. Kim, and H.-J. Park, 2011: Agreement between monthly precipitation estimates from TRMM satellite, NCEP reanalysis, and merged gauge?satellite analysis, J. Geophys. Res., 116, D16105, doi:10.1029/2010JD015483.

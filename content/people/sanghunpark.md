@@ -12,8 +12,8 @@ weight = 9
 +++
 
 #### Research interests
-+ 수치모형
-+ 중규모 기상학
++ Numerical modeling
++ Mesoscale meteorology
 
 #### Education
 + **Ph.D.** (2009) Department of Atmospheric Sciences, Yonsei University, Seoul, Korea
@@ -26,8 +26,8 @@ weight = 9
 + 2011-2012: Adavanced Study Program (ASP), National Center for Atmospheric Research, Boulder, USA
 
 #### Courses
-+ 대기역학
-+ 전산유체역학
++ Atmospheric Dynamics
++ Computational Fluid Dynamics
 
 #### Selected Publications
 +  Park, S.-H., J.-H. Kim, R. D. Sharman and J. B. Klemp, 2016 : Update of upper-level turbulence forecast by reducing unphysical components of topography in the numerical weather prediction model, Geophys. Res. Lett., 43, 7718-7724, DOI: 10.1002/2016GL069446

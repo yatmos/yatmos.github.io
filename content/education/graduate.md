@@ -131,7 +131,7 @@ The propose of this lecture is to understand the basic concepts of the various s
 #### ATM9101  TURBULENCE
 characteristics of turbulence. Reynolds equation. Kolmogorov theory. turbulent boundary layer. geostrophic turbulence. simulation of turbulence.
 
-#### ATM9102  Atmospheric Radiation 2
+#### ATM9102  ATMOSPHERIC RADIATION 2
 radiative flux and heating, radiation of cloud and architectural characteristics, radiation and climate, radiative transfer in the planetary atmosphere
 
 #### ATM9103  ADVANCED TOPICS IN PHYSICAL METEOROLOGY

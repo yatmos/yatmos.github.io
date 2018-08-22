@@ -29,14 +29,15 @@ weight = 6
 + Research Associate, Research Institute for Basic Science, Seoul National University, 1996.9~1998.3
 
 #### Courses
-+ 기후변화의 이해
-+ 기후역학
-+ 해양-대기 상호작용
++ Climate and Global Change
++ Climate Dynamics
++ Advanced Topics in Climate DYNAMICS
++ Atmosphere Ocean Interaction
 
 #### Selected Publications
 + So-Jung Shin, Soon-Il An, 2018 :Interdecadal Change in the Relationship Between the North Pacific Oscillation and the Pacific Meridional Mode and Its Impact on ENSO. Asia-Pacific Journal of Atmospheric Sciences, DOI:10.1007/s13143-017-0060-1
 + Jongsoo Shin, R. Olson, Soon-Il An, 2018 : Projected Heat Wave Characteristics over the Korean Peninsula During the Twenty-First Century. Asia-Pacific Journal of Atmospheric Sciences. DOI:10.1007/s13143-017-0059-7
-+ R. Olson,  S. -I. An, Y. Fan, J. P. Evans, L. Caesar, 2017 : North Atlantic observations sharpen meridional overturning projections. Climate Dynamics, doi:10.1007/s00382-017-3867-7. 
++ R. Olson,  S. -I. An, Y. Fan, J. P. Evans, L. Caesar, 2017 : North Atlantic observations sharpen meridional overturning projections. Climate Dynamics, doi:10.1007/s00382-017-3867-7.
 + Soon-Il An,  Eun Sook Heo, Seon Tae Kim, 2017 : Feedback process responsible for intermodel diversity of ENSO variability. Geophys. Res. Lett. doi:10.1002/2017GL073203.
 + Soon-Il An,  Hayoung Bong, 2017 : Feedback process responsible for the suppression of ENSO activity during the mid-Holocene. Theor Appl Climatol. doi:10.1007/s00704-017-2117-6.
 + Jae-Heung Park, Soon-Il An, Jong-Seong Kug, 2017 : Interannual variability of western North Pacific SST anomalies and its impact on North Pacific and North America. Cimate Dynamics. doi:10.1007/s00382-017-3538-8.
@@ -46,9 +47,9 @@ weight = 6
 + Soon-Il An, Hayoung Bong. 2015 : Inter-decadal change in El Nino-Southern Oscillation examined with Bjerknes stability index analysis. Climate dynamics.  DOI 10.1007/s00382-015-2883-8
 + Wenju Cai, Agus Santoso, Guojian Wang, Sang-Wook Yeh, Soon-Il An, Kim Cobb, Mat Collins, Guilyardi, Fei-Fei Jin, Jong-Seong Kug, Matthieu Lengaigne, Michael J. McPhaden, Takahashi, Axel Timmermann, Gabriel Vecchi, Masahiro Watanabe and Lixin Wu. 2015 : ENSO and greenhouse warming. Nature climate chage.
 + Seul-Hee Im, Soon-Il An, Seon Tae Kim, and Fei-Fei Jin. 2015 : Feedback processes responsible for El Nino-La Nina amplitude asymmetry. Geophys. Res. Lett., 42, 5556-5563,
-+ Mi-Kyung Sung, Soon-Il An, Baek-Min Kim, and Jong-Seong Kug. 2015 : Asymmetric impact of Atlantic Multidecadal Oscillation on El Nino and La Nina characteristics. Geophys. Res. Lett., 42, 4998-5004, 
-+ Seung-Ki Min, Seok-Woo Son, Kyong-Hwan Seo, Jong-Seong Kug, Soon-Il An, Yong-Sang Choi, Jee-Hoon Jeong, Baek-Min Kim, Ji-Won Kim, Yeon-Hee Kim, June-Yi Lee, and Myong-In Lee, 2015 : Changes in Weather and climate Extremes over Korea and Possible Causes: A Review. Asia-Pac. J. Atmos. Sci., 51(2), 103-121, 
-+ Yu, J.-Y., P.-K. Kao, H. Paek, H.-H. Hsu, C.-W. Hung, M.-M. Lu, and S.-I. An, 2015 : Linking Emergence of the Central-Pacific El Nino to the Atlantic Multi-decadal Oscillation. J.Climate., 28, 651-662. 
++ Mi-Kyung Sung, Soon-Il An, Baek-Min Kim, and Jong-Seong Kug. 2015 : Asymmetric impact of Atlantic Multidecadal Oscillation on El Nino and La Nina characteristics. Geophys. Res. Lett., 42, 4998-5004,
++ Seung-Ki Min, Seok-Woo Son, Kyong-Hwan Seo, Jong-Seong Kug, Soon-Il An, Yong-Sang Choi, Jee-Hoon Jeong, Baek-Min Kim, Ji-Won Kim, Yeon-Hee Kim, June-Yi Lee, and Myong-In Lee, 2015 : Changes in Weather and climate Extremes over Korea and Possible Causes: A Review. Asia-Pac. J. Atmos. Sci., 51(2), 103-121,
++ Yu, J.-Y., P.-K. Kao, H. Paek, H.-H. Hsu, C.-W. Hung, M.-M. Lu, and S.-I. An, 2015 : Linking Emergence of the Central-Pacific El Nino to the Atlantic Multi-decadal Oscillation. J.Climate., 28, 651-662.
 + S.-I. An., and J. Choi, 2015 : Why the Twenty-first Century Tropical Pacific Trend Pattern cannot significantly influence ENSO Amplitude?. Climate Dynamics., 44, 133-146.
 + Yun Gon Lee, Jhoon Kim,Chang-Hoi Ho ,Soon-Il An, Hi-Ku Cho, Rui Mao, Baijun Tian, Dong Wu, Jae N. Lee,Olga Kalashnikova, Yunsoo Choi and Sang-Wook Yeh.  2014 : The effects of ENSO under negative AO phase on spring dust activity over northern China: an observational investigation. Int. J. Climatol., 35(6). 935-947.
 + Park, J.-H., and S.-I. An 2014 : Southward displacement of the upper atmosphere zonal jet in the eastern north Pacific due to global warming, Geophysical Res.Lett., 41, 7861-7867(Corresponding author)
@@ -63,11 +64,11 @@ weight = 6
 + Santos, A., S. McGregor, F.-F. Jin, W. Cai, M.H. England, S.-I. An, M.J. McPhaden and E. Guilyardi, 2013 : Late-twentieth-century emergence of the El Nino propagation asymmetry and future projections. Nature, 504, 126-130.
 + Sung, M. -K., Y.-G. Ham, J.-S. Kug, and S.-I. An, 2013: An Alterative Effect by the Tropical North Atlantic SST  in Intraseasonally Varying El Nino Teleconnection  over the North Atlantic.Tellus A, Tellus A 2013, 65, 19863(corresponding author).
 + Thual, S., B. Dewitte, S.-I. An, S. Illig, and N. Ayoub, 2013: Influence of Recent Stratification Changes on ENSO stability in a Conceptual Model of the Equatorial Pacific. J. Climate, 26,4790-4802.
-+ H.-R, Kim. and S.-I. An, 2013: On the Subarctic North Atlantic Cooling due to Global Warming, Theoretical and Applied Climatology, 114, 9-19(corresponding author). 
++ H.-R, Kim. and S.-I. An, 2013: On the Subarctic North Atlantic Cooling due to Global Warming, Theoretical and Applied Climatology, 114, 9-19(corresponding author).
 + Choi, J., S.-I. An, S.-W. Yeh, and J.-Y. Yu, 2013: ENSO-like and ENSO-induced Tropical Pacific Decadal Variability in CGCMs, J. Climate, 26, 1485-1501(corresponding author).
 + Park, J.-H., S.-I. An, S.-W. Yeh, and Schneider N., 2013 : Quantitative Assessment of the Climate Components Driving the Pacific Decadal Oscillation in Climate Models, Theor. Appl. Climatol, 112, 431-445(corresponding author).
-+ An, S.-I., H.-R. Kim, and B.-M. Kim, 2013 : Impact of Freshwater Discharge from the Greenland Ice Sheet on North Atlantic Climate Variability, Theor. Appl. Climatol.112,29-43. 
-+ An, S.-I. and J.-H. Park, 2013 : Maintenance of PDO Variability during the Mid-­Holocene in PMIP2, Climate Dynamics, 40,1291-1299(Feb 27, 2013). 
++ An, S.-I., H.-R. Kim, and B.-M. Kim, 2013 : Impact of Freshwater Discharge from the Greenland Ice Sheet on North Atlantic Climate Variability, Theor. Appl. Climatol.112,29-43.
++ An, S.-I. and J.-H. Park, 2013 : Maintenance of PDO Variability during the Mid-­Holocene in PMIP2, Climate Dynamics, 40,1291-1299(Feb 27, 2013).
 + An, S.-I. and J. Choi, 2013 : Inverse relationship between the equatorial eastern Pacific annual-cycle and ENSO amplitudes in a Coupled General Circulation Model, Climate Dynamics, 40,663-675.
 + Choi, J. and S.-I. An, 2013 : Quantifying the residual effects of ENSO on low-frequency variability in the tropical Pacific, Int. J. Climatology, 33,1047-1052(corresponding author).
 + Y. Tang, S.-I. An, and W. Duan, 2013 : Climate Variability and Predictability at Various Time Scales, Advances in Meteorology, 2012, Article ID 857831, 1 page. doi:10.1155/2012/857831.
@@ -91,7 +92,7 @@ weight = 6
 + An, S. -I., Y.-G. Ham, J.-S. Kug, A. Timmermann, J. Choi and I.-S. Kang, 2010 : The inverse effect of annual mean state and annual cycle changes on ENSO, J. Climate, 23, 1095-1110.(Mar. 1, 2010)
 + Choi, J., S.-I. An, B. Dewitte, and W.-W. Hsieh, 2009 : Interactive feedback between the tropical Pacific decadal oscillation and ENSO in a coupled general circulation model, J. Climate, 22, 6597-6611.(corresponding author)(Dec. 15. 2009)
 + Dewitte, B., S. Thual, S.-W. Yeh, S.-I. An, B.-K. Moon, and Giese, 2009 : Low-frequency Variability of Temperature in the Vicinity of the Equatorial Pacific thermocline in SODA: Role of Equatorial Wave Dynamics and ENSO Asymmetry, J. Climate, 22, 5783-5795.(Nov. 15, 2009)
-+ An, S. -I., and J. Choi, 2009 : Seasonal locking of the ENSO asymmetry and its influence on the seasonal cycle of the tropical eastern Pacific sea surface temperature. Atmospheric Research, 94, 3-9.(Sep. 2009). 
++ An, S. -I., and J. Choi, 2009 : Seasonal locking of the ENSO asymmetry and its influence on the seasonal cycle of the tropical eastern Pacific sea surface temperature. Atmospheric Research, 94, 3-9.(Sep. 2009).
 + An, S. -I., 2009 : A review of interdecadal changes in the nonlinearity of the El Nino-Southern Oscillation, Theor. Appl. Climatol., 97, 29-40.(June, 2009)
 + Kug, J.-S., F.-F. Jin, and S.-I. An, 2009 : Two Types of El Nino Events: Cold Tongue El Nino and Warm Pool El Nino, J. Climate, 22, 1499-1515.(march 15, 2009).
 + An, S.-I., 2008 : Interannual Changes in the Variability of Tropical Pacific Instability Waves, Asia Pacific Journal of Atmospheric Sciences, 44, 249-258.(Aug, 2008)

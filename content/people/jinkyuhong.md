@@ -33,9 +33,7 @@ weight = 8
 + Hosting the 1st Domestic Expert Workshop on Surface Flux Measurement and Modeling (2009)
 
 #### Courses
-+ 미기상학
-+ 생물-대기 상호작용
++ Micrometeorology
++ Biosphere-Atmosphere Interaction
 
 #### Selected Publications
-+ Publication 1
-+ Publication 2

@@ -27,8 +27,8 @@ weight = 3
 + Metri in KMA, Lab. of App. & Radar (기상연구사,1987.8- 1990.6)
 
 #### Courses
-+ 대기물리
-+ 구름 및 강수과정
++ Atmospheric Physics Ⅰ
++ Cloud and Precipitation Processes
 
 #### Selected Publications
 + Kim, N., Park, M., Yum, S. S., Park, J. S., Song, I. H., Shin, H. J., … & Lee, G. (2017). Hygroscopic properties of urban aerosols and their cloud condensation nuclei activities measured in Seoul during the MAPS-Seoul campaign. Atmospheric Environment, 153, 217-232.

@@ -31,9 +31,9 @@ weight = 5
 + 1992-1997    : Research Scientist, Korea Meteorological Administration
 
 #### Courses
-+ 자료동화
-+ 대기역학
-+ 예측가능성론
++ Data Assimilation
++ Atmospheric Dynamics Ⅰ,Ⅱ
++ Predictability Theory
 
 #### Selected Publications
 + Kim, H., H. M. Kim, J. Kim, and C.-H. Cho, 2018: Effect of data assimilation parameters on the optimized surface CO2 flux in Asia, Asia-Pacific Journal of Atmospheric Sciences, 54, 1-17, doi:10.1007/s13143-017-0049-9.
