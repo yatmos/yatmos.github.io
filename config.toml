@@ -197,7 +197,7 @@ summarylength = 20
     moviefile = "img/iss.mp4"
     snapfile = "img/iss_ini.jpg"
     sourcefile = "https://youtu.be/W0LHTWG-UmQ"
-    title = "Atmospheric Sciences?"
+    title = "What is Atmospheric Sciences?"
     subtitle = "Atmospheric sciences can provide responsible solutions for the global environment, the most challenging issue in the 21st century, and harmonious coexsitence of nature and human beings."
 
 [params.see_more]
