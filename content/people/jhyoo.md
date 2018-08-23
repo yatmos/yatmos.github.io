@@ -2,7 +2,7 @@
 title = "Ji-Hee Yoo"
 date = "2018-03-24T13:39:46+02:00"
 teams = ["students"]
-banner = "img/people/jhyoo.png"
+banner = "img/people/jhyoo.jpg"
 email = "yoojh92@yonsei.ac.kr"
 job = "Ph.D. student"
 phone = "02-2123-7643"
