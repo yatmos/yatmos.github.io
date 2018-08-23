@@ -6,7 +6,7 @@ banner = "img/people/dongbinshin.jpg"
 email = "dbshin@yonsei.ac.kr"
 job = "Professor"
 phone = "02-2123-5685"
-room = "Science Hall 546"
+room = "Atmospheric Radiation Laboratory / Science Hall 546"
 web = "http://arsl.yonsei.ac.kr"
 weight = 7
 +++

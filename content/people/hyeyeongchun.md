@@ -6,7 +6,7 @@ banner = "img/people/hyeyeongchun.jpg"
 email = " chunhy@yonsei.ac.kr"
 job = "Professor"
 phone = "02-2123-2692"
-room = "Science Hall #543"
+room = "Laboratory for Atmospheric Dynamics / Science Hall #543"
 web = "http://atmosdyn.yonsei.ac.kr"
 weight = 2
 +++

@@ -6,7 +6,7 @@ banner = "img/people/jhoonkim2.jpg"
 email = "jkim2@yonsei.ac.kr"
 job = "Professor"
 phone = "02-2123-5682"
-room = "Science Hall #545"
+room = "Atmospheric Radiation Laboratory / Science Hall #545"
 web = "http://web.yonsei.ac.kr/oasis"
 weight = 4
 +++

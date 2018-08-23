@@ -7,7 +7,7 @@ banner = "img/people/HajoonSong.png"
 email = "hajsong@yonsei.ac.kr"
 job = "Assistant Professor"
 phone = "+82-2-2123-2579"
-room = "Science BLDG 544"
+room = "Science Hall #544"
 web = "https://hajsong.github.io"
 weight = 10
 +++

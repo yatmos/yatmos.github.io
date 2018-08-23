@@ -6,7 +6,7 @@ banner = "img/people/soonilan.jpg"
 email = "sian@yonsei.ac.kr"
 job = "Professor"
 phone = "02-2123-5684"
-room = "Science Hall #538"
+room = "Climate Theory Laboratory / Science Hall #538"
 web = "http://web.yonsei.ac.kr/climate"
 weight = 6
 +++

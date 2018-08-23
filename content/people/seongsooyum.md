@@ -6,7 +6,7 @@ banner = "img/people/seongsooyum.jpg"
 email = "ssyum@yonsei.ac.kr"
 job = "Professor"
 phone = "02-2123-5681"
-room = "Science Hall #547"
+room = "Cloud Physics Laboratory / Science Hall #547"
 web = "http://cloud.yonsei.ac.kr"
 weight = 3
 +++

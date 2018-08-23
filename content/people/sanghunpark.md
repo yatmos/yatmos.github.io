@@ -6,7 +6,7 @@ banner = "img/people/sanghunpark.jpg"
 email = "pshun@yonsei.ac.kr"
 job = "Assistant Professor"
 phone = "02-2123-5686"
-room = "Science Hall #537"
+room = "Laboratory for Atmospheric Modeling Research / Science Hall #537"
 web = ""
 weight = 9
 +++

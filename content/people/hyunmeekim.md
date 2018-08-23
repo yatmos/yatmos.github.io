@@ -6,7 +6,7 @@ banner = "img/people/hyunmeekim.jpg"
 email = "khm@yonsei.ac.kr"
 job = "Professor"
 phone = "02-2123-5683"
-room = "Science Hall #541"
+room = "Atmospheric Predictability & Data Assimilation Laboratory / Science Hall #541"
 web = "http://web.yonsei.ac.kr/apdal"
 weight = 5
 +++

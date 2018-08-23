@@ -6,7 +6,7 @@ banner = "img/people/jinkyuhong.jpg"
 email = "jhong@yonsei.kr"
 job = "Associate Professor"
 phone = "02-2123-5693"
-room = "Science Hall #542"
+room = "Biometeorology Laboratory / Science Hall #542"
 web = "http://koflux.yonsei.ac.kr"
 weight = 8
 +++
