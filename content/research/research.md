@@ -51,7 +51,8 @@ In the Cloud Physics Laboratory, we make measurements of physical/chemical prope
 <br>
 
 #### Geophysical Fluid Dynamics Laboratory [(http://gfdl.yonsei.ac.kr)](http://gfdl.yonsei.ac.kr)
-We study an Ocean mixed layer and an Atmospheric boundary layer using the Parallel LES Model (PALM). And we study about the effects of ocean on the climate change using the ocean model.
+Our research areas are largely divided into LES(Large Eddy Simulation) and OGCM(Ocean General Circulation Model).
+We have developed a parallelized LES model for high resolution numerical simulation and have been studying many atmospheric and oceanic turbulence phenomena including cloud microphysics, the atmopheric boundary layer and the oceanic mixed layer. By using OGCM, we also try to have a deeper understanding of the ocean, which plays a crucial role in controlling large scale climate change such as ENSO and global warming.
 
 <br>
 
