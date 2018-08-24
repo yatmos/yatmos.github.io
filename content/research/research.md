@@ -16,7 +16,7 @@ weight = 1
 <br>
 
 #### Air-Sea Modeling laboratory [(http://airsea.yonsei.ac.kr)](http://airsea.yonsei.ac.kr)
-The interaction between the atmosphere and the ocean is critical to the earth climate. The exchange of momentum, heat and freshwater between the atmosphere and the ocean can shape the circulations in the air and sea, and the exchange of greenhouse gases such as carbon dioxide impacts the radiation balance of the climate. Our research object is to better understand the air-sea interactions using observations from satellite and manned/unmanned observing platforms as well as using the air-sea coupled model. Our research interests extend to the prediction of the atmosphere and ocean states using the coupled model and data assimilation technique. 
+The interaction between the atmosphere and the ocean is critical to the earth climate. The exchange of momentum, heat and freshwater between the atmosphere and the ocean can shape the circulations in the air and sea, and the exchange of greenhouse gases such as carbon dioxide impacts the radiation balance of the climate. Our research object is to better understand the air-sea interactions using observations from satellite and manned/unmanned observing platforms as well as using the air-sea coupled model. Our research interests extend to the prediction of the atmosphere and ocean states using the coupled model and data assimilation technique.
 
 <br>
 
@@ -35,7 +35,7 @@ Our research focuses on satellite remote sensing of clouds and precipitation tha
 
 <br>
 
-####  Biometeorology Laboratory [(http://koflux.yonsei.ac.kr)](http://koflux.yonsei.ac.kr)
+####  Biometeorology Laboratory [(http://eapl.yonsei.ac.kr)](http://eapl.yonsei.ac.kr)
 The biometeorology laboratory pursues (1) a nationwide sustainable water resource management with "HydroKorea II" project through the synergy of ecohydrological/ biogeochemical measurement, modeling and remote sensing, and (2) carbon cycle monitoring and prediction in Monsoon Asia through CarboEastAsia, a research cluster based on collaborations in carbon flux researches among China, Japan and Korea.
 
 <br>
