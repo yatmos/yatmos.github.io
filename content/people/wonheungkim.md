@@ -15,7 +15,7 @@ weight = 40
 + Numerical modeling of fog and seeding
 
 #### Education
- + **B.Sc** (2012) in Atmospheric Sciences, Yonsei University, Seoul, Korea
+ + **B.Sc** (2012) in Atmospheric & Environmental Sciences, Gangneung-Wonju National University, Gangneung, Korea
 
 #### Awards
 

@@ -23,4 +23,4 @@ weight = 40
 #### Awards
 
 #### Publications
-+ Lee, Seoung Soo, Zhanqing Li, Yuwei Zhang, Hyelim Yoo, Seungbum Kim, Byung Gon Kim, Yong Sang Choi, et al. (2018), Effects of Model Resolution and Parameterizations on the Simulations of Clouds, Precipitation, and Their Interactions with Aerosols. Atmospheric Chemistry and Physics, 18 (1), 13??9.
++ Lee, Seoung Soo, Zhanqing Li, Yuwei Zhang, Hyelim Yoo, Seungbum Kim, Byung Gon Kim, Yong Sang Choi, et al. (2018), Effects of Model Resolution and Parameterizations on the Simulations of Clouds, Precipitation, and Their Interactions with Aerosols. Atmospheric Chemistry and Physics, 18 (1), 139.

@@ -8,7 +8,7 @@ job = "Combined M.Sc./Ph.D. student"
 phone = "02-2123-7616"
 room = "Atmospheric Radiation Laboratory / Science Hall 531"
 web = "http://web.yonsei.ac.kr/oasis/"
-weight = 40
+weight = 60
 +++
 
 #### Research interests
