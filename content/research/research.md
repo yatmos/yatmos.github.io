@@ -15,6 +15,11 @@ weight = 1
 
 <br>
 
+#### Air-Sea Modeling laboratory [(http://airsea.yonsei.ac.kr)](http://airsea.yonsei.ac.kr)
+The interaction between the atmosphere and the ocean is critical to the earth climate. The exchange of momentum, heat and freshwater between the atmosphere and the ocean can shape the circulations in the air and sea, and the exchange of greenhouse gases such as carbon dioxide impacts the radiation balance of the climate. Our research object is to better understand the air-sea interactions using observations from satellite and manned/unmanned observing platforms as well as using the air-sea coupled model. Our research interests extend to the prediction of the atmosphere and ocean states using the coupled model and data assimilation technique. 
+
+<br>
+
 #### Atmospheric Predictability & Data Assimilation Laboratory [(http://web.yonsei.ac.kr/apdal)](http://web.yonsei.ac.kr/apdal)
 In APDAL, inherent predictability of weather and climate, model and data assimilation systems, and adaptive observations are studied to improve the quality of numerical weather prediction. In addition, we also study dynamical development of forecast error and high impact weather systems using observations, models, and various theories Including potential vorticity thinking.
 

@@ -8,7 +8,7 @@ email = "hajsong@yonsei.ac.kr"
 job = "Assistant Professor"
 phone = "+82-2-2123-2579"
 room = "Science Hall #544"
-web = "https://hajsong.github.io"
+web = "http://airsea.yonsei.ac.kr"
 weight = 10
 +++
 
