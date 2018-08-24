@@ -3,18 +3,19 @@ title = "Jinkyu Hong"
 date = "2018-04-10T13:39:46+02:00"
 teams = ["faculty"]
 banner = "img/people/jinkyuhong.jpg"
-email = "jhong@yonsei.kr"
+email = "jhong@yonsei.ac.kr"
 job = "Associate Professor"
 phone = "02-2123-5693"
-room = "Biometeorology Laboratory / Science Hall #542"
-web = "http://koflux.yonsei.ac.kr"
+room = "Science Hall #542"
+web = "http://eapl.yonsei.ac.kr"
 weight = 8
 +++
 
 #### Research interests
 + Carbon and Water Cycles
-+ Urban Microclimate
-+ Atmospheric Turbulence
++ Urban Climate and Environment
++ Ecosystem-Atmosphere Interaction
++ Energy-Climate Interaction
 
 #### Education
 + **Ph.D.** (2005) Department of Atmospheric Sciences, Yonsei University, Seoul, Korea
@@ -34,6 +35,7 @@ weight = 8
 
 #### Courses
 + Micrometeorology
++ Atmospheric Measurement Technique
 + Biosphere-Atmosphere Interaction
 
 #### Selected Publications
