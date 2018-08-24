@@ -26,7 +26,7 @@ weight = 5
 + 2014-current : Professor, Yonsei University
 + 2009-2014    : Associate professor, Yonsei University
 + 2005-2008    : Assistant professor, Yonsei University
-+ 2003-2005    : Research Scientist & Meteorological Administration, Meteorological Research Institute, Korea    
++ 2003-2005    : Research Scientist, Korea Meteorological Administration
 + 2002-2003    : Research Associate, Dept. of Atmospheric and Oceanic Sciences, Univ. of Wisconsin-Madison
 + 1992-1997    : Research Scientist, Korea Meteorological Administration
 
