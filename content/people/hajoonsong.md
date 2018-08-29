@@ -23,7 +23,7 @@ weight = 10
 
 #### 연구경력
 + 2018.3 - : 조교수, 연세대학교 대기과학과
-+ 2018.7 - 2018.8 : Visiting Scholar, MIT, Cambridge, USA
++ 2018.7 - 2018.8 : Visiting Professor, MIT, Cambridge, USA
 + 2013-2018: Research Scientist / Postdoctoral Associate, MIT, Cambridge, USA
 + 2011-2013: Postdoctoral Associate, University of California, Santa Cruz, USA
 + 2005-2011: Assistant Researcher, Scripps Institution of Oceanography, La Jolla, USA
@@ -32,6 +32,7 @@ weight = 10
 #### 담당과목
 + 대기-해양 상호관계
 + 해양모델링
++ 기상프로그래밍
 
 #### 논문
 + Song, H., M. C. Long, P. Gaube, I. Frenger, J. Marshall and D. J. McGillicuddy Jr., 2018: Seasonal variation in the correlation between anomalies of sea level and chlorophyll in the Antarctic Circumpolar Current region. Geophys. Res. Lett., 45, 5011-5019.
