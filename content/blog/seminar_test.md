@@ -1,5 +1,5 @@
 +++
-title = "[Seminar] Prof. Soon-Il An"
+title = "[Seminar] seminar test"
 date = 2018-08-29T8:49:47+09:00
 categories = ["seminar"]
 banner = "img/placeholder.png"

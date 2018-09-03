@@ -1,5 +1,0 @@
-
-[submodule "public"]
-	path = public
-	url = git@github.com:yatmos/eng.git
-	branch = master
