@@ -1,4 +1,4 @@
-+++
+++
 title = "송하준"
 date = "2018-04-08T13:39:46+02:00"
 teams = ["교수진"]
@@ -30,9 +30,9 @@ weight = 10
 + 2005 : Research assistant, Korea Institute of Ocean Science & Technology, Ansan, Korea
 
 #### 담당과목
-+ 대기-해양 상호관계
-+ 해양모델링
-+ 기상프로그래밍
++ [대기-해양 상호관계](https://hajsong.github.io/ATM2106/)
++ [해양모델링](https://hajsong.github.io/ATM9107/)
++ [기상프로그래밍](https://hajsong.github.io/ATM4110/)
 
 #### 논문
 + Song, H., M. C. Long, P. Gaube, I. Frenger, J. Marshall and D. J. McGillicuddy Jr., 2018: Seasonal variation in the correlation between anomalies of sea level and chlorophyll in the Antarctic Circumpolar Current region. Geophys. Res. Lett., 45, 5011-5019.
