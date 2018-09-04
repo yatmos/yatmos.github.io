@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>대기복사연구실/지구환경연구소 on 대기과학과</title>
+    <link>https://yatmos.github.io/teams/%EB%8C%80%EA%B8%B0%EB%B3%B5%EC%82%AC%EC%97%B0%EA%B5%AC%EC%8B%A4/%EC%A7%80%EA%B5%AC%ED%99%98%EA%B2%BD%EC%97%B0%EA%B5%AC%EC%86%8C/</link>
+    <description>Recent content in 대기복사연구실/지구환경연구소 on 대기과학과</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko</language>
+    <lastBuildDate>Sat, 24 Mar 2018 13:39:46 +0200</lastBuildDate>
+    
+	<atom:link href="https://yatmos.github.io/teams/%EB%8C%80%EA%B8%B0%EB%B3%B5%EC%82%AC%EC%97%B0%EA%B5%AC%EC%8B%A4/%EC%A7%80%EA%B5%AC%ED%99%98%EA%B2%BD%EC%97%B0%EA%B5%AC%EC%86%8C/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>김시완 (Si-Wan Kim)</title>
+      <link>https://yatmos.github.io/people/siwankim/</link>
+      <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
+      
+      <guid>https://yatmos.github.io/people/siwankim/</guid>
+      <description>연구분야 Air quality (tropospheric ozone and aerosols)</description>
+    </item>
+    
+  </channel>
+</rss>
