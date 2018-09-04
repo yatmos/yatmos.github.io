@@ -1,6 +1,6 @@
 +++
 title = "[세미나] Dr. Mohan Ramamurthy"
-date = 2018-09-04T8:49:47+09:00
+date = 2018-09-04T9:49:47+09:00
 categories = ["세미나"]
 banner = "img/placeholder.png"
 icon = "microphone"
