@@ -7,7 +7,7 @@ email = "devorahn711@gmail.com"
 job = "M.Sc. student"
 phone = "02-2123-7616"
 room = "Atmospheric Radiation Laboratory / Science Hall 531"
-web = "https://web.yonsei.ac.kr/oasis/"
+web = "http://web.yonsei.ac.kr/oasis/"
 weight = 50
 +++
 

@@ -11,6 +11,6 @@ icon = "trophy"
 ####  Scientist of the Month
 Prof. Jhoon Kim was selected as the "Scientist of the Month" for January 2018 by the Korea Research Foundation(NRF), Ministry of Science, Technology and ICT.
 
-[More details](https://sci.sedaily.com/Winner#252)
+[More details](http://sci.sedaily.com/Winner#252)
 <br>
 [![jk](../../../../../img/carousel/jkim.jpg)](../../../../../people/jhoonkim)

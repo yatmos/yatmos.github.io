@@ -7,7 +7,7 @@ email = "dbshin@yonsei.ac.kr"
 job = "Professor"
 phone = "02-2123-5685"
 room = "Atmospheric Radiation Laboratory / Science Hall 546"
-web = "https://arsl.yonsei.ac.kr"
+web = "http://arsl.yonsei.ac.kr"
 weight = 7
 +++
 
