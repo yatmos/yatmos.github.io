@@ -95,7 +95,7 @@ summarylength = 20
 [[menu.topbar]]
     weight = 2
     name = "Language"
-    url = "http://atmos.yonsei.ac.kr/eng"
+    url = "https://atmos.yonsei.ac.kr/eng"
     pre = "English"
 
 [params]
