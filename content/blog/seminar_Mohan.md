@@ -1,15 +1,15 @@
 +++
-title = "[세미나] Dr. Mohan Ramamurthy"
+title = "[Seminar] Dr. Mohan Ramamurthy"
 date = 2018-09-04T9:49:47+09:00
-categories = ["세미나"]
+categories = ["Seminar"]
 banner = "img/placeholder.png"
 icon = "microphone"
 +++
 ### Unidata Science Gateway: A Cloud-based Platform for Enabling Open and Reproducible Science
 <br>
 #### Dr. Mohan Ramamurthy (UCAR)
-#### 2018년 9월 6일 (목) 09:00
-#### 과학관 553호
+#### September 6, 2018 (Thursday) 09:00
+#### Science Hall #553
 <br>
 #### Abstract
 

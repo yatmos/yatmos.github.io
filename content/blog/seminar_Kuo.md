@@ -1,15 +1,15 @@
 +++
-title = "[세미나] Dr. Ying-Hwa (Bill) Kuo"
+title = "[Seminar] Dr. Ying-Hwa (Bill) Kuo"
 date = 2018-09-04T11:49:47+09:00
-categories = ["세미나"]
+categories = ["Seminar"]
 banner = "img/placeholder.png"
 icon = "microphone"
 +++
 ### Predicting the Genesis of Typhoon Nuri (2008): Impact of GPS Radio Occultation Data
 <br>
 #### Dr. Ying-Hwa (Bill) Kuo (UCAR)
-#### 2018년 9월 6일 (목) 11:00
-#### 과학관 553호
+#### September 6, 2018 (Thursday) 11:00
+#### Science Hall #553
 <br>
 #### Abstract
 
