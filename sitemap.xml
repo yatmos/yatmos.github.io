@@ -421,7 +421,6 @@
   </url>
   
   <url>
-<<<<<<< HEAD
     <loc>https://atmos.yonsei.ac.kr/eng/blog/2018/09/04/seminar_kuo/</loc>
     <lastmod>2018-09-04T11:49:47+09:00</lastmod>
   </url>
@@ -437,8 +436,6 @@
   </url>
   
   <url>
-=======
->>>>>>> 49785aebbc84478ad06db92297791debab001207
     <loc>https://atmos.yonsei.ac.kr/eng/blog/2018/08/10/seminar_hyunkeehong/</loc>
     <lastmod>2018-08-10T12:49:47+09:00</lastmod>
   </url>
@@ -615,7 +612,6 @@
   
   <url>
     <loc>https://atmos.yonsei.ac.kr/eng/blog/</loc>
-<<<<<<< HEAD
     <lastmod>2018-09-04T11:49:47+09:00</lastmod>
   </url>
   
@@ -623,9 +619,6 @@
     <loc>https://atmos.yonsei.ac.kr/eng/categories/%EC%84%B8%EB%AF%B8%EB%82%98/</loc>
     <lastmod>2018-09-04T11:49:47+09:00</lastmod>
     <priority>0</priority>
-=======
-    <lastmod>2018-08-10T12:49:47+09:00</lastmod>
->>>>>>> 49785aebbc84478ad06db92297791debab001207
   </url>
   
 </urlset>
