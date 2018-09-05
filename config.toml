@@ -1,4 +1,4 @@
-baseurl = "http://atmos.yonsei.ac.kr/eng/"
+baseurl = "https://atmos.yonsei.ac.kr/eng/"
 title = "Department of Atmospheric Sciences, Yonsei University"
 theme = "hugo-universal-theme"
 
@@ -95,7 +95,7 @@ summarylength = 20
 [[menu.topbar]]
     weight = 2
     name = "Language"
-    url = "http://atmos.yonsei.ac.kr"
+    url = "https://atmos.yonsei.ac.kr"
     pre = "한글"
 
 [[menu.topbar]]
