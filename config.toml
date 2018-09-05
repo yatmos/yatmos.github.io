@@ -89,7 +89,7 @@ summarylength = 20
 [[menu.topbar]]
     weight = 1
     name = "school"
-    url = "http://www.yonsei.ac.kr/sc/"
+    url = "https://www.yonsei.ac.kr/sc/"
     pre = "연세대학교"
 
 [[menu.topbar]]
