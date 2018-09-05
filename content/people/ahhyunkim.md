@@ -7,7 +7,7 @@ email = "kimah3@yonsei.ac.kr"
 job = "Ph.D. student"
 phone = "02-2123-7613"
 room = "Cloud Physics Laboratory / Science Hall 530A"
-web = "http://cloud.yonsei.ac.kr"
+web = "https://cloud.yonsei.ac.kr"
 weight = 40
 +++
 

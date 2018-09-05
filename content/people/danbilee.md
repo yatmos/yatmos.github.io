@@ -7,7 +7,7 @@ email = "leedb@yonsei.ac.kr"
 job = "Ph.D. student"
 phone = "02-2123-7643"
 room = "Laboratory for Atmospheric Dynamics / Science Hall 533A"
-web = "http://atmosdyn.yonsei.ac.kr"
+web = "https://atmosdyn.yonsei.ac.kr"
 weight = 40
 +++
 

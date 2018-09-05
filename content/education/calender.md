@@ -13,5 +13,5 @@ Academic calendar
 <br>
 <br>
 
-[Link to academic calendar](http://www.yonsei.ac.kr/en_sc/academics/academicCalendar.jsp)
+[Link to academic calendar](https://www.yonsei.ac.kr/en_sc/academics/academicCalendar.jsp)
 <br>

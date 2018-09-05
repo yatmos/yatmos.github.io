@@ -7,7 +7,7 @@ email = "dws328@yonsei.ac.kr"
 job = "Combined M.Sc./Ph.D. student"
 phone = ""
 room = "Atmospheric Remote Sensing Laboratory / Science Hall 529B"
-web = "http://arsl.yonsei.ac.kr"
+web = "https://arsl.yonsei.ac.kr"
 weight = 60
 +++
 

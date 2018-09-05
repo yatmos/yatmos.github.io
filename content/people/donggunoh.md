@@ -7,7 +7,7 @@ email = "dgoh313@gmail.com"
 job = "Combined M.Sc./Ph.D. student"
 phone = "02-2123-2690"
 room = "Geophysical Fluid Dynamics Laboratory / Science Hall 534"
-web = "http://gfdl.yonsei.ac.kr"
+web = "https://gfdl.yonsei.ac.kr"
 weight = 60
 +++
 

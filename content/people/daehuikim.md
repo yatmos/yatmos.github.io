@@ -7,7 +7,7 @@ email = "kdhui@yonsei.ac.kr"
 job = "Ph.D. student"
 phone = "02-2123-4815"
 room = "Atmospheric Predictability and Data Assimilation Laboratory / Science Hall 530 B"
-web = "http://web.yonsei.ac.kr/apdal"
+web = "https://web.yonsei.ac.kr/apdal"
 weight = 40
 +++
 

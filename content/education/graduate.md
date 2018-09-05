@@ -17,7 +17,7 @@ Guide to admissions and courses for graduate school
 ## Admissions
 _ _ _
 
-[Link to admission information for graduate school](http://graduate.yonsei.ac.kr/graduate_en/index.do)
+[Link to admission information for graduate school](https://graduate.yonsei.ac.kr/graduate_en/index.do)
 
 
 <br>
