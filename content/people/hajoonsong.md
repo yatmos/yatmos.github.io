@@ -1,6 +1,6 @@
 +++
 title = "송하준"
-date = "2018-04-08T13:39:46+02:00"
+date = "2018-09-04T13:39:46+02:00"
 teams = ["교수진"]
 banner = "img/people/HajoonSong.png"
 email = "hajsong@yonsei.ac.kr"
