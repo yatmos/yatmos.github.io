@@ -142,3 +142,4 @@ weight = 6
 + Kug, J.-S., S.-I. An, 2010 : Ocean dynamic processes responsible for the interannual variability of the tropical Indian Ocean SST associated with ENSO, Atmosphere, 20, 211-219.
 + Kang, I.-S., Yang-Mi Lee, and S.-I. An, 1995 : Interannual variability of Typhoon activity over the western Pacific and El Nino, J. Korean Meteor. Soc. 31, 15-26.
 + Kang, I.-S., S.-I. An, C.-H. Joung, S.-C. Yoon, and S.-M. Lee, 1989 : 30-60 day oscillation signal appearing in climatological variation of outgoing longwave radiation around East Asian region during Northern Summer, J. Korean Meteor. Soc., 25, 221-232.
+

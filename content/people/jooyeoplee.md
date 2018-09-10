@@ -1,4 +1,4 @@
-+++
+﻿+++
 title = "이주엽"
 date = "2018-03-24T13:39:46+02:00"
 teams = ["학생"]
@@ -13,6 +13,7 @@ weight = 50
 
 #### 연구분야
  + Modeling of the land-atmosphere interface
+
 
 #### 학력
  + **B.Sc** (2018) in Atmospheric Sciences, Yonsei University, Seoul, Korea

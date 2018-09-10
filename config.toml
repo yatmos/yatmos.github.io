@@ -1,5 +1,5 @@
 baseurl = "https://yatmos.github.io/"
-title = "대기과학과"
+title = "연세대학교 대기과학과"
 theme = "hugo-universal-theme"
 languageCode = "ko"
 # Site language. Available translations in the theme's `/i18n` directory.
@@ -13,7 +13,7 @@ hasCJKLanguage = true
 # Define the number of posts per page
 paginate = 20
 
-summarylength = 10
+summarylength = 20
 
 [menu]
 
@@ -89,13 +89,13 @@ summarylength = 10
 [[menu.topbar]]
     weight = 1
     name = "school"
-    url = "http://www.yonsei.ac.kr/sc/"
+    url = "https://www.yonsei.ac.kr/sc/"
     pre = "연세대학교"
 
 [[menu.topbar]]
     weight = 2
     name = "Language"
-    url = "http://web.yonsei.ac.kr/atmoseng"
+    url = "https://atmos.yonsei.ac.kr/eng"
     pre = "English"
 
 [params]
@@ -134,8 +134,8 @@ summarylength = 10
     # logo = "img/apple-touch-icon.png"
     address = """<p>
         <br>03722
-        <br>서울특별시 서대문구 연희로 50
-        <br>연세대학교 이과대학(과학관)
+        <br>서울특별시 서대문구 연세로 50
+        <br>연세대학교 이과대학(과학관) 528A
         <br><strong>대기과학과</strong>
       </p>
       """
@@ -163,7 +163,7 @@ summarylength = 10
     teams = true
 
 [params.carousel]
-    enable = true
+    enable = false
     # All carousel items are defined in their own files. You can find example items
     # at 'exampleSite/data/carousel'.
     # For more informtion take a look at the README.
@@ -182,6 +182,15 @@ summarylength = 10
     title = "Testimonials"
     subtitle = "We have worked with many clients and we always like to hear they come out from the cooperation happy and satisfied. Have a look what our clients said about us."
 
+[params.movie]
+    enable = true
+    #moviefile = "http://thenewcode.com/assets/videos/polina.mp4"
+    moviefile = "img/iss.mp4"
+    snapfile = "img/iss_ini.jpg"
+    sourcefile = "https://youtu.be/W0LHTWG-UmQ"
+    title = "대기과학이란?"
+    subtitle = "21세기 인류가 당면한 가장 도전적인 문제인 지구환경 분야를 선도하는 대기과학은 자연과 인간의 조화로운 공존을 위해 책임 있는 해결을 제시할 수 있는 핵심 과학입니다."
+
 [params.see_more]
     enable = true
     icon = "fa fa-paper-plane"
@@ -191,12 +200,12 @@ summarylength = 10
     link_text = "학사안내"
 
 [params.clients]
-    enable = false
+    enable = true
     # All clients are defined in their own files. You can find example items
     # at 'exampleSite/data/clients'.
     # For more informtion take a look at the README.
-    title = "Our Clients"
-    subtitle = ""
+    title = "축하합니다."
+    subtitle = "대기과학과 구성원들의 수상을 축하합니다."
 
 [params.recent_posts]
     enable = true

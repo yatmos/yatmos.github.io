@@ -18,9 +18,9 @@ weight = 19
 #### 학력
 + **Ph.d.** (1994) in Meteorology, University of Illinois at
 Urbana-Champaign, IL, USA
-+ **M.Sc** (1987) in Statistical Physics, Korea advanced Science and
++ **M.Sc** (1983) in Statistical Physics, Korea advanced Science and
 Technology, Seoul, Korea
-+ **B.Sc** (1985) in Meteorology, Yonsei University, Seoul, Korea
++ **B.Sc** (1981) in Meteorology, Yonsei University, Seoul, Korea
 
 #### 연구 경력
 + 1983 - 2017 : Korea Meteorological Administration
