@@ -1,4 +1,4 @@
-+++
+﻿+++
 title = "이준홍"
 date = "2018-03-24T13:39:46+02:00"
 teams = ["학생"]
@@ -31,3 +31,4 @@ weight = 40
 #### 논문
 + Lee, J., H. H. Shin, S.-Y. Hong, P. A. Jiménez, J. Dudhia, and J. Hong (2015), Impacts of subgrid-scale orography parameterization on simulated surface layer wind and monsoonal precipitation in the high-resolution WRF model, J. Geophys. Res. Atmos., 120, doi:10.1002/ 2014JD022747.
 + Lee, J., and J. Hong (2016), Implementation of spaceborne lidar-retrieved canopy height in the WRF model, J. Geophys. Res. Atmos., 121, doi:10.1002/2015JD024299.
++ Kang, S., T. Kang, T. Park, G. Park, J. Lee, J.-W. Hong, J. Hong, J. Lee, and T. Lee (2018), Characterization of aerosol composition, convection, and sources in Bukhansan national park, Korea, J. Korean Soc. Atmos., https://doi.org/10.5572/KOSAE.2018.34.3.457.
