@@ -45,6 +45,9 @@ weight = 2
  + 1992 - 1993 : 미국 GSFC/NASA 연구원
 
 #### 최근 논문
+ + S. Kalisch, M.-J. Kang, and H.-Y. Chun, 2018: Impact of Convective Gravity Waves on the Tropical Middle Atmosphere During the Madden-Julian Oscillation. J. Geophys. Res. Atmos., doi: 10.1029/2017JD028221.
+ + Kang, M.-J., H.-Y. Chun, Y.-H. Kim, P. Preusse, and M. Ern, 2018: Momentum Flux of Convective Gravity Waves Derived from an Offline Gravity Wave Parameterization. Part II: Impacts on the Quasi-Biennial Oscillation (QBO). J. Atmos. Sci.
+ + Song I.‐ S., H.‐Y. Chun, G. Jee, S.‐Y. Kim, J. Kim, Y.‐H. Kim, and M.A Taylor, 2018: Dynamic initialization for whole‐atmospheric global modeling, J. Adv. Model. Earth Syst., https://doi.org/10.1029/2017MS001213.
  + Butchart N. and Coauthors, 2018: Overview of experiment design and comparison of models participating in phase 1 of the SPARC Quasi-Biennial Oscillation initiative (QBOi). Geosci. Model Dev., 11, 1009-1032. 
  + Lee, D.-B., and H.-Y. Chun, 2018: A numerical study of aviation turbulence encountered on 13 February 2013 over the Yellow Sea between China and the Korean Peninsula. J. Appl. Meteor. Climatol., 57, 1043-1060.
  + Kang, M.-J., H.-Y. Chun, and Y.-H. Kim, 2017 Momentum flux of convective gravity waves derived from an off-line gravity wave parameterization. Part Ι Spatiotemporal variations at source level. J. Atmos. Sci., 74, 3167-3189.
