@@ -22,7 +22,7 @@ weight = 10
 + **B.S.** (2005) Department of Atmospheric Sciences, Yonsei University, Seoul, Korea
 
 #### 연구경력
-+ 2018.3 - : 조교수, 연세대학교 대기과학과
++ 2018.3 - : Assistant Professor, Department of Atmospheric Sciences, Yonsei University, Seoul, Korea
 + 2018.7 - 2018.8 : Visiting Professor, MIT, Cambridge, USA
 + 2013-2018: Research Scientist / Postdoctoral Associate, MIT, Cambridge, USA
 + 2011-2013: Postdoctoral Associate, University of California, Santa Cruz, USA
