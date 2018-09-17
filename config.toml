@@ -1,4 +1,4 @@
-baseurl = "https://atmos.yonsei.ac.kr"
+baseurl = "https://atmos.yonsei.ac.kr/"
 title = "연세대학교 대기과학과"
 theme = "hugo-universal-theme"
 languageCode = "ko"
