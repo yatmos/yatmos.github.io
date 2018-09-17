@@ -1,15 +1,15 @@
 +++
-title = "[Seminar] Prof. Nelson L. Dias"
+title = "[세미나] Prof. Nelson L. Dias"
 date = 2018-07-23T8:49:46+09:00
-categories = ["seminar"]
+categories = ["세미나"]
 banner = "img/placeholder.png"
 icon = "microphone"
 +++
 ### The Hurst Phenomenon in Turbulence: an approach to calculate random errors of turbulence statistics
 <br>
 #### Prof. Nelson L. Dias (Department of Environmental Engineering, UFPR)
-#### July 23, 2018 (Monday) 16:00
-#### Science Hall #553
+#### 2018년 7월 23일 (월) 16:00
+#### 과학관 553호
 <br>
 #### Abstract
 

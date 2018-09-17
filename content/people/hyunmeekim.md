@@ -1,41 +1,41 @@
 +++
-title = "Hyun Mee Kim"
+title = "김현미"
 date = "2018-04-13T13:39:46+02:00"
-teams = ["faculty"]
+teams = ["교수진"]
 banner = "img/people/hyunmeekim.jpg"
 email = "khm@yonsei.ac.kr"
-job = "Professor"
+job = "정교수"
 phone = "02-2123-5683"
-room = "Atmospheric Predictability & Data Assimilation Laboratory / Science Hall #541"
+room = "대기예측성, 자료동화 연구실 / 과학관 541호"
 web = "http://web.yonsei.ac.kr/apdal"
 weight = 5
 +++
 
-#### Research interests
-+ Atmospheric Predictability
-+ Data Assimilation
-+ Adaptive Observation
-+ Large and Synoptic Scale Atmospheric Dynamics
+#### 연구분야
++ 자료동화
++ 예측가능성
++ 최적관측
++ 종관규모 및 대규모역학
 
-#### Education
+#### 학력
 + **Ph.D.** (2002) Atmospheric and Oceanic Sciences, University of Wisconsin-Madison, USA
 + **M.S.** (1992) Atmospheric Sciences, Yonsei University, Seoul, Korea
 + **B.S.** (1990) Atmospheric Sciences, Yonsei University, Seoul, Korea
 
-#### Professional Experience
+#### 연구 경력
 + 2014-current : Professor, Yonsei University
 + 2009-2014    : Associate professor, Yonsei University
 + 2005-2008    : Assistant professor, Yonsei University
-+ 2003-2005    : Research Scientist, Korea Meteorological Administration
++ 2003-2005    : Research Scientist, Korea Meteorological Administration    
 + 2002-2003    : Research Associate, Dept. of Atmospheric and Oceanic Sciences, Univ. of Wisconsin-Madison
 + 1992-1997    : Research Scientist, Korea Meteorological Administration
 
-#### Courses
-+ Data Assimilation
-+ Atmospheric Dynamics Ⅰ,Ⅱ
-+ Predictability Theory
+#### 담당과목
++ 자료동화
++ 대기역학
++ 예측가능성론
 
-#### Selected Publications
+#### 논문
 + Kim, H., H. M. Kim, J. Kim, and C.-H. Cho, 2018: Effect of data assimilation parameters on the optimized surface CO2 flux in Asia, Asia-Pacific Journal of Atmospheric Sciences, 54, 1-17, doi:10.1007/s13143-017-0049-9.
 + Yang, E.-G., and H. M. Kim, 2017: Evaluation of a regional reanalysis and ERA-Interim over East Asia using in situ observations during 2013-14, Journal of Applied Meteorology and Climatology, 56, 2821-2844, doi: 10.1175/JAMC-D-16-0227.1.
 + Kim, S., and H. M. Kim, 2017: Effect of considering sub-grid scale uncertainties on the forecasts of a high-resolution limited area ensemble prediction system, Pure and Applied Geophysics, 174(5), 2021-2037, doi: 10.1007/s00024-017-1513-2.

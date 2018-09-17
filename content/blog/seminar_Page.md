@@ -1,15 +1,15 @@
 +++
-title = "[Seminar] Dr. Elizabeth Mulvihill Page"
+title = "[세미나] Dr. Elizabeth Mulvihill Page"
 date = 2018-09-04T10:49:47+09:00
-categories = ["Seminar"]
+categories = ["세미나"]
 banner = "img/placeholder.png"
 icon = "microphone"
 +++
 ### COMET's Support of University Teaching in Geosciences
 <br>
 #### Dr. Elizabeth Mulvihill Page (UCAR)
-#### September 6, 2018 (Thursday) 10:00
-#### Science Hall #553
+#### 2018년 9월 6일 (목) 10:00
+#### 과학관 553호
 <br>
 #### Abstract
 

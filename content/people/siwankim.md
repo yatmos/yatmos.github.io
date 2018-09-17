@@ -1,17 +1,17 @@
 +++
-title = "Si-Wan Kim"
+title = "김시완"
 date = "2018-03-24T13:39:46+02:00"
-teams = ["researchers"]
+teams = ["연구원"]
 banner = "img/people/siwankim.png"
 email = "siwan.kim@yonsei.ac.kr"
-job = "Research Professor"
+job = "연구 교수"
 phone = ""
-room = "Science Hall 549"
+room = "과학관 549호"
 web =  ""
-weight = 20
+weight = 19
 +++
 
-#### Research interests
+#### 연구분야
 + Air quality (tropospheric ozone and aerosols)
 + Atmospheric composition
 + Atmospheric chemistry and transport models
@@ -19,17 +19,17 @@ weight = 20
 + Mesoscale numerical models
 + Utilization of satellite trace gas and aerosol retrievals for air quality and climate research
 
-#### Education
+#### 학력
 + **Ph.d.** (2001) Atmospheric Science, Seoul National University, Seoul, Korea
 + **M.Sc** (1995) Atmospheric Science, Seoul National University, Seoul, Korea
 + **B.Sc** (1993) Earth Science Education, Seoul National University, Seoul, Korea
 
-#### Research Experience
+#### 연구 경력
 + 2016 - current : Visiting Scientist, Research Professor at Department of Atmospheric Sciences, Yonsei University, Seoul, Korea
 + 2005 - 2017 : Research Scientist at CIRES, University of Colorado/Joint affiliation at NOAA Earth System Research Laboratory, Chemical Sciences Division, Boulder, Colorado, USA
 + 2001 - 2005 : Post-doctor, Visitor at National Center for Atmospheric Research, Mesoscale & Microscale Meteorology Division, Boulder, Colorado, USA
 
-#### Awards
+#### 수상내역
 + 2015, Grant Award, NOAA NESDIS JPSS PGRR (FY15-17), Co-I,  "Understanding emissions and tropospheric chemistry using NUCAPS and VIIRS"
 + 2014, Grant Award, NASA ROSES ACMAP (FY15-17), PI,  "Quantifying long-term changes in U.S. emissions and their impacts on tropospheric ozone"
 + 2013, Grant Award, NASA GEO-CAPE science team/emissions working group pilot project (FY13-16), Co-I, "Assessing anthropogenic VOC emissions using satellite retrievals of HCHO"
@@ -37,7 +37,7 @@ weight = 20
 
 
 
-#### Publications
+#### 논문
 + McDonald, B., McKeen, S., Cui, Y. Y., Ahmadov, R., Kim, S.-W., Frost, G., Pollack, I., Peischl, J., Ryerson, T., Holloway, J., Graus, M., Warneke, C., Gilman, J., de Gouw, J., Kaiser, J., Keutsch, F., Hanisco, T., Wolfe, G., Trainer, M., 2018: Modeling Ozone in the Eastern U.S. using a Fuel-Based Mobile Source Emissions Inventory, Environmental Science & Technology, in review.
 + de Gouw, J. A., Gilman, J. B., Kim, S.-W., Alvarez, S. L., Dusanter, S., Graus, M., Griffith, S. M., Isaacman-VanWertz, G.,…C. J. Young, 2018: Chemistry of volatile organic compounds in the Los Angeles Basin: formation of oxygenated compounds and determination of emission ratios, Journal of Geophysical Research, 123, 2298-2319, https://doi.org/10.1002/2017JD027976.
 + Brian C. McDonald, Joost A. de Gouw, Jessica B. Gilman, Shantanu H. Jathar, Ali Akherati, Christopher D. Cappa, Jose L. Jimenez, Julia Lee-Taylor, Patrick L. Hayes, Stuart A. McKeen, Yu Yan Cui, Si-Wan Kim, Drew R. Gentner, Gabriel Isaacman-VanWertz, Allen H. Goldstein, Robert A. Harley, Gregory J. Frost, James M. Roberts, Thomas B. Ryerson, Michael Trainer, 2018: Volatile chemical products emerging as largest petrochemical source of urban organic emissions, Science, 359, 6377, 760-764, DOI:10.1126/science.aaq0524.

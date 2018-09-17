@@ -1,30 +1,29 @@
-﻿+++
-title = "Jongsoo Shin"
++++
+title = "신종수"
 date = "2018-03-24T13:39:46+02:00"
-teams = ["students"]
+teams = ["학생"]
 banner = "img/people/jongsooshin.png"
 email = "js-shin@yonsei.ac.kr"
-job = "Ph.D. student"
+job = "박사과정"
 phone = "010-6307-1666"
-room = "Climate Theory Lab / Science Hall 536A"
+room = "기후이론 연구실 / 과학관 536A호"
 web = "http:/web.yonsei.ac.kr/climatelab/"
-weight = 40
+weight = 30
 +++
 
-#### Research interests
-+ Heat waves
+#### 연구분야
++ Heatwave
 + Change of SST
 + RCM simulation
-+ GCM simulation
 
-#### Education
+#### 학력
  + **M.Sc** (2017) in Atmospheric Sciences, Yonsei University, Seoul, Korea
  + **B.Sc** (2015) in Atmospheric Sciences, Yonsei University, Seoul, Korea
 
-#### Awards
- + (2017) Award for Outstanding Poster in the Korean Society of Climate Chnage Research, Health Influence of the heat wave and Climate Chnage Adaptation Policy: Heat waves Adaptation of Local Governments.
- + (2018) Outstanding Papers in Yonsei BK21 Plus, Projected Heat Wave Characteristics over the Korean Peninsula During the Twenty-First Century.
+#### 수상내역
+ + 최우수포스터논문상. 폭염의 보건 영향과 기후변화 적응정책: 지방자치단체의 폭염 적응. 기후변화학회 2017.
+ + 우수논문상. Projected Heat Wave Characteristics over the Korean Peninsula During the Twenty-First Century. 연세대학교 BK21플러스 지구대기천문사업단장.
 
 
-#### Publications
+#### 논문
 + J. Shin, Olson Roman, and S-I An (2018), Projected Heat Wave Characteristics over the Korean Peninsula During the Twenty-First Century, APJAS. 54(1), 53-61.

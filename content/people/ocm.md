@@ -1,23 +1,23 @@
-﻿+++
-title = "Chimook Oh"
++++
+title = "오치묵"
 date = "2018-03-24T13:39:46+02:00"
-teams = ["students"]
+teams = ["학생"]
 banner = "img/people/ocm.png"
 email = "ocm0426@yonsei.ac.kr"
-job = "M.Sc. student"
+job = "석사과정"
 phone = "010-5070-4367"
-room = "Laboratory for Atmospheric Modelling Research / Science Hall 536B"
+room = "대기모형연구실 / 과학관 536B호"
 weight = 50
-web = "http://lamor.yonsei.ac.kr"
+web = " "
 +++
 
-#### Research interests
+#### 연구분야
 + Atmospheric Modeling
 
-#### Education
+#### 학력
 + **B.Sc** (2009) in Militrary Strategy, Korea Airforec Academy, Cheongju, Korea
 
-#### Awards
+#### 수상내역
 
 
-#### Publications
+#### 논문

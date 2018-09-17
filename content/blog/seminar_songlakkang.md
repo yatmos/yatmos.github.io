@@ -1,15 +1,15 @@
 +++
-title = "[Seminar] Prof. Song-Lak Kang"
+title = "[세미나] 강성락 교수님"
 date = 2018-06-04T8:49:47+09:00
-categories = ["seminar"]
+categories = ["세미나"]
 banner = "img/placeholder.png"
 icon = "microphone"
 +++
 ### Unexplored Territory between the Meso- and Micro-scale Worlds
 <br>
-#### Prof. Song-Lak Kang (Gangneung-Wonju National University)
-#### June 5, 2018 (Tuesday) 16:00
-#### Science Hall #553
+#### 강성락 교수(강릉원주대학교)
+#### 2018년 6월 5일 (화) 16:00
+#### 과학관 553호
 <br>
 #### Abstract
 

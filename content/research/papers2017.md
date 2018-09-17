@@ -1,12 +1,12 @@
 +++
-title = "Publications in 2017"
+title = "2017년 논문들"
 description = "Global Environment Research Center"
 type = "research"
 icon = "newspaper-o"
 weight = 4
 +++
 
-**The research papers published in 2017**
+**2017년 연세대학교 대기과학과에서 출판한  논문 목록입니다.** 
 <!--more-->
 <br>
 ------------------
@@ -90,11 +90,11 @@ weight = 4
 
 <br>
 
-+ Lee, C., K. Han, J. Yeom, K. Lee, M. Seo, J. Hong, J.-W. Hong, K. Lee, J. Shin, I. Shim, J. Chun, and J.-L. Roujean (2018) Surface albedo from the geostationary Communication, Ocean and Meteorological Satellite (COMS)/Meteorological Imager (MI) observation system, GIScience & Remote Sensing, 28, 38-62. doi:10.1080*/* 15481603.2017.1360578.
++ Lee, C., K. Han, J. Yeom, K. Lee, M. Seo, J. Hong, J.-W. Hong, K. Lee, J. Shin, I. Shim, J. Chun, and J.-L. Roujean (2018) Surface albedo from the geostationary Communication, Ocean and Meteorological Satellite (COMS)/Meteorological Imager (MI) observation system, GIScience & Remote Sensing, 28, 38-62. doi:10.1080*/* 15481603.2017.1360578. 
 
 <br>
 
-+ Yeom, J., R. Deo, J. Chun, J. Hong, D. Kim, K. Han, and J. Cho (2017) Synthetic retrieval of hourly net ecosystem exchange using the neural network model with combined MI and GOCI geostationary sensor datasets and ground-based measurements, International Journal of Remote Sensing, 38, 7441-7456, doi:10.1080/01431161.2017.1375573.
++ Yeom, J., R. Deo, J. Chun, J. Hong, D. Kim, K. Han, and J. Cho (2017) Synthetic retrieval of hourly net ecosystem exchange using the neural network model with combined MI and GOCI geostationary sensor datasets and ground-based measurements, International Journal of Remote Sensing, 38, 7441-7456, doi:10.1080/01431161.2017.1375573. 
 
 <br>
 

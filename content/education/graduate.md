@@ -1,5 +1,5 @@
 ---
-title: "Graduate"
+title: "대학원"
 date: 2017-12-18T14:08:23-05:00
 type: education
 layout: single
@@ -7,23 +7,23 @@ weight: 2
 banner: "img/banners/banner-1.jpg"
 icon: "graduation-cap"
 ---
-Guide to admissions and courses for graduate school
+대학원 입학 및 개설과목 안내입니다.
 <!--more-->
 
 <br>
 <br>
 
 <!--more-->
-## Admissions
+## 입학 안내
 _ _ _
 
-[Link to admission information for graduate school](https://graduate.yonsei.ac.kr/graduate_en/index.do)
+[연세대학교 일반대학원 입학안내 바로가기](http://graduate.yonsei.ac.kr/graduate/)
 
 
 <br>
 <br>
 
-## Courses
+## 개설과목(대학원)
 _ _ _
 
 
@@ -131,7 +131,7 @@ The propose of this lecture is to understand the basic concepts of the various s
 #### ATM9101  TURBULENCE
 characteristics of turbulence. Reynolds equation. Kolmogorov theory. turbulent boundary layer. geostrophic turbulence. simulation of turbulence.
 
-#### ATM9102  ATMOSPHERIC RADIATION 2
+#### ATM9102  Atmospheric Radiation 2
 radiative flux and heating, radiation of cloud and architectural characteristics, radiation and climate, radiative transfer in the planetary atmosphere
 
 #### ATM9103  ADVANCED TOPICS IN PHYSICAL METEOROLOGY

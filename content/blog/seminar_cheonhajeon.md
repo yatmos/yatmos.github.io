@@ -1,15 +1,15 @@
 +++
-title = "[Seminar] Dr. Cheon-ha Jeon"
+title = "[세미나] 전천하 박사님"
 date = 2018-05-30T12:49:47+09:00
-categories = ["seminar"]
+categories = ["세미나"]
 banner = "img/placeholder.png"
 icon = "microphone"
 +++
 ### Ultra-intense ultrafast lasers and its applications: From science fiction to reality
 <br>
-#### Dr. Cheon-ha Jeon (Center for Relativistic Laser Science, ibs)
-#### May 31, 2018 (Thursday) 11:00
-#### Science Hall #551
+#### 전천하 박사님 (Center for Relativistic Laser Science, ibs)
+#### 2018년 5월 31일 (목) 11:00
+#### 과학관 551호
 <br>
 #### Abstract
 

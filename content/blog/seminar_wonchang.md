@@ -1,15 +1,15 @@
 +++
-title = "[Seminar] Prof. Won Chang"
+title = "[세미나] 장원 교수님"
 date = 2018-07-09T8:49:47+09:00
-categories = ["seminar"]
+categories = ["세미나"]
 banner = "img/placeholder.png"
 icon = "microphone"
 +++
 ### Changes in Spatiotemporal Precipitation Patterns in Changing Climate Conditions & Diagnosing added value of convection-permitting regional models using precipitation event identification and tracking
 <br>
-#### Prof. Won Chang (University of Cincinnati)
-#### July 11, 2018 (Wednesday) 15:00
-#### Science Hall #553
+#### 장원 교수님 (University of Cincinnati)
+#### 2018년 7월 11일 (수) 15:00
+#### 과학관 553호
 <br>
 #### Abstract
 

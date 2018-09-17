@@ -1,13 +1,13 @@
 +++
-title = "Prof. Sanghun Park Received the Outstanding Lecturer Award"
+title = "박상훈 교수, 우수강의 교수상 수상"
 date = 2018-03-03T13:42:03+09:00
-categories = ["News"]
+categories = ["새소식"]
 banner = "img/placeholder.png"
 icon = "trophy"
 +++
 
 <!--more-->
-#### Outstanding Lecturer Award
-Prof. Sanghun Park received the outstanding lecturer award in the undergraduate school of college of science.
+#### 우수강의 교수상 수상
+박상훈 대기과학과 교수께서 2017학년도 이과대학 학부 우수 강의교수상을 수상하였습니다.
 <br>
 [![park](../../../../../img/people/sanghunpark.jpg)](../../../../../people/sanghunpark)

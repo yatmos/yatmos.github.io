@@ -1,23 +1,23 @@
-﻿+++
-title = "Heon Gu"
++++
+title = "구헌"
 date = "2018-03-24T13:39:46+02:00"
-teams = ["students"]
+teams = ["학생"]
 banner = "img/people/heongu.png"
 email = "ghoney0204@yonsei.ac.kr"
-job = "M.Sc. student"
+job = "석사과정"
 phone = "010-3678-0204"
-room = "Atmospheric Remote Sensing Laboratory / Science Hall 529B"
+room = "위성관측 연구실 / 과학관 529B호"
 web = "http://arsl.yonsei.ac.kr"
 weight = 50
 +++
 
-#### Research interests
+#### 연구분야
 + Satellite temperature and moisture sounding
 
-#### Education
+#### 학력
  + **B.Sc** (2007) in Computer Science, Republic of Korea Air Force Academy.
 
-#### Awards
+#### 수상내역
 
 
-#### Publications
+#### 논문

@@ -1,23 +1,23 @@
 +++
-title = "Jaemin Hong"
+title = "홍재민"
 date = "2018-03-24T13:39:46+02:00"
-teams = ["students"]
+teams = ["학생"]
 banner = "img/people/Jaemin_Hong.png"
 email = "rookie820@gmail.com"
-job = "Combined M.Sc./Ph.D. student"
+job = "석사과정"
 phone = "02-2123-7616"
-room = "Atmospheric Radiation Laboratory / Science Hall 531"
+room = "대기복사연구실 / 과학관 531호"
 web = "http://web.yonsei.ac.kr/oasis/"
-weight = 60
+weight = 50
 +++
 
-#### Research interests
+#### 연구분야
 + Retrieval of atmospheric carbon dioxide density using satellite measurement
 
-#### Education
+#### 학력
  + **B.Sc** (2017) in Atmospheric Sciences, Yonsei University, Seoul, Korea
 
-#### Awards
+#### 수상내역
 
 
-#### Publications
+#### 논문

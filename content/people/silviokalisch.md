@@ -1,34 +1,34 @@
-﻿+++
++++
 title = "Silvio Kalisch"
 date = "2017-03-24T13:39:46+02:00"
-teams = ["researchers"]
+teams = ["연구원"]
 banner = "img/people/Kalisch_picture_informal_200x200.jpg"
 email = "s.kalisch82 (at) gmail.com"
-job = "Postdoctoral Researcher"
+job = "박사 후 연구원"
 phone = ""
-room = "Laboratory for Atmospheric Dynamics / Science Hall 529A"
+room = "대기역학 연구실 / 과학관 529A호"
 web = "http://atmosdyn.yonsei.ac.kr"
-weight = 30
+weight = 20
 +++
 
-#### Research interests
+#### 연구분야
 + Middle Atmosphere dynamics
 + Gravity Waves
-+ Tropical atmosphere (Madden-Julian Oscillation)
++ Tropical atmosphere (Madden-Julian Oscillation) 
 
-#### Education
+#### 학력
 + **Dr. rer. nat. (Ph.d.)** (2014) in Physics, University of Wuppertal / Research Center Juelich, Germany
 + **Diplom (M.Sc.)** (2010) in Theoretical Physics, University of Leipzig, Leipzig, Germany
-
-#### Research career
-+ 2015 - today : Postdoctoral fellow at Yonsei University, Korea (DFG grant no: KA4222/2-1)
+ 
+#### 연구 경력
++ 2015 - today : Postdoctoral fellow at Yonsei University, Korea (DFG grant no: KA4222/2-1) 
 + 2014-2015 : Postdoctoral Researcher at Research Center Juelich
 + Oct. - Nov. 2012 : Guest Scientist at Yonsei University, Korea
 + 2010 - 2014 : PhD student at Wuppertal University / Researcher at Research Center Juelich
 + 2009 - 2010 : Research assistant and assistant teacher at Institute for Theoretical Physics, University of Leipzig
 
 
-#### Publications
+#### 논문
 + Kalisch S., Chun H.-Y., Ern M., Preusse P., Trinh Q. T., Eckermann S. D., Riese M.
 (2016): "Comparison of simulated and observed convective Gravity Waves", JGR,
 doi:10.1002/2016JD025235
@@ -57,3 +57,4 @@ Sun-Earth System (CAWSES)", Springer, pp.383-408
 + Ern, M., Preusse, P., Kalisch, S., Kaufmann, M., Riese, M. (2013): "Role of gravity
 waves in the forcing of quasi two-day waves in the mesosphere: An observational
 study", JGR, 118(9), 3467-3485, doi:10.1029/2012JD018208
+ 

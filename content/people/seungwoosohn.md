@@ -1,23 +1,23 @@
-﻿+++
-title = "Seungwoo Sohn"
++++
+title = "손승우"
 date = "2018-03-24T13:39:46+02:00"
-teams = ["students"]
+teams = ["학생"]
 banner = "img/people/seungwoo.png"
 email = "sohnsw@yonsei.ac.kr"
-job = "Combined M.Sc./Ph.D. student"
+job = "통합과정"
 phone = "-"
-room = "Atmospheric Remote Sensing Laboratory / Science Hall 529B"
+room = "위성관측 연구실 / 과학관 529B호"
 web = "http://arsl.yonsei.ac.kr"
-weight = 60
+weight = 40
 +++
 
-#### Research interests
+#### 연구분야
 + Passive Microwave Remote Sensing of Precipitation
 
-#### Education
+#### 학력
  + **B.Sc** (2017) in Mathematics, University of Colorado Boulder, CO, U.S.A.
 
-#### Awards
+#### 수상내역
 
 
-#### Publications
+#### 논문

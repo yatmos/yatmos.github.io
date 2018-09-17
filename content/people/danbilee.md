@@ -1,30 +1,30 @@
-﻿+++
-title = "Dan-Bi Lee"
++++
+title = "이단비"
 date = "2018-03-24T13:39:46+02:00"
-teams = ["students"]
+teams = ["학생"]
 banner = "img/people/Dan-Bi Lee.png"
 email = "leedb@yonsei.ac.kr"
-job = "Ph.D. student"
+job = "박사과정"
 phone = "02-2123-7643"
-room = "Laboratory for Atmospheric Dynamics / Science Hall 533A"
+room = "대기역학 연구실 / 과학관 533A호"
 web = "http://atmosdyn.yonsei.ac.kr"
-weight = 40
+weight = 30
 +++
 
-#### Research interests
+#### 연구분야
 + Aviation Turbulence
 
-#### Education
+#### 학력
  + **M.Sc** (2013) in Atmospheric Sciences, Yonsei University, Seoul, Korea
  + **B.Sc** (2011) in Atmospheric Sciences, Yonsei University, Seoul, Korea
 
-#### Awards
- + (2018.3.23) The award of director-general of aviation meteorological office
- + (2014.10.14) Best paper presentation award in Korean meteorological society fall meeting
+#### 수상내역
+ + (2018.3.23) 항공기상청장상 수상
+ + (2014.10.14) 한국기상학회 우수 논문발표상 수상
 
-#### Publications
-+ Lee, D.-B., and H.-Y. Chun (2014), Development of the seasonal Korean aviation turbulence guidance (KTG) system using the regional unified model of the Korea meteorological administration (KMA), Atmosphere, 24(2), 235-243.
-+ Lee, D.-B., and H.-Y. Chun (2015), A statistical analysis of aviation turbulence observed in pilot report (PIREP) over East Asia including South Korea, Atmosphere, 25(1), 1-12.
-+ Lee, D.-B., and H.-Y. Chun (2015), Development of the Korean Peninsula-Korean aviation turbulence guidance (KP-KTG) system using the local data assimilation and prediction system (LDAPS) of the Korea meteorological administration (KMA), Atmosphere, 25(2), 367-374.
+#### 논문
++ 이단비, 전혜영 (2014), 기상청 통합지역모델을 이용한 계절 한국형 항공난류 예측시스템(계절-KTG) 개발, 대기, 24(2), 235-243.
++ 이단비, 전혜영 (2015), 한반도 및 동아시아 지역에서 조종사 보고 자료로 관측된 항공난류의 통계적 분석, 대기, 25(1), 1-12.
++ 이단비, 전혜영 (2015), 기상청 고해상도 지역예보모델을 이용한 한반도 영역 한국형 항공난류 예측시스템(한반도-KTG) 개발, 대기, 25(2), 367-374.
 + Lee, D.-B., and H.-Y. Chun (2018), A numerical study of aviation turbulence encountered on 13 February 2013 over the Yellow Sea between China and the Korean Peninsula. J. Appl. Meteor. Climatol., 57, 1043-1060.
-+ Lee, D.-B., and H.-Y. Chun (2018), Development of the global-Korean aviation turbulence guidance (Global-KTG) system using the global data assimilation and prediction system (GDAPS) of the Korea meteorological administraion (KMA), Atmosphere, 28(2), 223-232.
++ 이단비, 전혜영 (2018), 기상청 전지구 수치예보모델을 이용한 전지구 한국형 항공난류 예측시스템(G-KTG) 개발, 대기, 28(2), 223-232.

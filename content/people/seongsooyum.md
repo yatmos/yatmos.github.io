@@ -1,36 +1,35 @@
 +++
-title = "Seongsoo Yum"
+title = "염성수"
 date = "2018-04-15T13:39:46+02:00"
-teams = ["faculty"]
+teams = ["교수진"]
 banner = "img/people/seongsooyum.jpg"
 email = "ssyum@yonsei.ac.kr"
-job = "Professor"
+job = "정교수"
 phone = "02-2123-5681"
-room = "Cloud Physics Laboratory / Science Hall #547"
+room = "구름물리 연구실 / 과학관 547호"
 web = "http://cloud.yonsei.ac.kr"
 weight = 3
 +++
 
-#### Research interests
-+ Cloud Physics
-+ Cloud Observation and numerical modeling
-+ Cloud seeding experiment
+#### 연구분야
++ 구름물리학
++ 구름관측 및 수치모형연구
 
-#### Education
+#### 학력
 + **Ph.D.** (1998) Univ. of Nevada, Reno, USA
 + **M.Sc.** (1986) Dep. of Astronomy & Atmospheric Science, Yonsei University, Seoul, Korea
 + **B.Sc.** (1984) Dep. of Astronomy & Meteorology, Yonsei University, Seoul, Korea
 
-#### Work Experience
+#### 연구경력
 + Yale University in U.S.A (Post Doc. 2001.3-2001.8)
 + Desert Research Institute in U.S.A (Post Doc. 1998.9-2001.3)
 + Metri in KMA, Lab. of App. & Radar (기상연구사,1987.8- 1990.6)
 
-#### Courses
-+ Atmospheric Physics Ⅰ
-+ Cloud and Precipitation Processes
+#### 담당과목
++ 대기물리
++ 구름 및 강수과정
 
-#### Selected Publications
+#### 논문
 + Kim, N., Park, M., Yum, S. S., Park, J. S., Song, I. H., Shin, H. J., … & Lee, G. (2017). Hygroscopic properties of urban aerosols and their cloud condensation nuclei activities measured in Seoul during the MAPS-Seoul campaign. Atmospheric Environment, 153, 217-232.
 + Lee, H., Yum, S. S., & Shim, S. (2016). Implementation of a new empirical relationship between aerosol and cloud droplet concentrations in a climate model. Climate Research, 70(1), 57-76.
 + Seong Soo Yum, Jian Wang, Yangang Liu, Gunnar Senum, Stephen Springston, Robert McGraw, and Jae Min Yeom, 2015: Cloud microphysical relationships and their implication on entrainment and mixing mechanism for the stratocumulus clouds measured during the VOCALS project, Journal of Geophysical Research, 120,  10.1002/2014JD022802

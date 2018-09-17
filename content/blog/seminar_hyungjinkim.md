@@ -1,15 +1,15 @@
 +++
-title = "[seminar] Dr. Hyung-Jin Kim"
+title = "[세미나] 김형진 박사님"
 date = 2018-05-29T8:49:47+09:00
-categories = ["seminar"]
+categories = ["세미나"]
 banner = "img/placeholder.png"
 icon = "microphone"
 +++
 ### Bridging Climate Information and Social Needs
 <br>
-#### Dr. Hyung-Jin Kim (APEC Climate Center)
-#### May 29, 2018 (Tuesday) 16:00
-#### Science Hall #553
+#### 김형진 박사님 (APEC Climate Center)
+#### 2018년 5월 29일 (화) 16:00
+#### 과학관 553호
 <br>
 #### Abstract
 

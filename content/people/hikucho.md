@@ -1,19 +1,18 @@
 +++
-title = "Hi Ku Cho"
+title = "조희구"
 date = "2017-04-09T13:39:46+02:00"
-teams = ["faculty"]
+teams = ["교수진"]
 banner = "img/people/hikucho.jpg"
 email = "chk@yonsei.ac.kr"
-job = "Professor Emeritus (1971.2~1999.2)"
+job = "명예교수(1971.2~1999.2)"
 phone = "02-2123-2574"
-room = "Science Hall #701"
-web = "http://web.yonsei.ac.kr/oasis/"
+room = "오존 연구실 / 과학관 701호"
 weight = 12
 +++
 
-#### Research interests
-+ Atmospheric Radiation
-+ Monitoring the ozone layer
+#### 연구분야
++ 대기복사
++ 오존층 감시
 
-#### Tenure
-1971.2 ~ 1999.2
+#### 재임기간
+1971년 2월~1999년 2월

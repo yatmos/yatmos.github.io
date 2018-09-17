@@ -1,23 +1,24 @@
-﻿+++
-title = "Wonheung Kim "
++++
+title = "김원흥"
 date = "2018-03-24T13:39:46+02:00"
-teams = ["students"]
+teams = ["학생"]
 banner = "img/people/wonheungkim.png"
 email = "kelllll@naver.com "
-job = "Ph.D. student"
+job = "통합과정"
 phone = "02-2123-7613"
-room = "Cloud Physics Laboratory / Science Hall 530A"
+room = "구름물리 연구실 / 과학관 530A호"
 web = "http://cloud.yonsei.ac.kr"
 weight = 40
 +++
 
-#### Research interests
+#### 연구분야
 + Numerical modeling of fog and seeding
 
-#### Education
- + **B.Sc** (2012) in Atmospheric & Environmental Sciences, Gangneung-Wonju National University, Gangneung, Korea
+#### 학력
+ + **B.Sc** (2012) in Atmospheric Sciences, Yonsei University, Seoul, Korea
 
-#### Awards
 
-#### Publications
+#### 수상내역
+
+#### 논문
  

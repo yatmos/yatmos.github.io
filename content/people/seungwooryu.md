@@ -1,22 +1,21 @@
 +++
-title = "Seungwoo Ryu"
+title = "류승우"
 date = "2018-03-24T13:39:46+02:00"
-teams = ["students"]
+teams = ["학생"]
 banner = "img/people/rsw.jpg"
 email = "swryu@yonsei.ac.kr"
-job = "M.Sc. student"
+job = "석사과정"
 phone = "010-7535-2988"
-room = "Laboratory for Atmospheric Modeling Research / Science Hall 536B"
-weight = 50
-web = "http://lamor.yonsei.ac.kr"
+room = "대기모형연구실 / 과학관 536B호"
+web = " "
 +++
 
-#### Research interests
-+ Numerical Model
+#### 연구분야
++ Atmospheric Modeling
 
-#### Education
- + **B.Sc** (2018) in Physics, The Catholic University of Korea
+#### 학력
++ **B.Sc** (2018) in Physics and Mathematics, Catholic University of Korea, Bucheon, Korea
+#### 수상내역
 
-#### Awards
 
-#### Publications
+#### 논문

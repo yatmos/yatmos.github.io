@@ -1,29 +1,29 @@
 +++
-title = "Hyunkwang Lim"
+title = "임현광"
 date = "2018-03-24T13:39:46+02:00"
-teams = ["students"]
+teams = ["학생"]
 banner = "img/people/Hyunkwang_lim.png"
 email = "raul105@yonsei.ac.kr"
-job = "Ph.D. student"
+job = "통합과정"
 phone = "02-2123-7616"
-room = "Atmospheric Radiation Laboratory / Science Hall 531"
+room = "대기복사연구실 / 과학관 531호"
 web = "http://web.yonsei.ac.kr/oasis/"
 weight = 40
 +++
 
-#### Research interests
+#### 연구분야
 + Remote sensing of aerosol from satellite
 + Radiative transfer model
 + Validation and error estimation of aerosol optical properties from geostationary satellite using ground based and satellite-based observations
 
-#### Education
+#### 학력
  + **B.Sc** (2013) in Atmospheric Sciences, Yonsei University, Seoul, Korea
 
-#### Awards
+#### 수상내역
  + Group Achievement Award, 2017.08, NASA "KORUS-AQ: An International Cooperative Air Quality Field Study in Korea" project
 
 
-#### Publications
+#### 논문
 + Kim, J., Kim, J., Cho, H. K., Herman, J., Park, S. S., Lim, H., Kim, J., Miyagawa, K., and Lee, Y.,: Intercomparison of total column ozone data from the Pandora spectrophotometer with Dobson, Brewer, and OMI measurements over Seoul, Korea. Atmospheric Measurement Techniques, 10(10), 3661,2017
 
 + Mok, J., Park, S. S., Lim, H., Kim, J., Edwards, D. P., Lee, J., Yoon, J., Lee, Y., and Koo, J. H.,: Correlation analysis between regional carbon monoxide and black carbon from satellite measurements. Atmospheric Research, 196, 29-39, 2017

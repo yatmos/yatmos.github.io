@@ -1,67 +1,73 @@
 +++
-title = "Research"
+title = "연구 분야"
 description = "Laboratory"
 type = "research"
 keywords = ["FAQ","How do I","questions","what if"]
 icon = "flask"
 weight = 1
 +++
+**연세대학교 대기과학과에서 이루어지는 연구는 넓은 스펙트럼을 가지고 있습니다.**  
+**10개의 연구실에서 매일의 날씨에 관한 연구 뿐만 아니라 과거에서 미래로 이어지는 지구의 기후에 관한 연구가 동시에 진행되고 있으며,
+지역적인 기상 현상에서부터 전 지구의 대기 및 해양 순환에 이르기까지 다양한 시공간에 대한 연구가 이루어지고 있습니다.
+이를 위하여 우리들은 물리와 수학을 바탕으로 한 이론과 인공위성을 포함한 다양한 관측, 그리고 슈퍼컴퓨터를 활용하는 연구를 수행하고 있습니다.**
 
 <!--more-->
-
 <div class='image'>
-<img src="../../img/cbackground.jpg" class="img-responsive" alt="">
+<img src="/img/cbackground.jpg" class="img-responsive" alt="">
 </div>
 
 <br>
 
-#### Air-Sea Modeling laboratory [(http://airsea.yonsei.ac.kr)](http://airsea.yonsei.ac.kr)
-The interaction between the atmosphere and the ocean is critical to the earth climate. The exchange of momentum, heat and freshwater between the atmosphere and the ocean can shape the circulations in the air and sea, and the exchange of greenhouse gases such as carbon dioxide impacts the radiation balance of the climate. Our research object is to better understand the air-sea interactions using observations from satellite and manned/unmanned observing platforms as well as using the air-sea coupled model. Our research interests extend to the prediction of the atmosphere and ocean states using the coupled model and data assimilation technique.
+#### 구름물리 연구실(염성수 교수님) [(http://cloud.yonsei.ac.kr)](http://cloud.yonsei.ac.kr)
+구름의 생성과 성장을 이해하고, 강수 과정의 개시 여부와 강수량의 정량적 평가를 위해서는 구름 내에서 일어나는 미세물리(cloud microphysics) 과정에 대한 이해가 필수적입니다. 최근의 기후변화 연구에서 주목받고 있는, 구름에 의한 태양복사에너지 반사는 이러한 미세물리 과정에 대한 종합적 이해를 요구합니다. 구름물리연구실에서는 장비의 개발 및 측정, 위성과 레이더 관측 분석, 구름 모형, 난류 모형 그리고 종관 모형 등 다양한 수치모형 연구를 통해 구름 미세물리 과정을 연구하고 있습니다.
 
 <br>
 
-#### Atmospheric Predictability & Data Assimilation Laboratory [(http://web.yonsei.ac.kr/apdal)](http://web.yonsei.ac.kr/apdal)
-In APDAL, inherent predictability of weather and climate, model and data assimilation systems, and adaptive observations are studied to improve the quality of numerical weather prediction. In addition, we also study dynamical development of forecast error and high impact weather systems using observations, models, and various theories Including potential vorticity thinking.
+#### 기후이론 연구실(안순일 교수님) [(http://web.yonsei.ac.kr/climate)](http://web.yonsei.ac.kr/climate)
+
+ 기후이론 연구실에서는 과거 고기후로부터 미래 기후까지 지구의 기후변화 메커니즘을 이해하기 위한 연구를 수행하고 있습니다. 또한 계절내 변동부터 장주기 변동까지 다양한 주기를 갖는 자연내 변동성의 역학적 시스템과 이들간의 상호작용을 이해하기 위한 연구도 수행하고 있습니다. 이를 위해 관측 자료 및 모형 결과를 이용하여 현상을 분석하고 있으며, 발견된 새로운 현상 및 이론은 기후 시스템 모형을 이용하여 검증하고 있습니다.
 
 <br>
 
-#### Atmospheric Radiation Laboratory [(http://web.yonsei.ac.kr/oasis)](http://web.yonsei.ac.kr/oasis)
-Main focus is on the observation of atmospheric radiative energy and monitoring of ozone layer under the framework of GAW, in this laboratory. Active participation in satellite remote sensing project includes the retrieval of aerosol optical properties from COMS and satellite application projects at Korea Aerospace Research Institute.
+#### 대기 모형 연구실(박상훈 교수님) [(http://web.yonsei.ac.kr)](#)
+대기 모형 연구실에서는 고해상도 수치 실험에서 복잡지형을 표현하기 위한 수치방법론 검증하고, 복잡지형에 의한 작은규모의 흐름이 중규모 운동의 에너지 전달방법에 미치는 영향 분석하며, 실제 사례분석을 통한 복잡지형이 중규모 기상현상에 미치는 영향 분석하는 연구를 하고 있습니다.
 
 <br>
 
-#### Atmospheric Remote Sensing Laboratory [(http://web.yonsei.ac.kr/aremote)](http://web.yonsei.ac.kr/aremote)
-Our research focuses on satellite remote sensing of clouds and precipitation that are key components in the global water and energy cycles. Current research aims to develop precipitation retrieval algorithms for various microwave, visible and infrared sensors. Our research also involves the use of spaceborne- and ground-based observations and cloud-radiative transfer models to understand radiative and physical characteristics of precipitation systems. The other research area includes satellite mission planning and applications of remotely-sensed data to climate study.
+#### 대기복사 연구실(김 준 교수님) [(http://web.yonsei.ac.kr/oasis)](http://web.yonsei.ac.kr/oasis)
+
+대기복사연구실에서는 지구-대기-우주시스템에서의 복사에너지의 전달에 대한 기초 및 응용연구를 주로 하며, 이에는 복사에너지의 측정, 이론적 복사전달모델과정 계산, 그리고 이를 바탕으로 한 대기오염물질의 관측 및 대기환경의 원격탐사 (Remote Sensing)를 포함하고 있습니다. 현재 연세대학교 과학관에 설치된 각종 복사계와 분광광도계, 더스트모니터 등을 통해 대기 중의 오염물질의 정량적 측정 및 에너지의 수지균형 변화의 관측 연구에 활발히 참여하고 있습니다.
 
 <br>
 
-####  Biometeorology Laboratory [(http://eapl.yonsei.ac.kr)](http://eapl.yonsei.ac.kr)
-The biometeorology laboratory pursues (1) a nationwide sustainable water resource management with "HydroKorea II" project through the synergy of ecohydrological/ biogeochemical measurement, modeling and remote sensing, and (2) carbon cycle monitoring and prediction in Monsoon Asia through CarboEastAsia, a research cluster based on collaborations in carbon flux researches among China, Japan and Korea.
+#### 대기역학 연구실(전혜영 교수님) [(http://atmosdyn.yonsei.ac.kr)](http://atmosdyn.yonsei.ac.kr)
+
+본 연구실에서는 성층권 및 중간권을 포함하는 차세대 일기예보 및 기후예측모형의 개발에 있어 중요한 역학과정인 대기 중력파의 모수화 방안을 이론과 관측 및 수치 모델링을 통합하여 개발하고 있습니다. 기존의 모수화 방안이 갖는 문제점들을 체계적으로 개선하며, 새로운 방법론에 근거한 모수화 방안을 제시, 개발, 검증하고 있습니다. 이를 통해 성층권 및 중간권을 포함하는 기후 모형에서 현재 사용하고 있는 중력파 모수화 방안이 가진 취약점들을 극복하고, 전지구 일기예보 모형 및 기후예측 모형의 예측성 향상을 위해 노력하고 있습니다.
 
 <br>
 
-#### Climate Theory Laboratory [(http://web.yonsei.ac.kr/climate)](http://web.yonsei.ac.kr/climate)
-We are seeking the principal mechanisms on the past, present, and future climate variability and change. Major research concerns involve understanding of the earth climate changing mechanism from the pale-climate to the future climate, and of the intraseasonal-to-multi-decadal variability.
+#### 대기예측성 및 자료동화 연구실(김현미 교수님) [(http://web.yonsei.ac.kr/apdal)](http://web.yonsei.ac.kr/apdal)
+대기예측성 및 자료동화연구실(APDAL)에서는 날씨 예보에 많은 영향을 주는 수치모형의 정확도를 향상시키기 위해 수치모형 및 자료동화시스템에 관련된 연구를 수행하며, 이러한 연구들을 바탕으로 대기의 본질적인 예측성을 이해하고자 합니다. 그리고 사회-경제적인 영향이 큰 악기상에 대한 예측성을 향상시키기 위해 목표 관측에 대한 연구도 수향하고 있습니다. 또한, 잠재와도 분석 등의 다양한 이론들을 바탕으로 예보 오차 및 종관규모 기상현상의 발달 메커니즘에 대한 연구도 수행하고 있습니다.
 
 <br>
 
-#### Cloud Physics Laboratory [(http://cloud.yonsei.ac.kr)](http://cloud.yonsei.ac.kr)
-In the Cloud Physics Laboratory, we make measurements of physical/chemical properties of atmospheric aerosols, cloud condensation nuclei (CCN) distributions, cloud droplet and precipitation drop distributions. Also investigated are the implications of these properties on cloud and precipitation developments and aerosol direct and indirect effects using a convective cloud model, an LES cloud model and a mesoscale model. Main areas of interest include warm rain initiation problem, aerosol direct and indirect effects, CCN-precipitation efficiency relationships, cloud seeding, and fog microphysical processes.
+#### 대기 해양 모델링 연구실(송하준 교수님) [(http://airsea.yonsei.ac.kr)](https://airsea.yonsei.ac.kr)
+대기 해양 모델링 연구실에서는 대기-해양간의 운동량, 열, 담수의 교환 뿐만 아니라 탄소와 같은 기체의 순환에 관심을 가지고 연구를 진행하고 있습니다. 저희는 인공위성과 무인 장비로 부터 관측된 자료와 대기-해양-탄소 접합 모델을 사용하여 대기-해양의 상호작용을 더욱 잘 이해하려고 하며, 이를 바탕으로 현재와 미래의 탄소순환을 좀 더 정확하게 예측하는 것을 목표로 하고 있습니다. 나아가 급속히 변화하는 극지방의 기후를 대기-해양-해빙의 관계를 이용하여 연구하고 있습니다.
 
 <br>
 
-#### Geophysical Fluid Dynamics Laboratory [(http://gfdl.yonsei.ac.kr)](http://gfdl.yonsei.ac.kr)
-Our research areas are largely divided into LES(Large Eddy Simulation) and OGCM(Ocean General Circulation Model).
-We have developed a parallelized LES model for high resolution numerical simulation and have been studying many atmospheric and oceanic turbulence phenomena including cloud microphysics, the atmopheric boundary layer and the oceanic mixed layer. By using OGCM, we also try to have a deeper understanding of the ocean, which plays a crucial role in controlling large scale climate change such as ENSO and global warming.
+#### 미기상 연구실(홍진규 교수님) [(http://eapl.yonsei.ac.kr/ )](http://eapl.yonsei.ac.kr)
+
+미기상 연구실은 생태계와 대기 현상이 어떻게 서로에게 영향을 주는지 연구합니다. 이렇게 생태계와 날씨, 기후, 대기 환경과의 상호 작용을 보다 잘 이해하기 위해서, 이론적, 실험적, 수치 모델링 연구를 수행하고 있습니다. 이를 위해 유체 역학의 난류, 복사에너지 전달, 에너지 교환, 온실가스 교환 및 증발산에 관한 다양한 연구를 통하여 궁극적으로 인간과 동식물이 어울려 보다 쾌적한 환경조건에서 조화로운 삶을 살기위해 필요한 지식을 쌓고자 합니다. 현재 관심을 가지고 연구를 하는 분야는 1) 동아시아 식생-기후 상호 작용, 2) 도시 기후 및 환경 변화, 3) 에너지-기후 상호 작용입니다. 본 연구실에 관한 보다 자세한 정보는 연구실 홈페이지 (http://eapl.yonsei.ac.kr)를 참조해주세요.
 
 <br>
 
-#### Laboratory for Atmospheric Dynamics [(http://atmosdyn.yonsei.ac.kr)](http://atmosdyn.yonsei.ac.kr)
-We have investigated the dynamics of atmospheric gravity waves generated by convective systems and developed their parameterization for the large-scale models. Also we have examined the wave induced severe downslope windstorms and turbulence through observational, theoretical, and numerical modeling approaches.
+#### 위성관측 연구실(신동빈 교수님) [(http://arsl.yonsei.ac.kr)](http://arsl.yonsei.ac.kr)
+본 연구실에서는 위성과 지상관측장비를 활용하여 대기와 지표 인자의 관측 및 특성을 연구하고 있습니다. 보다 정확한 구름과 강수 관측을 위한 마이크로파, 가시광선 및 적외선 영역의 다양한 센서들을 이용하여 강수 측정 알고리듬을 개발하고 있으며, 이와 관련된 관측에러 연구도 수행하고 있습니다. 또한 구름 및 강수 시스템의 복사 물리적 특성을 연구하고 있습니다. 수치모사와 위성센서 성능연구 등을 통한 위성의 임무분석과 위성자료의 분석에 의한 기후변화연구도 연구분야 중 하나입니다.
 
 <br>
 
-#### Laboratory for Atmospheric Modeling Research [(http://lamor.yonsei.ac.kr)](http://lamor.yonsei.ac.kr)
-We investigate the mechanism of severe weather such as Changma, heavy rainfall, typhoon and heavy snowfall to improve forecasts of these phenomena. Understanding and forecasting of severe weather has become an increasingly important issue as more meteorological disasters have occurred recently. Numerical weather prediction (NWP) is essential tool for severe weather research. On-going researches of our group are development of numerical model to improve predictability of severe weather and research on mechanism using numerical modeling and observational data.
+#### 지구물리 유체역학 연구실(노의근 교수님) [(http://gfdl.yonsei.ac.kr)](http://gfdl.yonsei.ac.kr)
+본 연구실에서 수행하고 있는 연구 분야는 크게 LES(Large Eddy Simulation)와 OGCM(Ocean General Circulation Model)으로 구분할 수 있습니다. 고해상도 수치모사를 위해 병렬화 된 LES 모형을 개발하였으며, 이를 이용하여 대기경계층, 해양혼합층, 해양심층대류 등 대기와 해양의 많은 난류현상을 연구하고 있습니다. 또한 본 연구실에서는 OGCM을 통해, 엘리뇨, 지구온난화와 같은 대규모 기후변화를 조절하는데 있어 결정적인 역할을 하는 해양에 대한 보다 깊은 유체역학적 이해를 도모하기 위해 노력하고 있습니다.
 
 <br>

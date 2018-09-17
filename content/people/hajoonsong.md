@@ -1,36 +1,41 @@
 +++
-title = "Hajoon Song"
-date = "2018-04-08T13:39:46+02:00"
-teams = ["faculty"]
-active = "people"
+title = "송하준"
+date = "2018-09-04T13:39:46+02:00"
+teams = ["교수진"]
 banner = "img/people/HajoonSong.png"
 email = "hajsong@yonsei.ac.kr"
-job = "Assistant Professor"
-phone = "+82-2-2123-2579"
-room = "Science Hall #544"
-web = "http://airsea.yonsei.ac.kr"
+job = "조교수"
+phone = "02-2123-2579"
+room = "대기해양 모델링 연구실, 과학관 544호"
+web = "https://hajsong.github.io"
 weight = 10
 +++
 
-#### Research interests
-+ Air-sea interactions
-+ Carbon cycle
-+ Data assimilation
+#### 연구분야
++ 대기-해양 상호관계
++ 탄소순환
++ 대기-해양 모델링
++ 자료동화
 
-#### Education
+#### 학력
 + **Ph.D.** (2011) Scripps Institution of Oceanography, University of California, San Diego, USA
 + **B.S.** (2005) Department of Atmospheric Sciences, Yonsei University, Seoul, Korea
 
-#### Research Experience
-+ MIT, Cambridge, USA (2013-2018)
-+ University of California, Santa Cruz, USA (2011-2013)
-+ Scripps Institution of Oceanography, La Jolla, USA (2005-2011)
+#### 연구경력
++ 2018.3 - : Assistant Professor, Department of Atmospheric Sciences, Yonsei University, Seoul, Korea
++ 2018.7 - 2018.8 : Visiting Professor, MIT, Cambridge, USA
++ 2013-2018: Research Scientist / Postdoctoral Associate, MIT, Cambridge, USA
++ 2011-2013: Postdoctoral Associate, University of California, Santa Cruz, USA
++ 2005-2011: Assistant Researcher, Scripps Institution of Oceanography, La Jolla, USA
++ 2005 : Research assistant, Korea Institute of Ocean Science & Technology, Ansan, Korea
 
-#### Courses
-+ [Air-sea interactions](https://hajsong.github.io/ATM2106)
-+ [Ocean modeling](https://hajsong.github.io/ATM9107)
+#### 담당과목
++ [대기-해양 상호관계](https://hajsong.github.io/ATM2106/)
++ [해양모델링](https://hajsong.github.io/ATM9107/)
++ [기상프로그래밍](https://hajsong.github.io/ATM4110/)
 
-#### Selected Publications
+#### 논문
++ Song, H., M. C. Long, P. Gaube, I. Frenger, J. Marshall and D. J. McGillicuddy Jr., 2018: Seasonal variation in the correlation between anomalies of sea level and chlorophyll in the Antarctic Circumpolar Current region. Geophys. Res. Lett., 45, 5011-5019.
 + Stukel, M. R., L. I. Aluwihare, K. A. Barbeau, A. M. Chekalyuk, R. Goericke, A. J. Miller, M. D. Ohman, A. Ruacho, H. Song, B. Stephens, M. R. Landry, 2017: Mesoscale ocean fronts enhance carbon export due to gravitational sinking and subduction. PNAS, 114, 1252-1257.
 + Mattern, J. P., H. Song, C. A. Edwards, A. M. Moore and J. Fiechter, 2017: Data assimilation of physical and chlorophyll observations in the California Current System using two biogeochemical models. Ocean Model., 109, 55-71.
 + Song, H., J. Marshall, D. R. Munro, S. Dutkiewicz, C. Sweeney, D. J. McGillicuddy Jr. and U. Hausmann, 2016: Mesoscale modulation of air-sea CO2 flux in Drake Passage. J. Geophys. Res., 121, 6635-6649.

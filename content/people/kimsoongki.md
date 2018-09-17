@@ -1,23 +1,23 @@
-﻿+++
-title = "Soong-Ki Kim"
++++
+title = "김승기"
 date = "2018-03-24T13:39:46+02:00"
-teams = ["students"]
+teams = ["학생"]
 banner = "img/people/kimsoongki.png"
 email = "sskk503@yonsei.ac.kr"
-job = "M.Sc. student"
+job = "석사과정"
 phone = "010-5037-8889"
-room = "Climate Theory Lab / Science Hall 536A"
+room = "기후이론 연구실 / 과학관 536A호"
 web = "http://web.yonsei.ac.kr/climatelab"
 weight = 50
 +++
 
-#### Research interests
+#### 연구분야
 + Nonlinear ENSO Theory & Dynamics
 
-#### Education
+#### 학력
  + **B.Sc** (2017) in Atmospheric Science, Physics, Yonsei University, Seoul, Korea
 
-#### Awards
+#### 수상내역
 
 
-#### Publications
+#### 논문

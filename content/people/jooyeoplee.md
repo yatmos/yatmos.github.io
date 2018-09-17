@@ -1,23 +1,23 @@
 ﻿+++
-title = "Jooyeop Lee"
+title = "이주엽"
 date = "2018-03-24T13:39:46+02:00"
-teams = ["students"]
+teams = ["학생"]
 banner = "img/people/jooyeoplee.png"
 email = "jooyeop94@yonsei.ac.kr"
-job = "M.Sc. student"
+job = "석사과정"
 phone = "02-2123-5680"
-room = "Ecosystem-Atmosphere Processes Lab / Science Hall 533B"
+room = "미기상 연구실 / 과학관 533B호"
 web = "http://eapl.yonsei.ac.kr"
 weight = 50
 +++
 
-#### Research interests
+#### 연구분야
  + Modeling of the land-atmosphere interface
 
 
-#### Education
+#### 학력
  + **B.Sc** (2018) in Atmospheric Sciences, Yonsei University, Seoul, Korea
 
-#### Awards
+#### 수상내역
 
-#### Publications
+#### 논문

@@ -1,25 +1,25 @@
-﻿+++
-title = "Jiseob Kim"
++++
+title = "김지섭"
 date = "2018-03-24T13:39:46+02:00"
-teams = ["students"]
+teams = ["학생"]
 banner = "img/people/jiseobkim.png"
 email = "ro2003@yonsei.ac.kr"
-job = "Combined M.S./Ph.D. student"
+job = "통합과정"
 phone = "-"
-room = "Atmospheric Remote Sensing Laboratory / Science Hall 529B"
+room = "위성관측 연구실 / 과학관 529B호"
 web = "http://arsl.yonsei.ac.kr"
-weight = 60
+weight = 40
 +++
 
-#### Research interests
+#### 연구분야
 + Passive Microwave Remote Sensing of Precipitation
 + Cloud Microphysics and Satellite Observation
 
-#### Education
+#### 학력
  + **B.Sc** (2016) in Atmospheric Sciences, Yonsei University, Seoul, Korea
 
-#### Awards
+#### 수상내역
  + the grand prize at 4th 3D scientific visualization ‘VAPOR’ competition organized by KISTI (Korea Institute of Science and Technology Information).
 
 
-#### Publications
+#### 논문

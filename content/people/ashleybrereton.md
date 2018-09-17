@@ -1,17 +1,17 @@
 +++
 title = "Ashley Brereton"
 date = "2017-03-24T13:39:46+02:00"
-teams = ["researchers"]
+teams = ["연구원"]
 banner = "img/people/AshleyBrereton.jpg"
 email = "ashbre@yonsei.ac.kr"
-job = "Postdoctoral Researcher"
+job = "박사 후 연구원"
 phone = " "
-room = "Geophysical Fluid Dynamics Laboratory/ Science Hall 529A"
+room = "지구물리유체역학 연구실/ 과학관 529A"
 web = " "
-weight = 30
+weight = 20
 +++
 
-#### Research interests
+#### 연구분야
 + Large-eddy simulation
 + Ocean mixed layer turbulence
 + Plankton population dynamics
@@ -19,16 +19,16 @@ weight = 30
 + Ocean model development
 + Tidal turbulence
 
-#### Education
+#### 학력
 + **Ph.D** (2013) in Applied Mathematics, University of Liverpool, U.K
 + **B.Sc** (2007) in Environmental Sciences (Physical Stream), York University, Canada
 
-#### Research Experience
+#### 연구 경력
 + 2018 - present : Postdoctoral Research Associate, Atmospheric Sciences, Yonsei University, South Korea
 + 2013-2018 : Postdoctoral Research Associate, National Oceanography Centre, U.K.
 + 2013-2018 : Visiting Research Fellow, University of Liverpool, U.K.
 
-#### Selected Publications
+#### 논문
 + Brereton, A., Tejada-Martinez, A.E., Palmer, M., Polton, J., The perturbation method - A novel large-eddy simulation technique to model realistic turbulence: application to tidal flow. In review at Ocean Modelling
 + James, M.K., Polton, J.A., Brereton, A., Howell, K.L., Nimmo-Smith, W.A.M., and Knights, A.M., Assessing the role of active larval movement in vertical distribution profiles: implications for dispersal modelling. In review at Marine Ecology Progress Series
 + Brereton, A., Siddons, J., Lewis, D., 2018 Large eddy simulation of subsurface phytoplankton dynamics: an optimum condition for chlorophyll patchiness induced by Langmuir circulations. Marine Ecology Progress Series, 593. 15-27.https://doi.org/10.3354/meps12490

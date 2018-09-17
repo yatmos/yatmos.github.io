@@ -1,23 +1,21 @@
-﻿+++
-title = "Hyejin Kim"
++++
+title = "김혜진"
 date = "2018-03-24T13:39:46+02:00"
-teams = ["students"]
+teams = ["학생"]
 banner = "img/people/khj.jpg"
 email = "haejin0828@naver.com"
-job = "M.Sc. student"
+job = "석사과정"
 phone = "010-4168-9828"
-room = "Laboratory for Atmospheric Modelling Research / Science Hall 536B"
-weight = 50
-web = "http://lamor.yonsei.ac.kr"
+room = "대기모형연구실 / 과학관 536B호"
+web = " "
 +++
 
-#### Research interests
-+ Numerical Fluid
+#### 연구분야
++ Atmospheric Modeling
 
-#### Education
-+ **B.Sc** (2018) in Atmospheric Sciences, Kongju National University, Kongju, Korea
+#### 학력
++ **B.Sc** (2018) in Department of atmospheric sicence.,Kongju National University, Kongju, Korea
+#### 수상내역
 
-#### Awards
 
-
-#### Publications
+#### 논문

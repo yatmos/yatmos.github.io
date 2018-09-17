@@ -1,15 +1,15 @@
 +++
-title = "[Seminar] Dr. Eun Young Kwon"
+title = "[세미나] 권은영 박사님"
 date = 2018-05-11T12:49:47+09:00
-categories = ["seminar"]
+categories = ["세미나"]
 banner = "img/placeholder.png"
 icon = "microphone"
 +++
 ### Stable carbon isotope evidence for large terrestrial carbon inputs to the global ocean
 <br>
-#### Dr. Eun Young Kwon (Pusan National University, ibs center for climate physics)
-#### May 15, 2018 (Tuesday) 16:00
-#### Science Hall #553
+#### 권은영 박사님 (부산대학교, ibs 기후물리연구단)
+#### 2018년 5월 15일 (화) 16:00
+#### 과학관 553호
 <br>
 #### Abstract
 

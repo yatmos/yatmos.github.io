@@ -1,20 +1,18 @@
 +++
-title = "Jeong Woo Kim"
-date = "2015-08-03T13:39:46+02:00"
-teams = ["faculty"]
+title = "김정우"
+date = "2016-04-09T13:39:46+02:00"
+teams = ["교수진"]
 banner = "img/people/jeongwookim.jpg"
 email = "j-wkim@yonsei.ac.kr "
-job = "Professor Emeritus (1982.8~2003.2)"
+job = "정년퇴임교수(1982.8~2003.2)"
 phone = "02-2123-2683"
-room = "Science Hall #537"
+room = "기후시스템 연구실 / 과학관 537호"
 weight = 13
 +++
 
-#### Research interests
-+ Atmospheric Dynamics
+#### 연구분야
++ 대기역학
++ 기후역학
 
-#### Education
-+ **Ph.D.** (1973) Meteorology, University of California, Los Angeles, USA
-
-#### Tenure
-1982.8 ~ 2003.2
+#### 재임기간
+1982년 8월~2003년 2월

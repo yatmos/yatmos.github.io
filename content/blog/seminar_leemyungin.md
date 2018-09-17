@@ -1,14 +1,14 @@
 +++
-title = "[Seminar] Prof. Myung-in Lee"
+title = "[세미나] Prof. Myung-in Lee"
 date = 2018-03-18T12:49:47+09:00
-categories = ["seminar"]
+categories = ["세미나"]
 banner = "img/placeholder.png"
 icon = "microphone"
 +++
 ### Korean Heatwaves and Their Association with Large-scale Atmospheric Circulation Patterns
 <br>
 #### Prof. Myong-In Lee (Ulsan National Institute of Science and Technology)
-#### March 20, 2018 (Tuesday) 16:00
+#### 2018/3/20 (Tuesday) 16:00
 #### Science Hall #553
 <br>
 #### Abstract

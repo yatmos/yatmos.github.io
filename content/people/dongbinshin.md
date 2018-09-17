@@ -1,38 +1,38 @@
 +++
-title = "Dong-Bin Shin"
+title = "신동빈"
 date = "2018-04-11T13:39:46+02:00"
-teams = ["faculty"]
+teams = ["교수진"]
 banner = "img/people/dongbinshin.jpg"
 email = "dbshin@yonsei.ac.kr"
-job = "Professor"
+job = "정교수"
 phone = "02-2123-5685"
-room = "Atmospheric Radiation Laboratory / Science Hall 546"
+room = "위성관측 연구실 / 과학관 546호"
 web = "http://arsl.yonsei.ac.kr"
 weight = 7
 +++
 
-#### Research interests
-+ Satellite Meteorology
-+ Atmospheric Remote Sensing
-+ Atmospheric Radiation
+#### 연구분야
++ 위성기상
++ 원격탐사
++ 대기복사
 
-#### Education
+#### 학력
 + **Ph.D.** (1999) Atmospheric Sciences, Texas A&M University, College Station, TX, USA
 + **M.S.** (1989) Meteorology, Yonsei University, Seoul, Korea
 + **B.S.** (1987) Astronomy and Meteorology, Yonsei University, Seoul, Korea
 
-#### Research Experience
+#### 연구경력
 + 2014-present : Professor, Department of Atmospheric Sciences, Yonsei University, Seoul, Korea.
 + 2007-2013  : Associate Professor, Department of Atmospheric Sciences, Yonsei University, Seoul, Korea.
 + 2002-2007 : Research Professor, Center for Earth Observing and Space Research, School of Computational Sciences, George Mason University, Fairfax, VA, USA.
 + 2001-2002  : Research Scientist, Dept. of Atmospheric Science, Colorado State University, Fort Collins, CO, USA.
 + 2000 : Assistant Research Scientist, Center for Earth Observing and Space Research, School of Computational Sciences, George Mason University, Fairfax, VA, USA.
 
-#### Courses
-+ Satellite Meteorology
-+ Atmospheric Measurements
+#### 담당과목
++ 위성기상학
++ 마이크로파복사 및 원격탐사이론
 
-#### Selected Publications
+#### 논문
 + Hong, S.-B., D.-B. Shin, B.-H. Park, and D.-W. So, 2016: Development of prototype algorithms for quantitative precipitation nowcasts from AMI onboard the GEO-KOMPSAT-2A satellite, IEEE Transactions on Geoscience and Remote Sensing, 54(12),7149-7156
 + Kim, S.-W., D.-B. Shin, and Y.-J. Choi, 2016: Effects of the three-dimensional hydrometeor distributions of precipitating clouds on passive microwave rainfall estimations, IEEE Transactions on Geoscience and Remote Sensing, 54(4), 1957-1966.
 + Lee, Y.-R., D.-B. Shin, J.-H. Kim, and H.-S. Park, 2015: Precipitation estimation over radar gap areas based on satellite and adjacent radar observations, Atmospheric Measurement Techniques, 8, 719-728.

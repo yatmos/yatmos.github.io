@@ -1,26 +1,26 @@
-+++
-title = "Minsu Park"
+﻿+++
+title = "박민수"
 date = "2018-03-24T13:39:46+02:00"
-teams = ["students"]
+teams = ["연구원"]
 banner = "img/people/minsupark.png"
 email = "ms_park@yonsei.ac.kr "
-job = "Ph.D. student"
+job = "박사 후 연구원"
 phone = "02-2123-7613"
-room = "Cloud Physics Laboratory / Science Hall 554A"
+room = "구름물리 연구실 / 과학관 530A호"
 web = "http://cloud.yonsei.ac.kr"
 weight = 40
 +++
 
-#### Research interests
+#### 연구분야
 + Measurement of physical characteristics of aerosol and CCN
 
-#### Education
+#### 학력
  + **B.Sc** (2012) in Atmospheric Sciences, Yonsei University, Seoul, Korea
 
-#### Awards
+#### 수상내역
 
 
-#### Publications
+#### 논문
 + Kim, J. H., Park, M.-S., Shim, S., and Yum, S. S., (2012), On the contrast of aerosol size distribution and cloud condensation nuclei number concentrations between the east and the west of the Korean Peninsula. Atmosphere, 22, 87-96 (in Korean).
 + Kim, J. H., Yum, S. S., Shim, S., Kim, W. J., Park, M., Kim, J.-H., Kim, M.-H., Yoon, S.-C. (2014), On the submicron aerosol distributions and CCN number concentrations in and around the Korean Peninsula. Atmos. Chem. Phys., 14, 8763–8779.
 + Park, M., Yum, S. S., Kim, J. H. (2015), Characteristics of submicron aerosol number size distribution and new particle formation events measured in Seoul, Korea, during 2004–2012. Asia-Pacific J. Atmos. Sci., 51, 1–10.

@@ -1,32 +1,32 @@
 +++
-title = "Woo-Jin Lee"
+title = "이우진"
 date = "2018-03-24T13:39:46+02:00"
-teams = ["researchers"]
+teams = ["연구원"]
 banner = "img/people/LEEwoojin.jpg"
 email = "wjlee1977@gmail.com"
-job = "Research Professor"
-phone = "+82-010-9395-1778"
-room = "Science Hall 535"
+job = "연구 교수"
+phone = "010-9395-1778"
+room = "대기역학 연구실 / 과학관 535호"
 web = "http://atmosdyn.yonsei.ac.kr"
-weight = 20
+weight = 19
 +++
 
-#### Research interests
-+ numerical weather prediction, weather forecast
-+ dynamic meteorology
+#### 연구분야
++ 수치예보, 일기예보
++ 기상역학
 
-#### Education
+#### 학력
 + **Ph.d.** (1994) in Meteorology, University of Illinois at
 Urbana-Champaign, IL, USA
 + **M.Sc** (1983) in Statistical Physics, Korea advanced Science and
 Technology, Seoul, Korea
 + **B.Sc** (1981) in Meteorology, Yonsei University, Seoul, Korea
 
-#### Research Experience
+#### 연구 경력
 + 1983 - 2017 : Korea Meteorological Administration
 + 2008 - 2010 - APEC Climate Center
 
-#### Selected Publications
+#### 논문
 + Lee, W. J., and M. Mak, 1996: Role of orography in the dynamics of
 storm tracks. J. Atmos. Sci., 53, 1737-1750.
 + Lee, W. J., and M. Mak, 1995: Dynamics of stormtracks: a linear

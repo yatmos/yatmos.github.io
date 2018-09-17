@@ -1,21 +1,21 @@
 +++
-title = "Soon-Il An"
+title = "안순일"
 date = "2018-04-12T13:39:46+02:00"
-teams = ["faculty"]
+teams = ["교수진"]
 banner = "img/people/soonilan.jpg"
 email = "sian@yonsei.ac.kr"
-job = "Professor"
+job = "정교수"
 phone = "02-2123-5684"
-room = "Climate Theory Laboratory / Science Hall #538"
+room = "기후이론 연구실 / 과학관 538호"
 web = "http://web.yonsei.ac.kr/climate"
 weight = 6
 +++
 
-#### Research interests
-+ Climate Dynamics
-+ Atmosphere Ocean Interaction
-+ El Nino, Climate Change
-+ Paleoclimate dynamics
+#### 연구분야
++ 기후역학
++ 대기-해양 상호작용
++ El Nino
++ 기후변화
 
 #### Education
 + **Ph.D.** (1996) Atmospheric Sciences, Seoul National University, Seoul, Korea
@@ -28,13 +28,12 @@ weight = 6
 + Post-Doctoral Fellow, International Pacific Research Center, SOEST, University of Hawaii, Honolulu, Hawaii, 1998.4~2001.3
 + Research Associate, Research Institute for Basic Science, Seoul National University, 1996.9~1998.3
 
-#### Courses
-+ Climate and Global Change
-+ Climate Dynamics
-+ Advanced Topics in Climate DYNAMICS
-+ Atmosphere Ocean Interaction
+#### 담당과목
++ 기후변화의 이해
++ 기후역학
++ 해양-대기 상호작용
 
-#### Selected Publications
+#### 논문
 + So-Jung Shin, Soon-Il An, 2018 :Interdecadal Change in the Relationship Between the North Pacific Oscillation and the Pacific Meridional Mode and Its Impact on ENSO. Asia-Pacific Journal of Atmospheric Sciences, DOI:10.1007/s13143-017-0060-1
 + Jongsoo Shin, R. Olson, Soon-Il An, 2018 : Projected Heat Wave Characteristics over the Korean Peninsula During the Twenty-First Century. Asia-Pacific Journal of Atmospheric Sciences. DOI:10.1007/s13143-017-0059-7
 + R. Olson,  S. -I. An, Y. Fan, J. P. Evans, L. Caesar, 2017 : North Atlantic observations sharpen meridional overturning projections. Climate Dynamics, doi:10.1007/s00382-017-3867-7.
@@ -143,3 +142,4 @@ weight = 6
 + Kug, J.-S., S.-I. An, 2010 : Ocean dynamic processes responsible for the interannual variability of the tropical Indian Ocean SST associated with ENSO, Atmosphere, 20, 211-219.
 + Kang, I.-S., Yang-Mi Lee, and S.-I. An, 1995 : Interannual variability of Typhoon activity over the western Pacific and El Nino, J. Korean Meteor. Soc. 31, 15-26.
 + Kang, I.-S., S.-I. An, C.-H. Joung, S.-C. Yoon, and S.-M. Lee, 1989 : 30-60 day oscillation signal appearing in climatological variation of outgoing longwave radiation around East Asian region during Northern Summer, J. Korean Meteor. Soc., 25, 221-232.
+

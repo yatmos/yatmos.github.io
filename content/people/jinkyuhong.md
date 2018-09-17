@@ -1,44 +1,55 @@
 +++
-title = "Jinkyu Hong"
+title = "홍진규"
 date = "2018-04-10T13:39:46+02:00"
-teams = ["faculty"]
+teams = ["교수진"]
 banner = "img/people/jinkyuhong.jpg"
-email = "jhong@yonsei.ac.kr"
-job = "Associate Professor"
+email = "jhong[at]yonsei.ac.kr"
+job = "부교수"
 phone = "02-2123-5693"
-room = "Science Hall #542"
+room = "미기상 연구실 / 과학관 542호"
 web = "http://eapl.yonsei.ac.kr"
 weight = 8
 +++
 
-#### Research interests
-+ Carbon and Water Cycles
-+ Urban Climate and Environment
-+ Ecosystem-Atmosphere Interaction
-+ Energy-Climate Interaction
+#### 연구분야
++ 탄소 및 물 순환
++ 도시 기상학 및 도시 환경
++ 생태계-대기 상호 작용
++ 에너지-기후 상호 작용
 
-#### Education
+
+
+
+#### 교육
+
+- 미기상학/경계층기상학
+- 대기관측
+- 생물-대기 상호작용
+
+
+
+#### 학력
+
 + **Ph.D.** (2005) Department of Atmospheric Sciences, Yonsei University, Seoul, Korea
 + **M.S.** (1999) Department of Atmospheric Sciences, Yonsei University, Seoul, Korea
-+ **B.S.** (1997) Astronomy and Atmospheric Sciences, Yonsei University, Seoul, Korea
++ **B.S.** (1997) Department of Astronomy and Atmospheric Sciences, Yonsei University, Seoul, Korea
 
-#### Professional Experience
-+ Science Steering Committee Member of AsiaFlux (http://asiaflux.net) (2014-2017)
-+ Technical Advisory Committee Member of Korea Institute of Atmospheric Prediction System (http://kiaps.org) (2015-present)
-+ Advisory committee member for weather and climate business support center, KMIPA (2015- present)
-+ Research proposal investigator in National Research Foundation
-+ Organizing committee member of 1st and 2nd Urban and Rural Meteorology Workshop 2012 (http://workshop.wise2020.org)
-+ International organizing committee member of 6th China-Korea-Japan Joint Conference on Meteorology (http://www.cms1924.org/CN/News/2013-06/EnableSite_ReadNews196619051371484800.html)
-+ Contributing author of Korea Climate Change Assessment Report
-+ Contributor of English-to-Korean translation of IPCC AR4 Working Group I report (ISBN: 11-1360000-000099-14)
-+ Hosting the 1st Domestic Expert Workshop on Surface Flux Measurement and Modeling (2009)
 
-#### Courses
-+ Micrometeorology
-+ Atmospheric Measurement Technique
-+ Biosphere-Atmosphere Interaction
+
+
+
+#### 경력
++ 2016 - 현재 : 부교수, 연세대학교 대기과학과
++ 2012 - 2016 : 조교수, 연세대학교 대기과학과
++ 2010 - 2012 : 선임연구원, 국가수리과학연구소
++ 2008 - 2010 : 연구교수, 연세대학교 대기과학과
++ 2006 - 2008 : Postdoctoral Researcher, Univ. of Georgia, USA
+
+
+
 
 #### Selected Publications
+
 + Kent, C., K. Lee, H. C. Ward, J.-W. Hong, J. Hong, D. Gatey, and S. Grimmond (2018) Aerodynamic roughness variation with vegetation: Analysis in a suburban neighbourhood and a city park, *Urban Ecosystems*, 21, 227-243.
 + Song, I., U. Byun, J. Hong and S. Park (2018) Domain-size and top-height dependence in regional predictions for East Asia in spring, *Atmospheric Science Letters*, 19, e799.
 + Lee, C., K. Han, J. Yeom, K. Lee, M. Seo, J. Hong, J.-W. Hong, K. Lee, J. Shin, I. Shim, J. Chun, and J.-L. Roujean (2018) Surface albedo from the geostationary Communication, Ocean and Meteorological Satellite (COMS)/Meteorological Imager (MI) observation system, *GIScience & Remote Sensing*, 28, 38-62.

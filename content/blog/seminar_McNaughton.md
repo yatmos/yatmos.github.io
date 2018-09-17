@@ -1,15 +1,15 @@
 +++
-title = "[Seminar] Prof. Keith McNaughton"
+title = "[세미나] Prof. Keith McNaughton"
 date = 2018-07-23T8:49:47+09:00
-categories = ["seminar"]
+categories = ["세미나"]
 banner = "img/placeholder.png"
 icon = "microphone"
 +++
 ### A historical background on research in CBL turbulence 
 <br>
 #### Prof. Keith McNaughton (Landcare research, New zealand)
-#### July 23, 2018 (Monday) 17:00
-#### Science Hall #553
+#### 2018년 7월 23일 (월) 17:00
+#### 과학관 553호
 <br>
 #### Abstract
 

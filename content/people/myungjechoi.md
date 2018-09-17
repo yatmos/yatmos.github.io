@@ -1,34 +1,34 @@
 +++
-title = "Myungje Choi"
+title = "최명제"
 date = "2017-03-24T13:39:46+02:00"
-teams = ["researchers"]
+teams = ["연구원"]
 banner = "img/people/myungjechoi.jpg"
 email = "choi816@yonsei.ac.kr"
-job = "Postdoctoral Researcher"
+job = "박사 후 연구원"
 phone = "02-2123-8116"
-room = "Atmospheric Radiation Laboratory / Science Hall 522B"
+room = "대기복사 연구실 / 과학관 522B호"
 web = "http://web.yonsei.ac.kr/oasis "
-weight = 30
+weight = 20
 +++
 
-#### Research interests
+#### 연구분야
 + Retrieval of aerosol optical properties using a multi-channel ocean color sensor onboard a geostationary satellite
 + Validation and uncertainty estimation of aerosol optical properties from geostationary satellite using ground-based and other satellite-based observations
 + Analysis of aerosol optical properties diurnal variation and long-range transport using a geostationary satellite
 + Data assimilation of geostationary satellite aerosol optical properties with air quality modeling
 + Relevance between satellite-retrieved aerosol optical properties and ground in-situ particulate matter
 
-#### Education
+#### 학력
 + **Ph.d.** (2017) in Atmospheric Sciences, Yonsei University, Seoul, Korea
 + **B.Sc** (2011) in Atmospheric Sciences, Yonsei University, Seoul, Korea
 
-#### Research Experience
+#### 연구 경력
 + 2017 - current : Postdoctoral researcher, Dep. of Atmospheric Sciences, Yonsei University, Seoul, Korea
 
-#### Awards
+#### 수상내역 (있다면)
 + NASA Group Achievement Award for "KORUS-AQ: An International Cooperative Air Quality Field Study in Korea" project, 2017.08
 
-#### Selected Publications
+#### 논문
 + Holben, B. N., Kim, J., Sano, I., Mukai, S., Eck, T. F., Giles, D. M., Schafer, J. S., Sinyuk, A., Slutsker, I., Smirnov, A., Sorokin, M., Anderson, B. E., Che, H., Choi, M., Crawford, J. H., Ferrare, R. A., Garay, M. J., Jeong, U., Kim, M., Kim, W., Knox, N., Li, Z., Lim, H. S., Liu, Y., Maring, H., Nakata, M., Pickering, K. E., Piketh, S., Redemann, J., Reid, J. S., Salinas, S., Seo, S., Tan, F., Tripathi, S. N., Toon, O. B., and Xiao, Q.: An overview of mesoscale  aerosol processes, comparisons, and validation studies from DRAGON networks, Atmos. Chem. Phys., 18, 655-671, doi:10.5194/acp-18-655-2018, 2018.
 + Choi, M., Kim, J., Lee, J., Kim, M., Park, Y.-J., Holben, B., Eck, T. F., Li, Z., and Song, C. H.: GOCI Yonsei aerosol retrieval version 2 products: an improved algorithm and error analysis with uncertainty estimation from 5-year validation over East Asia, Atmos. Meas. Tech., 11, 385-408, doi:10.5194/amt-11-385-2018, 2018.
 + Lee, S., Kim, M., Choi, M., Go, S., Kim, J., Kim, J.-H., Lim, H.-K., Jeong, U., Goo, T.-Y., Kuze, A., Shiomi, K., and Tatsuya, Y.: Aerosol Property Retrieval Algorithm over Northeast Asia from TANSO-CAI Measurements Onboard GOSAT, Remote Sens., 9, 687, doi:10.3390/rs9070687, 2017.

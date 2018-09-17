@@ -1,23 +1,20 @@
-﻿+++
-title = "Ji-Hee Yoo"
++++
+title = "유지희"
 date = "2018-03-24T13:39:46+02:00"
-teams = ["students"]
+teams = ["학생"]
 banner = "img/people/jhyoo.jpg"
 email = "yoojh92@yonsei.ac.kr"
-job = "Ph.D. student"
-phone = "02-2123-7643"
-room = "Laboratory for Atmospheric Dynamics / Science Hall 533A"
+job = "박사과정"
+phone = " "
+room = "대기역학 연구실 / 과학관 533A호"
 web = " http://atmosdyn.yonsei.ac.kr "
-weight = 40
+weight = 50
 +++
 
-#### Research interests
+#### 연구분야
 + Inertia-gravity waves
 + radiosonde observation over Antarctica
 
-#### Education
+#### 학력
++ **M.Sc** (2018) in Atmospheric Sciences, Yonsei University, Seoul, Korea
 + **B.Sc** (2016) in Atmospheric Sciences, Yonsei University, Seoul, Korea
-
-#### Awards
-
-#### Publications

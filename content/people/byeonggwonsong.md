@@ -1,25 +1,25 @@
-﻿+++
-title = "Byeong-Gwon Song"
++++
+title = "송병권"
 date = "2018-03-24T13:39:46+02:00"
-teams = ["students"]
+teams = ["학생"]
 banner = "img/people/Byeong-Gwon Song.png"
 email = "songbg@yonsei.ac.kr"
-job = "Ph.D. student"
+job = "통합과정"
 phone = "02-2123-7643"
-room = "Laboratory for Atmospheric Dynamics / Science Hall 533A"
+room = "대기역학연구실 / 과학관 533A호"
 web = "http://atmosdyn.yonsei.ac.kr/"
 weight = 40
 +++
 
-#### Research interests
-+ Gravity Waves
+#### 연구분야
++ Gravity waves
 + Polar Dynamics
 + Stratospheric Sudden Warming
 
-#### Education
+#### 학력
  + **B.Sc** (2014) in Atmospheric Sciences, Yonsei University, Seoul, Korea
 
-#### Awards
+#### 수상내역
 
 
-#### Publications
+#### 논문

@@ -1,24 +1,18 @@
-baseurl = "https://atmos.yonsei.ac.kr/eng/"
-title = "Department of Atmospheric Sciences, Yonsei University"
+baseurl = "https://atmos.yonsei.ac.kr"
+title = "연세대학교 대기과학과"
 theme = "hugo-universal-theme"
-
-
-# Site language. Available translations in the theme's `/i18n` directory.
-
-
-# languageCode = "en-us"
-languageCode = "en-us"
+languageCode = "ko"
 # Site language. Available translations in the theme's `/i18n` directory.
 defaultContentLanguage = "en"
 # Enable comments by entering your Disqus shortname
 # disqusShortname = "yatmos"
 # Enable Google Analytics by entering your tracking code
-#googleAnalytics = "UA-117501743-1"
-googleAnalytics = ""
-hasCJKLanguage = true
+googleAnalytics = "UA-117501743-1"
 
+hasCJKLanguage = true
 # Define the number of posts per page
 paginate = 20
+
 summarylength = 20
 
 [menu]
@@ -31,12 +25,12 @@ summarylength = 20
 #    weight = 1
 
 [[menu.main]]
-    name = "About"
+    name = "학과소개"
     url  = "/about/"
     weight = 1
 
 [[menu.main]]
-    name = "People"
+    name = "사람들"
     identifier = "peo"
     url  = "/people/"
     weight = 3
@@ -60,17 +54,17 @@ summarylength = 20
 #    weight = 2.3
 
 [[menu.main]]
-    name = "Research"
+    name = "연구활동"
     url  = "/research/"
     weight = 2
 
 [[menu.main]]
-    name = "News"
+    name = "학과소식"
     url  = "/blog/"
     weight = 5
 
 [[menu.main]]
-    name = "Education"
+    name = "학사안내"
     identifier = "edu"
     url  = "/education/"
     weight = 4
@@ -93,16 +87,16 @@ summarylength = 20
 #    weight = 6
 
 [[menu.topbar]]
-    weight = 2
-    name = "Language"
-    url = "https://atmos.yonsei.ac.kr"
-    pre = "한글"
+    weight = 1
+    name = "school"
+    url = "https://www.yonsei.ac.kr/sc/"
+    pre = "연세대학교"
 
 [[menu.topbar]]
-    weight = 1
-    name = "School"
-    url = "http://www.yonsei.ac.kr/en_sc/"
-    pre = "YONSEI"
+    weight = 2
+    name = "Language"
+    url = "https://atmos.yonsei.ac.kr/eng"
+    pre = "English"
 
 [params]
     viewMorePostLink = "/blog/"
@@ -131,21 +125,18 @@ summarylength = 20
     # Enable the contact form by entering your Formspree.io email
     email = "yonseiatmos@gmail.com"
 
-    about_us = "<p>Department of Atmospheric Sciences <br> College of Science <br> Yonsei University</p>"
+    about_us = "<p>연세대학교 이과대학 대기과학과</p>"
     copyright = "Copyright (c) 2018 - 2018, Department of Atmospheric Sciences, Yonsei University; all rights reserved."
 
     # Format dates with Go's time formatting
     date_format = "January 2, 2006"
 
     # logo = "img/apple-touch-icon.png"
-
-    address = """<p><strong>Department of Atmospheric Sciences</strong>
-        <br><strong>Yonsei University</strong>
-        <br>50 Yonsei-ro
-        <br>Shinchon-dong
-        <br>Seodaemoon-gu
-        <br>Seoul, South Korea
+    address = """<p>
         <br>03722
+        <br>서울특별시 서대문구 연세로 50
+        <br>연세대학교 이과대학(과학관) 528A
+        <br><strong>대기과학과</strong>
       </p>
       """
     latitude = "37.564044"
@@ -197,29 +188,29 @@ summarylength = 20
     moviefile = "img/iss.mp4"
     snapfile = "img/iss_ini.jpg"
     sourcefile = "https://youtu.be/W0LHTWG-UmQ"
-    title = "What is Atmospheric Sciences?"
-    subtitle = "Atmospheric sciences can provide responsible solutions for the global environment, the most challenging issue in the 21st century, and harmonious coexsitence of nature and human beings."
+    title = "대기과학이란?"
+    subtitle = "21세기 인류가 당면한 가장 도전적인 문제인 지구환경 분야를 선도하는 대기과학은 자연과 인간의 조화로운 공존을 위해 책임 있는 해결을 제시할 수 있는 핵심 과학입니다."
 
 [params.see_more]
     enable = true
     icon = "fa fa-paper-plane"
-    title = "Apply"
-    subtitle = "We are looking forward to your participation."
+    title = "학과 지원하기"
+    subtitle = "대기과학 및 지구과학의 다양한 분야에서 활발한 연구를 하고 있습니다. 여러분의 참여를 기다립니다."
     link_url = "education"
-    link_text = "Check out our education program"
+    link_text = "학사안내"
 
 [params.clients]
     enable = true
     # All clients are defined in their own files. You can find example items
     # at 'exampleSite/data/clients'.
     # For more informtion take a look at the README.
-    title = "Congratulations!"
-    subtitle = "Congratulations for winning awards."
+    title = "축하합니다."
+    subtitle = "대기과학과 구성원들의 수상을 축하합니다."
 
 [params.recent_posts]
     enable = true
-    title = "News and Events"
-    subtitle = "See the News tab for further details."
+    title = "학과 소식 및 세미나 공지"
+    subtitle = "학과 소식과 최근 출판된 논문 관련소식 및 세미나에 대한 공지사항 입니다. 자세한 사항은 학과소식을 참고해 주세요."
 
 [taxonomies]
     tag = "tags"
