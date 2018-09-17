@@ -236,11 +236,7 @@ ul.list-style-none {
 }
 @media (min-width: 1300px) {
   body.boxed {
-<<<<<<< HEAD
     background: url(https://subtlepatterns.com/patterns/subtle_zebra_3d.png);
-=======
-    background: url(http://subtlepatterns.com/patterns/subtle_zebra_3d.png);
->>>>>>> 497e45bb8d5920f20489625a009ff5b488ce28df
   }
   body.boxed #all {
     position: relative;
@@ -3539,11 +3535,6 @@ a.list-group-item.active > .badge,
 /*!
  * Yamm!3 - Yet another megamenu for Bootstrap 3
  * http://geedmo.github.com/yamm3
-<<<<<<< HEAD
- *
-=======
- * 
->>>>>>> 497e45bb8d5920f20489625a009ff5b488ce28df
  * @geedmo - Licensed under the MIT license
  */
 .yamm .nav,
@@ -3604,7 +3595,6 @@ tbody td {
   height: 100%;
   pointer-events: none;
 }
-<<<<<<< HEAD
 .vid-info {
     position: relative;
     top: 20px;
@@ -3622,25 +3612,23 @@ tbody td {
     font-weight: 700;
     margin-top: 0;
     line-height: 2;
-=======
-.vid-info { 
-    position: relative; 
-    top: 20px; 
-    left: 0; 
-    width: 80%; 
-    color: #fff; 
-    padding: 1rem; 
+.vid-info {
+    position: relative;
+    top: 20px;
+    left: 0;
+    width: 80%;
+    color: #fff;
+    padding: 1rem;
     margin-left: auto;
     margin-right: auto;
 }
-.vid-info h2 { 
+.vid-info h2 {
     display: inline-block;
     color: #fff;
-    font-size: 3rem; 
-    font-weight: 700; 
-    margin-top: 0; 
-    line-height: 2; 
->>>>>>> 497e45bb8d5920f20489625a009ff5b488ce28df
+    font-size: 3rem;
+    font-weight: 700;
+    margin-top: 0;
+    line-height: 2;
 }
 .vid-info p {
     display: inline-block;
@@ -3665,11 +3653,7 @@ tbody td {
 }
 
 /* Embed video in the background */
-<<<<<<< HEAD
 video {
-=======
-video { 
->>>>>>> 497e45bb8d5920f20489625a009ff5b488ce28df
     position: absolute;
     top: 0;
     left: 0;
@@ -3677,10 +3661,6 @@ video {
     height: 100%;
     transition: 1s opacity;
 }
-<<<<<<< HEAD
 .stopfade {
-=======
-.stopfade { 
->>>>>>> 497e45bb8d5920f20489625a009ff5b488ce28df
    opacity: .5;
 }
