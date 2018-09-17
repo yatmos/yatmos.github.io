@@ -1,30 +1,48 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Department of Atmospheric Sciences, Yonsei University</title>
-    <link>https://atmos.yonsei.ac.kr/eng/categories/</link>
-    <description>Recent content in Categories on Department of Atmospheric Sciences, Yonsei University</description>
+    <title>Categories on 연세대학교 대기과학과</title>
+    <link>https://atmos.yonsei.ac.kr/categories/</link>
+    <description>Recent content in Categories on 연세대학교 대기과학과</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>ko</language>
     
-	<atom:link href="https://atmos.yonsei.ac.kr/eng/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://atmos.yonsei.ac.kr/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>News</title>
-      <link>https://atmos.yonsei.ac.kr/eng/categories/news/</link>
-      <pubDate>Sat, 03 Mar 2018 13:42:03 +0900</pubDate>
+      <title>공지사항</title>
+      <link>https://atmos.yonsei.ac.kr/categories/%EA%B3%B5%EC%A7%80%EC%82%AC%ED%95%AD/</link>
+      <pubDate>Mon, 17 Sep 2018 07:57:16 +0900</pubDate>
       
-      <guid>https://atmos.yonsei.ac.kr/eng/categories/news/</guid>
+      <guid>https://atmos.yonsei.ac.kr/categories/%EA%B3%B5%EC%A7%80%EC%82%AC%ED%95%AD/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Seminar</title>
-      <link>https://atmos.yonsei.ac.kr/eng/categories/seminar/</link>
-      <pubDate>Tue, 04 Sep 2018 11:49:47 +0900</pubDate>
+      <title>새소식</title>
+      <link>https://atmos.yonsei.ac.kr/categories/%EC%83%88%EC%86%8C%EC%8B%9D/</link>
+      <pubDate>Thu, 05 Jul 2018 06:47:02 +0900</pubDate>
       
-      <guid>https://atmos.yonsei.ac.kr/eng/categories/seminar/</guid>
+      <guid>https://atmos.yonsei.ac.kr/categories/%EC%83%88%EC%86%8C%EC%8B%9D/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>세미나</title>
+      <link>https://atmos.yonsei.ac.kr/categories/%EC%84%B8%EB%AF%B8%EB%82%98/</link>
+      <pubDate>Mon, 10 Sep 2018 13:49:47 +0900</pubDate>
+      
+      <guid>https://atmos.yonsei.ac.kr/categories/%EC%84%B8%EB%AF%B8%EB%82%98/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>채용공고</title>
+      <link>https://atmos.yonsei.ac.kr/categories/%EC%B1%84%EC%9A%A9%EA%B3%B5%EA%B3%A0/</link>
+      <pubDate>Fri, 10 Aug 2018 05:49:42 +0900</pubDate>
+      
+      <guid>https://atmos.yonsei.ac.kr/categories/%EC%B1%84%EC%9A%A9%EA%B3%B5%EA%B3%A0/</guid>
       <description></description>
     </item>
     
