@@ -11,4 +11,4 @@ icon = "trophy"
 #### 우수업적 교수상
 신동빈 대기과학과 교수께서 연구 부문, 연구비 부문에서 우수상을 수상하였습니다. 축하합니다!
 
-[![jk](../../../../../img/people/dongbinshin.jpg)](../../../../../people/dongbinshin)
+[![jk](/img/people/dongbinshin.jpg)](/people/dongbinshin)

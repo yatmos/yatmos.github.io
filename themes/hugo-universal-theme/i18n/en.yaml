@@ -2,10 +2,10 @@
   translation: "Home"
 
 - id: prev
-  translation: "Previous"
+  translation: "이전"
 
 - id: next
-  translation: "Next"
+  translation: "다음"
 
 - id: templateBy
   translation: "Template by"
@@ -23,7 +23,7 @@
   translation: "Contact"
 
 - id: contactForm
-  translation: "Contact form"
+  translation: "메세지 남기기"
 
 - id: contactName
   translation: "Your Name"
@@ -56,7 +56,7 @@
   translation: "Tags"
 
 - id: continueReading
-  translation: "Continue reading"
+  translation: "더 알아보기"
 
 - id: readMore
   translation: "Read more"

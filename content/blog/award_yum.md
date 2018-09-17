@@ -11,4 +11,4 @@ icon = "trophy"
 #### 우수강의 교수상
 염성수 대기과학과 교수께서 2017학년도 이과대학 대학원 우수 강의 교수상을 수상하였습니다. 축하합니다!!
 <br>
-[![yum](../../../../../img/people/seongsooyum.jpg)](../../../../../people/seongsooyum)
+[![yum](/img/people/seongsooyum.jpg)](/people/seongsooyum)

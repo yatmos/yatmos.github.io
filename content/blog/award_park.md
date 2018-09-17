@@ -10,4 +10,4 @@ icon = "trophy"
 #### 우수강의 교수상 수상
 박상훈 대기과학과 교수께서 2017학년도 이과대학 학부 우수 강의교수상을 수상하였습니다.
 <br>
-[![park](../../../../../img/people/sanghunpark.jpg)](../../../../../people/sanghunpark)
+[![park](/img/people/sanghunpark.jpg)](/people/sanghunpark)
