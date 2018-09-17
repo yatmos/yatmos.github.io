@@ -1,5 +1,5 @@
 +++
-title = "석사"
+title = "석사졸업생"
 date = "2018-03-24T13:39:46+02:00"
 teams = ["졸업생명단"]
 banner = "img/people/alumni.png"
@@ -950,7 +950,14 @@ th.tg-sort-header::-moz-selection { background:transparent; }th.tg-sort-header::
     <td class="tg-s8ju">Feedback processes responsible for intermodel diversity <br>
                         of ENSO variability</td>
     <td class="tg-s8ju">안순일</td>
+  </tr>
+  <tr>
+    <td class="tg-s8ju">유지희</td>
 
+    <td class="tg-s8ju">2018년 8월</td>
+    <td class="tg-s8ju">Characteristics and sources of inertial-gravity waves <br>
+                        revealed in radiosonde observation at Jang Bogo Station, Antarctica</td>
+    <td class="tg-s8ju">전혜영</td>
   </tr>
 </table></div>
 

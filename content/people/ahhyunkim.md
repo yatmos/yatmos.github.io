@@ -22,5 +22,3 @@ weight = 30
 
 #### 논문
 + Kim, A.-H., and Lee, T.-Y., 2016. A Study of a Heavy Rainfall Event in the Middle Korean Peninsula in a Situation of a Synoptic-Scale Ridge Over the Korean Peninsula. Atmosphere, 26, 577-598 (in Korean).
-+ hihi
- 

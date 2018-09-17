@@ -1,5 +1,5 @@
 ﻿+++
-title = "김혁동"
+title = "김동혁"
 date = "2018-03-24T13:39:46+02:00"
 teams = ["학생"]
 banner = "img/people/donghyeockkim.png"
