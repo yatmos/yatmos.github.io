@@ -55,7 +55,11 @@
             {{ if isset .Site.Params "address" }}
             <section>
 
+<<<<<<< HEAD
               <h3 class="text-uppercase"> 주소</h3>
+=======
+              <h3 class="text-uppercase"> {{ i18n "contactAddrTitle" }}</h3>
+>>>>>>> 497e45bb8d5920f20489625a009ff5b488ce28df
               <!--h3 class="text-uppercase"> {{ i18n "contactAddrTitle" }}</h3-->
 
                 {{ .Site.Params.address | safeHTML }}

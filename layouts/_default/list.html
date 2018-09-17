@@ -53,8 +53,28 @@
                                         <img src="{{ .Site.BaseURL}}{{ .Params.banner }}" alt="" class="img-responsive" style="margin: 0 auto;">
                                         <center/a>
                                     </div>
+<<<<<<< HEAD
                                     <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
                                     <p class="role">{{ .Params.job }}</p>
+=======
+                                    <h4><a href="{{ .Permalink }}" style="color:dimgray">{{ .Title }}</a></h4>
+                                    {{ if (eq .Params.job "Professor") }}
+                                    <p class="role">{{ .Params.job }}<br>&nbsp</p>
+                                    {{ else if (eq .Params.job "Associate Professor") }}
+                                    <p class="role">{{ .Params.job }}<br>&nbsp</p>
+                                    {{ else if (eq .Params.job "Assistant Professor") }}
+                                    <p class="role">{{ .Params.job }}<br>&nbsp</p>
+                                    {{ else if (eq .Params.job "Research Professor") }}
+                                    <p class="role">{{ .Params.job }}<br>&nbsp</p>
+                                    {{ else if (eq .Params.job "M.Sc. student") }}
+                                    <p class="role">{{ .Params.job }}<br>&nbsp</p>
+                                    {{ else if (eq .Params.job "Ph.D. student") }}
+                                    <p class="role">{{ .Params.job }}<br>&nbsp</p>
+                                    {{ else }}
+                                    <p class="role">{{ .Params.job }}</p>
+                                    {{ end }}
+
+>>>>>>> 497e45bb8d5920f20489625a009ff5b488ce28df
                                 </div>
                             </div>
                         {{ end }}
