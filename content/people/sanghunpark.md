@@ -23,7 +23,7 @@ web = ""
 #### 연구경력
 + 2014-2017: Project Scientist I, National Center for Atmospheric Research, Boulder, USA
 + 2013-2013: Postdoctoral Fellow, Earth System Laboratory, National Center for Atmospheric Research, Boulder, USA
-+ 2011-2012: Adavanced Study Program (ASP), National Center for Atmospheric Research, Boulder, USA
++ 2011-2012: Advanced Study Program (ASP), National Center for Atmospheric Research, Boulder, USA
 
 #### 담당과목
 + 대기역학

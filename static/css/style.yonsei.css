@@ -3535,7 +3535,6 @@ a.list-group-item.active > .badge,
 /*!
  * Yamm!3 - Yet another megamenu for Bootstrap 3
  * http://geedmo.github.com/yamm3
- *
  * @geedmo - Licensed under the MIT license
  */
 .yamm .nav,
@@ -3596,6 +3595,23 @@ tbody td {
   height: 100%;
   pointer-events: none;
 }
+.vid-info {
+    position: relative;
+    top: 20px;
+    left: 0;
+    width: 80%;
+    color: #fff;
+    padding: 1rem;
+    margin-left: auto;
+    margin-right: auto;
+}
+.vid-info h2 {
+    display: inline-block;
+    color: #fff;
+    font-size: 3rem;
+    font-weight: 700;
+    margin-top: 0;
+    line-height: 2;
 .vid-info {
     position: relative;
     top: 20px;

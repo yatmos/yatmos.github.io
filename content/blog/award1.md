@@ -13,3 +13,4 @@ icon = "trophy"
 [자세히 보기](http://sci.sedaily.com/Winner#252)
 <br>
 [![jk](/img/carousel/jkim.jpg)](/people/jhoonkim)
+</div>
