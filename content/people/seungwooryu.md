@@ -8,6 +8,7 @@ job = "석사과정"
 phone = "010-7535-2988"
 room = "대기모형연구실 / 과학관 536B호"
 web = " "
+weight = 50
 +++
 
 #### 연구분야
@@ -15,6 +16,7 @@ web = " "
 
 #### 학력
 + **B.Sc** (2018) in Physics and Mathematics, Catholic University of Korea, Bucheon, Korea
+
 #### 수상내역
 
 
