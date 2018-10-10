@@ -7,7 +7,7 @@ job = "퇴임교수(2000.9 ~ 2017.3)"
 email = "songyouhong@gmail.com"
 room = "현 한국형수치예보모델개발사업단 단장"
 web = "https://www.kiaps.org/about/greeting.do"
-weight = 15
+weight = 16
 +++
 
 #### 연구분야
