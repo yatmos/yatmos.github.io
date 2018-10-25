@@ -15,6 +15,9 @@ icon = "bullhorn"
 
 이번 행사를 통해 많은 동문분들과 가족, 그리고 내외 인사분들과 함께 지난 50년을 돌아보고 앞으로의 50년을 내다보는 계기가 되었습니다.
 
+<div class='image'>
+<img src="/img/cbackground.jpg" class="img-responsive" alt="">
+</div>
 
 <br>
 
