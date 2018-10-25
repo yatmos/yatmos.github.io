@@ -17,5 +17,22 @@ icon = "bullhorn"
 
 
 <br>
+<br>
 
-#### [연세대학교 대기과학 100년 연혁](/files/yatmos_history.pdf)  
+<!--more-->
+<div class='image'>
+<img src="/img/GroupPhoto3.png" class="img-responsive" alt="">
+</div>
+
+<br>
+<br>
+
+<!--more-->
+<div class='image'>
+<img src="/img/atmoshistory.jpg" class="img-responsive" alt="">
+</div>
+
+<br>
+
+[50주년 행사 사진 더보기](https://photos.app.goo.gl/6kZsD1cpR3GupeD97)
+
