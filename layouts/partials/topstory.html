@@ -1,0 +1,26 @@
+{{ if isset .Site.Params "topstory" }}
+{{ if .Site.Params.topstory.enable }}
+<section>
+    <div class="home-topstory">
+        <div class="dark-mask"></div>
+        <div class="container">
+            <div class="homepage owl-topstory">
+                {{ range sort .Site.Data.topstory "weight" }}
+                <div class="item">
+                    <div class="row">
+			<a href="{{ .dest }}">
+                        <div class="col-md-12">
+                            <h1>{{ .title }}</h1>
+                            <p>{{ .description | safeHTML }}</p>
+                        </div>
+                        </a>
+                    </div>
+                </div>
+                {{ end }}
+            </div>
+        </div>
+            <!-- /.project owl-slider -->
+    </div>
+</section>
+{{ end }}
+{{ end }}
