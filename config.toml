@@ -210,7 +210,6 @@ summarylength = 20
     # at 'exampleSite/data/clients'.
     # For more informtion take a look at the README.
     title = "축하합니다."
-    subtitle = "대기과학과 구성원들의 수상을 축하합니다."
 
 [params.recent_posts]
     enable = true
