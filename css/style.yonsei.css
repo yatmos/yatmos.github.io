@@ -1260,9 +1260,8 @@ fieldset[disabled] .btn-template-primary.active {
 }
 .home-topstory .owl-topstory {
   padding-top: 150px;
-  padding-bottom: 50px;
+  padding-bottom: 100px;
   position: relative;
-  top: -100px;
   text-align: center;
 }
 .home-topstory .owl-theme .owl-controls .owl-page span {
@@ -1321,9 +1320,6 @@ fieldset[disabled] .btn-template-primary.active {
   .home-topstory p {
     font-size: 14px;
   }
-}
-.home-topstory ul li {
-  margin-bottom: 10px;
 }
 .customers {
   padding: 0;
