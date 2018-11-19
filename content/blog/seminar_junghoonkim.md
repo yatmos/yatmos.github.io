@@ -1,6 +1,6 @@
 +++
 title = "[세미나] 김정훈 교수님"
-date = 2018-11-20T12:55:47+09:00
+date = 2018-11-19T12:55:47+09:00
 categories = ["세미나"]
 banner = "img/placeholder.png"
 icon = "microphone"
