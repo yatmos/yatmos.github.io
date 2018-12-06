@@ -13,7 +13,7 @@ icon = "microphone"
 <br>
 #### Abstract
 
-**Introduction to machine (deep) learning and its application to PM2.5 estimation **
+**Introduction to machine (deep) learning and its application to PM2.5 estimation**
 
 In this talk, I will briefly introduce the main concepts of machine / deep learning within the supervised
 learning framework. Particularly, the so-called deep learning methods, which use hierarchical neural
