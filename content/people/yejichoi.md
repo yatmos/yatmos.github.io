@@ -24,4 +24,5 @@ weight = 40
 
 
 #### 논문
++ Yeji Choi, Dong-Bin Shin & Minsu Joh. (2018). Assessment of WRF microphysics schemes in simulation of extreme precipitation events based on microwave radiative signatures, International journal of remote sensing. 
 + Kim, S. W., Shin, D. B., & Choi, Y. (2016). Effects of the three-dimensional hydrometeor distributions of precipitating clouds on passive microwave rainfall estimations. IEEE Transactions on Geoscience and Remote Sensing, 54(4), 1957-1966.

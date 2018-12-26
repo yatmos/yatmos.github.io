@@ -236,7 +236,7 @@ ul.list-style-none {
 }
 @media (min-width: 1300px) {
   body.boxed {
-    background: url(http://subtlepatterns.com/patterns/subtle_zebra_3d.png);
+    background: url(https://subtlepatterns.com/patterns/subtle_zebra_3d.png);
   }
   body.boxed #all {
     position: relative;
@@ -1239,6 +1239,88 @@ fieldset[disabled] .btn-template-primary.active {
 .home-carousel ul li {
   margin-bottom: 10px;
 }
+/*  top story */
+.home-topstory {
+  position: relative;
+  background: url('../img/GroupPhoto3.png') center center repeat;
+  background-size: cover;
+  -webkit-transition: all 0.2s ease-out;
+  -moz-transition: all 0.2s ease-out;
+  transition: all 0.2s ease-out;
+}
+.home-topstory .dark-mask {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: #111111;
+  opacity: 0.7;
+  filter: alpha(opacity=10);
+}
+.home-topstory .owl-topstory {
+  padding-top: 150px;
+  padding-bottom: 100px;
+  position: relative;
+  text-align: center;
+}
+.home-topstory .owl-theme .owl-controls .owl-page span {
+  background: #666;
+}
+.home-topstory .owl-theme .owl-controls .owl-page.active span {
+  background: #fff;
+}
+.home-topstory .owl-theme .owl-controls .owl-page:hover span {
+  background: #fff;
+}
+@media (max-width: 767px) {
+  .home-topstory {
+    text-align: center !important;
+  }
+}
+@media (min-width: 992px) {
+  .home-topstory .right {
+    text-align: right;
+  }
+}
+.home-topstory h1,
+.home-topstory h2,
+.home-topstory h3,
+.home-topstory p,
+.home-topstory ul {
+  color: #fff;
+}
+.home-topstory h1 {
+  font-weight: 700;
+  text-transform: uppercase;
+  font-size: 50px;
+  letter-spacing: 0.1em;
+}
+@media (max-width: 991px) {
+  .home-topstory h1 {
+    font-size: 48px;
+  }
+}
+.home-topstory h2 {
+  font-weight: 700;
+  text-transform: uppercase;
+  font-size: 40px;
+  letter-spacing: 0.08em;
+}
+.home-topstory ul,
+.home-topstory p {
+  font-size: 18px;
+  font-weight: 700;
+  padding: 0;
+  text-transform: uppercase;
+  letter-spacing: 0.10em;
+}
+@media (max-width: 991px) {
+  .home-topstory ul,
+  .home-topstory p {
+    font-size: 14px;
+  }
+}
 .customers {
   padding: 0;
   margin-bottom: 40px;
@@ -1250,20 +1332,6 @@ fieldset[disabled] .btn-template-primary.active {
 }
 .customers .item img {
   display: inline-block;
-  filter: url("data:image/svg+xml;utf8,<svg xmlns=\'http://www.w3.org/2000/svg\'><filter id=\'grayscale\'><feColorMatrix type=\'matrix\' values=\'0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0 0 0 1 0\'/></filter></svg>#grayscale");
-  /* Firefox 10+, Firefox on Android */
-  filter: gray;
-  /* IE6-9 */
-  -webkit-filter: grayscale(100%);
-  /* Chrome 19+, Safari 6+, Safari 6+ iOS */
-  -webkit-transition: all 0.2s ease-out;
-  -moz-transition: all 0.2s ease-out;
-  transition: all 0.2s ease-out;
-}
-.customers .item img:hover {
-  max-width: auto;
-  filter: none;
-  -webkit-filter: none;
 }
 .testimonials {
   padding: 0;
@@ -3549,7 +3617,6 @@ a.list-group-item.active > .badge,
 /*!
  * Yamm!3 - Yet another megamenu for Bootstrap 3
  * http://geedmo.github.com/yamm3
- * 
  * @geedmo - Licensed under the MIT license
  */
 .yamm .nav,
@@ -3592,4 +3659,73 @@ tbody td {
   display: flex;
   display: -webkit-flex;
   flex-wrap: wrap;
+}
+
+/* Embed Youtube video */
+.video-background {
+  background: #000;
+  position: fixed;
+  top: 0; right: 0; bottom: 0; left: 0;
+  z-index: -99;
+}
+.video-foreground,
+.video-background iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  pointer-events: none;
+}
+.vid-info {
+    position: relative;
+    top: 20px;
+    left: 0;
+    width: 80%;
+    color: #fff;
+    padding: 1rem;
+    margin-left: auto;
+    margin-right: auto;
+}
+.vid-info h2 {
+    display: inline-block;
+    color: #fff;
+    font-size: 3rem;
+    font-weight: 700;
+    margin-top: 0;
+    line-height: 2;
+}
+.vid-info p {
+    display: inline-block;
+    color: #fff;
+    font-size: 2rem;
+    font-weight: 500;
+    margin-top: 0;
+    line-height: 2;
+}
+@media (min-aspect-ratio: 16/9) {
+  .video-foreground { height: 300%; top: -100%; }
+}
+@media (max-aspect-ratio: 16/9) {
+  .video-foreground { width: 300%; left: -100%; }
+}
+@media all and (max-width: 600px) {
+.vid-info { width: 80%; padding: .5rem; }
+.vid-info h1 { margin-bottom: .2rem; }
+}
+@media all and (max-width: 500px) {
+.vid-info .acronym { display: none; }
+}
+
+/* Embed video in the background */
+video {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    transition: 1s opacity;
+}
+.stopfade {
+   opacity: .5;
 }

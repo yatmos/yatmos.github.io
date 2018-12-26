@@ -2,7 +2,7 @@
 title = "김준"
 date = "2018-04-14T13:39:46+02:00"
 teams = ["교수진"]
-banner = "img/people/jhoonkim.jpg"
+banner = "img/people/jhoonkim2.jpg"
 email = "jkim2@yonsei.ac.kr"
 job = "정교수"
 phone = "02-2123-5682"
@@ -26,7 +26,6 @@ weight = 4
 #### 연구 경력
 + 2003 - 현재      :  연세대학교 대기과학과/지구환경연구소 교수
 + 1991 - 2003    :  한국항공우주연구원(KARI) 책임연구원, 선임연구원
-
 + 2018 - 현재     :  부편집인, Remote Sensing
 + 2017 - 2020    :   IRC (International Radiation Commission) 위원
 + 2016 - 현재      : 객원편집인, Atmospheric Measurement Technique(AMT)
@@ -39,8 +38,7 @@ weight = 4
 + 2010 - 현재     :   CEOS (Committee on Earth Observing Satellites) AC-VC 위원
 + 2011 - 2012    :  교육과학기술부-NASA 우주협력체계 추진위 지구과학분과 위원장
 + 2009 - 2010    :  NASA Jet Propulsion Laboratory, CalTech, 과학기술고문, 미국 UCLA 방문교수
-+ 2009 - 2012    :  국립환경과학원 - NASA Technical Group on Atmospheric Composition Measurements
-                             from Geostationary Satellites 공동위원장
++ 2009 - 2012    :  국립환경과학원 - NASA Technical Group on Atmospheric Composition Measurements from Geostationary Satellites 공동위원장
 + 2008 - 2012    :  ISPRS (International Society for Photogrammetry and Remote Sensing)
                              Commission VIII, Working Group 8 공동의장
 

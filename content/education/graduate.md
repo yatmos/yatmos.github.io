@@ -17,7 +17,7 @@ icon: "graduation-cap"
 ## 입학 안내
 _ _ _
 
-[연세대학교 일반대학원 입학안내 바로가기](http://graduate.yonsei.ac.kr/kor/sub03/sub03_01.asp)
+[연세대학교 일반대학원 입학안내 바로가기](http://graduate.yonsei.ac.kr/graduate/)
 
 
 <br>

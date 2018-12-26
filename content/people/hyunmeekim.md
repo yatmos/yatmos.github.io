@@ -26,7 +26,7 @@ weight = 5
 + 2014-current : Professor, Yonsei University
 + 2009-2014    : Associate professor, Yonsei University
 + 2005-2008    : Assistant professor, Yonsei University
-+ 2003-2005    : Research Scientist & Meteorological Administration, Meteorological Research Institute, Korea    
++ 2003-2005    : Research Scientist, Korea Meteorological Administration    
 + 2002-2003    : Research Associate, Dept. of Atmospheric and Oceanic Sciences, Univ. of Wisconsin-Madison
 + 1992-1997    : Research Scientist, Korea Meteorological Administration
 
@@ -36,7 +36,12 @@ weight = 5
 + 예측가능성론
 
 #### 논문
-+ Kim, H., H. M. Kim, J. Kim, and C.-H. Cho, 2018: Effect of data assimilation parameters on the optimized surface CO2 flux in Asia, Asia-Pacific Journal of Atmospheric Sciences, 54, 1-17, doi:10.1007/s13143-017-0049-9.
++ On, N., H. M. Kim, and S. Kim, 2018: Effects of resolution, cumulus parameterization scheme, and probability forecasting on precipitation forecasts in a high-resolution limited-area ensemble prediction system, Asia-Pacific Journal of Atmospheric Sciences, 54, 623-637, doi:10.1007/s13143-018-0081-4.
++ Kim, S.-M., and H. M. Kim, 2018: Effect of observation error variance adjustment on numerical weather prediction using forecast sensitivity to error covariance parameters, Tellus A, 70, 1-16, doi:10.1080 /16000870.2018.1492839 
++ Kim, D.-H., and H. M. Kim, 2018: Effect of assimilating Himawari-8 atmospheric motion vectors on forecast errors over East Asia, Journal of Atmospheric and Oceanic Technology, 35, 1737-1752, doi:10.1175/JTECH-D-17-0093.1.
++ Kim, H., H. M. Kim, M. K. Cho, J. Park, and D.-H. Kim, 2018:  Development of the aircraft CO2 measurement data assimilation system to improve the estimation of surface CO2 fluxes using an inverse modeling system, Atmosphere, 28(2), 1-9, doi:10.14191/Atmos.2018.28.2.1. (in Korean with English abstract)  
++ Noh, K., H. M. Kim, and D.-H. Kim, 2018: Development of the three-dimensional variational data assimilation system for the Republic of Korea Air Force operational numerical weather prediction system, Journal of the Korea Institute of Military Science and Technology, 21(3), 403-412, doi:10.9766/KIMST.2018.21.3.403. (in Korean with English abstract) 
+ther prediction using+ Kim, H., H. M. Kim, J. Kim, and C.-H. Cho, 2018: Effect of data assimilation parameters on the optimized surface CO2 flux in Asia, Asia-Pacific Journal of Atmospheric Sciences, 54, 1-17, doi:10.1007/s13143-017-0049-9.
 + Yang, E.-G., and H. M. Kim, 2017: Evaluation of a regional reanalysis and ERA-Interim over East Asia using in situ observations during 2013-14, Journal of Applied Meteorology and Climatology, 56, 2821-2844, doi: 10.1175/JAMC-D-16-0227.1.
 + Kim, S., and H. M. Kim, 2017: Effect of considering sub-grid scale uncertainties on the forecasts of a high-resolution limited area ensemble prediction system, Pure and Applied Geophysics, 174(5), 2021-2037, doi: 10.1007/s00024-017-1513-2.
 + Kim, S.-M., and H. M. Kim, 2017: Adjoint-based observation impact of Advanced Microwave Sounding Unit-A (AMSU-A) on the short-range forecast in East Asia, Atmosphere, 27(1), 93-104, doi:10.14191/Atmos.2017.27.1.093. (in Korean with English abstract)
