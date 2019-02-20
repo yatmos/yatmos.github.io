@@ -30,11 +30,12 @@ weight = 4
 + 2017 - 2020    :   IRC (International Radiation Commission) 위원
 + 2016 - 현재      : 객원편집인, Atmospheric Measurement Technique(AMT)
 + 2016 - 현재     :  편집위원, Advances in Atmospheric Sciences(AAS)
++ 2016 - 2017     :  Harvard Smithonian Center for Astrophysics, Atmospheric Measurement Group 방문과학자 
 + 2016 - 2018      : 편집위원, Asia Pacific Journal of Atmospheric Sciences(APAS)
 + 2014-2015      :  자연과학연구원 부원장, 자연과학융합연구소 소장
 + 2013 - 2017    :   NDACC (Network for the Detection of Atmospheric Composition Change) Satellite WG 위원
 + 2012 - 2020    :   IO3C (International Ozone Commision), 위원
-+ 2010 - 현재      :  환경부 위성사업 연구단장 (P.I), GEMS (Geostationary Environment Monitoring Spectrometer) Mission
++ 2012 - 현재      :  환경위성탑재체알고리즘개발 연구단장, GEMS (Geostationary Environment Monitoring Spectrometer) Mission
 + 2010 - 현재     :   CEOS (Committee on Earth Observing Satellites) AC-VC 위원
 + 2011 - 2012    :  교육과학기술부-NASA 우주협력체계 추진위 지구과학분과 위원장
 + 2009 - 2010    :  NASA Jet Propulsion Laboratory, CalTech, 과학기술고문, 미국 UCLA 방문교수
