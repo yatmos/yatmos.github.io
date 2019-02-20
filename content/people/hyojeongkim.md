@@ -7,7 +7,7 @@ email = "kimhj29@yonsei.ac.kr"
 job = "박사과정"
 phone = "010-3201-1382"
 room = "기후이론연구실 / 과학관 536A호"
-web = "http://web.yonsei.ac.kr/climatelab"
+web = "http://climatelab.yonsei.ac.kr"
 weight = 30
 +++
 

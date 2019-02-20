@@ -7,7 +7,7 @@ email = "limsoo31@yonsei.ac.kr"
 job = "석사과정"
 phone = "02-2123-5684"
 room = "기후이론 연구실 / 과학관 536A호"
-web = "http://web.yonsei.ac.kr/climatelab"
+web = "http://climatelab.yonsei.ac.kr"
 weight = 50
 +++
 
@@ -15,7 +15,7 @@ weight = 50
 + Paleoclimate
 
 #### 학력
- + **B.Sc** (2018) in Atmospheric Science, Physics, Yonsei University, Seoul, Korea
+ + **B.Sc** (2018) in Atmospheric Science, Yonsei University, Seoul, Korea
 
 #### 수상내역
 

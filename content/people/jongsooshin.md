@@ -7,7 +7,7 @@ email = "js-shin@yonsei.ac.kr"
 job = "박사과정"
 phone = "010-6307-1666"
 room = "기후이론 연구실 / 과학관 536A호"
-web = "http:/web.yonsei.ac.kr/climatelab/"
+web = "http:/climatelab.yonsei.ac.kr"
 weight = 30
 +++
 
