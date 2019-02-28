@@ -222,7 +222,7 @@ ul.list-style-none {
 }
 @media (min-width: 1300px) {
   body.boxed {
-    background: url(http://subtlepatterns.com/patterns/subtle_zebra_3d.png);
+    background: url(https://www.toptal.com/designers/subtlepatterns/patterns/subtle_zebra_3d.png);
   }
   body.boxed #all {
     position: relative;
@@ -919,7 +919,6 @@ fieldset[disabled] .btn-template-primary.active {
   background: green;
 }
 .panel.sidebar-menu .panel-body span.colour.blue {
-  /*background: #003671;*/
   background: blue;
 }
 .panel.sidebar-menu .panel-body span.colour.yellow {
