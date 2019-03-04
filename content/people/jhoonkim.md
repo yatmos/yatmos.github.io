@@ -7,7 +7,7 @@ email = "jkim2@yonsei.ac.kr"
 job = "정교수"
 phone = "02-2123-5682"
 room = "대기복사 연구실 / 과학관 545호"
-web = "atrad.yonsei.ac.kr"
+web = "http://atrad.yonsei.ac.kr"
 weight = 4
 +++
 
@@ -30,7 +30,7 @@ weight = 4
 + 2017 - 2020    :   IRC (International Radiation Commission) 위원
 + 2016 - 현재      : 객원편집인, Atmospheric Measurement Technique(AMT)
 + 2016 - 현재     :  편집위원, Advances in Atmospheric Sciences(AAS)
-+ 2016 - 2017     :  Harvard Smithonian Center for Astrophysics, Atmospheric Measurement Group 방문과학자 
++ 2016 - 2017     :  Harvard Smithonian Center for Astrophysics, Atmospheric Measurement Group 방문과학자
 + 2016 - 2018      : 편집위원, Asia Pacific Journal of Atmospheric Sciences(APAS)
 + 2014-2015      :  자연과학연구원 부원장, 자연과학융합연구소 소장
 + 2013 - 2017    :   NDACC (Network for the Detection of Atmospheric Composition Change) Satellite WG 위원
