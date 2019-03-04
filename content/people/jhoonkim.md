@@ -7,7 +7,7 @@ email = "jkim2@yonsei.ac.kr"
 job = "정교수"
 phone = "02-2123-5682"
 room = "대기복사 연구실 / 과학관 545호"
-web = "http://atrad.yonsei.ac.kr"
+web = "atrad.yonsei.ac.kr"
 weight = 4
 +++
 
