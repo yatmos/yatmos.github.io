@@ -7,7 +7,7 @@ email = "rookie820@gmail.com"
 job = "석사과정"
 phone = "02-2123-7616"
 room = "대기복사연구실 / 과학관 531호"
-web = "http://web.yonsei.ac.kr/oasis/"
+web = "atrad.yonsei.ac.kr"
 weight = 50
 +++
 
