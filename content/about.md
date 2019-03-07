@@ -76,7 +76,7 @@ images = "img/img_intro.jpg"
   </tr>
   <tr>
     <td class="tg-io4b">2012년</td>
-    <td class="tg-u4so">환경부 환경탑재체알고리즘개발연구단 유치</td>
+    <td class="tg-u4so">환경부 환경위성탑재체알고리즘개발연구단 유치</td>
   </tr>
   <tr>
     <td class="tg-io4b">2013년</td>
@@ -94,19 +94,19 @@ images = "img/img_intro.jpg"
 <br>
 
 
-- **대학(교수)** : 강릉원주대학교, 공주대학교, 부경대학교, 부산대학교, 서울대학교, 연세대학교, 충남대학교, 한국개발연구원(KDI) 국제정책대학원 등 
+- **대학(교수)** : 강릉원주대학교, 공주대학교, 부경대학교, 부산대학교, 서울대학교, 연세대학교, 충남대학교, 한국개발연구원(KDI) 국제정책대학원 등
 <br>
 
 
-- **국내 연구소** : 국가기상위성센터, 국가태풍연구센터, 극지연구소, 차세대도시농림융합기상사업단, 한국기상산업협회, 한국에너지기술연구원, 한국원자력연구원, 한국항공우주연구원, 한국해양과학기술원, 한국형수치예보모델개발사업단, APEC Climate Center 등 
+- **국내 연구소** : 국가기상위성센터, 국가태풍연구센터, 극지연구소, 차세대도시농림융합기상사업단, 한국기상산업협회, 한국에너지기술연구원, 한국원자력연구원, 한국항공우주연구원, 한국해양과학기술원, 한국형수치예보모델개발사업단, APEC Climate Center 등
 <br>
 
 
-- **해외 기관** : ECCC(Environment and Climate Change Canada), IPSL(Institute Pierr Simon Laplace), JAXA(Japan Aerospace Exploration Agency), LLNL(Lawrence Livermore National Laboratory), NASA, NCAR, NOAA 등 
+- **해외 기관** : ECCC(Environment and Climate Change Canada), IPSL(Institute Pierr Simon Laplace), JAXA(Japan Aerospace Exploration Agency), LLNL(Lawrence Livermore National Laboratory), NASA, NCAR, NOAA 등
 <br>
 
 
-- **정부 기관 및 공공 기관** : 공군, 국립기상과학원, 국립환경과학원, 국방과학연구소, 기상청, 서울연구원, 울산지방환경청, 한국개발연구원(KDI), 한국기상산업기술원, 한국수자원공사, 한국환경산업기술연구원, 한국환경정책∙평가연구원 등 
+- **정부 기관 및 공공 기관** : 공군, 국립기상과학원, 국립환경과학원, 국방과학연구소, 기상청, 서울연구원, 울산지방환경청, 한국개발연구원(KDI), 한국기상산업기술원, 한국수자원공사, 한국환경산업기술연구원, 한국환경정책∙평가연구원 등
 <br>
 
 
