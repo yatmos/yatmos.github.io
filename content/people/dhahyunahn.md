@@ -4,10 +4,10 @@ date = "2018-03-24T13:39:46+02:00"
 teams = ["학생"]
 banner = "img/people/DhaHyun_Ahn.png"
 email = "devorahn711@gmail.com"
-job = "석사과정"
+job = "통합과정"
 phone = "02-2123-7616"
 room = "대기복사연구실 / 과학관 531호"
-web = "http://web.yonsei.ac.kr/oasis/"
+web = "http://atrad.yonsei.ac.kr/"
 weight = 50
 +++
 
