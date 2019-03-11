@@ -13,7 +13,7 @@ weight = 50
 
 #### 연구분야
  + Modeling of the land-atmosphere interface
-
++ Land Surface Modeling
 
 #### 학력
  + **B.Sc** (2018) in Atmospheric Sciences, Yonsei University, Seoul, Korea
