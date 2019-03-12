@@ -1,12 +1,6 @@
 - id: home
   translation: "Home"
 
-- id: prev
-  translation: "이전"
-
-- id: next
-  translation: "다음"
-
 - id: templateBy
   translation: "Template by"
 
@@ -23,7 +17,7 @@
   translation: "Contact"
 
 - id: contactForm
-  translation: "메세지 남기기"
+  translation: "Contact form"
 
 - id: contactName
   translation: "Your Name"
@@ -46,9 +40,6 @@
 - id: categoriesTitle
   translation: "Categories"
 
-- id: teamTitle
-  translation: "People"
-
 - id: searchTitle
   translation: "Search"
 
@@ -56,7 +47,7 @@
   translation: "Tags"
 
 - id: continueReading
-  translation: "더 알아보기"
+  translation: "Continue reading"
 
 - id: readMore
   translation: "Read more"
