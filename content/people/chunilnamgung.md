@@ -1,6 +1,6 @@
 +++
 title = "남궁천일"
-date = "2019-03-24T13:39:46+02:00"
+date = "2019-03-04T13:39:46+02:00"
 teams = ["학생"]
 banner = "img/people/Chunil.jpg"
 email = "silvan@yonsei.ac.kr"
