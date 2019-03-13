@@ -23,7 +23,7 @@ weight = 11
 + **B.Sc** (2006) in Atmospheric Sciences, Yonsei University, Seoul, Korea
 
 #### 연구 경력
-+ 2016 - current : Research Professor, Yonsei University, Seoul, Korea
++ 2016 - 2019 : Research Professor, Yonsei University, Seoul, Korea
 + 2014 - 2016 : Postdoctoral Fellow, University of Toronto, Toronto, Canada
 
 #### 논문
