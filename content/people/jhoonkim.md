@@ -23,7 +23,7 @@ weight = 4
 + **M.S.** (1987)  미시건대학교 (앤아버), 공과대학 대기과학
 + **B.S.** (1986)  서울대학교 자연과학대학 대기과학
 
-#### 연구 경력
+#### 경력
 + 2003 - 현재      :  연세대학교 대기과학과/지구환경연구소 교수
 + 1991 - 2003    :  한국항공우주연구원(KARI) 책임연구원, 선임연구원
 + 2018 - 현재     :  부편집인, Remote Sensing
@@ -43,12 +43,13 @@ weight = 4
 + 2008 - 2012    :  ISPRS (International Society for Photogrammetry and Remote Sensing)
                              Commission VIII, Working Group 8 공동의장
 
-#### 수상 내역
+#### 수상
++ 2019. 1        :        한국과학기술한림원, 우수학위논문 대상 (지구과학분야, 지도교수상)
 + 2018. 2        :        연세대학교 공헌교수상
 + 2018. 1        :        과학기술정보통신부 한국연구재단,  이달의 과학기술인
 + 2017. 6        :        NASA Group Achievement Award
 + 2014. 6        :        환경부 한국환경산업기술원,  올해의 환경기술 최우수상
-+ 2012. 11       :       한국과학기술한림원,  우수학위논문 대상
++ 2012. 11       :        한국과학기술한림원, 우수학위논문 대상 (지구과학분야, 지도교수상)
 + 2010, 2004     :     SPIE (The International Society for Optical Engineering) 표창장
 + 2009. 3        :        대통령 표창
 + 2008. 12       :       환경부 장관 표창
@@ -62,9 +63,10 @@ weight = 4
 + 대기복사론
 + 환경원격탐사론
 
-#### 대표 논문
+#### 논문
 + Kim, J., M. Kim, and M. Choi (2017), Monitoring Aerosol Properties in East Asia from Geostationary Orbit: GOCI, MI and GEMS, ‘Air Pollution in Eastern Asia: An Integrated Perspective’, Chapter 15, 323-334, ISSI Scientific Report Ser. Vol. 16, edited by Idir Bouarar, Xuemei Wang, and Guy Brasseur, Springer, 504pp, ISBN:978-3-319-59488-0, DOI: 10.1007/978-3-319-59489-7
 + Choi, M.J., Jhoon Kim, Jaehwa Lee, Mijin Kim, Young-Je Park, Brent Holben, Thomas F. Eck, Zhengqiang Li, Chul H. Song (2018), GOCI Yonsei aerosol retrieval version 2 aerosol products: improved algorithm description and error analysis with uncertainty estimation from 5-year validation over East Asia, Atmospheric Measurement Technique, 11, 385-408 10.5194/amt-11-385-2018
 + Jeong, Ukkyo, Jhoon Kim, Hanlim Lee, Yun Gon Lee (2017), Assessing the effect of long-range pollutant transport on air quality in Seoul using the conditional potential source contribution function method, Atmospheric Environment, 150, 33-44, doi: 10.1016/j.atmosenv.2016.11.017.
 + Kim, J., J. Lee, H.C. Lee, A. Higurashi, T. Takemura, and C.H. Song (2007), Consistency of the aerosol type classification from satellite remote sensing during the ABC EAREX campaign, J. Geophys. Res., 112, D22S33, doi:10.1029/2006JD008201
 + Kim, J., C.J. Park, K.Y. Lee, D.H. Lee, Y.O. Kim, H.K. Cho, G.R. Cho, and J. H. Park (1997), Rocket soundings of ozone profiles in the stratosphere over the Korean Peninsula, J. Geophys. Res., 102, 16121.
++ 외 논문 다수 (http://atrad.yonsei.ac.kr/bbs/board.php?tbl=bbs31)
