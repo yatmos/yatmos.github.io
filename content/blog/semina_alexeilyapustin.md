@@ -7,7 +7,7 @@ date = 2019-04-24T06:48:02+09:00
 +++
 ### High-resolution Aerosol Retrievals with Algorithm MAIAC from Geostationary Satellites
 <br>
-#### Dr. Lyapustin (NASA Goddard Space Flight Center)
+#### Dr. Alexei Lyapustin (NASA Goddard Space Flight Center)
 #### 2019년 4월 30일 (화) 16:00
 ####  과학관 553호
 <br>
