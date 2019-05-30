@@ -7,7 +7,7 @@ date = 2019-05-30T08:48:02+09:00
 +++
 ### Introduction to Aerosol Population Dynamics Modeling
 <br>
-#### 박성훈 교수님 (순천대학)
+#### 박성훈 교수님 (순천대학교)
 #### 2019년 6월 4일 (화) 16:00
 ####  과학관 553호
 <br>
