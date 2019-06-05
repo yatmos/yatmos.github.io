@@ -163,7 +163,7 @@ summarylength = 20
     teams = true
 
 [params.carousel]
-    enable = false
+    enable = true
     # All carousel items are defined in their own files. You can find example items
     # at 'exampleSite/data/carousel'.
     # For more informtion take a look at the README.
@@ -193,7 +193,7 @@ summarylength = 20
 
 
 [params.topstory]
-    enable = true
+    enable = false
     title = 'topstory'
 
 [params.see_more]

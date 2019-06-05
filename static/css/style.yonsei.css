@@ -1159,8 +1159,8 @@ fieldset[disabled] .btn-template-primary.active {
 }
 .home-carousel {
   position: relative;
-  /*background: url('../img/cbackground.jpg') center center repeat;*/
-  background-size: cover;
+  /*background: url('../img/cbackground.jpg') center center repeat;
+  background-size: cover;*/
   -webkit-transition: all 0.2s ease-out;
   -moz-transition: all 0.2s ease-out;
   transition: all 0.2s ease-out;
@@ -1176,8 +1176,13 @@ fieldset[disabled] .btn-template-primary.active {
   filter: alpha(opacity=10);
 }
 .home-carousel .owl-carousel {
-  padding-top: 60px;
+  padding-top: 150px;
+  padding-bottom: 100px;
+  position: relative;
+  text-align: center;
+/*  padding-top: 60px;
   padding-bottom: 20px;
+*/
 }
 .home-carousel .owl-theme .owl-controls .owl-page span {
   background: #666;
@@ -1242,7 +1247,8 @@ fieldset[disabled] .btn-template-primary.active {
 /*  top story */
 .home-topstory {
   position: relative;
-  background: url('../img/GroupPhoto3.png') center center repeat;
+  /*background: url('../img/GroupPhoto3.png') center center repeat;*/
+  background: #002c9e;
   background-size: cover;
   -webkit-transition: all 0.2s ease-out;
   -moz-transition: all 0.2s ease-out;

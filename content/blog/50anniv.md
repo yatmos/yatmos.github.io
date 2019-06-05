@@ -19,7 +19,7 @@ icon = "bullhorn"
 <br>
 
 <div class='image'>
-<img src="/img/GroupPhoto3.png" class="img-responsive" alt="">
+<img src="/img/GroupPhoto4.png" class="img-responsive" alt="">
 </div>
 
 <br>

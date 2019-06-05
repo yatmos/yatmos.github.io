@@ -1,0 +1,11 @@
+weight: 1
+title: "연세대학교 대기과학과"
+description: >
+  <ul class="list-style-none">
+    <li>21세기 인류가 당면한 가장 도전적인 문제인</li>
+    <li>지구환경 분야를 선도하는 대기과학은</li>
+    <li>자연과 인간의 조화로운 공존을 위해</li>
+    <li>책임 있는 해결을 제시할 수 있는 핵심 과학입니다.</li>
+  </ul>
+image: "img/carousel/typhoonhaiyan.png"
+dest: "about"
