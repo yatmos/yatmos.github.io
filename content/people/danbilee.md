@@ -19,6 +19,7 @@ weight = 30
  + **B.Sc** (2011) in Atmospheric Sciences, Yonsei University, Seoul, Korea
 
 #### 수상내역
+ + (2019.2.26) 우수논문상, 연세대학교 BK21 플러스 지구대기천문사업단
  + (2018.3.23) 항공기상청장상 수상
  + (2014.10.14) 한국기상학회 우수 논문발표상 수상
 
