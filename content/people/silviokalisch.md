@@ -32,7 +32,7 @@ weight = 20
 
 
 #### 논문
-+Kalisch S., Kang M.‐J., and Chun H.‐Y. (2018): "Impact of Convective Gravity Waves on the Tropical Middle Atmosphere During the Madden‐Julian Oscillation." Journal of Geophysical Research: Atmospheres 123(17), 8975-8992.
++ Kalisch S., Kang M.‐J., and Chun H.‐Y. (2018): "Impact of Convective Gravity Waves on the Tropical Middle Atmosphere During the Madden‐Julian Oscillation." Journal of Geophysical Research: Atmospheres 123(17), 8975-8992.
 
 + Kalisch S., Chun H.-Y., Ern M., Preusse P., Trinh Q. T., Eckermann S. D., Riese M.
 (2016): "Comparison of simulated and observed convective Gravity Waves", JGR,
