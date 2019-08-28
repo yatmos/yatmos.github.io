@@ -4,7 +4,7 @@ date = "2017-03-24T13:39:46+02:00"
 teams = ["연구원"]
 banner = "img/people/Kalisch_picture_informal_200x200.jpg"
 email = "s.kalisch82 (at) gmail.com"
-job = "박사 후 연구원"
+job = "연구 교수"
 phone = ""
 room = "대기역학 연구실 / 과학관 529A호"
 web = "http://atmosdyn.yonsei.ac.kr"
@@ -15,20 +15,25 @@ weight = 20
 + Middle Atmosphere dynamics
 + Gravity Waves
 + Tropical atmosphere (Madden-Julian Oscillation) 
++ Sudden stratospheric warming
 
 #### 학력
 + **Dr. rer. nat. (Ph.d.)** (2014) in Physics, University of Wuppertal / Research Center Juelich, Germany
 + **Diplom (M.Sc.)** (2010) in Theoretical Physics, University of Leipzig, Leipzig, Germany
  
 #### 연구 경력
-+ 2015 - today : Postdoctoral fellow at Yonsei University, Korea (DFG grant no: KA4222/2-1) 
-+ 2014-2015 : Postdoctoral Researcher at Research Center Juelich
++ Jul. 2019 - today : Research Professor at Yonsei University, Korea
++ Dec. 2018 - Jun. 2019 : Guest Scientist at Institute for Advanced Simulation / Jülich Research Centre, Germany (DFG grant no: KA4222/3-1)
++ 2015 - Nov. 2018 : Postdoctoral fellow at Yonsei University, Korea (DFG grant no: KA4222/2-1) 
++ 2014 - 2015 : Postdoctoral Researcher at Research Center Juelich
 + Oct. - Nov. 2012 : Guest Scientist at Yonsei University, Korea
 + 2010 - 2014 : PhD student at Wuppertal University / Researcher at Research Center Juelich
 + 2009 - 2010 : Research assistant and assistant teacher at Institute for Theoretical Physics, University of Leipzig
 
 
 #### 논문
++Kalisch S., Kang M.‐J., and Chun H.‐Y. (2018): "Impact of Convective Gravity Waves on the Tropical Middle Atmosphere During the Madden‐Julian Oscillation." Journal of Geophysical Research: Atmospheres 123(17), 8975-8992.
+
 + Kalisch S., Chun H.-Y., Ern M., Preusse P., Trinh Q. T., Eckermann S. D., Riese M.
 (2016): "Comparison of simulated and observed convective Gravity Waves", JGR,
 doi:10.1002/2016JD025235
