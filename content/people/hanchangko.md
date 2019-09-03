@@ -20,5 +20,7 @@ weight = 40
  + **B.Sc** (2017) in Atmospheric Sciences, Yonsei University, Seoul, Korea
 
 #### 수상내역
++ Ko et al. (2019, JGR) is selected on EOS Editor's Highlight.
 
 #### 논문
++ Ko, H.‐C., Chun, H.‐Y., Wilson, R., and Geller, M. A. (2019). Characteristics of atmospheric turbulence retrieved from high vertical‐resolution radiosonde data in the United States. Journal of Geophysical Research: Atmospheres, 124, 7553–7579. https://doi.org/10.1029/2019JD030287.
