@@ -7,7 +7,7 @@ icon = "microphone"
 +++
 ### Improvement of Satellite Cloud Layer Products Using Multi-Sensor Observations and Numerical Model Simulations (다중 센서 관측과 수치모델 데이터를 결합한 위성 구름 연직층 산출물 개선에 관한 연구)
 <br>
-#### 노유정 박사님
+#### 노유정 박사님 (NOAA Cooperative Institute for Research in the Atmosphere (CIRA)/Colorado State University)
 #### 2019년 9월 3일 (화) 16:00
 #### 과학관 553호
 <br>
