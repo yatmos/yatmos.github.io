@@ -535,13 +535,15 @@ th.tg-sort-header::-moz-selection { background:transparent; }th.tg-sort-header::
   <tr>
     <td class="tg-s8ju">이준홍</td>
     <td class="tg-s8ju">2019년 2월</td>
-    <td class="tg-s8ju">The Representatinos of Vegetation for Surface Wind in the WRF Model</td>
+    <td class="tg-s8ju">The Representatinos of Vegetation for Surface Wind <br>
+                        in the WRF Model</td>
     <td class="tg-s8ju">홍진규</td>
   </tr>
   <tr>
     <td class="tg-s8ju">홍제우</td>
     <td class="tg-s8ju">2019년 2월</td>
-    <td class="tg-s8ju">Characteristics of Urban Land-Atmosphere Interactinos in Monsoon East Asia</td>
+    <td class="tg-s8ju">Characteristics of Urban Land-Atmosphere Interactinos <br>
+                        in Monsoon East Asia</td>
     <td class="tg-s8ju">홍진규</td>
   </tr>
 

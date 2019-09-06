@@ -962,13 +962,15 @@ th.tg-sort-header::-moz-selection { background:transparent; }th.tg-sort-header::
   <tr>
     <td class="tg-s8ju">이상대</td>
     <td class="tg-s8ju">2018년 8월</td>
-    <td class="tg-s8ju">에디 공분산 방법으로 측정한 에너지 및 이산화탄소 플럭스의 불확정도 정량화</td>
+    <td class="tg-s8ju">에디 공분산 방법으로 측정한 에너지 및 이산화탄소 플럭스의 <br>
+                        불확정도 정량화</td>
     <td class="tg-s8ju">홍진규</td>
   </tr>
   <tr>
     <td class="tg-s8ju">김정원</td>
     <td class="tg-s8ju">2019년 2월</td>
-    <td class="tg-s8ju">Evaluation of Polar WRF over Arctic tundra based on in-situ observations</td>
+    <td class="tg-s8ju">Evaluation of Polar WRF over Arctic tundra based on <br>
+                        in-situ observations</td>
     <td class="tg-s8ju">홍진규</td>
   </tr>
 </table></div>

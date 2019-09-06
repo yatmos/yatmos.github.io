@@ -1,6 +1,6 @@
 +++
 title = "홍제우"
-date = "2019-09-06T12:19:46+02:00"
+date = "2019-09-05T12:19:46+02:00"
 teams = ["연구원"]
 banner = "img/people/jewoohong.png"
 email = "jewoo@yonsei.ac.kr"
