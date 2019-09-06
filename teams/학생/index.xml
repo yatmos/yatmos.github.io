@@ -138,33 +138,6 @@
     </item>
     
     <item>
-      <title>라인엽</title>
-      <link>https://atmos.yonsei.ac.kr/people/inyeobla/</link>
-      <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
-      
-      <guid>https://atmos.yonsei.ac.kr/people/inyeobla/</guid>
-      <description>연구분야 Observation of the fog processes 학력 B.Sc (2017) in Atmospheric Sciences, Yonsei University, Seoul, Korea</description>
-    </item>
-    
-    <item>
-      <title>최연주</title>
-      <link>https://atmos.yonsei.ac.kr/people/yeonjuchoi/</link>
-      <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
-      
-      <guid>https://atmos.yonsei.ac.kr/people/yeonjuchoi/</guid>
-      <description>연구분야 Ocean Mixed Layer Large Eddy Simulation Atmospheric Boundary Layer 학력 B.Sc (2015) in Atmospheric Sciences,</description>
-    </item>
-    
-    <item>
-      <title>최예지</title>
-      <link>https://atmos.yonsei.ac.kr/people/yejichoi/</link>
-      <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
-      
-      <guid>https://atmos.yonsei.ac.kr/people/yejichoi/</guid>
-      <description>연구분야 Microwave Radiative Transfer Calculation Passive microwave precipitation retrieval Microphysical parameterization 학력 B.Sc (2007) in Atmospheric</description>
-    </item>
-    
-    <item>
       <title>최지수</title>
       <link>https://atmos.yonsei.ac.kr/people/jisuchoi/</link>
       <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
@@ -210,21 +183,21 @@
     </item>
     
     <item>
-      <title>김정원</title>
-      <link>https://atmos.yonsei.ac.kr/people/jeongwonkim/</link>
-      <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
-      
-      <guid>https://atmos.yonsei.ac.kr/people/jeongwonkim/</guid>
-      <description>연구분야 Arctic Modeling Regional climate modeling 학력 B.Sc (2017) in Atmospheric Sciences, Yonsei University, Seoul, Korea</description>
-    </item>
-    
-    <item>
       <title>김혜진</title>
       <link>https://atmos.yonsei.ac.kr/people/hyejinkim/</link>
       <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/people/hyejinkim/</guid>
       <description>연구분야 Atmospheric Modeling 학력 B.Sc (2018) in Department of atmospheric sicence.,Kongju National University, Kongju, Korea 수</description>
+    </item>
+    
+    <item>
+      <title>라인엽</title>
+      <link>https://atmos.yonsei.ac.kr/people/inyeobla/</link>
+      <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
+      
+      <guid>https://atmos.yonsei.ac.kr/people/inyeobla/</guid>
+      <description>연구분야 Observation of the fog processes 학력 B.Sc (2017) in Atmospheric Sciences, Yonsei University, Seoul, Korea</description>
     </item>
     
     <item>
@@ -417,15 +390,6 @@
     </item>
     
     <item>
-      <title>이상대</title>
-      <link>https://atmos.yonsei.ac.kr/people/leesangdae/</link>
-      <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
-      
-      <guid>https://atmos.yonsei.ac.kr/people/leesangdae/</guid>
-      <description>연구분야 Measurement and analysis of carbon, water and energy fluxes at the land-atmosphere interface 학력 B.Sc</description>
-    </item>
-    
-    <item>
       <title>이서영</title>
       <link>https://atmos.yonsei.ac.kr/people/seoyounglee/</link>
       <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
@@ -450,15 +414,6 @@
       
       <guid>https://atmos.yonsei.ac.kr/people/jooyeoplee/</guid>
       <description>연구분야 Modeling of the land-atmosphere interface Land Surface Modeling 학력 B.Sc (2018) in Atmospheric Sciences, Yonsei</description>
-    </item>
-    
-    <item>
-      <title>이준홍</title>
-      <link>https://atmos.yonsei.ac.kr/people/junhonglee/</link>
-      <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
-      
-      <guid>https://atmos.yonsei.ac.kr/people/junhonglee/</guid>
-      <description>연구분야 Numerical modeling Atmospheric Boundary Layer Land surface Surface wind Ceilometer Transport model 학력 B.Sc (2012)</description>
     </item>
     
     <item>
@@ -543,6 +498,24 @@
     </item>
     
     <item>
+      <title>최연주</title>
+      <link>https://atmos.yonsei.ac.kr/people/yeonjuchoi/</link>
+      <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
+      
+      <guid>https://atmos.yonsei.ac.kr/people/yeonjuchoi/</guid>
+      <description>연구분야 Ocean Mixed Layer Large Eddy Simulation Atmospheric Boundary Layer 학력 B.Sc (2015) in Atmospheric Sciences,</description>
+    </item>
+    
+    <item>
+      <title>최예지</title>
+      <link>https://atmos.yonsei.ac.kr/people/yejichoi/</link>
+      <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
+      
+      <guid>https://atmos.yonsei.ac.kr/people/yejichoi/</guid>
+      <description>연구분야 Microwave Radiative Transfer Calculation Passive microwave precipitation retrieval Microphysical parameterization 학력 B.Sc (2007) in Atmospheric</description>
+    </item>
+    
+    <item>
       <title>허은숙</title>
       <link>https://atmos.yonsei.ac.kr/people/eunsookheo/</link>
       <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
@@ -558,15 +531,6 @@
       
       <guid>https://atmos.yonsei.ac.kr/people/jaeminhong/</guid>
       <description>연구분야 Retrieval of atmospheric carbon dioxide density using satellite measurement 학력 B.Sc (2017) in Atmospheric Sciences,</description>
-    </item>
-    
-    <item>
-      <title>홍제우</title>
-      <link>https://atmos.yonsei.ac.kr/people/jewoohong/</link>
-      <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
-      
-      <guid>https://atmos.yonsei.ac.kr/people/jewoohong/</guid>
-      <description>연구분야 Micrometeorology Eddy Covariance Land Surface Model 학력 M.Eng (2014) in Rural System Engineering, Seoul National</description>
     </item>
     
   </channel>
