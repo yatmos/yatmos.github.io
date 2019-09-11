@@ -26,39 +26,33 @@ weight = 4
 #### 경력
 + 2003 - 현재      :  연세대학교 대기과학과/지구환경연구소 교수
 + 1991 - 2003    :  한국항공우주연구원(KARI) 책임연구원, 선임연구원
++ 2019 - 2021     : 국가기후환경회의 (NCCA) 과학기술전문위원
 + 2018 - 현재     :  부편집인, Remote Sensing
-+ 2017 - 2020    :   IRC (International Radiation Commission) 위원
++ 2017 - 2020    :   International Radiation Commission (IRC) 위원
++ 2017 - 현재    :  WMO (세계기상기구) GAW Urban Research Meteorology and Environment (GURME) 과학기술자문위원
 + 2016 - 현재      : 객원편집인, Atmospheric Measurement Technique(AMT)
 + 2016 - 현재     :  편집위원, Advances in Atmospheric Sciences(AAS)
 + 2016 - 2017     :  Harvard Smithonian Center for Astrophysics, Atmospheric Measurement Group 방문과학자
 + 2016 - 2018      : 편집위원, Asia Pacific Journal of Atmospheric Sciences(APAS)
-+ 2014-2015      :  자연과학연구원 부원장, 자연과학융합연구소 소장
-+ 2013 - 2017    :   NDACC (Network for the Detection of Atmospheric Composition Change) Satellite WG 위원
-+ 2012 - 2020    :   IO3C (International Ozone Commision), 위원
++ 2014 - 2015      :  자연과학연구원 부원장
++ 2014 - 현재    : WHO (세계보건기구) Global Platform for Air Quality and Public Health, 자문위원
++ 2012 - 2020    :   International Ozone Commision (IO3C), 위원
 + 2012 - 현재      :  환경위성탑재체알고리즘개발 연구단장, GEMS (Geostationary Environment Monitoring Spectrometer) Mission
 + 2010 - 현재     :   CEOS (Committee on Earth Observing Satellites) AC-VC 위원
-+ 2011 - 2012    :  교육과학기술부-NASA 우주협력체계 추진위 지구과학분과 위원장
 + 2009 - 2010    :  NASA Jet Propulsion Laboratory, CalTech, 과학기술고문, 미국 UCLA 방문교수
-+ 2009 - 2012    :  국립환경과학원 - NASA Technical Group on Atmospheric Composition Measurements from Geostationary Satellites 공동위원장
 + 2008 - 2012    :  ISPRS (International Society for Photogrammetry and Remote Sensing)
                              Commission VIII, Working Group 8 공동의장
 
 #### 수상
++ 2019, 2013, 2012 :        연세대학교 우수강의 교수상
++ 2018, 2017, 2016, 2015, 2014 : 연세대학교 우수업적 교수상
 + 2019. 4        :        정부 과학기술 포장
-+ 2019. 2        :        연세대학교 우수강의 교수상
 + 2019. 1        :        한국과학기술한림원, 우수학위논문 대상 (지구과학분야, 지도교수상)
 + 2018. 2        :        과학기술정보통신부 한국연구재단,  이달의 과학기술인
-+ 2018. 2        :        연세대학교 우수업적 교수상
 + 2018. 1        :        연세대학교 공헌교수상
 + 2017. 6        :        NASA Group Achievement Award
-+ 2017. 2        :        연세대학교 우수업적 교수상
-+ 2016. 2        :        연세대학교 우수업적 교수상
-+ 2015. 2        :        연세대학교 우수업적 교수상
 + 2014. 6        :        환경부 한국환경산업기술원,  올해의 환경기술 최우수상
-+ 2014. 2        :        연세대학교 우수업적 교수상
-+ 2013. 2        :        연세대학교 우수강의 교수상
 + 2012. 11       :        한국과학기술한림원, 우수학위논문 대상 (지구과학분야, 지도교수상)
-+ 2012. 2        :        연세대학교 우수강의 교수상
 + 2010, 2004     :     SPIE (The International Society for Optical Engineering) 표창장
 + 2009. 3        :        대통령 표창
 + 2008. 12       :       환경부 장관 표창
