@@ -1,11 +1,11 @@
 +++
-title = "남궁천일"
+title = "조아진"
 date = "2019-03-04T13:39:46+02:00"
 teams = ["학생"]
-banner = "img/people/Chunil.jpg"
-email = "silvan@yonsei.ac.kr"
+banner = "img/people/ajincho.jpeg"
+email = "ajin05@yonsei.ac.kr"
 job = "석사과정"
-phone = "010-5051-4715"
+phone = "02-2123-7608"
 room = "대기해양모델링연구실 / 과학관 532호"
 web = "http://airsea.yonsei.ac.kr"
 weight = 50
@@ -14,7 +14,8 @@ weight = 50
 #### 연구분야
 + Air-sea interactions
 + Air-sea coupled modeling
-+ Climate change of Antarctic
++ Tropical cyclone
++ Current Effect
 
 #### 학력
 
