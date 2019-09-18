@@ -17,8 +17,10 @@ weight = 50
 
 #### 학력
 
- + **B.Sc** (2019) Atmospheric and Environmental Sciences, Gangneung-Wonju National Univ. , Gangneung, Korea
- 
++ **B.Sc** (2019) Atmospheric and Environmental Sciences, Gangneung-Wonju National University, Gangneung, Korea
+
+
+
 #### 수상내역
 
 
