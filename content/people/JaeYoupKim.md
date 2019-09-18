@@ -16,8 +16,8 @@ weight = 50
 + Parallel Processing
 
 #### 학력
-+ **M.Sc** (2019) in information sicence, University of Sicence and Technology, Daejeon, Korea
-+ **B.Sc** (2017) in atmospheric sicence, Kongju National University, Kongju, Korea
++ **M.Sc** (2019) in information science, University of Science and Technology, Daejeon, Korea
++ **B.Sc** (2017) in atmospheric science, Kongju National University, Kongju, Korea
 
 #### 연구경력
 + 2015-2019: Research Assistant, Korea Institute of Science and Technology Information
