@@ -533,6 +533,13 @@ th.tg-sort-header::-moz-selection { background:transparent; }th.tg-sort-header::
 
   </tr>
   <tr>
+    <td class="tg-s8ju">박민수</td>
+    <td class="tg-s8ju">2018년 8월</td>
+    <td class="tg-s8ju">Physical characteristiccs of the aerosols and cloud <br>
+                        condensation nuclei obtained from ship and airborne  <br>
+                        measurements in and around the Korean Peninsula</td>
+    <td class="tg-s8ju">염성수</td>
+  <tr>
     <td class="tg-s8ju">이준홍</td>
     <td class="tg-s8ju">2019년 2월</td>
     <td class="tg-s8ju">The Representatinos of Vegetation for Surface Wind <br>
@@ -545,6 +552,14 @@ th.tg-sort-header::-moz-selection { background:transparent; }th.tg-sort-header::
     <td class="tg-s8ju">Characteristics of Urban Land-Atmosphere Interactinos <br>
                         in Monsoon East Asia</td>
     <td class="tg-s8ju">홍진규</td>
+  </tr>
+  <tr>
+    <td class="tg-s8ju">김나진</td>
+    <td class="tg-s8ju">2019년 8월</td>
+    <td class="tg-s8ju">Impact of Physical, chemical and hygroscopic properties <br>
+                        of urban aerosols on cloud condensation nuclei activity <br>
+                        in Seoul, Korea</td>
+    <td class="tg-s8ju">염성수</td>
   </tr>
 
 </table></div>
