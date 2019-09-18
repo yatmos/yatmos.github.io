@@ -16,7 +16,7 @@ weight = 40
 
 #### 학력
  + **B.Sc** (2012) in Atmospheric Sciences, Yonsei University, Seoul, Korea
-
+ + **Ph.D** (2018) in Cloud Physics, Yonsei University, Seoul, Korea
 #### 수상내역
 
 
