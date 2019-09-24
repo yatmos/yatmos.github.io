@@ -23,5 +23,5 @@ weight = 40
 + 우수상, 제3회 대학(원)생 기상위성활용 연구성과 경진대회 (2017. 11. 15)
 
 #### 논문
-
++ Um, J., McFarquhar, G. M., Stith, J. L., Jung, C. H., Lee, S. S., Lee, J. Y., Shin, Y., Lee, Y. G., Yang, Y. I., Yum, S.S., Kim, B.-G., Cha J.W., & Ko, A.-R. (2018). Microphysical characteristics of frozen droplet aggregates from deep convective clouds. Atmospheric Chemistry and Physics, 18(23), 16915-16930.
  
