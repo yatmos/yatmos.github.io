@@ -985,7 +985,7 @@ th.tg-sort-header::-moz-selection { background:transparent; }th.tg-sort-header::
     <td class="tg-s8ju">2019년 8월</td>
     <td class="tg-s8ju">2018년 서해상 봄철 에어로졸과 구름응결핵의 물리적, 화학적<br>
                         특징 및 기상요소와의 관계 분석</td>
-    <td class="tg-s8ju">홍진규</td>
+    <td class="tg-s8ju">염성수</td>
   </tr>
 </table></div>
 
