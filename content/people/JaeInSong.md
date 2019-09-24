@@ -2,7 +2,7 @@
 title = "송재인"
 date = "2018-03-24T13:39:46+02:00"
 teams = ["학생"]
-banner = "img/people/JaeInSong.jpg"
+banner = "img/people/JaeInSong2.jpg"
 email = "jaein_song@yonsei.ac.kr"
 job = "박사과정"
 phone = "02-2123-7613"
@@ -12,7 +12,7 @@ weight = 30
 +++
 
 #### 연구분야
-+ Cloud Physics 
++ Cloud Physics
 + Ground based remote sensing of clouds
 + Fog in-situ measurements
 + Visibility Parameterization

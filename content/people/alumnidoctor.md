@@ -530,8 +530,7 @@ th.tg-sort-header::-moz-selection { background:transparent; }th.tg-sort-header::
     <td class="tg-s8ju">Development of aerosol retrieval algorithm over East <br>
                         Asia from TANSO-CAI measurements onboard GOSAT</td>
     <td class="tg-s8ju">김준</td>
-
-  </tr>
+    </tr>
   <tr>
     <td class="tg-s8ju">박민수</td>
     <td class="tg-s8ju">2018년 8월</td>
@@ -539,6 +538,28 @@ th.tg-sort-header::-moz-selection { background:transparent; }th.tg-sort-header::
                         condensation nuclei obtained from ship and airborne  <br>
                         measurements in and around the Korean Peninsula</td>
     <td class="tg-s8ju">염성수</td>
+  </tr>
+  <tr>
+    <td class="tg-s8ju">김지혜</td>
+    <td class="tg-s8ju">2018년 8월</td>
+    <td class="tg-s8ju">Development of microwave oceanic rainfall retrieval <br>
+                          algorithm for climate applications</td>
+    <td class="tg-s8ju">신동빈</td>
+  </tr>
+  <tr>
+    <td class="tg-s8ju">서담원</td>
+    <td class="tg-s8ju">2018년 8월</td>
+    <td class="tg-s8ju">Development of the GEO-KOMPSAT-2A advanced <br>
+                        meteorological imager rainfall rate algorithm</td>
+    <td class="tg-s8ju">신동빈</td>
+  </tr>
+  <tr>
+    <td class="tg-s8ju">최예지</td>
+    <td class="tg-s8ju">2018년 8월</td>
+    <td class="tg-s8ju">Typhoon rainfall intensity measurements based on microwave <br>
+                         satellite observations and cloud resolving models</td>
+    <td class="tg-s8ju">신동빈</td>
+  </tr>
   <tr>
     <td class="tg-s8ju">이준홍</td>
     <td class="tg-s8ju">2019년 2월</td>

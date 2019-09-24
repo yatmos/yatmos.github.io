@@ -974,6 +974,13 @@ th.tg-sort-header::-moz-selection { background:transparent; }th.tg-sort-header::
     <td class="tg-s8ju">홍진규</td>
   </tr>
   <tr>
+    <td class="tg-s8ju">구헌</td>
+    <td class="tg-s8ju">2019년 2월</td>
+    <td class="tg-s8ju">마이크로파 위성관측으로부터 산출된 대기 안정도지수의 평가 및 <br>
+                        활용 </td>
+    <td class="tg-s8ju">신동빈</td>
+  </tr>
+  <tr>
     <td class="tg-s8ju">정민주</td>
     <td class="tg-s8ju">2019년 8월</td>
     <td class="tg-s8ju">2018년 서해상 봄철 에어로졸과 구름응결핵의 물리적, 화학적<br>
