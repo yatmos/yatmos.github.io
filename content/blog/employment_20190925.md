@@ -1,7 +1,7 @@
 +++
 title = "연구교수 채용공고"
 date = 2019-09-25T14:18:16+09:00
-categories = ["공지사항"]
+categories = ["채용공고"]
 banner = "img/placeholder.png"
 icon = "bullhorn"
 +++
