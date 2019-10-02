@@ -1167,7 +1167,7 @@ fieldset[disabled] .btn-template-primary.active {
 }
 .home-carousel .dark-mask {
   position: absolute;
-  top: 0;
+  top:  auto;
   left: 0;
   width: 100%;
   height: 100%;
@@ -1176,8 +1176,8 @@ fieldset[disabled] .btn-template-primary.active {
   filter: alpha(opacity=10);
 }
 .home-carousel .owl-carousel {
-  padding-top: 150px;
-  padding-bottom: 100px;
+  padding-top: 50px;
+  padding-bottom: 50px;
   position: relative;
   text-align: center;
 /*  padding-top: 60px;
