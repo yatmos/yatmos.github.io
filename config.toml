@@ -184,11 +184,16 @@ summarylength = 20
     subtitle = "We have worked with many clients and we always like to hear they come out from the cooperation happy and satisfied. Have a look what our clients said about us."
 
 [params.movie]
-    enable = false
+    enable = true
     #moviefile = "http://thenewcode.com/assets/videos/polina.mp4"
-    moviefile = "img/iss.mp4"
-    snapfile = "img/iss_ini.jpg"
-    sourcefile = "https://youtu.be/W0LHTWG-UmQ"
+    # iss
+    #moviefile = "img/iss.mp4"
+    #snapfile = "img/iss_ini.jpg"
+    #sourcefile = "https://youtu.be/W0LHTWG-UmQ"
+    # convection
+    moviefile = "img/convection_a.mp4"
+    snapfile = "img/convection.png"
+    sourcefile = "https://youtu.be/SetPNQCJq9s"
     title = "대기과학이란?"
     subtitle = "21세기 인류가 당면한 가장 도전적인 문제인 지구환경 분야를 선도하는 대기과학은 자연과 인간의 조화로운 공존을 위해 책임 있는 해결을 제시할 수 있는 핵심 과학입니다."
 
