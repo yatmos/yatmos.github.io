@@ -16,7 +16,7 @@ weight = 50
 
 #### 학력
  + **B.Sc** (2017) in Atmospheric Sciences, Yonsei University, Seoul, Korea
- + !!!
+
 #### 수상내역
 
 
