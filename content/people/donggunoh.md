@@ -5,7 +5,7 @@ teams = ["학생"]
 banner = "img/people/donggunoh.png"
 email = "dgoh313@gmail.com"
 job = "통합과정"
-phone = "02-2123-2690"
+phone = "02-2123-7619"
 room = "지구물리유체역학 연구실 / 과학관 534호"
 web = "http://gfdl.yonsei.ac.kr"
 weight = 40
@@ -22,3 +22,4 @@ weight = 40
 
 
 #### 논문
++ Noh, Y., D. Oh, F. Hoffmann, and S. Raasch, "A Cloud Microphysics Parameterization for Shallow Cumulus Clouds Based on Lagrangian Cloud Model Simulations", J. Atmos. Sci., 75, 4031-4047, 2018.
