@@ -29,9 +29,4 @@ weight = 4
 + Shin, J., Olson, R., & An, S.-I. (2019). Improved probabilistic twenty-first century projections of sea surface temperature over East Asian marginal seas by considering uncertainty owing to model error and internal variability. Climate Dynamics. https://doi.org/10.1007/s00382-019-04911-0
 
 
-
-<br>
-
-+
-
 <br>
