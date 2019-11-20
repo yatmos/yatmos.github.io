@@ -67,3 +67,8 @@ weight = 4
 + Yeh, S. W., Cai, W., Min, S. K., McPhaden, M. J., Dommenget, D., Dewitte, B., … Kug, J. S. (2018). ENSO Atmospheric Teleconnections and Their Response to Greenhouse Gas Forcing. Reviews of Geophysics. https://doi.org/10.1002/2017RG000568
 
 <br>
+
++ Song, H., M. C. Long, P. Gaube, I. Frenger, J. Marshall and D. J. McGillicuddy Jr. (2018), Seasonal variation in the correlation between anomalies of sea level and chlorophyll in the Antarctic Circumpolar Current region. Geophys. Res. Lett., 45, 5011-5019
+
+<br>
+
