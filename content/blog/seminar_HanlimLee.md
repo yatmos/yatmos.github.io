@@ -6,7 +6,7 @@ banner = "img/placeholder.png"
 icon = "microphone"
 +++
 ###  초분광 위성 센서 자료 기반의 이산화질소 대류권 연직분포 산출 기술 개발
-A novel technique for retrieval of atmospheric NO2 vertical distribution from a hyperspectral satellite sensor: Ideas & Implementation
+### A novel technique for retrieval of atmospheric NO2 vertical distribution from a hyperspectral satellite sensor: Ideas & Implementation
 <br>
 #### 이한림 교수 (부경대학교)
 #### 2019년 11월 26일 (화) 16:00
