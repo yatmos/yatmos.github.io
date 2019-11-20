@@ -31,25 +31,18 @@ weight = 4
 
 <br>
 
-Seo, H., A. C. Subramanian, Song, H., Chowdary, J. S.: Coupled effects of ocean current on wind stress in the Bay of Bengal: Eddy energetics and upper ocean stratification, Deep Sea Research II, in press
++ Seo, H., A. C. Subramanian, Song, H., Chowdary, J. S.: Coupled effects of ocean current on wind stress in the Bay of Bengal: Eddy energetics and upper ocean stratification, Deep Sea Research II, in press
 
 <br>
 
-Song, H., J. Marshall, J-M Campin and D. J. McGillicuddy: Impact of near-inertial waves on vertical mixing and air-sea CO2 fluxes in the Southern Ocean. J. Geophys. Res. Oceans., 124, 4605–4617
++ Song, H., J. Marshall, J-M Campin and D. J. McGillicuddy: Impact of near-inertial waves on vertical mixing and air-sea CO2 fluxes in the Southern Ocean. J. Geophys. Res. Oceans., 124, 4605–4617
 
 <br>
 
-Doddridge, E. W., J. Marshall, H. Song, M. Kelley and L. Nazarenko: Eddy compensation dampens Southern Ocean SST response to westerly wind trends. Geophys. Res. Lett., 46, 4365-4377
++ Doddridge, E. W., J. Marshall, H. Song, M. Kelley and L. Nazarenko: Eddy compensation dampens Southern Ocean SST response to westerly wind trends. Geophys. Res. Lett., 46, 4365-4377
 
 <br>
 
-Kelly, T, R. Goericke, M. Kahru, H. Song and M. R. Stukel: CCE II: Spatial and interannual variability in export efficiency and the biological pump in an eastern boundary current upwelling system with substantial lateral advection. Deep-Sea Res. Pt I, 140, 14-25
++ Kelly, T, R. Goericke, M. Kahru, H. Song and M. R. Stukel: CCE II: Spatial and interannual variability in export efficiency and the biological pump in an eastern boundary current upwelling system with substantial lateral advection. Deep-Sea Res. Pt I, 140, 14-25
 
 <br>
-
-
-
-
-
-
-
