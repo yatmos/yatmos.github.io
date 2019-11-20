@@ -30,3 +30,7 @@ weight = 4
 
 
 <br>
+
++ Shin, U., Lee, T.-Y. & Park, S.-H. (2019). Environment and processes for heavy rainfall in the early morning over the Korean peninsula during episodes of cloud clusters associated with mesoscale troughs. Journal of the Meteorological Society of Japan. https://doi.org/10.2151/jmsj.2019-036
+
+<br>
