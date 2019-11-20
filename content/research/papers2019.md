@@ -28,6 +28,9 @@ weight = 4
 
 + Shin, J., Olson, R., & An, S.-I. (2019). Improved probabilistic twenty-first century projections of sea surface temperature over East Asian marginal seas by considering uncertainty owing to model error and internal variability. Climate Dynamics. https://doi.org/10.1007/s00382-019-04911-0
 
+<br>
+
++ Shin, U., Lee, T.-Y. & Park, S.-H. (2019). Environment and processes for heavy rainfall in the early morning over the Korean peninsula during episodes of cloud clusters associated with mesoscale troughs. Journal of the Meteorological Society of Japan. https://doi.org/10.2151/jmsj.2019-036
 
 <br>
 
