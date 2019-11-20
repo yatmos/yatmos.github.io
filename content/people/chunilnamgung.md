@@ -14,7 +14,8 @@ weight = 50
 #### 연구분야
 + Air-sea interactions
 + Air-sea coupled modeling
-+ Climate change of Antarctic
++ Climate Change of Southern Hemisphere 
++ Antarctic Circumpolar Curent(ACC)
 
 #### 학력
 
