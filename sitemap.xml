@@ -347,6 +347,11 @@
   </url>
   
   <url>
+    <loc>https://atmos.yonsei.ac.kr/people/jungsublim/</loc>
+    <lastmod>2018-03-24T13:39:46+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://atmos.yonsei.ac.kr/people/hyunkwanglim/</loc>
     <lastmod>2018-03-24T13:39:46+02:00</lastmod>
   </url>
@@ -474,6 +479,16 @@
   <url>
     <loc>https://atmos.yonsei.ac.kr/people/alumnimaster/</loc>
     <lastmod>2018-03-24T13:39:46+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://atmos.yonsei.ac.kr/blog/2019/11/20/seminar_hanlimlee/</loc>
+    <lastmod>2019-11-20T16:10:47+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://atmos.yonsei.ac.kr/blog/2019/11/18/notice_20191118/</loc>
+    <lastmod>2019-11-18T15:44:16+09:00</lastmod>
   </url>
   
   <url>
@@ -1278,7 +1293,7 @@
   
   <url>
     <loc>https://atmos.yonsei.ac.kr/categories/%EA%B3%B5%EC%A7%80%EC%82%AC%ED%95%AD/</loc>
-    <lastmod>2019-11-13T12:17:16+09:00</lastmod>
+    <lastmod>2019-11-18T15:44:16+09:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1301,7 +1316,7 @@
   
   <url>
     <loc>https://atmos.yonsei.ac.kr/categories/%EC%84%B8%EB%AF%B8%EB%82%98/</loc>
-    <lastmod>2019-11-12T14:31:47+09:00</lastmod>
+    <lastmod>2019-11-20T16:10:47+09:00</lastmod>
     <priority>0</priority>
   </url>
   
