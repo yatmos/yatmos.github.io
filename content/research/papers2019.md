@@ -53,3 +53,15 @@ weight = 4
 + Shin, U., Lee, T.-Y. & Park, S.-H. (2019). Environment and processes for heavy rainfall in the early morning over the Korean peninsula during episodes of cloud clusters associated with mesoscale troughs. Journal of the Meteorological Society of Japan. https://doi.org/10.2151/jmsj.2019-036
 
 <br>
+
++ Ko, H. C., Chun, H. Y., Wilson, R., & Geller, M. A. (2019). Characteristics of Atmospheric Turbulence Retrieved From High Vertical‐Resolution Radiosonde Data in the United States. Journal of Geophysical Research: Atmospheres, 124(14), 7553-7579.
+
+<br>
+
++ Lee, J. H., Kang, M. J., & Chun, H. Y. (2019). Differences in the Tropical Convective Activities at the Opposite Phases of the Quasi-Biennial Oscillation. Asia-Pacific Journal of Atmospheric Sciences, 55(3), 317-336.
+
+<br>
+
++ Kim, S. H., Chun, H. Y., Sharman, R. D., & Trier, S. B. (2019). Development of near-cloud turbulence diagnostics based on a convective gravity-wave drag parameterization. Journal of Applied Meteorology and Climatology, (2019).
+
+<br>

@@ -72,3 +72,34 @@ weight = 4
 
 <br>
 
++ Seo, J. M., Baik, J. J., & Chun, H. Y. (2018). Theoretical investigation of nonhydrostatic effects on convectively forced flows: Propagating and evanescent gravity-wave modes. Physics of Fluids, 30(12), 126604.
+
+<br>
+
++ Yoo, J. H., Choi, T., Chun, H. Y., Kim, Y. H., Song, I. S., & Song, B. G. (2018). Inertia‐Gravity Waves Revealed in Radiosonde Data at Jang Bogo Station, Antarctica (74° 37′ S, 164° 13′ E): 1. Characteristics, Energy, and Momentum Flux. Journal of Geophysical Research: Atmospheres, 123(23), 13-305.
+
+<br>
+
++ Kang, M. J., Chun, H. Y., Kim, Y. H., Preusse, P., & Ern, M. (2018). Momentum Flux of Convective Gravity Waves Derived from an Offline Gravity Wave Parameterization. Part II: Impacts on the Quasi-Biennial Oscillation. Journal of the Atmospheric Sciences, 75(11), 3753-3775.
+
+<br>
+
++ Kalisch, S., Kang, M. J., & Chun, H. Y. (2018). Impact of Convective Gravity ㄷWaves on the Tropical Middle Atmosphere During the Madden‐Julian Oscillation. Journal of Geophysical Research: Atmospheres, 123(17), 8975-8992.
+
+<br>
+
++ Song, I. S., Chun, H. Y., Jee, G., Kim, S. Y., Kim, J., Kim, Y. H., & Taylor, M. A. (2018). Dynamic initialization for whole atmospheric global modeling. Journal of Advances in Modeling Earth Systems, 10(9), 2096-2120.
+
+<br>
+
++ Choi, H. J., Han, J. Y., Koo, M. S., Chun, H. Y., Kim, Y. H., & Hong, S. Y. (2018). Effects of Non-orographic Gravity Wave Drag on Seasonal and Medium-range Predictions in a Global Forecast Model. Asia-Pacific Journal of Atmospheric Sciences, 54(1), 385-402.
+
+<br>
+
++ Lee, D. B., & Chun, H. Y. (2018). A Numerical Study of Aviation Turbulence Encountered on 13 February 2013 over the Yellow Sea between China and the Korean Peninsula. Journal of Applied Meteorology and Climatology, 57(4), 1043-1060.
+
+<br>
+
++ Butchart, N., Anstey, J. A., Hamilton, K., Osprey, S., McLandress, C., Bushell, A. C., ... & Stockdale, T. N. (2018). Overview of experiment design and comparison of models participating in phase 1 of the SPARC Quasi-Biennial Oscillation initiative (QBOi). Geoscientific Model Development, 11(3), 1009-1032.
+
+<br>
