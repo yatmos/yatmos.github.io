@@ -65,3 +65,16 @@ weight = 4
 + Kim, S. H., Chun, H. Y., Sharman, R. D., & Trier, S. B. (2019). Development of near-cloud turbulence diagnostics based on a convective gravity-wave drag parameterization. Journal of Applied Meteorology and Climatology, (2019).
 
 <br>
+
++ Lee, J., Hong, J. W., Lee, K., Hong, J., Velasco, E., Lim, Y. J., ... & Park, J. (2019). Ceilometer Monitoring of Boundary-Layer Height and Its Application in Evaluating the Dilution Effect on Air Pollution. Boundary-Layer Meteorology, 1-21.
+
+
+<br>
+
++ Hong, J. W., Hong, J., Kwon, E. E., & Yoon, D. (2019). Temporal dynamics of urban heat island correlated with the socio-economic development over the past half-century in Seoul, Korea. Environmental Pollution, 254, 112934.
+
+<br>
+
++ Hong, J. W., Hong, J., Chun, J., Lee, Y. H., Chang, L. S., Lee, J. B., ... & Joo, S. (2019). Comparative assessment of net CO 2 exchange across an urbanization gradient in Korea based on eddy covariance measurements. Carbon balance and management, 14(1), 13.
+
+<br>
