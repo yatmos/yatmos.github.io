@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>연세대학교 대기과학과</title>
@@ -6,7 +6,7 @@
     <description>Recent content on 연세대학교 대기과학과</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko</language>
-    <lastBuildDate>Tue, 17 Apr 2018 00:39:46 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 28 Nov 2019 17:27:16 +0900</lastBuildDate>
     
 	<atom:link href="https://atmos.yonsei.ac.kr/index.xml" rel="self" type="application/rss+xml" />
     
@@ -35,7 +35,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/research/research/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;연세대학교 대기과학과에서 이루어지는 연구는 넓은 스펙트럼을 가지고 있습니다.&lt;/strong&gt;&lt;br /&gt;
+      <description>&lt;p&gt;&lt;strong&gt;연세대학교 대기과학과에서 이루어지는 연구는 넓은 스펙트럼을 가지고 있습니다.&lt;/strong&gt; 
 &lt;strong&gt;10개의 연구실에서 매일의 날씨에 관한 연구 뿐만 아니라 과거에서 미래로 이어지는 지구의 기후에 관한 연구가 동시에 진행되고 있으며,
 지역적인 기상 현상에서부터 전 지구의 대기 및 해양 순환에 이르기까지 다양한 시공간에 대한 연구가 이루어지고 있습니다.
 이를 위하여 우리들은 물리와 수학을 바탕으로 한 이론과 인공위성을 포함한 다양한 관측, 그리고 슈퍼컴퓨터를 활용하는 연구를 수행하고 있습니다.&lt;/strong&gt;&lt;/p&gt;</description>
@@ -65,8 +65,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/research/bk21/</guid>
-      <description>&lt;hr /&gt;
-
+      <description>&lt;hr&gt;
 &lt;p&gt;&lt;strong&gt;미래 국가 경쟁력 제고를 위한 석박사급 인재를 양성하고, 창의성에 기반한 새로운 지식과 기술의 창조를
 지원하기 위한 사업인 Brain Korea 21 plus에 연세대학교의 지구.대기.천문 사업단이 선정되었습니다.&lt;/strong&gt;
 &lt;a href=&#34;http://bk21eaa.yonsei.ac.kr&#34;&gt;BK21+ 지구.대기.천문 사업단&lt;/a&gt;&lt;/p&gt;</description>
@@ -96,8 +95,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/research/environmentcenter/</guid>
-      <description>&lt;hr /&gt;
-
+      <description>&lt;hr&gt;
 &lt;p&gt;&lt;strong&gt;지구환경연구소의 설립 목적과 주요 활동에 관한 안내입니다.&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
     
@@ -260,7 +258,7 @@
       <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/people/joonkim/</guid>
-      <description>학력 1990. Ph.D., Biometeorology, University of Nebraska-Lincoln, NE, USA 1986. MS, Agricultural Meteorology, University of Nebraska-Lincoln, NE, USA 1981.</description>
+      <description>학력 Ph.D., Biometeorology, University of Nebraska-Lincoln, NE, USA MS, Agricultural Meteorology, University of Nebraska-Lincoln, NE, USA BS, Atmospheric Sciences,</description>
     </item>
     
     <item>
@@ -291,18 +289,9 @@
     </item>
     
     <item>
-      <title>홍제우</title>
-      <link>https://atmos.yonsei.ac.kr/people/jewoohong/</link>
-      <pubDate>Thu, 05 Sep 2019 12:19:46 +0200</pubDate>
-      
-      <guid>https://atmos.yonsei.ac.kr/people/jewoohong/</guid>
-      <description>연구분야 Micrometeorology Eddy Covariance Land Surface Model 학력 Ph.D. (2019) in Atmospheric Sciences, Yonsei University, Seoul,</description>
-    </item>
-    
-    <item>
       <title>Ashley Brereton</title>
       <link>https://atmos.yonsei.ac.kr/people/ashleybrereton/</link>
-      <pubDate>Fri, 24 Mar 2017 13:39:46 +0200</pubDate>
+      <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/people/ashleybrereton/</guid>
       <description>연구분야 Large-eddy simulation Ocean mixed layer turbulence Plankton population dynamics Bio-physical interactions Ocean model development Tidal turbulence</description>
@@ -311,7 +300,7 @@
     <item>
       <title>Silvio Kalisch</title>
       <link>https://atmos.yonsei.ac.kr/people/silviokalisch/</link>
-      <pubDate>Fri, 24 Mar 2017 13:39:46 +0200</pubDate>
+      <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/people/silviokalisch/</guid>
       <description>연구분야 Middle Atmosphere dynamics Gravity Waves Tropical atmosphere (Madden-Julian Oscillation) Sudden stratospheric warming 학력 Dr. rer.</description>
@@ -320,7 +309,7 @@
     <item>
       <title>김세현</title>
       <link>https://atmos.yonsei.ac.kr/people/sehyunkim/</link>
-      <pubDate>Fri, 24 Mar 2017 13:39:46 +0200</pubDate>
+      <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/people/sehyunkim/</guid>
       <description>연구분야 Data assimilation Ensemble forecast 학력 Ph.d. (2017) in Meteorology, Yonsei University, Seoul, Korea M.Sc (2012)</description>
@@ -329,7 +318,7 @@
     <item>
       <title>이유리</title>
       <link>https://atmos.yonsei.ac.kr/people/yurilee/</link>
-      <pubDate>Fri, 24 Mar 2017 13:39:46 +0200</pubDate>
+      <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/people/yurilee/</guid>
       <description>연구분야 Remote sensing for precipitation estimation 학력 Ph.d. (2017) in Atmospheric Sciences, Yonsei University, Seoul, Korea</description>
@@ -629,7 +618,7 @@
       <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/people/dongheelee/</guid>
-      <description>연구분야 Remote Sensing for Atmospheric Chemistry + 학력 M.S (2017) in Earth and Environmental Engineering, Gwangju</description>
+      <description>연구분야 Remote Sensing for Atmospheric Chemistry 학력 M.S (2017) in Earth and Environmental Engineering, Gwangju Institute</description>
     </item>
     
     <item>
@@ -725,28 +714,10 @@
     <item>
       <title>곽경민</title>
       <link>https://atmos.yonsei.ac.kr/people/kyungminkwak/</link>
-      <pubDate>Mon, 04 Mar 2019 13:39:46 +0200</pubDate>
+      <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/people/kyungminkwak/</guid>
       <description>연구분야 Air-sea coupled modeling Southern Ocean carbon exchange 학력 B.Sc (2019) Atmospheric and Environmental Sciences, Gangneung-Wonju</description>
-    </item>
-    
-    <item>
-      <title>남궁천일</title>
-      <link>https://atmos.yonsei.ac.kr/people/chunilnamgung/</link>
-      <pubDate>Mon, 04 Mar 2019 13:39:46 +0200</pubDate>
-      
-      <guid>https://atmos.yonsei.ac.kr/people/chunilnamgung/</guid>
-      <description>연구분야 Air-sea interactions Air-sea coupled modeling Climate Change of Southern Hemisphere Antarctic Circumpolar Curent(ACC) 학력 B.Sc</description>
-    </item>
-    
-    <item>
-      <title>조아진</title>
-      <link>https://atmos.yonsei.ac.kr/people/ajincho/</link>
-      <pubDate>Mon, 04 Mar 2019 13:39:46 +0200</pubDate>
-      
-      <guid>https://atmos.yonsei.ac.kr/people/ajincho/</guid>
-      <description>연구분야 Air-sea interactions Air-sea coupled modeling Tropical cyclone Current Effect 학력 B.Sc (2019) in Atmospheric Sciences,</description>
     </item>
     
     <item>
@@ -774,6 +745,15 @@
       
       <guid>https://atmos.yonsei.ac.kr/people/hyejinkim/</guid>
       <description>연구분야 Atmospheric Modeling 학력 B.Sc (2018) in Department of atmospheric sicence.,Kongju National University, Kongju, Korea 수</description>
+    </item>
+    
+    <item>
+      <title>남궁천일</title>
+      <link>https://atmos.yonsei.ac.kr/people/chunilnamgung/</link>
+      <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
+      
+      <guid>https://atmos.yonsei.ac.kr/people/chunilnamgung/</guid>
+      <description>연구분야 Air-sea interactions Air-sea coupled modeling Climate Change of Southern Hemisphere Antarctic Circumpolar Curent(ACC) 학력 B.Sc</description>
     </item>
     
     <item>
@@ -840,6 +820,15 @@
     </item>
     
     <item>
+      <title>윤아림</title>
+      <link>https://atmos.yonsei.ac.kr/people/arimyun/</link>
+      <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
+      
+      <guid>https://atmos.yonsei.ac.kr/people/arimyun/</guid>
+      <description>연구분야 Land, atmosphere interaction Hydrology 학력 B.Sc (2019) in Atmospheric Sciences, Yonsei University, Seoul, Korea 수</description>
+    </item>
+    
+    <item>
       <title>이주엽</title>
       <link>https://atmos.yonsei.ac.kr/people/jooyeoplee/</link>
       <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
@@ -867,6 +856,15 @@
     </item>
     
     <item>
+      <title>조아진</title>
+      <link>https://atmos.yonsei.ac.kr/people/ajincho/</link>
+      <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
+      
+      <guid>https://atmos.yonsei.ac.kr/people/ajincho/</guid>
+      <description>연구분야 Air-sea interactions Air-sea coupled modeling Tropical cyclone Current Effect 학력 B.Sc (2019) in Atmospheric Sciences,</description>
+    </item>
+    
+    <item>
       <title>홍재민</title>
       <link>https://atmos.yonsei.ac.kr/people/jaeminhong/</link>
       <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
@@ -881,7 +879,7 @@
       <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/people/alumnidoctor/</guid>
-      <description>박사학위자 명단 .tg {border-collapse:collapse;border-spacing:0;border:none;border-color:#ccc;margin:0px auto;} .tg td{font-family:Arial, sans-serif;font-size:14px;padding:20px 6px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:#ccc;color:#333;background-color:#fff;} .tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:20px 6px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:#ccc;color:#333;background-color:#f0f0f0;} .tg .tg-44m2{font-weight:bold;font-size:16px;font-family:&#34;Arial</description>
+      <description>박사학위자 명단 &amp;lt;td class=&amp;quot;</description>
     </item>
     
     <item>
@@ -890,7 +888,34 @@
       <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/people/alumnimaster/</guid>
-      <description>석사학위자 명단 .tg {border-collapse:collapse;border-spacing:0;border:none;border-color:#ccc;margin:0px auto;} .tg td{font-family:Arial, sans-serif;font-size:14px;padding:20px 6px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:#ccc;color:#333;background-color:#fff;} .tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:20px 6px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:#ccc;color:#333;background-color:#f0f0f0;} .tg .tg-44m2{font-weight:bold;font-size:16px;font-family:&#34;Arial</description>
+      <description>석사학위자 명단 &amp;lt;td class=&amp;quot;</description>
+    </item>
+    
+    <item>
+      <title>기상면허 취득교육 신청안내</title>
+      <link>https://atmos.yonsei.ac.kr/blog/2019/11/28/notice_20191128/</link>
+      <pubDate>Thu, 28 Nov 2019 17:27:16 +0900</pubDate>
+      
+      <guid>https://atmos.yonsei.ac.kr/blog/2019/11/28/notice_20191128/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[세미나] 신방실 기자님</title>
+      <link>https://atmos.yonsei.ac.kr/blog/2019/11/27/seminar_bangsilshin/</link>
+      <pubDate>Wed, 27 Nov 2019 16:49:47 +0900</pubDate>
+      
+      <guid>https://atmos.yonsei.ac.kr/blog/2019/11/27/seminar_bangsilshin/</guid>
+      <description>날씨와 뉴스 온난화로 기상이변이 나날이 잦아지</description>
+    </item>
+    
+    <item>
+      <title>[세미나] 최재철 명예교수님</title>
+      <link>https://atmos.yonsei.ac.kr/blog/2019/11/27/seminar_jaichulchoi/</link>
+      <pubDate>Wed, 27 Nov 2019 16:33:47 +0900</pubDate>
+      
+      <guid>https://atmos.yonsei.ac.kr/blog/2019/11/27/seminar_jaichulchoi/</guid>
+      <description>동북아 환경공동체 실현을 위한 환경 외교 o. 동북</description>
     </item>
     
     <item>
@@ -899,7 +924,7 @@
       <pubDate>Wed, 27 Nov 2019 12:49:16 +0900</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/blog/2019/11/27/notice_20191127/</guid>
-      <description>우리학교와 POSTECH의 교육 부문 교류 협</description>
+      <description></description>
     </item>
     
     <item>
@@ -926,7 +951,7 @@
       <pubDate>Mon, 18 Nov 2019 15:44:16 +0900</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/blog/2019/11/18/notice_20191118/</guid>
-      <description>2019년 기상기후 빅데이터 SW역량강화 공</description>
+      <description></description>
     </item>
     
     <item>
@@ -935,7 +960,7 @@
       <pubDate>Wed, 13 Nov 2019 12:17:16 +0900</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/blog/2019/11/13/notice_20191113/</guid>
-      <description>한국기상산업기술원의 기상관련 민간자격 도입</description>
+      <description></description>
     </item>
     
     <item>
@@ -944,7 +969,7 @@
       <pubDate>Tue, 12 Nov 2019 14:31:47 +0900</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/blog/2019/11/12/seminar_youngryelryu/</guid>
-      <description>Shaking hands between atmospheric radiation and canopy photosynthesis: why do we need Fraunhofer lines and O2A bands? 류영렬</description>
+      <description>Shaking hands between atmospheric radiation and canopy photosynthesis: why do we need Fraunhofer lines and O2A bands? Sun-induced chlorophyll fluorescence</description>
     </item>
     
     <item>
@@ -953,7 +978,7 @@
       <pubDate>Tue, 12 Nov 2019 14:18:16 +0900</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/blog/2019/11/12/notice_20191112/</guid>
-      <description>신청기간 : 11/ 25(월) 오후 2시 ~ 11/ 28(</description>
+      <description></description>
     </item>
     
     <item>
@@ -962,7 +987,7 @@
       <pubDate>Fri, 08 Nov 2019 16:30:47 +0900</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/blog/2019/11/08/seminar_seokwooson/</guid>
-      <description>성층권-대류권 접합 손석우 교수 (서울대학교</description>
+      <description>성층권-대류권 접합 북극 성층권에서 남극 성층</description>
     </item>
     
     <item>
@@ -971,7 +996,7 @@
       <pubDate>Wed, 06 Nov 2019 16:01:47 +0900</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/blog/2019/11/06/seminar_wojciech/</guid>
-      <description>Comparison of Eulerian bin and Lagrangian particle-based schemes in simulations of Pi Chamber dynamics and microphysics Dr. Wojciech W. Grabowski</description>
+      <description>Comparison of Eulerian bin and Lagrangian particle-based schemes in simulations of Pi Chamber dynamics and microphysics This presentation will discuss</description>
     </item>
     
     <item>
@@ -980,7 +1005,7 @@
       <pubDate>Tue, 05 Nov 2019 18:01:16 +0900</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/blog/2019/11/05/notice_20191105/</guid>
-      <description>*기상청 블로그 기자단 관련 자세한 내용은 아래</description>
+      <description></description>
     </item>
     
     <item>
@@ -989,7 +1014,7 @@
       <pubDate>Mon, 04 Nov 2019 12:30:16 +0900</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/blog/2019/11/04/notice_20191104/</guid>
-      <description>한국기상산업기술원의 기상기후 빅데이터 SW</description>
+      <description></description>
     </item>
     
     <item>
@@ -998,7 +1023,7 @@
       <pubDate>Thu, 31 Oct 2019 14:33:47 +0900</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/blog/2019/10/31/seminar_yangliu/</guid>
-      <description>Applications of Satellite and Low-cost Sensor Data in Estimating PM2.5 Concentrations Prof. Yang Liu (Emory University) 2019</description>
+      <description>Applications of Satellite and Low-cost Sensor Data in Estimating PM2.5 Concentrations Low-cost air quality sensors are promising supplements to regulatory</description>
     </item>
     
     <item>
@@ -1007,7 +1032,7 @@
       <pubDate>Thu, 10 Oct 2019 11:25:47 +0900</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/blog/2019/10/10/seminar_kitaekim/</guid>
-      <description>극지방 얼음에서 일어나는 화학반응 연구 김기태</description>
+      <description>극지방 얼음에서 일어나는 화학반응 연구 Ice is ubiquitous</description>
     </item>
     
     <item>
@@ -1016,7 +1041,7 @@
       <pubDate>Wed, 02 Oct 2019 11:37:47 +0900</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/blog/2019/10/02/seminar_woosukchoi/</guid>
-      <description>안전한 도시를 위한 기상 연구 최우석 박사 (서울</description>
+      <description>안전한 도시를 위한 기상 연구 서울기술연구원은</description>
     </item>
     
     <item>
@@ -1034,7 +1059,7 @@
       <pubDate>Fri, 27 Sep 2019 12:28:16 +0900</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/blog/2019/09/27/notice_20190927/</guid>
-      <description>40만 연세동문들의 정성으로 2001년 설립</description>
+      <description></description>
     </item>
     
     <item>
@@ -1043,7 +1068,7 @@
       <pubDate>Wed, 25 Sep 2019 14:18:16 +0900</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/blog/2019/09/25/employment_20190925/</guid>
-      <description>연세대학교 2019학년도 연구교수 채용 공고</description>
+      <description></description>
     </item>
     
     <item>
@@ -1061,7 +1086,7 @@
       <pubDate>Wed, 18 Sep 2019 11:35:47 +0900</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/blog/2019/09/18/seminar_sunghyupyou/</guid>
-      <description>해양기상의 현재와 미래 유승협 과장님 (기상청</description>
+      <description>해양기상의 현재와 미래</description>
     </item>
     
     <item>
@@ -1070,7 +1095,7 @@
       <pubDate>Wed, 18 Sep 2019 11:06:16 +0900</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/blog/2019/09/18/notice_20190918_2/</guid>
-      <description>선착순 접수이니 관심있으신 학우분들의 신속한</description>
+      <description></description>
     </item>
     
     <item>
@@ -1079,7 +1104,7 @@
       <pubDate>Wed, 18 Sep 2019 10:53:16 +0900</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/blog/2019/09/18/notice_20190918_1/</guid>
-      <description>희망자는 아래 내용의 붙임파일을 작성하여 공문</description>
+      <description></description>
     </item>
     
     <item>
@@ -1088,7 +1113,7 @@
       <pubDate>Tue, 17 Sep 2019 13:18:16 +0900</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/blog/2019/09/17/notice_20190917/</guid>
-      <description>안녕하세요. 인천연구원 인천기후환경연구센</description>
+      <description></description>
     </item>
     
     <item>
@@ -1097,7 +1122,7 @@
       <pubDate>Tue, 17 Sep 2019 13:12:47 +0900</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/blog/2019/09/17/seminar_sunyoungpark/</guid>
-      <description>Atmospheric observations trace mysterious emissions of banned ozone-destroying, greenhouse gases 박선영 교수님 (경북대</description>
+      <description>Atmospheric observations trace mysterious emissions of banned ozone-destroying, greenhouse gases Many man-made halogenated compounds such as chlorofluorocarbons (CFCs), hydrochlorofluorocarbons (HCFCs),</description>
     </item>
     
     <item>
@@ -1106,7 +1131,7 @@
       <pubDate>Mon, 09 Sep 2019 10:55:47 +0900</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/blog/2019/09/09/seminar_jhoonkim/</guid>
-      <description>Remote Sensing of Air Quality in Asia from Space 김 준 교수 (연세대학교 대</description>
+      <description>Remote Sensing of Air Quality in Asia from Space Air pollution is increasingly understood to be a global issue, requiring</description>
     </item>
     
     <item>
@@ -1124,7 +1149,7 @@
       <pubDate>Tue, 03 Sep 2019 14:45:16 +0900</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/blog/2019/09/03/notice_20190903_2/</guid>
-      <description>관련: 가. 혁신행정담당관-3196(20</description>
+      <description></description>
     </item>
     
     <item>
@@ -1133,7 +1158,7 @@
       <pubDate>Tue, 03 Sep 2019 14:30:16 +0900</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/blog/2019/09/03/notice_20190903_1/</guid>
-      <description>한국기상산업기술원 혁신성장일자리팀입니다</description>
+      <description></description>
     </item>
     
     <item>
@@ -1142,7 +1167,7 @@
       <pubDate>Wed, 28 Aug 2019 07:57:16 +0900</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/blog/2019/08/28/notice_20190828/</guid>
-      <description>2019년 항공기상서비스 아이디어 공모전 알</description>
+      <description></description>
     </item>
     
     <item>
@@ -1151,7 +1176,7 @@
       <pubDate>Tue, 06 Aug 2019 07:57:16 +0900</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/blog/2019/08/06/notice_20190817/</guid>
-      <description>모집 안내 https://recruit.sbs.co.kr:994/_service/sbs2/apply_site/apply/recruit_default.asp 관심있는 학생은 송하준교수에게 문</description>
+      <description></description>
     </item>
     
     <item>
@@ -1160,7 +1185,7 @@
       <pubDate>Tue, 06 Aug 2019 07:57:16 +0900</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/blog/2019/08/06/notice_20190806/</guid>
-      <description>항상 연구·산학 업무에 협조하여 주심에 감사드</description>
+      <description></description>
     </item>
     
     <item>
@@ -1169,7 +1194,7 @@
       <pubDate>Mon, 05 Aug 2019 07:57:16 +0900</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/blog/2019/08/05/notice_20190805/</guid>
-      <description>항상 대학원 업무에 협조하여 주셔서 감사합니다</description>
+      <description></description>
     </item>
     
     <item>
@@ -1178,7 +1203,7 @@
       <pubDate>Mon, 29 Jul 2019 07:57:16 +0900</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/blog/2019/07/29/notice_20190729/</guid>
-      <description>*참가신청 http://igckorea.kr/main/main.php</description>
+      <description></description>
     </item>
     
     <item>
@@ -1187,7 +1212,7 @@
       <pubDate>Fri, 19 Jul 2019 07:57:16 +0900</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/blog/2019/07/19/notice_20190719/</guid>
-      <description>귀 교의 무궁한 발전을 기원합니다. 한국기상산</description>
+      <description></description>
     </item>
     
     <item>
@@ -1196,7 +1221,7 @@
       <pubDate>Tue, 09 Jul 2019 07:57:16 +0900</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/blog/2019/07/09/notice_20190709/</guid>
-      <description>안녕하십니까. 한국기상산업기술원입니다.</description>
+      <description></description>
     </item>
     
     <item>
@@ -1205,7 +1230,7 @@
       <pubDate>Tue, 25 Jun 2019 08:59:16 +0900</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/blog/2019/06/25/notice_20190625_4/</guid>
-      <description>참가신청: https://docs.google.com/forms/d/e/1FAIpQLSc46zBn51MAoHtxSvwRSwLw5TdR9WfbnYnhkIZkYjaz_dIvyQ/viewform?pli=1</description>
+      <description></description>
     </item>
     
     <item>
@@ -1214,7 +1239,7 @@
       <pubDate>Tue, 25 Jun 2019 08:58:16 +0900</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/blog/2019/06/25/notice_20190625_3/</guid>
-      <description>한국기상산업기술원은 국가 기상산업의 진흥·</description>
+      <description></description>
     </item>
     
     <item>
@@ -1232,7 +1257,7 @@
       <pubDate>Tue, 25 Jun 2019 07:57:16 +0900</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/blog/2019/06/25/notice_20190625/</guid>
-      <description>귀 기관의 무궁한 발전을 기원합니다. 「서천기</description>
+      <description></description>
     </item>
     
     <item>
@@ -1241,7 +1266,7 @@
       <pubDate>Fri, 21 Jun 2019 07:57:16 +0900</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/blog/2019/06/21/notice_20190621/</guid>
-      <description>2019 날씨 빅데이터 콘테스트 개최공문.pdf.</description>
+      <description></description>
     </item>
     
     <item>
@@ -1250,7 +1275,7 @@
       <pubDate>Mon, 10 Jun 2019 08:48:02 +0900</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/blog/2019/06/10/seminar_baekminkim/</guid>
-      <description>Critical Role of Extreme Midlatitude-storms in Arctic Amplification 김백민 교수님 (부경대학교</description>
+      <description>Critical Role of Extreme Midlatitude-storms in Arctic Amplification</description>
     </item>
     
     <item>
@@ -1259,7 +1284,7 @@
       <pubDate>Tue, 04 Jun 2019 09:57:16 +0900</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/blog/2019/06/04/notice_20190604_3/</guid>
-      <description>지원 자격 가. 00학번 이후 제1전공이 승인된</description>
+      <description></description>
     </item>
     
     <item>
@@ -1268,7 +1293,7 @@
       <pubDate>Tue, 04 Jun 2019 08:57:16 +0900</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/blog/2019/06/04/notice_20190604_2/</guid>
-      <description>1. 귀 기관의 무궁한 발전과 번영을 기원합니다.</description>
+      <description></description>
     </item>
     
     <item>
@@ -1277,7 +1302,7 @@
       <pubDate>Tue, 04 Jun 2019 07:57:16 +0900</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/blog/2019/06/04/notice_20190604/</guid>
-      <description>1. 귀 기관의 무궁한 발전과 번영을 기원합니다.</description>
+      <description></description>
     </item>
     
     <item>
@@ -1286,7 +1311,7 @@
       <pubDate>Tue, 04 Jun 2019 07:57:16 +0900</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/blog/2019/06/04/notice_20190604_4/</guid>
-      <description>1. 2019학년도 2학기 졸업예정자 복수전공</description>
+      <description></description>
     </item>
     
     <item>
@@ -1295,7 +1320,7 @@
       <pubDate>Thu, 30 May 2019 08:48:02 +0900</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/blog/2019/05/30/seminar_sunghoonpark/</guid>
-      <description>Introduction to Aerosol Population Dynamics Modeling 박성훈 교수님 (순천대학교) 2</description>
+      <description>Introduction to Aerosol Population Dynamics Modeling 에어로졸 동력학의 지배방정식은</description>
     </item>
     
     <item>
@@ -1304,7 +1329,7 @@
       <pubDate>Thu, 23 May 2019 08:48:02 +0900</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/blog/2019/05/23/seminar_songyouhong/</guid>
-      <description>Weather forecasts and seasonal simulation in a non-hydrostatic global atmospheric model 홍성유 단장님 (KIAPS) 20</description>
+      <description>Weather forecasts and seasonal simulation in a non-hydrostatic global atmospheric model</description>
     </item>
     
     <item>
@@ -1313,7 +1338,7 @@
       <pubDate>Thu, 23 May 2019 07:57:16 +0900</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/blog/2019/05/23/notice_20190523/</guid>
-      <description>1. 귀 기관의 무궁한 발전과 번영을 기원합니다.</description>
+      <description></description>
     </item>
     
     <item>
@@ -1322,7 +1347,7 @@
       <pubDate>Mon, 20 May 2019 08:48:02 +0900</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/blog/2019/05/20/seminar_sunghwanson/</guid>
-      <description>기후변화 협상동향 손성환 명예교수님 (외교부</description>
+      <description>기후변화 협상동향</description>
     </item>
     
     <item>
@@ -1331,7 +1356,7 @@
       <pubDate>Mon, 20 May 2019 07:57:16 +0900</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/blog/2019/05/20/notice_20190520/</guid>
-      <description>1. 항상 대학원 업무에 협조하여 주셔서 감사드립</description>
+      <description></description>
     </item>
     
     <item>
@@ -1340,7 +1365,7 @@
       <pubDate>Fri, 10 May 2019 08:50:40 +0900</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/blog/2019/05/10/outing/</guid>
-      <description>&lt;h5 id=&#34;대기과학과-공동관측&#34;&gt;대기과학과 공동관측&lt;/h5&gt;</description>
+      <description>&lt;h5 id=&#34;-&#34;&gt;대기과학과 공동관측&lt;/h5&gt;</description>
     </item>
     
     <item>
@@ -1349,7 +1374,7 @@
       <pubDate>Fri, 10 May 2019 08:48:02 +0900</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/blog/2019/05/10/seminar_changkikim/</guid>
-      <description>Current Status of Renewable Energy Potentials in Korea and Toward Improved Solar Irradiance Forecast in the U.S. 김창기</description>
+      <description>Current Status of Renewable Energy Potentials in Korea and Toward Improved Solar Irradiance Forecast in the U.S.</description>
     </item>
     
     <item>
@@ -1358,7 +1383,7 @@
       <pubDate>Fri, 10 May 2019 07:57:16 +0900</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/blog/2019/05/10/notice_20190510/</guid>
-      <description>붙 임 재입학_특별전형_신청서(국문) 1부</description>
+      <description></description>
     </item>
     
     <item>
@@ -1367,7 +1392,7 @@
       <pubDate>Tue, 07 May 2019 08:48:02 +0900</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/blog/2019/05/07/seminar_hajoonsong/</guid>
-      <description>연세대-서울대 공동세미나 송하준 교수님 (연</description>
+      <description>연세대-서울대 공동세미나 Title :The Southern Ocean changes in response to</description>
     </item>
     
     <item>
@@ -1376,7 +1401,7 @@
       <pubDate>Wed, 24 Apr 2019 08:48:02 +0900</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/blog/2019/04/24/seminar_chunhocho/</guid>
-      <description>파란하늘 빨간지구 조천호 전 국립기상과학원장</description>
+      <description>파란하늘 빨간지구 지구는 온실가스라는 인간이</description>
     </item>
     
     <item>
@@ -1385,7 +1410,7 @@
       <pubDate>Wed, 24 Apr 2019 07:57:16 +0900</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/blog/2019/04/24/notice_20190424/</guid>
-      <description>항상 대학원 업무에 협조하여 주셔서 감사드립니</description>
+      <description></description>
     </item>
     
     <item>
@@ -1394,7 +1419,7 @@
       <pubDate>Wed, 24 Apr 2019 06:48:02 +0900</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/blog/2019/04/24/semina_alexeilyapustin/</guid>
-      <description>High-resolution Aerosol Retrievals with Algorithm MAIAC from Geostationary Satellites Dr. Alexei Lyapustin (NASA Goddard Space Flight Center) 201</description>
+      <description>High-resolution Aerosol Retrievals with Algorithm MAIAC from Geostationary Satellites</description>
     </item>
     
     <item>
@@ -1403,7 +1428,7 @@
       <pubDate>Thu, 18 Apr 2019 07:57:16 +0900</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/blog/2019/04/18/notice_20190418/</guid>
-      <description>귀 대학의 무궁한 발전과 번영을 기원합니다. 우</description>
+      <description></description>
     </item>
     
     <item>
@@ -1412,7 +1437,7 @@
       <pubDate>Tue, 16 Apr 2019 03:48:02 +0900</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/blog/2019/04/16/seminar_jaeonelee/</guid>
-      <description>항공기상업무: 어제, 오늘 그리고 내일 이재원</description>
+      <description>항공기상업무: 어제, 오늘 그리고 내일</description>
     </item>
     
     <item>
@@ -1421,7 +1446,7 @@
       <pubDate>Mon, 15 Apr 2019 07:57:16 +0900</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/blog/2019/04/15/notice_20190415/</guid>
-      <description>2019학년도 2학기 재입학 일반전형을 붙임</description>
+      <description></description>
     </item>
     
     <item>
@@ -1430,7 +1455,7 @@
       <pubDate>Mon, 15 Apr 2019 06:48:02 +0900</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/blog/2019/04/15/seminar_kazuhitoichii/</guid>
-      <description>Monitoring and modeling of atmosphere-land CO2 exchanges in Asia Kazuhito Ichii 교수님 (Center for Environmental Remote Sensing, Chiba</description>
+      <description>Monitoring and modeling of atmosphere-land CO2 exchanges in Asia</description>
     </item>
     
     <item>
@@ -1439,7 +1464,7 @@
       <pubDate>Tue, 09 Apr 2019 07:57:16 +0900</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/blog/2019/04/09/notice_20190409/</guid>
-      <description>1. 2019학년도 2학기 캠퍼스내 소속변경을</description>
+      <description></description>
     </item>
     
     <item>
@@ -1448,7 +1473,7 @@
       <pubDate>Wed, 03 Apr 2019 06:48:02 +0900</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/blog/2019/04/03/seminar_sujongjeong/</guid>
-      <description>Understanding carbon cycle from urban to the Globe by integrating data and model 정수종 교수님 (</description>
+      <description>Understanding carbon cycle from urban to the Globe by integrating data and model</description>
     </item>
     
     <item>
@@ -1457,7 +1482,7 @@
       <pubDate>Fri, 29 Mar 2019 07:57:16 +0900</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/blog/2019/03/29/notice_20190329/</guid>
-      <description>학사 업무에 많은 도움주심에 감사드립니다. 우</description>
+      <description></description>
     </item>
     
     <item>
@@ -1475,7 +1500,7 @@
       <pubDate>Fri, 22 Mar 2019 07:57:16 +0900</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/blog/2019/03/22/notice_20190322/</guid>
-      <description>(1) 귀 대학의 협조에 감사드립니다. (2) 2019</description>
+      <description></description>
     </item>
     
     <item>
@@ -1484,7 +1509,7 @@
       <pubDate>Fri, 22 Mar 2019 06:48:02 +0900</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/blog/2019/03/22/seminar_imseokchang/</guid>
-      <description>초미세먼지 현황과 2019년 고농도 사례 장임</description>
+      <description>초미세먼지 현황과 2019년 고농도 사례 올해</description>
     </item>
     
     <item>
@@ -1493,7 +1518,7 @@
       <pubDate>Wed, 13 Mar 2019 07:57:16 +0900</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/blog/2019/03/13/notice_20190313_2/</guid>
-      <description>2019년 1분기 기상기업 통합 일자리 정보 안</description>
+      <description></description>
     </item>
     
     <item>
@@ -1511,7 +1536,7 @@
       <pubDate>Tue, 12 Mar 2019 07:57:16 +0900</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/blog/2019/03/12/notice_20190313/</guid>
-      <description>차세대 과학기술리더 지원사업 교류협력 프로그</description>
+      <description></description>
     </item>
     
     <item>
@@ -1520,7 +1545,7 @@
       <pubDate>Mon, 11 Mar 2019 06:48:02 +0900</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/blog/2019/03/11/seminar_junshikum/</guid>
-      <description>Microphysical characteristics of frozen droplet aggregates from deep convective clouds 엄준식 교수님 (부산대</description>
+      <description>Microphysical characteristics of frozen droplet aggregates from deep convective clouds</description>
     </item>
     
     <item>
@@ -1529,7 +1554,7 @@
       <pubDate>Sun, 10 Mar 2019 06:48:02 +0900</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/blog/2019/03/10/seminar_jeongsookim/</guid>
-      <description>우리나라 미세먼지 특징과 원인 김정수 교수님 (</description>
+      <description>우리나라 미세먼지 특징과 원인</description>
     </item>
     
     <item>
@@ -1538,7 +1563,7 @@
       <pubDate>Mon, 04 Mar 2019 06:48:02 +0900</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/blog/2019/03/04/seminar_hyodaeseo/</guid>
-      <description>Distinct Influence of Coupled Ocean-atmosphere Interactions Mediated by Sea Surface Temperature and Current 서효대 박사님 (Woods</description>
+      <description>Distinct Influence of Coupled Ocean-atmosphere Interactions Mediated by Sea Surface Temperature and Current</description>
     </item>
     
     <item>
@@ -1547,7 +1572,7 @@
       <pubDate>Wed, 20 Feb 2019 12:57:16 +0900</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/blog/2019/02/20/notice_20190220/</guid>
-      <description>2019년 2월 이과대학 학위수여식 안내 졸업</description>
+      <description></description>
     </item>
     
     <item>
@@ -1556,7 +1581,7 @@
       <pubDate>Wed, 13 Feb 2019 12:57:16 +0900</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/blog/2019/02/13/notice_20190213/</guid>
-      <description>자세한 내용은 붙임파일을 참고하시기 바랍니다</description>
+      <description></description>
     </item>
     
     <item>
@@ -1565,7 +1590,7 @@
       <pubDate>Wed, 13 Feb 2019 11:49:47 +0900</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/blog/2019/02/13/seminar_claussen/</guid>
-      <description>The“Green Sahara” Prof. Martin Claussen 2</description>
+      <description>The“Green Sahara” The“</description>
     </item>
     
     <item>
@@ -1574,7 +1599,7 @@
       <pubDate>Wed, 13 Feb 2019 10:49:47 +0900</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/blog/2019/02/13/seminar_goswami/</guid>
-      <description>Beyond the shallow water equation: Convective parameterization … and beyond. Dr. Bidyut Bikash Goswami (New York University Abu Dhabi) 2</description>
+      <description>Beyond the shallow water equation: Convective parameterization … and beyond. Beyond the shallow water equation: Convective parameterization … and beyond.</description>
     </item>
     
     <item>
@@ -1583,7 +1608,7 @@
       <pubDate>Wed, 30 Jan 2019 07:57:16 +0900</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/blog/2019/01/30/notice_20190130/</guid>
-      <description>2019학년도 1학기 수강신청의 일정이 다음</description>
+      <description></description>
     </item>
     
     <item>
@@ -1592,7 +1617,7 @@
       <pubDate>Thu, 10 Jan 2019 12:55:47 +0900</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/blog/2019/01/10/seminar_jonathan/</guid>
-      <description>Constraining aerosol emissions with 4D-Var in WRFDA Dr. Jonathan Guerrette (NCAR) 2019년 1월 15</description>
+      <description>Constraining aerosol emissions with 4D-Var in WRFDA Constraining aerosol emissions with 4D-Var in WRFDA Atmospheric aerosols are known to affect</description>
     </item>
     
     <item>
@@ -1601,7 +1626,7 @@
       <pubDate>Wed, 26 Dec 2018 07:57:16 +0900</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/blog/2018/12/26/notice_20181226/</guid>
-      <description>2019학년도 1학기 휴학·복학·재입학 기</description>
+      <description></description>
     </item>
     
     <item>
@@ -1610,7 +1635,7 @@
       <pubDate>Tue, 25 Dec 2018 07:57:16 +0900</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/blog/2018/12/25/notice_20181225/</guid>
-      <description>기상예보사·기상감정사 취득교육 안내 가. 교</description>
+      <description></description>
     </item>
     
     <item>
@@ -1619,7 +1644,7 @@
       <pubDate>Wed, 19 Dec 2018 07:57:16 +0900</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/blog/2018/12/19/notice_20181219/</guid>
-      <description>2019학년도 전기 학부-대학원 연계과정 신</description>
+      <description></description>
     </item>
     
     <item>
@@ -1628,7 +1653,7 @@
       <pubDate>Tue, 18 Dec 2018 07:57:16 +0900</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/blog/2018/12/18/notice_20181218/</guid>
-      <description>2019학년도 1학기 대학배정장학금 신청 안</description>
+      <description></description>
     </item>
     
     <item>
@@ -1637,7 +1662,7 @@
       <pubDate>Wed, 05 Dec 2018 07:57:16 +0900</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/blog/2018/12/05/notice_20181205/</guid>
-      <description>2019학년도 1학기 캠퍼스내 연계전공 신청</description>
+      <description></description>
     </item>
     
     <item>
@@ -1646,7 +1671,7 @@
       <pubDate>Tue, 04 Dec 2018 12:55:47 +0900</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/blog/2018/12/04/seminar_hyunjoochoi/</guid>
-      <description>Parameterizations of Subgrid Orographic Drag and Non-Orographic Gravity Wave Drag for Korean Integrated Model (KIM) System 최현주 박</description>
+      <description>Parameterizations of Subgrid Orographic Drag and Non-Orographic Gravity Wave Drag for Korean Integrated Model (KIM) System Parameterizations of Subgrid Orographic</description>
     </item>
     
     <item>
@@ -1655,7 +1680,7 @@
       <pubDate>Tue, 04 Dec 2018 07:57:16 +0900</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/blog/2018/12/04/notice_20181204/</guid>
-      <description>2019학년도 1학기 졸업예정자 복수전공 전</description>
+      <description></description>
     </item>
     
     <item>
@@ -1664,7 +1689,7 @@
       <pubDate>Tue, 27 Nov 2018 12:55:47 +0900</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/blog/2018/11/27/seminar_taesupmoon/</guid>
-      <description>Introduction to machine (deep) learning and its application to PM2.5 estimation 문태섭 교수 (성균관</description>
+      <description>Introduction to machine (deep) learning and its application to PM2.5 estimation Introduction to machine (deep) learning and its application to</description>
     </item>
     
     <item>
@@ -1673,7 +1698,7 @@
       <pubDate>Tue, 27 Nov 2018 07:57:16 +0900</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/blog/2018/11/27/notice_20181127/</guid>
-      <description>2019학년도 관정이종환 교육재단 학부장학</description>
+      <description></description>
     </item>
     
     <item>
@@ -1691,7 +1716,7 @@
       <pubDate>Mon, 19 Nov 2018 12:55:47 +0900</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/blog/2018/11/19/seminar_junghoonkim/</guid>
-      <description>Research on Aviation Turbulence Forecasting 김정훈 교수 (서울대학교) 201</description>
+      <description>Research on Aviation Turbulence Forecasting Research on Aviation Turbulence Forecasting Operational Numerical Weather Prediction (NWP) model outputs are used to</description>
     </item>
     
     <item>
@@ -1709,7 +1734,7 @@
       <pubDate>Tue, 13 Nov 2018 12:55:47 +0900</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/blog/2018/11/13/seminar_rokjinpark/</guid>
-      <description>A global simulation of organic aerosols: Implications for climate and air quality 박록진 교수 (서울</description>
+      <description>A global simulation of organic aerosols: Implications for climate and air quality A global simulation of organic aerosols: Implications for</description>
     </item>
     
     <item>
@@ -1718,7 +1743,7 @@
       <pubDate>Wed, 07 Nov 2018 12:55:47 +0900</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/blog/2018/11/07/seminar_mcdonald/</guid>
-      <description>Chemical Product Emissions Emerging as Important Urban Source of Volatile Organic Compounds Dr. Brian C. McDonald (NOAA) 201</description>
+      <description>Chemical Product Emissions Emerging as Important Urban Source of Volatile Organic Compounds Chemical Product Emissions Emerging as Important Urban Source</description>
     </item>
     
     <item>
@@ -1727,7 +1752,7 @@
       <pubDate>Tue, 23 Oct 2018 12:55:47 +0900</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/blog/2018/10/23/seminar_shima/</guid>
-      <description>Super-Droplet Method and its Application to Mixed-Phase Clouds Prof. Shin-ichiro Shima (University of Hyogo) 2018년 1</description>
+      <description>Super-Droplet Method and its Application to Mixed-Phase Clouds Super-Droplet Method and its Application to Mixed-Phase Clouds The super-droplet method (SDM)</description>
     </item>
     
     <item>
@@ -1736,7 +1761,7 @@
       <pubDate>Sat, 20 Oct 2018 16:16:59 +0900</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/blog/2018/10/20/50anniv/</guid>
-      <description>&lt;h5 id=&#34;저희-연세대학교-천문기상학과-천문우주학과-대기과학과-는-1968년-설립된-이래-올해-50주년을-맞이하게-되었습니다&#34;&gt;저희 연세대학교 천문기상학과 (천문우주학과, 대기과학과)는 1968년 설립된 이래, 올해 50주년을 맞이하게 되었습니다.&lt;/h5&gt;</description>
+      <description>&lt;h5 id=&#34;-----1968----50--&#34;&gt;저희 연세대학교 천문기상학과 (천문우주학과, 대기과학과)는 1968년 설립된 이래, 올해 50주년을 맞이하게 되었습니다.&lt;/h5&gt;</description>
     </item>
     
     <item>
@@ -1745,7 +1770,7 @@
       <pubDate>Wed, 17 Oct 2018 12:55:47 +0900</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/blog/2018/10/17/seminar_naoki/</guid>
-      <description>Coastal Ocean Data Assimilation Experiment with Small-Scale Fisheries Prof. Naoki Hirose (Kyushu University) 2018년 10</description>
+      <description>Coastal Ocean Data Assimilation Experiment with Small-Scale Fisheries Coastal Ocean Data Assimilation Experiment with Small-Scale Fisheries Coastal fishing economy has</description>
     </item>
     
     <item>
@@ -1754,7 +1779,7 @@
       <pubDate>Tue, 16 Oct 2018 12:55:47 +0900</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/blog/2018/10/16/seminar_louisa/</guid>
-      <description>Impact of anthropogenic and natural emissions on air quality in Korea: CAM-chem model analyses of KORUS-AQ observations Dr. Louisa Emmons</description>
+      <description>Impact of anthropogenic and natural emissions on air quality in Korea: CAM-chem model analyses of KORUS-AQ observations Impact of anthropogenic</description>
     </item>
     
     <item>
@@ -1772,7 +1797,7 @@
       <pubDate>Tue, 16 Oct 2018 07:57:16 +0900</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/blog/2018/10/16/notice_20181016/</guid>
-      <description>2019학년도 1학기 재입학 일반전형 요강 가</description>
+      <description></description>
     </item>
     
     <item>
@@ -1781,7 +1806,7 @@
       <pubDate>Tue, 09 Oct 2018 12:49:47 +0900</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/blog/2018/10/09/seminar_gyosunim/</guid>
-      <description>Classified Cloud Types for More Effective Use of ARM Observations in Model Evaluation 임교선 교수님 2</description>
+      <description>Classified Cloud Types for More Effective Use of ARM Observations in Model Evaluation Classified Cloud Types for More Effective Use</description>
     </item>
     
     <item>
@@ -1790,7 +1815,7 @@
       <pubDate>Mon, 17 Sep 2018 07:57:16 +0900</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/blog/2018/09/17/notice_20180917/</guid>
-      <description>가. 수강철회 절차 1) 학사포탈시스템(포탈시</description>
+      <description></description>
     </item>
     
     <item>
@@ -1799,7 +1824,7 @@
       <pubDate>Mon, 10 Sep 2018 13:49:47 +0900</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/blog/2018/09/10/seminar_sangseopark/</guid>
-      <description>Discrepancies of atmospheric compositions between model and observation 박상서 박사님 2018년 9</description>
+      <description>Discrepancies of atmospheric compositions between model and observation Discrepancies of atmospheric compositions between model and observation Studies of the atmospheric</description>
     </item>
     
     <item>
@@ -1808,7 +1833,7 @@
       <pubDate>Mon, 10 Sep 2018 12:49:47 +0900</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/blog/2018/09/10/seminar_jahokoo/</guid>
-      <description>Atmospheric chemistry in East Asia and the Arctic: Questions for individual issues and their connection 구자호 박사</description>
+      <description>Atmospheric chemistry in East Asia and the Arctic: Questions for individual issues and their connection Atmospheric chemistry in East Asia</description>
     </item>
     
     <item>
@@ -1817,7 +1842,7 @@
       <pubDate>Mon, 10 Sep 2018 11:49:47 +0900</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/blog/2018/09/10/seminar_youngheeryu/</guid>
-      <description>The importance of clouds in photochemistry and air quality modeling: A quantitative assessment using satellite cloud retrievals 유영희</description>
+      <description>The importance of clouds in photochemistry and air quality modeling: A quantitative assessment using satellite cloud retrievals The importance of</description>
     </item>
     
     <item>
@@ -1826,7 +1851,7 @@
       <pubDate>Tue, 04 Sep 2018 11:49:47 +0900</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/blog/2018/09/04/seminar_kuo/</guid>
-      <description>Predicting the Genesis of Typhoon Nuri (2008): Impact of GPS Radio Occultation Data Dr. Ying-Hwa (Bill) Kuo (UCAR) 20</description>
+      <description>Predicting the Genesis of Typhoon Nuri (2008): Impact of GPS Radio Occultation Data Predicting the Genesis of Typhoon Nuri (2008):</description>
     </item>
     
     <item>
@@ -1835,7 +1860,7 @@
       <pubDate>Tue, 04 Sep 2018 10:49:47 +0900</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/blog/2018/09/04/seminar_page/</guid>
-      <description>COMET&amp;rsquo;s Support of University Teaching in Geosciences Dr. Elizabeth Mulvihill Page (UCAR) 2018년 9월 6</description>
+      <description>COMET&#39;s Support of University Teaching in Geosciences COMET&#39;s Support of University Teaching in Geosciences The COMET Program has been providing</description>
     </item>
     
     <item>
@@ -1844,7 +1869,7 @@
       <pubDate>Tue, 04 Sep 2018 09:49:47 +0900</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/blog/2018/09/04/seminar_mohan/</guid>
-      <description>Unidata Science Gateway: A Cloud-based Platform for Enabling Open and Reproducible Science Dr. Mohan Ramamurthy (UCAR) 2018</description>
+      <description>Unidata Science Gateway: A Cloud-based Platform for Enabling Open and Reproducible Science Unidata Science Gateway: A Cloud-based Platform for Enabling</description>
     </item>
     
     <item>
@@ -1853,7 +1878,7 @@
       <pubDate>Wed, 29 Aug 2018 09:57:16 +0900</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/blog/2018/08/29/notice_20180829/</guid>
-      <description>자세한 내용은 붙임자료를 참고하시기 바랍니다</description>
+      <description></description>
     </item>
     
     <item>
@@ -1862,7 +1887,7 @@
       <pubDate>Thu, 23 Aug 2018 09:57:16 +0900</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/blog/2018/08/23/notice_20180823/</guid>
-      <description>■ 신청기간 : 2019. 9. 3(월) 오전 10시부터 신</description>
+      <description></description>
     </item>
     
     <item>
@@ -1871,7 +1896,7 @@
       <pubDate>Fri, 10 Aug 2018 12:49:47 +0900</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/blog/2018/08/10/seminar_hyunkeehong/</guid>
-      <description>Development of NO2 Retrieval Algorithm for the Hyper-spectral UV-Vis Space-borne Sensor: A Novel Algorithm for NO2 Vertical Profile Retrieval 홍</description>
+      <description>Development of NO2 Retrieval Algorithm for the Hyper-spectral UV-Vis Space-borne Sensor: A Novel Algorithm for NO2 Vertical Profile Retrieval</description>
     </item>
     
     <item>
@@ -1880,7 +1905,7 @@
       <pubDate>Fri, 10 Aug 2018 05:49:42 +0900</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/blog/2018/08/10/employment_20180810/</guid>
-      <description>자세한 내용은 붙임파일을 참조하여 주시기 바랍</description>
+      <description></description>
     </item>
     
     <item>
@@ -1889,7 +1914,7 @@
       <pubDate>Wed, 25 Jul 2018 09:57:16 +0900</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/blog/2018/07/25/notice_20180725/</guid>
-      <description>자세한 내용은 붙임파일을 참조하여 주시기 바랍</description>
+      <description></description>
     </item>
     
     <item>
@@ -1898,7 +1923,7 @@
       <pubDate>Tue, 24 Jul 2018 09:57:16 +0900</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/blog/2018/07/24/notice_20180724/</guid>
-      <description>자세한 내용은 붙임파일을 참조하여 주시기 바랍</description>
+      <description></description>
     </item>
     
     <item>
@@ -1907,7 +1932,7 @@
       <pubDate>Mon, 23 Jul 2018 09:57:16 +0900</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/blog/2018/07/23/notice_20180723/</guid>
-      <description>가. 상세 내용 -내용: 청년TLO 참여 지원 수</description>
+      <description></description>
     </item>
     
     <item>
@@ -1916,7 +1941,7 @@
       <pubDate>Mon, 23 Jul 2018 08:49:47 +0900</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/blog/2018/07/23/seminar_mcnaughton/</guid>
-      <description>A historical background on research in CBL turbulence Prof. Keith McNaughton (Landcare research, New zealand) 2018년</description>
+      <description>A historical background on research in CBL turbulence Turbulence studies rely heavily in experimental data, and that data is almost</description>
     </item>
     
     <item>
@@ -1925,7 +1950,7 @@
       <pubDate>Mon, 23 Jul 2018 08:49:46 +0900</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/blog/2018/07/23/seminar_dias/</guid>
-      <description>The Hurst Phenomenon in Turbulence: an approach to calculate random errors of turbulence statistics Prof. Nelson L. Dias (Department of</description>
+      <description>The Hurst Phenomenon in Turbulence: an approach to calculate random errors of turbulence statistics The Hurst phenomenon is a well-known</description>
     </item>
     
     <item>
@@ -1934,7 +1959,7 @@
       <pubDate>Thu, 19 Jul 2018 09:57:16 +0900</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/blog/2018/07/19/notice_20180719/</guid>
-      <description>가. 행 사 명 : 항공·우주기술기반 창업 아이디</description>
+      <description></description>
     </item>
     
     <item>
@@ -1943,7 +1968,7 @@
       <pubDate>Mon, 16 Jul 2018 05:59:16 +0900</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/blog/2018/07/16/notice_20180716/</guid>
-      <description>내용: 가) 강의정보 공유 설문 실시기간 : 2018. 7.</description>
+      <description></description>
     </item>
     
     <item>
@@ -1961,7 +1986,7 @@
       <pubDate>Thu, 05 Jul 2018 06:47:02 +0900</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/blog/2018/07/05/news_jhoonkim1/</guid>
-      <description>연세소식 김 준 연세대 대기과학과 교수와 연구팀</description>
+      <description></description>
     </item>
     
     <item>
@@ -1970,7 +1995,7 @@
       <pubDate>Wed, 04 Jul 2018 09:57:16 +0900</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/blog/2018/07/04/notice_20180704/</guid>
-      <description>대회명 :「제4회 대학(원)생 기상위성활용</description>
+      <description></description>
     </item>
     
     <item>
@@ -1979,7 +2004,7 @@
       <pubDate>Thu, 07 Jun 2018 09:58:16 +0900</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/blog/2018/06/07/notice_20180607/</guid>
-      <description>자세한 내용은 붙임파일을 참조하시기 바랍니다</description>
+      <description></description>
     </item>
     
     <item>
@@ -1988,7 +2013,7 @@
       <pubDate>Mon, 04 Jun 2018 09:58:16 +0900</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/blog/2018/06/04/notice_20180604/</guid>
-      <description>신청기간 1) 본 신청 기간 : 2018년 6월 15</description>
+      <description></description>
     </item>
     
     <item>
@@ -1997,7 +2022,7 @@
       <pubDate>Mon, 04 Jun 2018 08:49:47 +0900</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/blog/2018/06/04/seminar_songlakkang/</guid>
-      <description>Unexplored Territory between the Meso- and Micro-scale Worlds 강성락 교수(강릉원주대학</description>
+      <description>Unexplored Territory between the Meso- and Micro-scale Worlds Conventionally in the atmospheric science, atmospheric phenomena have been studied with the</description>
     </item>
     
     <item>
@@ -2006,7 +2031,7 @@
       <pubDate>Thu, 31 May 2018 09:59:18 +0900</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/blog/2018/05/31/notice_20180531/</guid>
-      <description>대상학생 1) 제1전공을 결정한 2학년 1학기 이</description>
+      <description></description>
     </item>
     
     <item>
@@ -2015,7 +2040,7 @@
       <pubDate>Wed, 30 May 2018 12:49:47 +0900</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/blog/2018/05/30/seminar_cheonhajeon/</guid>
-      <description>Ultra-intense ultrafast lasers and its applications: From science fiction to reality 전천하 박사님 (Center for Relativistic</description>
+      <description>Ultra-intense ultrafast lasers and its applications: From science fiction to reality The development and availability of high-power ultrashort pulse lasers</description>
     </item>
     
     <item>
@@ -2024,7 +2049,7 @@
       <pubDate>Wed, 30 May 2018 09:59:18 +0900</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/blog/2018/05/30/notice_20180529_4/</guid>
-      <description>붙임파일을 참조하시기 바랍니다. 백양누리 이</description>
+      <description></description>
     </item>
     
     <item>
@@ -2033,7 +2058,7 @@
       <pubDate>Tue, 29 May 2018 09:59:18 +0900</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/blog/2018/05/29/notice_20180529_3/</guid>
-      <description>붙임파일을 참조하시기 바랍니다. 캠퍼스내 복</description>
+      <description></description>
     </item>
     
     <item>
@@ -2042,7 +2067,7 @@
       <pubDate>Tue, 29 May 2018 09:59:16 +0900</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/blog/2018/05/29/notice_20180529_2/</guid>
-      <description>붙임파일을 참조하시기 바랍니다. (붙임1)</description>
+      <description></description>
     </item>
     
     <item>
@@ -2051,7 +2076,7 @@
       <pubDate>Tue, 29 May 2018 09:58:16 +0900</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/blog/2018/05/29/notice_20180529/</guid>
-      <description>붙임파일을 참조하시기 바랍니다. 졸업예정자</description>
+      <description></description>
     </item>
     
     <item>
@@ -2060,7 +2085,7 @@
       <pubDate>Tue, 29 May 2018 08:49:47 +0900</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/blog/2018/05/29/seminar_hyungjinkim/</guid>
-      <description>Bridging Climate Information and Social Needs 김형진 박사님 (APEC Climate Center) 2018년</description>
+      <description>Bridging Climate Information and Social Needs The APEC Climate Center (APCC) is a leading climate information service provider and research</description>
     </item>
     
     <item>
@@ -2069,7 +2094,7 @@
       <pubDate>Tue, 29 May 2018 05:49:42 +0900</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/blog/2018/05/29/employment_20180529/</guid>
-      <description>가. 지원방법: 해당기업 지원기간 및 접수처 확</description>
+      <description></description>
     </item>
     
     <item>
@@ -2078,7 +2103,7 @@
       <pubDate>Wed, 23 May 2018 09:58:16 +0900</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/blog/2018/05/23/notice_20180523/</guid>
-      <description>가. 교육대상: 기상청 협약 체결 대학교 대학생</description>
+      <description></description>
     </item>
     
     <item>
@@ -2087,7 +2112,7 @@
       <pubDate>Tue, 15 May 2018 09:58:16 +0900</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/blog/2018/05/15/notice_20180515_2/</guid>
-      <description>모집분야 : 위성개발 관련 분야(세부 분야 붙임</description>
+      <description></description>
     </item>
     
     <item>
@@ -2096,7 +2121,7 @@
       <pubDate>Tue, 15 May 2018 09:57:16 +0900</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/blog/2018/05/15/notice_20180515/</guid>
-      <description>가. 사업명: 기상기후분야 우수인재 대상 취업</description>
+      <description></description>
     </item>
     
     <item>
@@ -2105,7 +2130,7 @@
       <pubDate>Fri, 11 May 2018 12:49:47 +0900</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/blog/2018/05/11/seminar_eunyoungkwon/</guid>
-      <description>Stable carbon isotope evidence for large terrestrial carbon inputs to the global ocean 권은영 박사님 (</description>
+      <description>Stable carbon isotope evidence for large terrestrial carbon inputs to the global ocean Carbon export from land to the ocean</description>
     </item>
     
     <item>
@@ -2114,7 +2139,7 @@
       <pubDate>Tue, 01 May 2018 12:49:47 +0900</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/blog/2018/05/01/jointseminar2018/</guid>
-      <description>연세대-서울대 공동세미나 허창회 교수님 (서</description>
+      <description>연세대-서울대 공동세미나 자세한 내용은 붙임</description>
     </item>
     
     <item>
@@ -2123,7 +2148,7 @@
       <pubDate>Tue, 01 May 2018 09:57:16 +0900</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/blog/2018/05/01/notice_20180501/</guid>
-      <description>가. 선정 규모: 20과제 내외 나. 지원 규모:</description>
+      <description></description>
     </item>
     
     <item>
@@ -2141,7 +2166,7 @@
       <pubDate>Fri, 27 Apr 2018 09:57:16 +0900</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/blog/2018/04/27/notice_20180427/</guid>
-      <description>자세한 내용은 첨부파일을 확인하시기 바랍니다</description>
+      <description></description>
     </item>
     
     <item>
@@ -2150,7 +2175,7 @@
       <pubDate>Tue, 17 Apr 2018 09:09:16 +0900</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/blog/2018/04/17/notice_20180417_2/</guid>
-      <description>가. 행 사 명 : Asian Science Camp 2018 (ASC 2018) 나. 모집대상 : 고</description>
+      <description></description>
     </item>
     
     <item>
@@ -2159,7 +2184,7 @@
       <pubDate>Tue, 17 Apr 2018 09:08:16 +0900</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/blog/2018/04/17/notice_20180417/</guid>
-      <description>첨부파일을 참조하시기 바랍니다. 2018년</description>
+      <description></description>
     </item>
     
     <item>
@@ -2168,7 +2193,7 @@
       <pubDate>Fri, 13 Apr 2018 12:49:47 +0900</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/blog/2018/04/13/seminar_sungyongkim/</guid>
-      <description>Van Gogh&amp;rsquo;s Starry Night으로부터 배우는 바다에서의</description>
+      <description>Van Gogh&#39;s Starry Night으로부터 배우는 바다에서의</description>
     </item>
     
     <item>
@@ -2177,7 +2202,7 @@
       <pubDate>Thu, 12 Apr 2018 17:59:16 +0900</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/blog/2018/04/12/notice_20180412/</guid>
-      <description>가. 사 업 명: 국제 기상전문인력 양성사업 나.</description>
+      <description></description>
     </item>
     
     <item>
@@ -2186,7 +2211,7 @@
       <pubDate>Thu, 12 Apr 2018 09:08:16 +0900</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/blog/2018/04/12/notice_20180409/</guid>
-      <description>첨부파일을 참조하시기 바랍니다. 재입학 일반</description>
+      <description></description>
     </item>
     
     <item>
@@ -2195,7 +2220,7 @@
       <pubDate>Thu, 12 Apr 2018 09:08:16 +0900</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/blog/2018/04/12/notice_20180404/</guid>
-      <description>.tg {border-collapse:collapse;border-spacing:0;border-color:#ccc;} .tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#ccc;color:#333;background-color:#fff;} .tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#ccc;color:#333;background-color:#f0f0f0;} .tg .tg-2thk{background-color:#c0c0c0;text-align:center} .tg .tg-s6z2{text-align:center} 구분 일정 소속</description>
+      <description></description>
     </item>
     
     <item>
@@ -2204,7 +2229,7 @@
       <pubDate>Fri, 06 Apr 2018 06:48:02 +0900</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/blog/2018/04/06/seminar_burrows/</guid>
-      <description>Observing the changing Anthropocene from space and from aircraft: GOME, SCIAMACHY, GOME2, Sentinel 5-P, and the EMeRGe campaign Prof. John</description>
+      <description>Observing the changing Anthropocene from space and from aircraft: GOME, SCIAMACHY, GOME2, Sentinel 5-P, and the EMeRGe campaign</description>
     </item>
     
     <item>
@@ -2213,7 +2238,7 @@
       <pubDate>Wed, 04 Apr 2018 08:49:42 +0900</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/blog/2018/04/04/employment_20180404/</guid>
-      <description>외교부는 국제공무원을 희망하는 젊은 층을 위하</description>
+      <description></description>
     </item>
     
     <item>
@@ -2222,7 +2247,7 @@
       <pubDate>Thu, 29 Mar 2018 08:49:42 +0900</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/blog/2018/03/29/employment_2018march/</guid>
-      <description>붙임파일을 참조 바랍니다. 공고문 (시간제 1</description>
+      <description></description>
     </item>
     
     <item>
@@ -2231,7 +2256,7 @@
       <pubDate>Tue, 27 Mar 2018 06:48:02 +0900</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/blog/2018/03/27/seminar_baek/</guid>
-      <description>도시 흐름, 대류 및 분산 (Urban Flow, Convection, and Dispersion) 백종진 교수</description>
+      <description>도시 흐름, 대류 및 분산 (Urban Flow, Convection, and Dispersion)</description>
     </item>
     
     <item>
@@ -2240,7 +2265,7 @@
       <pubDate>Fri, 23 Mar 2018 09:03:33 +0900</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/blog/2018/03/23/notice_coursedrop/</guid>
-      <description>2018-1학기 학부 수강철회에 관한 안내입</description>
+      <description></description>
     </item>
     
     <item>
@@ -2249,7 +2274,7 @@
       <pubDate>Tue, 20 Mar 2018 09:08:16 +0900</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/blog/2018/03/20/notice_graduationphoto/</guid>
-      <description>졸업앨범 촬영 일정 안내입니다. 붙임파일을 참</description>
+      <description></description>
     </item>
     
     <item>
@@ -2258,7 +2283,7 @@
       <pubDate>Sun, 18 Mar 2018 12:49:47 +0900</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/blog/2018/03/18/seminar_leemyungin/</guid>
-      <description>Korean Heatwaves and Their Association with Large-scale Atmospheric Circulation Patterns Prof. Myong-In Lee (Ulsan National Institute of Science and Technology)</description>
+      <description>Korean Heatwaves and Their Association with Large-scale Atmospheric Circulation Patterns</description>
     </item>
     
     <item>
@@ -2267,7 +2292,7 @@
       <pubDate>Sat, 17 Mar 2018 18:04:13 +0900</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/blog/2018/03/17/seminar_kaplan/</guid>
-      <description>The Unbalanced Dynamics of Deep Jet Streaks Above Developing Surface Inverted Troughs Prof. Michael L. Kaplan (Desert Research Institute) 2</description>
+      <description>The Unbalanced Dynamics of Deep Jet Streaks Above Developing Surface Inverted Troughs</description>
     </item>
     
     <item>
@@ -2276,7 +2301,7 @@
       <pubDate>Tue, 06 Mar 2018 09:13:00 +0900</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/blog/2018/03/06/atm4106/</guid>
-      <description>&amp;lsquo;대기과학심화연구&amp;rsqu</description>
+      <description></description>
     </item>
     
     <item>
@@ -2285,7 +2310,7 @@
       <pubDate>Sat, 03 Mar 2018 13:42:03 +0900</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/blog/2018/03/03/award_park/</guid>
-      <description>우수강의 교수상 수상 박상훈 대기과학과 교수께</description>
+      <description></description>
     </item>
     
     <item>
@@ -2294,7 +2319,7 @@
       <pubDate>Sat, 03 Mar 2018 13:38:47 +0900</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/blog/2018/03/03/award_yum/</guid>
-      <description>우수강의 교수상 염성수 대기과학과 교수께서 2</description>
+      <description></description>
     </item>
     
     <item>
@@ -2303,7 +2328,7 @@
       <pubDate>Sat, 03 Mar 2018 06:47:02 +0900</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/blog/2018/03/03/award3/</guid>
-      <description>우수업적 교수상 신동빈 대기과학과 교수께서 연</description>
+      <description></description>
     </item>
     
     <item>
@@ -2312,7 +2337,7 @@
       <pubDate>Fri, 02 Mar 2018 06:47:02 +0900</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/blog/2018/03/02/award2/</guid>
-      <description>김 준 대기과학과 교수께서 교육·연구 및 봉사활</description>
+      <description></description>
     </item>
     
     <item>
@@ -2321,7 +2346,7 @@
       <pubDate>Thu, 01 Mar 2018 06:47:02 +0900</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/blog/2018/03/01/award1/</guid>
-      <description>이달의 과학기술인상 김 준 연세대 대기과학과 교</description>
+      <description></description>
     </item>
     
     <item>
@@ -2339,7 +2364,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/about/</guid>
-      <description>학과 소개 대기과학은 수학, 물리, 화학, 생물</description>
+      <description></description>
     </item>
     
   </channel>

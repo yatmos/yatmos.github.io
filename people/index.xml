@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>사람들 on 연세대학교 대기과학과</title>
@@ -6,7 +6,7 @@
     <description>Recent content in 사람들 on 연세대학교 대기과학과</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko</language>
-    <lastBuildDate>Tue, 17 Apr 2018 00:39:46 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 04 Sep 2018 13:39:46 +0200</lastBuildDate>
     
 	<atom:link href="https://atmos.yonsei.ac.kr/people/index.xml" rel="self" type="application/rss+xml" />
     
@@ -152,7 +152,7 @@
       <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/people/joonkim/</guid>
-      <description>학력 1990. Ph.D., Biometeorology, University of Nebraska-Lincoln, NE, USA 1986. MS, Agricultural Meteorology, University of Nebraska-Lincoln, NE, USA 1981.</description>
+      <description>학력 Ph.D., Biometeorology, University of Nebraska-Lincoln, NE, USA MS, Agricultural Meteorology, University of Nebraska-Lincoln, NE, USA BS, Atmospheric Sciences,</description>
     </item>
     
     <item>
@@ -183,18 +183,9 @@
     </item>
     
     <item>
-      <title>홍제우</title>
-      <link>https://atmos.yonsei.ac.kr/people/jewoohong/</link>
-      <pubDate>Thu, 05 Sep 2019 12:19:46 +0200</pubDate>
-      
-      <guid>https://atmos.yonsei.ac.kr/people/jewoohong/</guid>
-      <description>연구분야 Micrometeorology Eddy Covariance Land Surface Model 학력 Ph.D. (2019) in Atmospheric Sciences, Yonsei University, Seoul,</description>
-    </item>
-    
-    <item>
       <title>Ashley Brereton</title>
       <link>https://atmos.yonsei.ac.kr/people/ashleybrereton/</link>
-      <pubDate>Fri, 24 Mar 2017 13:39:46 +0200</pubDate>
+      <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/people/ashleybrereton/</guid>
       <description>연구분야 Large-eddy simulation Ocean mixed layer turbulence Plankton population dynamics Bio-physical interactions Ocean model development Tidal turbulence</description>
@@ -203,7 +194,7 @@
     <item>
       <title>Silvio Kalisch</title>
       <link>https://atmos.yonsei.ac.kr/people/silviokalisch/</link>
-      <pubDate>Fri, 24 Mar 2017 13:39:46 +0200</pubDate>
+      <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/people/silviokalisch/</guid>
       <description>연구분야 Middle Atmosphere dynamics Gravity Waves Tropical atmosphere (Madden-Julian Oscillation) Sudden stratospheric warming 학력 Dr. rer.</description>
@@ -212,7 +203,7 @@
     <item>
       <title>김세현</title>
       <link>https://atmos.yonsei.ac.kr/people/sehyunkim/</link>
-      <pubDate>Fri, 24 Mar 2017 13:39:46 +0200</pubDate>
+      <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/people/sehyunkim/</guid>
       <description>연구분야 Data assimilation Ensemble forecast 학력 Ph.d. (2017) in Meteorology, Yonsei University, Seoul, Korea M.Sc (2012)</description>
@@ -221,7 +212,7 @@
     <item>
       <title>이유리</title>
       <link>https://atmos.yonsei.ac.kr/people/yurilee/</link>
-      <pubDate>Fri, 24 Mar 2017 13:39:46 +0200</pubDate>
+      <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/people/yurilee/</guid>
       <description>연구분야 Remote sensing for precipitation estimation 학력 Ph.d. (2017) in Atmospheric Sciences, Yonsei University, Seoul, Korea</description>
@@ -521,7 +512,7 @@
       <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/people/dongheelee/</guid>
-      <description>연구분야 Remote Sensing for Atmospheric Chemistry + 학력 M.S (2017) in Earth and Environmental Engineering, Gwangju</description>
+      <description>연구분야 Remote Sensing for Atmospheric Chemistry 학력 M.S (2017) in Earth and Environmental Engineering, Gwangju Institute</description>
     </item>
     
     <item>
@@ -617,28 +608,10 @@
     <item>
       <title>곽경민</title>
       <link>https://atmos.yonsei.ac.kr/people/kyungminkwak/</link>
-      <pubDate>Mon, 04 Mar 2019 13:39:46 +0200</pubDate>
+      <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/people/kyungminkwak/</guid>
       <description>연구분야 Air-sea coupled modeling Southern Ocean carbon exchange 학력 B.Sc (2019) Atmospheric and Environmental Sciences, Gangneung-Wonju</description>
-    </item>
-    
-    <item>
-      <title>남궁천일</title>
-      <link>https://atmos.yonsei.ac.kr/people/chunilnamgung/</link>
-      <pubDate>Mon, 04 Mar 2019 13:39:46 +0200</pubDate>
-      
-      <guid>https://atmos.yonsei.ac.kr/people/chunilnamgung/</guid>
-      <description>연구분야 Air-sea interactions Air-sea coupled modeling Climate Change of Southern Hemisphere Antarctic Circumpolar Curent(ACC) 학력 B.Sc</description>
-    </item>
-    
-    <item>
-      <title>조아진</title>
-      <link>https://atmos.yonsei.ac.kr/people/ajincho/</link>
-      <pubDate>Mon, 04 Mar 2019 13:39:46 +0200</pubDate>
-      
-      <guid>https://atmos.yonsei.ac.kr/people/ajincho/</guid>
-      <description>연구분야 Air-sea interactions Air-sea coupled modeling Tropical cyclone Current Effect 학력 B.Sc (2019) in Atmospheric Sciences,</description>
     </item>
     
     <item>
@@ -666,6 +639,15 @@
       
       <guid>https://atmos.yonsei.ac.kr/people/hyejinkim/</guid>
       <description>연구분야 Atmospheric Modeling 학력 B.Sc (2018) in Department of atmospheric sicence.,Kongju National University, Kongju, Korea 수</description>
+    </item>
+    
+    <item>
+      <title>남궁천일</title>
+      <link>https://atmos.yonsei.ac.kr/people/chunilnamgung/</link>
+      <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
+      
+      <guid>https://atmos.yonsei.ac.kr/people/chunilnamgung/</guid>
+      <description>연구분야 Air-sea interactions Air-sea coupled modeling Climate Change of Southern Hemisphere Antarctic Circumpolar Curent(ACC) 학력 B.Sc</description>
     </item>
     
     <item>
@@ -732,6 +714,15 @@
     </item>
     
     <item>
+      <title>윤아림</title>
+      <link>https://atmos.yonsei.ac.kr/people/arimyun/</link>
+      <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
+      
+      <guid>https://atmos.yonsei.ac.kr/people/arimyun/</guid>
+      <description>연구분야 Land, atmosphere interaction Hydrology 학력 B.Sc (2019) in Atmospheric Sciences, Yonsei University, Seoul, Korea 수</description>
+    </item>
+    
+    <item>
       <title>이주엽</title>
       <link>https://atmos.yonsei.ac.kr/people/jooyeoplee/</link>
       <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
@@ -759,6 +750,15 @@
     </item>
     
     <item>
+      <title>조아진</title>
+      <link>https://atmos.yonsei.ac.kr/people/ajincho/</link>
+      <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
+      
+      <guid>https://atmos.yonsei.ac.kr/people/ajincho/</guid>
+      <description>연구분야 Air-sea interactions Air-sea coupled modeling Tropical cyclone Current Effect 학력 B.Sc (2019) in Atmospheric Sciences,</description>
+    </item>
+    
+    <item>
       <title>홍재민</title>
       <link>https://atmos.yonsei.ac.kr/people/jaeminhong/</link>
       <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
@@ -773,7 +773,7 @@
       <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/people/alumnidoctor/</guid>
-      <description>박사학위자 명단 .tg {border-collapse:collapse;border-spacing:0;border:none;border-color:#ccc;margin:0px auto;} .tg td{font-family:Arial, sans-serif;font-size:14px;padding:20px 6px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:#ccc;color:#333;background-color:#fff;} .tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:20px 6px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:#ccc;color:#333;background-color:#f0f0f0;} .tg .tg-44m2{font-weight:bold;font-size:16px;font-family:&#34;Arial</description>
+      <description>박사학위자 명단 &amp;lt;td class=&amp;quot;</description>
     </item>
     
     <item>
@@ -782,7 +782,7 @@
       <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/people/alumnimaster/</guid>
-      <description>석사학위자 명단 .tg {border-collapse:collapse;border-spacing:0;border:none;border-color:#ccc;margin:0px auto;} .tg td{font-family:Arial, sans-serif;font-size:14px;padding:20px 6px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:#ccc;color:#333;background-color:#fff;} .tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:20px 6px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:#ccc;color:#333;background-color:#f0f0f0;} .tg .tg-44m2{font-weight:bold;font-size:16px;font-family:&#34;Arial</description>
+      <description>석사학위자 명단 &amp;lt;td class=&amp;quot;</description>
     </item>
     
   </channel>

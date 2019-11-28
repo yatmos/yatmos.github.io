@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
@@ -147,28 +147,23 @@
   </url>
   
   <url>
-    <loc>https://atmos.yonsei.ac.kr/people/jewoohong/</loc>
-    <lastmod>2019-09-05T12:19:46+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://atmos.yonsei.ac.kr/people/ashleybrereton/</loc>
-    <lastmod>2017-03-24T13:39:46+02:00</lastmod>
+    <lastmod>2018-03-24T13:39:46+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://atmos.yonsei.ac.kr/people/silviokalisch/</loc>
-    <lastmod>2017-03-24T13:39:46+02:00</lastmod>
+    <lastmod>2018-03-24T13:39:46+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://atmos.yonsei.ac.kr/people/sehyunkim/</loc>
-    <lastmod>2017-03-24T13:39:46+02:00</lastmod>
+    <lastmod>2018-03-24T13:39:46+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://atmos.yonsei.ac.kr/people/yurilee/</loc>
-    <lastmod>2017-03-24T13:39:46+02:00</lastmod>
+    <lastmod>2018-03-24T13:39:46+02:00</lastmod>
   </url>
   
   <url>
@@ -388,17 +383,7 @@
   
   <url>
     <loc>https://atmos.yonsei.ac.kr/people/kyungminkwak/</loc>
-    <lastmod>2019-03-04T13:39:46+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://atmos.yonsei.ac.kr/people/chunilnamgung/</loc>
-    <lastmod>2019-03-04T13:39:46+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://atmos.yonsei.ac.kr/people/ajincho/</loc>
-    <lastmod>2019-03-04T13:39:46+02:00</lastmod>
+    <lastmod>2018-03-24T13:39:46+02:00</lastmod>
   </url>
   
   <url>
@@ -413,6 +398,11 @@
   
   <url>
     <loc>https://atmos.yonsei.ac.kr/people/hyejinkim/</loc>
+    <lastmod>2018-03-24T13:39:46+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://atmos.yonsei.ac.kr/people/chunilnamgung/</loc>
     <lastmod>2018-03-24T13:39:46+02:00</lastmod>
   </url>
   
@@ -452,6 +442,11 @@
   </url>
   
   <url>
+    <loc>https://atmos.yonsei.ac.kr/people/arimyun/</loc>
+    <lastmod>2018-03-24T13:39:46+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://atmos.yonsei.ac.kr/people/jooyeoplee/</loc>
     <lastmod>2018-03-24T13:39:46+02:00</lastmod>
   </url>
@@ -463,6 +458,11 @@
   
   <url>
     <loc>https://atmos.yonsei.ac.kr/people/minkwangcho/</loc>
+    <lastmod>2018-03-24T13:39:46+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://atmos.yonsei.ac.kr/people/ajincho/</loc>
     <lastmod>2018-03-24T13:39:46+02:00</lastmod>
   </url>
   
@@ -479,6 +479,41 @@
   <url>
     <loc>https://atmos.yonsei.ac.kr/people/alumnimaster/</loc>
     <lastmod>2018-03-24T13:39:46+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://atmos.yonsei.ac.kr/categories/</loc>
+    <lastmod>2019-11-28T17:27:16+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://atmos.yonsei.ac.kr/categories/%EA%B3%B5%EC%A7%80%EC%82%AC%ED%95%AD/</loc>
+    <lastmod>2019-11-28T17:27:16+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://atmos.yonsei.ac.kr/blog/2019/11/28/notice_20191128/</loc>
+    <lastmod>2019-11-28T17:27:16+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://atmos.yonsei.ac.kr/</loc>
+    <lastmod>2019-11-28T17:27:16+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://atmos.yonsei.ac.kr/blog/2019/11/27/seminar_bangsilshin/</loc>
+    <lastmod>2019-11-27T16:49:47+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://atmos.yonsei.ac.kr/categories/%EC%84%B8%EB%AF%B8%EB%82%98/</loc>
+    <lastmod>2019-11-27T16:49:47+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://atmos.yonsei.ac.kr/blog/2019/11/27/seminar_jaichulchoi/</loc>
+    <lastmod>2019-11-27T16:33:47+09:00</lastmod>
   </url>
   
   <url>
@@ -532,6 +567,11 @@
   </url>
   
   <url>
+    <loc>https://atmos.yonsei.ac.kr/education/</loc>
+    <lastmod>2019-11-04T14:00:23-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://atmos.yonsei.ac.kr/blog/2019/11/04/notice_20191104/</loc>
     <lastmod>2019-11-04T12:30:16+09:00</lastmod>
   </url>
@@ -563,6 +603,11 @@
   
   <url>
     <loc>https://atmos.yonsei.ac.kr/blog/2019/09/25/employment_20190925/</loc>
+    <lastmod>2019-09-25T14:18:16+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://atmos.yonsei.ac.kr/categories/%EC%B1%84%EC%9A%A9%EA%B3%B5%EA%B3%A0/</loc>
     <lastmod>2019-09-25T14:18:16+09:00</lastmod>
   </url>
   
@@ -728,6 +773,11 @@
   
   <url>
     <loc>https://atmos.yonsei.ac.kr/blog/2019/05/10/outing/</loc>
+    <lastmod>2019-05-10T08:50:40+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://atmos.yonsei.ac.kr/categories/%EC%83%88%EC%86%8C%EC%8B%9D/</loc>
     <lastmod>2019-05-10T08:50:40+09:00</lastmod>
   </url>
   
@@ -997,6 +1047,21 @@
   </url>
   
   <url>
+    <loc>https://atmos.yonsei.ac.kr/teams/</loc>
+    <lastmod>2018-09-04T13:39:46+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://atmos.yonsei.ac.kr/teams/%EA%B5%90%EC%88%98%EC%A7%84/</loc>
+    <lastmod>2018-09-04T13:39:46+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://atmos.yonsei.ac.kr/people/</loc>
+    <lastmod>2018-09-04T13:39:46+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://atmos.yonsei.ac.kr/blog/2018/09/04/seminar_kuo/</loc>
     <lastmod>2018-09-04T11:49:47+09:00</lastmod>
   </url>
@@ -1227,6 +1292,21 @@
   </url>
   
   <url>
+    <loc>https://atmos.yonsei.ac.kr/teams/%EC%97%B0%EA%B5%AC%EC%9B%90/</loc>
+    <lastmod>2018-03-24T13:39:46+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://atmos.yonsei.ac.kr/teams/%EC%A1%B8%EC%97%85%EC%83%9D%EB%AA%85%EB%8B%A8/</loc>
+    <lastmod>2018-03-24T13:39:46+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://atmos.yonsei.ac.kr/teams/%ED%95%99%EC%83%9D/</loc>
+    <lastmod>2018-03-24T13:39:46+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://atmos.yonsei.ac.kr/blog/2018/03/23/notice_coursedrop/</loc>
     <lastmod>2018-03-23T09:03:33+09:00</lastmod>
   </url>
@@ -1287,53 +1367,7 @@
   </url>
   
   <url>
-    <loc>https://atmos.yonsei.ac.kr/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://atmos.yonsei.ac.kr/tags/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://atmos.yonsei.ac.kr/teams/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://atmos.yonsei.ac.kr/categories/%EA%B3%B5%EC%A7%80%EC%82%AC%ED%95%AD/</loc>
-    <lastmod>2019-11-27T12:49:16+09:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://atmos.yonsei.ac.kr/teams/%EA%B5%90%EC%88%98%EC%A7%84/</loc>
-    <lastmod>2018-04-17T00:39:46+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://atmos.yonsei.ac.kr/people/</loc>
-    <lastmod>2018-04-17T00:39:46+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://atmos.yonsei.ac.kr/categories/%EC%83%88%EC%86%8C%EC%8B%9D/</loc>
-    <lastmod>2019-05-10T08:50:40+09:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://atmos.yonsei.ac.kr/categories/%EC%84%B8%EB%AF%B8%EB%82%98/</loc>
-    <lastmod>2019-11-25T15:51:47+09:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://atmos.yonsei.ac.kr/teams/%EC%97%B0%EA%B5%AC%EC%9B%90/</loc>
-    <lastmod>2018-03-24T13:39:46+02:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -1341,36 +1375,7 @@
   </url>
   
   <url>
-    <loc>https://atmos.yonsei.ac.kr/</loc>
-    <lastmod>2018-04-17T00:39:46+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://atmos.yonsei.ac.kr/teams/%EC%A1%B8%EC%97%85%EC%83%9D%EB%AA%85%EB%8B%A8/</loc>
-    <lastmod>2018-03-24T13:39:46+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://atmos.yonsei.ac.kr/categories/%EC%B1%84%EC%9A%A9%EA%B3%B5%EA%B3%A0/</loc>
-    <lastmod>2019-09-25T14:18:16+09:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://atmos.yonsei.ac.kr/about/</loc>
-  </url>
-  
-  <url>
-    <loc>https://atmos.yonsei.ac.kr/education/</loc>
-    <lastmod>2017-12-18T14:08:23-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://atmos.yonsei.ac.kr/teams/%ED%95%99%EC%83%9D/</loc>
-    <lastmod>2018-03-24T13:39:46+02:00</lastmod>
-    <priority>0</priority>
   </url>
   
 </urlset>
