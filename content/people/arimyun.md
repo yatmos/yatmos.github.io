@@ -13,7 +13,7 @@ weight = 50
 
 #### 연구분야
  + Land, atmosphere interaction
-+ Hydrology
+ + Hydrology
 
 #### 학력
  + **B.Sc** (2019) in Atmospheric Sciences, Yonsei University, Seoul, Korea
