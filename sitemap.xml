@@ -483,25 +483,30 @@
   
   <url>
     <loc>https://atmos.yonsei.ac.kr/categories/</loc>
-    <lastmod>2019-11-28T17:27:16+09:00</lastmod>
+    <lastmod>2019-11-29T15:15:16+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://atmos.yonsei.ac.kr/categories/%EA%B3%B5%EC%A7%80%EC%82%AC%ED%95%AD/</loc>
-    <lastmod>2019-11-28T17:27:16+09:00</lastmod>
+    <lastmod>2019-11-29T15:15:16+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://atmos.yonsei.ac.kr/blog/2019/11/29/notice_20191129/</loc>
+    <lastmod>2019-11-29T15:15:16+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://atmos.yonsei.ac.kr/</loc>
+    <lastmod>2019-11-29T15:15:16+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://atmos.yonsei.ac.kr/blog/2019/11/28/notice_20191128/</loc>
     <lastmod>2019-11-28T17:27:16+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://atmos.yonsei.ac.kr/</loc>
-    <lastmod>2019-11-28T17:27:16+09:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
