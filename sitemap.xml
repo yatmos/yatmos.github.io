@@ -483,25 +483,30 @@
   
   <url>
     <loc>https://atmos.yonsei.ac.kr/categories/</loc>
-    <lastmod>2020-01-08T15:37:47+09:00</lastmod>
+    <lastmod>2020-01-10T17:19:47+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://atmos.yonsei.ac.kr/blog/2020/01/10/seminar_jin-sookim/</loc>
+    <lastmod>2020-01-10T17:19:47+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://atmos.yonsei.ac.kr/categories/%EC%84%B8%EB%AF%B8%EB%82%98/</loc>
+    <lastmod>2020-01-10T17:19:47+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://atmos.yonsei.ac.kr/</loc>
+    <lastmod>2020-01-10T17:19:47+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://atmos.yonsei.ac.kr/blog/2020/01/08/seminar_myungjechoi/</loc>
     <lastmod>2020-01-08T15:37:47+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://atmos.yonsei.ac.kr/categories/%EC%84%B8%EB%AF%B8%EB%82%98/</loc>
-    <lastmod>2020-01-08T15:37:47+09:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://atmos.yonsei.ac.kr/</loc>
-    <lastmod>2020-01-08T15:37:47+09:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
