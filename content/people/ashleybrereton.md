@@ -1,6 +1,6 @@
 +++
 title = "Ashley Brereton"
-date = "2017-03-24T13:39:46+02:00"
+date = "2018-03-24T13:39:46+02:00"
 teams = ["연구원"]
 banner = "img/people/AshleyBrereton.jpg"
 email = "ashbre@yonsei.ac.kr"
