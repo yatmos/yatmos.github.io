@@ -16,7 +16,7 @@ weight = 40
 +
 
 #### 학력
- + **M.S** (2017) in Earth and Environmental Engineering, Gwangju Institute of Science and Technology (GIST), Gwangju, Korea
+ + **M.Sc** (2017) in Earth and Environmental Engineering, Gwangju Institute of Science and Technology (GIST), Gwangju, Korea
 
 #### 수상내역
 
