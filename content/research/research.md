@@ -72,7 +72,7 @@ weight = 1
 
 <br>
 
-#### 대기화학 연구실(구자호 교수님) [(https://sites.google.com/site/cvjahokoo/)](https://sites.google.com/site/cvjahokoo/)
+#### 대기화학 연구실(구자호 교수님) [(http://sites.google.com/site/cvjahokoo/research-group)](http://sites.google.com/site/cvjahokoo/research-group)
 본 연구실에서는 대기 중에 존재하고 있는 화학물질들의 시공간적 변동성을 분석하여 대기환경에 미치는 영향을 살펴보는 연구를 수행하고 있습니다. 최근 심각하게 대두되고 있는 동아시아 대기오염 물질들의 분포 특성 및 수송 경향, 대기 에어로졸 및 전구 기체 물질들 사이의 상관성, 극지 환경 변화에 따른 성층권 및 대류권 오존 화학의 특징 파악 등을 주요 연구주제로 삼고 있습니다. 궁극적으로 기상 현상 및 기후 변동성과의 관계를 통해 대기화학의 특성에 대한 이해도를 높이고자 노력하고 있습니다.
 
 <br>
