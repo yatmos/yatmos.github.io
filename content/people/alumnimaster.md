@@ -945,7 +945,6 @@ th.tg-sort-header::-moz-selection { background:transparent; }th.tg-sort-header::
   </tr>
   <tr>
     <td class="tg-s8ju">허은숙</td>
-
     <td class="tg-s8ju">2018년 2월</td>
     <td class="tg-s8ju">Feedback processes responsible for intermodel diversity <br>
                         of ENSO variability</td>
@@ -953,7 +952,6 @@ th.tg-sort-header::-moz-selection { background:transparent; }th.tg-sort-header::
   </tr>
   <tr>
     <td class="tg-s8ju">유지희</td>
-
     <td class="tg-s8ju">2018년 8월</td>
     <td class="tg-s8ju">Characteristics and sources of inertial-gravity waves <br>
                         revealed in radiosonde observation at Jang Bogo Station, Antarctica</td>
@@ -986,6 +984,13 @@ th.tg-sort-header::-moz-selection { background:transparent; }th.tg-sort-header::
     <td class="tg-s8ju">2018년 서해상 봄철 에어로졸과 구름응결핵의 물리적, 화학적<br>
                         특징 및 기상요소와의 관계 분석</td>
     <td class="tg-s8ju">염성수</td>
+  </tr>
+    <tr>
+    <td class="tg-s8ju">오치묵</td>
+    <td class="tg-s8ju">2020년 2월</td>
+    <td class="tg-s8ju">여름철 집중호우 시스템의 특성 비교<br>
+                        -2018년 6월과 8월 사례 중심으로-</td>
+    <td class="tg-s8ju">박상훈</td>
   </tr>
 </table></div>
 
