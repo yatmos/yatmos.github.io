@@ -7,7 +7,7 @@ email = "haejin0828@naver.com"
 job = "석사과정"
 phone = "010-4168-9828"
 room = "대기모형연구실 / 과학관 536B호"
-web = " "
+web = "http://lamor2.yonsei.ac.kr/"
 weight = 50
 +++
 
