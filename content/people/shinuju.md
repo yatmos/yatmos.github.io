@@ -8,7 +8,7 @@ job = "박사후 연구원"
 phone = "02-2123-3872"
 room = "대기모형 연구실 / 과학관 536A호"
 weight = 30
-web = " "
+web = "http://lamor2.yonsei.ac.kr/"
 +++
 
 #### 연구분야
