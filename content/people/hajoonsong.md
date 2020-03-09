@@ -34,7 +34,7 @@ weight = 10
 + [대기-해양 상호관계](https://hajsong.github.io/ATM2106/)
 + [해양 모델링](https://hajsong.github.io/ATM9107/)
 + [기상 프로그래밍](https://hajsong.github.io/ATM4110/)
-+ 대기 해양 순환
++ 대기 해양 순환 
 + 해양 물리
 #### 논문
 + Seo, H., A. C. Subramanian, **Song, H.**, Chowdary, J. S. (2019), Coupled effects of ocean current on wind stress in the Bay of Bengal: Eddy energetics and upper ocean stratification, _Deep-Sea Res. Pt II_, 168, 104617
