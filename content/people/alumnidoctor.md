@@ -561,6 +561,14 @@ th.tg-sort-header::-moz-selection { background:transparent; }th.tg-sort-header::
                         in Seoul, Korea</td>
     <td class="tg-s8ju">염성수</td>
   </tr>
+    <td class="tg-s8ju">염재민</td>
+    <td class="tg-s8ju">2020년 2월</td>
+    <td class="tg-s8ju">Entrainment and mixing processes and their effects <br>
+                        on cloud microphysics in warm clouds measured during  <br>
+                        several aircraft field campaigns</td>
+    <td class="tg-s8ju">염성수</td>
+  </tr>
+
 
 </table></div>
 

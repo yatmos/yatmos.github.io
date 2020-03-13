@@ -4,7 +4,7 @@ date = "2018-03-24T13:39:46+02:00"
 teams = ["학생"]
 banner = "img/people/inyeobla.png"
 email = "iyna481@yonsei.ac.kr"
-job = "통합(석사)과정"
+job = "통합(박사)과정"
 phone = "02-2123-7613"
 room = "구름물리 연구실 / 과학관 530A호"
 web = "http://cloud.yonsei.ac.kr"
@@ -20,4 +20,4 @@ weight = 40
 #### 수상내역
 
 #### 논문
- 
++ La, I., Yum, S. S., Gultepe, I., Yeom, J. M., Song, J. I., & Cha, J. W. (2020). Influence of Quasi-Periodic Oscillation of Atmospheric Variables on Radiation Fog over A Mountainous Region of Korea. Atmosphere, 11(3), 230. 
