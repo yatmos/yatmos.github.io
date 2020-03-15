@@ -172,12 +172,12 @@
   </url>
   
   <url>
-    <loc>https://atmos.yonsei.ac.kr/people/sujunggo/</loc>
+    <loc>https://atmos.yonsei.ac.kr/people/dongcheolkim/</loc>
     <lastmod>2018-03-24T13:39:46+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://atmos.yonsei.ac.kr/people/dongcheolkim/</loc>
+    <loc>https://atmos.yonsei.ac.kr/people/kimsoongki/</loc>
     <lastmod>2018-03-24T13:39:46+02:00</lastmod>
   </url>
   
@@ -263,6 +263,11 @@
   
   <url>
     <loc>https://atmos.yonsei.ac.kr/people/minseokkim/</loc>
+    <lastmod>2018-03-24T13:39:46+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://atmos.yonsei.ac.kr/people/songkang/</loc>
     <lastmod>2018-03-24T13:39:46+02:00</lastmod>
   </url>
   
@@ -382,12 +387,12 @@
   </url>
   
   <url>
-    <loc>https://atmos.yonsei.ac.kr/people/kyungminkwak/</loc>
-    <lastmod>2018-03-24T13:39:46+02:00</lastmod>
+    <loc>https://atmos.yonsei.ac.kr/people/wonseokcho/</loc>
+    <lastmod>2020-03-13T18:10:46+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://atmos.yonsei.ac.kr/people/kimsoongki/</loc>
+    <loc>https://atmos.yonsei.ac.kr/people/kyungminkwak/</loc>
     <lastmod>2018-03-24T13:39:46+02:00</lastmod>
   </url>
   
@@ -412,6 +417,11 @@
   </url>
   
   <url>
+    <loc>https://atmos.yonsei.ac.kr/people/soeunpark/</loc>
+    <lastmod>2018-03-24T13:39:46+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://atmos.yonsei.ac.kr/people/inpyopark/</loc>
     <lastmod>2018-03-24T13:39:46+02:00</lastmod>
   </url>
@@ -428,11 +438,6 @@
   
   <url>
     <loc>https://atmos.yonsei.ac.kr/people/dhahyunahn/</loc>
-    <lastmod>2018-03-24T13:39:46+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://atmos.yonsei.ac.kr/people/ocm/</loc>
     <lastmod>2018-03-24T13:39:46+02:00</lastmod>
   </url>
   
@@ -482,6 +487,29 @@
   </url>
   
   <url>
+    <loc>https://atmos.yonsei.ac.kr/teams/</loc>
+    <lastmod>2020-03-13T18:10:46+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://atmos.yonsei.ac.kr/people/</loc>
+    <lastmod>2020-03-13T18:10:46+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://atmos.yonsei.ac.kr/</loc>
+    <lastmod>2020-03-13T18:10:46+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://atmos.yonsei.ac.kr/teams/%ED%95%99%EC%83%9D/</loc>
+    <lastmod>2020-03-13T18:10:46+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://atmos.yonsei.ac.kr/categories/</loc>
     <lastmod>2020-01-10T17:19:47+09:00</lastmod>
     <priority>0</priority>
@@ -494,12 +522,6 @@
   
   <url>
     <loc>https://atmos.yonsei.ac.kr/categories/%EC%84%B8%EB%AF%B8%EB%82%98/</loc>
-    <lastmod>2020-01-10T17:19:47+09:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://atmos.yonsei.ac.kr/</loc>
     <lastmod>2020-01-10T17:19:47+09:00</lastmod>
     <priority>0</priority>
   </url>
@@ -1083,20 +1105,9 @@
   </url>
   
   <url>
-    <loc>https://atmos.yonsei.ac.kr/teams/</loc>
-    <lastmod>2018-09-04T13:39:46+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://atmos.yonsei.ac.kr/teams/%EA%B5%90%EC%88%98%EC%A7%84/</loc>
     <lastmod>2018-09-04T13:39:46+02:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://atmos.yonsei.ac.kr/people/</loc>
-    <lastmod>2018-09-04T13:39:46+02:00</lastmod>
   </url>
   
   <url>
@@ -1337,12 +1348,6 @@
   
   <url>
     <loc>https://atmos.yonsei.ac.kr/teams/%EC%A1%B8%EC%97%85%EC%83%9D%EB%AA%85%EB%8B%A8/</loc>
-    <lastmod>2018-03-24T13:39:46+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://atmos.yonsei.ac.kr/teams/%ED%95%99%EC%83%9D/</loc>
     <lastmod>2018-03-24T13:39:46+02:00</lastmod>
     <priority>0</priority>
   </url>

@@ -6,7 +6,7 @@
     <description>Recent content in 사람들 on 연세대학교 대기과학과</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko</language>
-    <lastBuildDate>Tue, 04 Sep 2018 13:39:46 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 13 Mar 2020 18:10:46 +0200</lastBuildDate>
     
 	<atom:link href="https://atmos.yonsei.ac.kr/people/index.xml" rel="self" type="application/rss+xml" />
     
@@ -228,21 +228,21 @@
     </item>
     
     <item>
-      <title>고수정</title>
-      <link>https://atmos.yonsei.ac.kr/people/sujunggo/</link>
-      <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
-      
-      <guid>https://atmos.yonsei.ac.kr/people/sujunggo/</guid>
-      <description>연구분야 Satellite Aerosol Retrieval Aerosol Optical Properties 학력 M.Sc (2014) in Atmospheric Sciences, Yonsei University, Seoul,</description>
-    </item>
-    
-    <item>
       <title>김동철</title>
       <link>https://atmos.yonsei.ac.kr/people/dongcheolkim/</link>
       <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/people/dongcheolkim/</guid>
       <description>연구분야 IR-based rainfall estimation Surface Solar Radiation Satellite Retrievals, 학력 M.Sc (2016) Atmospheric and Environmental Sciences,</description>
+    </item>
+    
+    <item>
+      <title>김승기</title>
+      <link>https://atmos.yonsei.ac.kr/people/kimsoongki/</link>
+      <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
+      
+      <guid>https://atmos.yonsei.ac.kr/people/kimsoongki/</guid>
+      <description>연구분야 Nonlinear ENSO Theory &amp;amp; Dynamics 학력 M.Sc (2019) in Atmospheric Sciences, Yonsei University, Seoul, Korea</description>
     </item>
     
     <item>
@@ -399,6 +399,15 @@
     </item>
     
     <item>
+      <title>김송강</title>
+      <link>https://atmos.yonsei.ac.kr/people/songkang/</link>
+      <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
+      
+      <guid>https://atmos.yonsei.ac.kr/people/songkang/</guid>
+      <description>연구분야 Polar Research for Atmospheric Chemistry + 학력 B.Sc (2020) in Atmospheric Sciences, Yonsei University, Seoul,</description>
+    </item>
+    
+    <item>
       <title>김수현</title>
       <link>https://atmos.yonsei.ac.kr/people/soohyunkim/</link>
       <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
@@ -512,7 +521,7 @@
       <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/people/dongheelee/</guid>
-      <description>연구분야 Remote Sensing for Atmospheric Chemistry + 학력 M.S (2017) in Earth and Environmental Engineering, Gwangju</description>
+      <description>연구분야 Remote Sensing for Atmospheric Chemistry + 학력 M.Sc (2017) in Earth and Environmental Engineering, Gwangju</description>
     </item>
     
     <item>
@@ -606,21 +615,21 @@
     </item>
     
     <item>
+      <title>조원석</title>
+      <link>https://atmos.yonsei.ac.kr/people/wonseokcho/</link>
+      <pubDate>Fri, 13 Mar 2020 18:10:46 +0200</pubDate>
+      
+      <guid>https://atmos.yonsei.ac.kr/people/wonseokcho/</guid>
+      <description>연구분야 Regional modeling land-atmosphere interaction 학력 B.Sc (2019) in Atmospheric Sciences, Yonsei University, Seoul, Korea 수</description>
+    </item>
+    
+    <item>
       <title>곽경민</title>
       <link>https://atmos.yonsei.ac.kr/people/kyungminkwak/</link>
       <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/people/kyungminkwak/</guid>
       <description>연구분야 Air-sea coupled modeling Southern Ocean carbon exchange 학력 B.Sc (2019) Atmospheric and Environmental Sciences, Gangneung-Wonju</description>
-    </item>
-    
-    <item>
-      <title>김승기</title>
-      <link>https://atmos.yonsei.ac.kr/people/kimsoongki/</link>
-      <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
-      
-      <guid>https://atmos.yonsei.ac.kr/people/kimsoongki/</guid>
-      <description>연구분야 Nonlinear ENSO Theory &amp;amp; Dynamics 학력 B.Sc (2017) in Atmospheric Science, Physics, Yonsei University, Seoul,</description>
     </item>
     
     <item>
@@ -660,6 +669,15 @@
     </item>
     
     <item>
+      <title>박소은</title>
+      <link>https://atmos.yonsei.ac.kr/people/soeunpark/</link>
+      <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
+      
+      <guid>https://atmos.yonsei.ac.kr/people/soeunpark/</guid>
+      <description>연구분야 Climate Irreversibility Climate Sensitivity 학력 B.Sc (2020) in Atmospheric Sciences, Yonsei University, Seoul, Korea 수</description>
+    </item>
+    
+    <item>
       <title>박인표</title>
       <link>https://atmos.yonsei.ac.kr/people/inpyopark/</link>
       <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
@@ -696,15 +714,6 @@
     </item>
     
     <item>
-      <title>오치묵</title>
-      <link>https://atmos.yonsei.ac.kr/people/ocm/</link>
-      <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
-      
-      <guid>https://atmos.yonsei.ac.kr/people/ocm/</guid>
-      <description>연구분야 Atmospheric Modeling 학력 B.Sc (2009) in Militrary Strategy, Korea Airforec Academy, Cheongju, Korea 수상</description>
-    </item>
-    
-    <item>
       <title>유지희</title>
       <link>https://atmos.yonsei.ac.kr/people/jhyoo/</link>
       <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
@@ -728,7 +737,7 @@
       <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/people/jooyeoplee/</guid>
-      <description>연구분야 Modeling of the land-atmosphere interface Land Surface Modeling 학력 B.Sc (2018) in Atmospheric Sciences, Yonsei</description>
+      <description>연구분야 Modeling of the land-atmosphere interface Land Surface Modeling 학력 M.Sc (2020) in Atmospheric Sciences, Yonsei</description>
     </item>
     
     <item>
