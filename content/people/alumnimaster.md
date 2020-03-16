@@ -995,8 +995,8 @@ th.tg-sort-header::-moz-selection { background:transparent; }th.tg-sort-header::
   <tr>
     <td class="tg-s8ju">이주엽</td>
     <td class="tg-s8ju">2020년 2월</td>
-    <td class="tg-s8ju">녹색 사하라 시기의 기후와 식생에 대한 CESM 모델의<br>
-                        모의성능 분석 및 개선</td>
+    <td class="tg-s8ju">녹색 사하라 시기의 기후와 식생에 대한 CESM 모델의 모의성능<br>
+                        분석 및 개선</td>
     <td class="tg-s8ju">홍진규</td>
   </tr>
 </table></div>
