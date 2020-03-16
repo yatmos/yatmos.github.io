@@ -18,6 +18,6 @@ weight = 50
  + **B.Sc** (2019) in Atmospheric Sciences, Yonsei University, Seoul, Korea
 
 #### 수상내역
- +
+
 #### 논문
- +
+
