@@ -8,7 +8,7 @@ job = "조교수"
 phone = "02-2123-5686"
 room = "대기모형 연구실 / 과학관 537호"
 weight = 9
-web = ""
+web = "http://lamor2.yonsei.ac.kr/"
 +++
 
 #### 연구분야
@@ -21,7 +21,7 @@ web = ""
 + **B.S.** (1999)  Department of Astro and Atmospheric Sciences, Yonsei University, Seoul, Korea
 
 #### 연구경력
-+ 2014-2017: Project Scientist I, National Center for Atmospheric Research, Boulder, USA
++ 2014-2017: Project Scientist, National Center for Atmospheric Research, Boulder, USA
 + 2013-2013: Postdoctoral Fellow, Earth System Laboratory, National Center for Atmospheric Research, Boulder, USA
 + 2011-2012: Advanced Study Program (ASP), National Center for Atmospheric Research, Boulder, USA
 

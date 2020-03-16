@@ -1,6 +1,6 @@
 +++
 title = "조아진"
-date = "2019-03-04T13:39:46+02:00"
+date = "2018-03-24T13:39:46+02:00"
 teams = ["학생"]
 banner = "img/people/ajincho.jpeg"
 email = "ajin05@yonsei.ac.kr"
@@ -19,7 +19,7 @@ weight = 50
 
 #### 학력
 
-+ **B.Sc** (2012) in Atmospheric Sciences, Yonsei University, Seoul, Korea
++ **B.Sc** (2019) in Atmospheric Sciences, Yonsei University, Seoul, Korea
 
 #### 수상내역
 

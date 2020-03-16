@@ -1,6 +1,6 @@
 +++
 title = "Silvio Kalisch"
-date = "2017-03-24T13:39:46+02:00"
+date = "2018-03-24T13:39:46+02:00"
 teams = ["연구원"]
 banner = "img/people/Kalisch_picture_informal_200x200.jpg"
 email = "s.kalisch82 (at) gmail.com"
@@ -14,17 +14,17 @@ weight = 20
 #### 연구분야
 + Middle Atmosphere dynamics
 + Gravity Waves
-+ Tropical atmosphere (Madden-Julian Oscillation) 
++ Tropical atmosphere (Madden-Julian Oscillation)
 + Sudden stratospheric warming
 
 #### 학력
 + **Dr. rer. nat. (Ph.d.)** (2014) in Physics, University of Wuppertal / Research Center Juelich, Germany
 + **Diplom (M.Sc.)** (2010) in Theoretical Physics, University of Leipzig, Leipzig, Germany
- 
+
 #### 연구 경력
 + Jul. 2019 - today : Research Professor at Yonsei University, Korea
 + Dec. 2018 - Jun. 2019 : Guest Scientist at Institute for Advanced Simulation / Jülich Research Centre, Germany (DFG grant no: KA4222/3-1)
-+ 2015 - Nov. 2018 : Postdoctoral fellow at Yonsei University, Korea (DFG grant no: KA4222/2-1) 
++ 2015 - Nov. 2018 : Postdoctoral fellow at Yonsei University, Korea (DFG grant no: KA4222/2-1)
 + 2014 - 2015 : Postdoctoral Researcher at Research Center Juelich
 + Oct. - Nov. 2012 : Guest Scientist at Yonsei University, Korea
 + 2010 - 2014 : PhD student at Wuppertal University / Researcher at Research Center Juelich
@@ -62,4 +62,3 @@ Sun-Earth System (CAWSES)", Springer, pp.383-408
 + Ern, M., Preusse, P., Kalisch, S., Kaufmann, M., Riese, M. (2013): "Role of gravity
 waves in the forcing of quasi two-day waves in the mesosphere: An observational
 study", JGR, 118(9), 3467-3485, doi:10.1029/2012JD018208
- 

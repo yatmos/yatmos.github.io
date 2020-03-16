@@ -136,6 +136,7 @@ summarylength = 20
         <br>03722
         <br>서울특별시 서대문구 연세로 50
         <br>연세대학교 이과대학(과학관) 528A
+        <br>+82-2-2123-8150
         <br><strong>대기과학과</strong>
       </p>
       """
@@ -183,11 +184,26 @@ summarylength = 20
     subtitle = "We have worked with many clients and we always like to hear they come out from the cooperation happy and satisfied. Have a look what our clients said about us."
 
 [params.movie]
-    enable = false
+    enable = true
     #moviefile = "http://thenewcode.com/assets/videos/polina.mp4"
-    moviefile = "img/iss.mp4"
-    snapfile = "img/iss_ini.jpg"
-    sourcefile = "https://youtu.be/W0LHTWG-UmQ"
+    # iss
+    #moviefile = "img/iss.mp4"
+    #snapfile = "img/iss_ini.jpg"
+    #sourcefile = "https://youtu.be/W0LHTWG-UmQ"
+    # convection
+    moviefile = "img/convection_a.mp4"
+    snapfile = "img/convection.png"
+    sourcefile = "https://youtu.be/SetPNQCJq9s"
+
+    ##
+    #moviefile = "img/sky.mp4"
+    #snapfile = "img/sky_Moment.jpg"
+    #sourcefile = "https://youtu.be/0_jNjpVxUt0"
+    #moviefile = "img/earth2.mp4"
+    #snapfile = "img/earth2_Moment.jpg"
+    #sourcefile = "https://youtu.be/p6dtYdWPabI"
+    ##
+
     title = "대기과학이란?"
     subtitle = "21세기 인류가 당면한 가장 도전적인 문제인 지구환경 분야를 선도하는 대기과학은 자연과 인간의 조화로운 공존을 위해 책임 있는 해결을 제시할 수 있는 핵심 과학입니다."
 
@@ -214,7 +230,7 @@ summarylength = 20
 [params.recent_posts]
     enable = true
     title = "학과 소식 및 세미나 공지"
-    subtitle = "학과 소식과 최근 출판된 논문 관련소식 및 세미나에 대한 공지사항 입니다. 자세한 사항은 학과소식을 참고해 주세요."
+    subtitle = "학과 소식과 최근 출판된 논문 관련 소식 및 세미나에 대한 공지사항입니다. 자세한 사항은 학과 소식을 참고해 주세요."
 
 [taxonomies]
     tag = "tags"

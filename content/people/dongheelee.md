@@ -6,7 +6,7 @@ banner = "img/people/dongheelee.png"
 email = "awzsseed@yonsei.ac.kr"
 job = "박사과정"
 phone = "02-2123-7264"
-room = "대기화학 연구실 / 과학관 535호"
+room = "대기화학 연구실"
 web = ""
 weight = 40
 +++
@@ -16,8 +16,8 @@ weight = 40
 +
 
 #### 학력
- + **M.S** (2017) in Earth and Environmental Engineering, Gwangju Institute of Science and Technology (GIST), Gwangju, Korea
-
+ + **M.Sc** (2017) in Earth and Environmental Engineering, Gwangju Institute of Science and Technology (GIST), Gwangju, Korea
+ + **B.Sc** (2015) in Urban Engineering, Chungbuk National University, Cheongju, Korea
 #### 수상내역
 
 #### 논문
