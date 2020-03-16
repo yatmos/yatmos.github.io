@@ -14,6 +14,7 @@ weight = 40
 #### 연구분야
 + Aerosol in situ observation
 
+
 #### 학력
  + **B.Sc** (2020) in Atmospheric Sciences, Yonsei University, Seoul, Korea
 
