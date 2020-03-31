@@ -979,6 +979,13 @@ th.tg-sort-header::-moz-selection { background:transparent; }th.tg-sort-header::
     <td class="tg-s8ju">신동빈</td>
   </tr>
   <tr>
+    <td class="tg-s8ju">김승기</td>
+    <td class="tg-s8ju">2019년 8월</td>
+    <td class="tg-s8ju">A Nonlinear Nature of ENSO:<br>
+                        Theory, Dynamics and its Interdecadal Change</td>
+    <td class="tg-s8ju">안순일</td>
+  </tr>
+  <tr>
     <td class="tg-s8ju">정민주</td>
     <td class="tg-s8ju">2019년 8월</td>
     <td class="tg-s8ju">2018년 서해상 봄철 에어로졸과 구름응결핵의 물리적, 화학적<br>
