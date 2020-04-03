@@ -8,7 +8,7 @@ icon = "trophy"
 
 <!--more-->
 #### 우수강의 교수상 수상
-박상훈 대기과학과 교수께서 2019학년도 2학기 이과대학 학부 우수 강의교수상을 수상하였습니다.
+김준 대기과학과 교수께서 2019학년도 2학기 이과대학 학부 우수 강의교수상을 수상하였습니다.
 
 <div class='image'>
 <img src="/img/carousel/jhoonkim_award.jpg" class="img-responsive" alt="">
