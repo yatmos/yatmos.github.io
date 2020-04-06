@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
@@ -489,7 +489,6 @@
   <url>
     <loc>https://atmos.yonsei.ac.kr/teams/</loc>
     <lastmod>2020-03-13T18:10:46+02:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -500,19 +499,36 @@
   <url>
     <loc>https://atmos.yonsei.ac.kr/</loc>
     <lastmod>2020-03-13T18:10:46+02:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://atmos.yonsei.ac.kr/teams/%ED%95%99%EC%83%9D/</loc>
     <lastmod>2020-03-13T18:10:46+02:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://atmos.yonsei.ac.kr/categories/</loc>
-    <lastmod>2020-01-10T17:19:47+09:00</lastmod>
-    <priority>0</priority>
+    <lastmod>2020-03-03T13:42:03+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://atmos.yonsei.ac.kr/categories/%EC%83%88%EC%86%8C%EC%8B%9D/</loc>
+    <lastmod>2020-03-03T13:42:03+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://atmos.yonsei.ac.kr/blog/2020/03/03/award_song/</loc>
+    <lastmod>2020-03-03T13:42:03+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://atmos.yonsei.ac.kr/blog/2020/03/03/award_yum1/</loc>
+    <lastmod>2020-03-03T13:38:47+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://atmos.yonsei.ac.kr/blog/2020/03/02/award_kim/</loc>
+    <lastmod>2020-03-02T06:47:02+09:00</lastmod>
   </url>
   
   <url>
@@ -523,7 +539,6 @@
   <url>
     <loc>https://atmos.yonsei.ac.kr/categories/%EC%84%B8%EB%AF%B8%EB%82%98/</loc>
     <lastmod>2020-01-10T17:19:47+09:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -549,7 +564,6 @@
   <url>
     <loc>https://atmos.yonsei.ac.kr/categories/%EA%B3%B5%EC%A7%80%EC%82%AC%ED%95%AD/</loc>
     <lastmod>2019-11-29T15:15:16+09:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -665,7 +679,6 @@
   <url>
     <loc>https://atmos.yonsei.ac.kr/categories/%EC%B1%84%EC%9A%A9%EA%B3%B5%EA%B3%A0/</loc>
     <lastmod>2019-09-25T14:18:16+09:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -831,12 +844,6 @@
   <url>
     <loc>https://atmos.yonsei.ac.kr/blog/2019/05/10/outing/</loc>
     <lastmod>2019-05-10T08:50:40+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://atmos.yonsei.ac.kr/categories/%EC%83%88%EC%86%8C%EC%8B%9D/</loc>
-    <lastmod>2019-05-10T08:50:40+09:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -1107,7 +1114,6 @@
   <url>
     <loc>https://atmos.yonsei.ac.kr/teams/%EA%B5%90%EC%88%98%EC%A7%84/</loc>
     <lastmod>2018-09-04T13:39:46+02:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -1343,13 +1349,11 @@
   <url>
     <loc>https://atmos.yonsei.ac.kr/teams/%EC%97%B0%EA%B5%AC%EC%9B%90/</loc>
     <lastmod>2018-03-24T13:39:46+02:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://atmos.yonsei.ac.kr/teams/%EC%A1%B8%EC%97%85%EC%83%9D%EB%AA%85%EB%8B%A8/</loc>
     <lastmod>2018-03-24T13:39:46+02:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -1414,7 +1418,6 @@
   
   <url>
     <loc>https://atmos.yonsei.ac.kr/tags/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
