@@ -7,7 +7,7 @@ email = "awzsseed@yonsei.ac.kr"
 job = "박사과정"
 phone = "02-2123-7264"
 room = "대기화학 연구실"
-web = ""
+web = "https://atmchem.yonsei.ac.kr"
 weight = 40
 +++
 
