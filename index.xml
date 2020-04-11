@@ -6,7 +6,7 @@
     <description>Recent content on 연세대학교 대기과학과</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko</language>
-    <lastBuildDate>Mon, 06 Apr 2020 17:19:47 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 09 Apr 2020 16:49:47 +0900</lastBuildDate>
     
 	<atom:link href="https://atmos.yonsei.ac.kr/index.xml" rel="self" type="application/rss+xml" />
     
@@ -885,7 +885,7 @@
     <item>
       <title>박사졸업생</title>
       <link>https://atmos.yonsei.ac.kr/people/alumnidoctor/</link>
-      <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
+      <pubDate>Tue, 24 Mar 2020 13:39:46 +0200</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/people/alumnidoctor/</guid>
       <description>박사학위자 명단 &amp;lt;td class=&amp;quot;</description>
@@ -894,36 +894,27 @@
     <item>
       <title>석사졸업생</title>
       <link>https://atmos.yonsei.ac.kr/people/alumnimaster/</link>
-      <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
+      <pubDate>Tue, 24 Mar 2020 13:39:46 +0200</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/people/alumnimaster/</guid>
       <description>석사학위자 명단</description>
     </item>
     
     <item>
-      <title>[세미나] 김원흥 박사님</title>
-      <link>https://atmos.yonsei.ac.kr/blog/2020/04/06/seminar_wh_kim/</link>
-      <pubDate>Mon, 06 Apr 2020 17:19:47 +0900</pubDate>
+      <title>[세미나] 김현석 교수님</title>
+      <link>https://atmos.yonsei.ac.kr/blog/2020/04/09/seminar_hs-kim/</link>
+      <pubDate>Thu, 09 Apr 2020 16:49:47 +0900</pubDate>
       
-      <guid>https://atmos.yonsei.ac.kr/blog/2020/04/06/seminar_wh_kim/</guid>
-      <description>Numerical Simulation of Sea Fog over the Yellow Sea: Comparison between UM+PAFOG and WRF+PAFOG Coupled System</description>
-    </item>
-    
-    <item>
-      <title>[세미나] 신종수 박사님</title>
-      <link>https://atmos.yonsei.ac.kr/blog/2020/04/06/seminar_js_shin/</link>
-      <pubDate>Mon, 06 Apr 2020 17:19:47 +0900</pubDate>
-      
-      <guid>https://atmos.yonsei.ac.kr/blog/2020/04/06/seminar_js_shin/</guid>
-      <description>Improved probabilistic twenty-first century projections of sea surface temperature over East Asian marginal seas by considering uncertainty owing to model</description>
+      <guid>https://atmos.yonsei.ac.kr/blog/2020/04/09/seminar_hs-kim/</guid>
+      <description>가뭄의 증가가 우리나라 산림생태계에 미치는 영</description>
     </item>
     
     <item>
       <title>[한국여성과학기술인지원센터] 여학생 대상 글로벌 멘토링 사업 모집</title>
-      <link>https://atmos.yonsei.ac.kr/blog/2020/04/01/notice_20200401/</link>
+      <link>https://atmos.yonsei.ac.kr/blog/2020/04/01/notice_20200401_1/</link>
       <pubDate>Wed, 01 Apr 2020 11:06:16 +0900</pubDate>
       
-      <guid>https://atmos.yonsei.ac.kr/blog/2020/04/01/notice_20200401/</guid>
+      <guid>https://atmos.yonsei.ac.kr/blog/2020/04/01/notice_20200401_1/</guid>
       <description></description>
     </item>
     
