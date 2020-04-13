@@ -217,8 +217,10 @@ summarylength = 20
     icon = "fa fa-paper-plane"
     title = "학과 지원하기"
     subtitle = "대기과학 및 지구과학의 다양한 분야에서 활발한 연구를 하고 있습니다. 여러분의 참여를 기다립니다."
-    link_url = "education"
-    link_text = "학사안내"
+    link_url1 = "https://graduate.yonsei.ac.kr/graduate/admission/general_fall_schedule.do"
+    link_text1 = "대학원지원안내"
+    link_url2 = "education"
+    link_text2 = "학사안내"
 
 [params.clients]
     enable = true
