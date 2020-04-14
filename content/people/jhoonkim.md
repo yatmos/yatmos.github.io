@@ -26,7 +26,7 @@ weight = 4
 #### 경력
 + 2003 - 현재      :  연세대학교 대기과학과/지구환경연구소 교수
 + 1991 - 2003    :  한국항공우주연구원(KARI) 책임연구원, 선임연구원
-+ 2019 - 2021     : 국가기후환경회의 (NCCA) 과학기술전문위원
++ 2019 - 2020     : 국가기후환경회의 (NCCA) 과학기술전문위원
 + 2018 - 현재     :  부편집인, Remote Sensing
 + 2017 - 2020    :   International Radiation Commission (IRC) 위원
 + 2017 - 현재    :  WMO (세계기상기구) GAW Urban Research Meteorology and Environment (GURME) 과학기술자문위원
