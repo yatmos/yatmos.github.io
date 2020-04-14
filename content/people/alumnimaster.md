@@ -1,6 +1,6 @@
 +++
 title = "석사졸업생"
-date = "2020-03-24T13:39:46+02:00"
+date = "2018-03-24T13:39:46+02:00"
 teams = ["졸업생명단"]
 banner = "img/people/alumni.png"
 type = "alumni"
