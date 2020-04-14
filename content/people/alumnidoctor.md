@@ -524,9 +524,7 @@ th.tg-sort-header::-moz-selection { background:transparent; }th.tg-sort-header::
   </tr>
   <tr>
     <td class="tg-s8ju">이상희</td>
-
     <td class="tg-s8ju">2018년 2월</td>
-
     <td class="tg-s8ju">Development of aerosol retrieval algorithm over East <br>
                         Asia from TANSO-CAI measurements onboard GOSAT</td>
     <td class="tg-s8ju">김준</td>
@@ -557,7 +555,7 @@ th.tg-sort-header::-moz-selection { background:transparent; }th.tg-sort-header::
     <td class="tg-s8ju">최예지</td>
     <td class="tg-s8ju">2018년 8월</td>
     <td class="tg-s8ju">Typhoon rainfall intensity measurements based on microwave <br>
-                         satellite observations and cloud resolving models</td>
+                        satellite observations and cloud resolving models</td>
     <td class="tg-s8ju">신동빈</td>
   </tr>
   <tr>
