@@ -15,6 +15,14 @@ paginate = 20
 
 summarylength = 20
 
+[markup]
+  defaultMarkdownHandler = "blackfriday"
+
+#[markup]
+#  [markup.goldmark]
+#    [markup.goldmark.renderer]
+#      unsafe = true
+
 [menu]
 
 # Main menu
