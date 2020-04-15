@@ -6,19 +6,10 @@
     <description>Recent content in Teams on 연세대학교 대기과학과</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko</language>
-    <lastBuildDate>Wed, 25 Mar 2020 13:39:46 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 13 Mar 2020 18:10:46 +0200</lastBuildDate>
     
 	<atom:link href="https://atmos.yonsei.ac.kr/teams/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>졸업생명단</title>
-      <link>https://atmos.yonsei.ac.kr/teams/%EC%A1%B8%EC%97%85%EC%83%9D%EB%AA%85%EB%8B%A8/</link>
-      <pubDate>Wed, 25 Mar 2020 13:39:46 +0200</pubDate>
-      
-      <guid>https://atmos.yonsei.ac.kr/teams/%EC%A1%B8%EC%97%85%EC%83%9D%EB%AA%85%EB%8B%A8/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>학생</title>
@@ -44,6 +35,15 @@
       <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/teams/%EC%97%B0%EA%B5%AC%EC%9B%90/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>졸업생명단</title>
+      <link>https://atmos.yonsei.ac.kr/teams/%EC%A1%B8%EC%97%85%EC%83%9D%EB%AA%85%EB%8B%A8/</link>
+      <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
+      
+      <guid>https://atmos.yonsei.ac.kr/teams/%EC%A1%B8%EC%97%85%EC%83%9D%EB%AA%85%EB%8B%A8/</guid>
       <description></description>
     </item>
     
