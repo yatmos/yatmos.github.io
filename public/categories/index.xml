@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on 연세대학교 대기과학과</title>
+    <link>https://atmos.yonsei.ac.kr/categories/</link>
+    <description>Recent content in Categories on 연세대학교 대기과학과</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko</language>
+    <lastBuildDate>Mon, 11 May 2020 11:06:16 +0900</lastBuildDate>
+    
+	<atom:link href="https://atmos.yonsei.ac.kr/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>공지사항</title>
+      <link>https://atmos.yonsei.ac.kr/categories/%EA%B3%B5%EC%A7%80%EC%82%AC%ED%95%AD/</link>
+      <pubDate>Mon, 11 May 2020 11:06:16 +0900</pubDate>
+      
+      <guid>https://atmos.yonsei.ac.kr/categories/%EA%B3%B5%EC%A7%80%EC%82%AC%ED%95%AD/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>세미나</title>
+      <link>https://atmos.yonsei.ac.kr/categories/%EC%84%B8%EB%AF%B8%EB%82%98/</link>
+      <pubDate>Thu, 09 Apr 2020 16:49:47 +0900</pubDate>
+      
+      <guid>https://atmos.yonsei.ac.kr/categories/%EC%84%B8%EB%AF%B8%EB%82%98/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>새소식</title>
+      <link>https://atmos.yonsei.ac.kr/categories/%EC%83%88%EC%86%8C%EC%8B%9D/</link>
+      <pubDate>Mon, 02 Mar 2020 06:47:02 +0900</pubDate>
+      
+      <guid>https://atmos.yonsei.ac.kr/categories/%EC%83%88%EC%86%8C%EC%8B%9D/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>채용공고</title>
+      <link>https://atmos.yonsei.ac.kr/categories/%EC%B1%84%EC%9A%A9%EA%B3%B5%EA%B3%A0/</link>
+      <pubDate>Wed, 25 Sep 2019 14:18:16 +0900</pubDate>
+      
+      <guid>https://atmos.yonsei.ac.kr/categories/%EC%B1%84%EC%9A%A9%EA%B3%B5%EA%B3%A0/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
