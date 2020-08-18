@@ -13,6 +13,7 @@ weight = 30
 
 #### 연구분야
 + Nonlinear ENSO Theory & Dynamics
++ AMOC
 
 #### 학력
  + **M.Sc** (2019) in Atmospheric Sciences, Yonsei University, Seoul, Korea
