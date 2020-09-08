@@ -597,6 +597,14 @@ th.tg-sort-header::-moz-selection { background:transparent; }th.tg-sort-header::
                         Broadband Meteorological Imager </td>          
     <td class="tg-s8ju">김준</td>
   </tr>
+  <tr>
+  <td class="tg-s8ju">양은경</td>
+  <td class="tg-s8ju">2020년 2월</td>
+  <td class="tg-s8ju">Development and evaluation of high-resolution <br>
+                      regional reanalysis system for improving  <br>
+                      weather analysis and forecasting over East Asia </td>
+    <td class="tg-s8ju">김현미</td>
+  </tr>
 
 </table></div>
 
