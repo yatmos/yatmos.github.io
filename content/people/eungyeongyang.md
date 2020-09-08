@@ -17,7 +17,7 @@ weight = 20
 
 
 #### 학력
- + Ph.d (2017) in Atmospheric Sciences, Yonsei University, Seoul, Korea
+ + Ph.d (2020) in Atmospheric Sciences, Yonsei University, Seoul, Korea
  + M.Sc (2013) in Atmospheric Sciences, Yonsei University, Seoul, Korea
  + B.Sc (2011) in Atmospheric Sciences, Yonsei University, Seoul, Korea
 
