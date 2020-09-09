@@ -1023,7 +1023,7 @@ th.tg-sort-header::-moz-selection { background:transparent; }th.tg-sort-header::
     <td class="tg-s8ju">홍진규</td>
   </tr>
   <tr>
-    <td class="tg-s8ju">김재엽</td>
+    <td class="tg-s8ju">김혜진</td>
     <td class="tg-s8ju">2020년 8월</td>
     <td class="tg-s8ju">국립환경과학원 현업 수치모델을 이용한 에어로졸 광학두께 산출 방법<br>
                         및 검증에 관한 연구</td>
