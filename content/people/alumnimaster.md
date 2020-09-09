@@ -992,7 +992,23 @@ th.tg-sort-header::-moz-selection { background:transparent; }th.tg-sort-header::
                         특징 및 기상요소와의 관계 분석</td>
     <td class="tg-s8ju">염성수</td>
   </tr>
-    <tr>
+  <tr>
+    <td class="tg-s8ju">박준</td>
+    <td class="tg-s8ju">2019년 8월</td>
+    <td class="tg-s8ju">Development and evaluation of near-real-time local<br>
+                        prediction system based on WRF-LETKF and radar data assimilation<br>
+                        for short-range precipitation forecasts</td>
+    <td class="tg-s8ju">김현미</td>
+  </tr>
+  <tr>
+    <td class="tg-s8ju">조민광</td>
+    <td class="tg-s8ju">2019년 8월</td>
+    <td class="tg-s8ju">Effect of assimilating CO2 mole fraction observations in the Korean Peninsula<br>
+                        on the estimation of surface carbon flux in Asia and<br>
+                        comparison of the estimated carbon flux with emission inventory data</td>
+    <td class="tg-s8ju">김현미</td>
+  </tr>
+  <tr>
     <td class="tg-s8ju">오치묵</td>
     <td class="tg-s8ju">2020년 2월</td>
     <td class="tg-s8ju">여름철 집중호우 시스템의 특성 비교<br>
