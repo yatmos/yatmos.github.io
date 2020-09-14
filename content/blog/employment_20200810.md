@@ -21,9 +21,8 @@ https://faculty.yonsei.ac.kr/invite/Openings/freeboard.do?mode=view&articleNo=10
 
 3. 채용분야 및 지원자격 : 전지구 모델링 또는 고층 대기 (1명)
 
-4. 임용기간 : 2020.09.01. ~ 2021.08.31.
-<br>
-5. 지원서류(온라인 입력)
+
+4. 지원서류(온라인 입력)
 <br>
   1) 지원서
 <br>
@@ -36,11 +35,11 @@ https://faculty.yonsei.ac.kr/invite/Openings/freeboard.do?mode=view&articleNo=10
   5) 박사학위논문 수록 USB
 <br>
   6) 추천서
+
+5. 서류 접수처 : 서울시 서대문구 연세로 50 연세대학교 이과대학 행정팀 (우편번호 03722)
 <br>
-6. 서류 접수처 : 서울시 서대문구 연세로 50 연세대학교 이과대학 행정팀 (우편번호 03722)
-<br>
-<br>
-7. 유의 사항 및 자세한 내용은 온라인 접수 페이지를 참고바랍니다.
+
+6. 유의 사항 및 자세한 내용은 온라인 접수 페이지를 참고바랍니다.
 <br>
    https://faculty.yonsei.ac.kr/invite/Openings/freeboard.do?mode=view&articleNo=100513
 <br>
