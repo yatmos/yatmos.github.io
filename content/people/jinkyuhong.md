@@ -7,13 +7,13 @@ email = "jhong[at]yonsei.ac.kr"
 job = "부교수"
 phone = "02-2123-5693"
 room = "미기상 연구실 / 과학관 542호"
-web = "http://eapl.yonsei.ac.kr"
+web = "https://eapl.yonsei.ac.kr"
 weight = 8
 +++
 
 #### 연구분야
 + 탄소 및 물 순환
-+ 도시 기상학 및 도시 환경
++ 도시 기후 및 도시 환경
 + 생태계-대기 상호 작용
 + 에너지-기후 상호 작용
 
@@ -22,6 +22,7 @@ weight = 8
 
 #### 교육
 
+- 도시기후학
 - 미기상학/경계층기상학
 - 대기관측
 - 생물-대기 상호작용
@@ -33,16 +34,20 @@ weight = 8
 + **Ph.D.** (2005) Department of Atmospheric Sciences, Yonsei University, Seoul, Korea
 + **M.S.** (1999) Department of Atmospheric Sciences, Yonsei University, Seoul, Korea
 + **B.S.** (1997) Department of Astronomy and Atmospheric Sciences, Yonsei University, Seoul, Korea
-
++ Science Genealogy: https://academictree.org/chemistry/tree.php?pid=826516&pnodecount=7&cnodecount=2&fontsize=1
 
 
 
 
 #### 경력
-+ 2016 - 현재 : 부교수, 연세대학교 대기과학과
-+ 2012 - 2016 : 조교수, 연세대학교 대기과학과
++ 2020 - 현재 : 국가물관리위원회 자문위원
++ 2020 - 현재 : 서울시 환경영향평가위원
++ 2020 - 현재 : 과학기술정보통신부 에너지환경 R&D추진위원회 위원  
++ 2020 - 현재 : 한국연구재단 기후적응 전문위원  
++ 2020 - 현재 : Member of the study group on Integrated Energy Serices (SG-ENE), WMO Services Commission (SERCOM), World Meteorological Organization
++ 2019 - 현재 : Expert Member of WMO flux measurements for agriculture with a focus on GHG emissions (ET2.2, CAgM)
++ 2016 - 현재 : 교수, 연세대학교 대기과학과/지구환경연구소
 + 2010 - 2012 : 선임연구원, 국가수리과학연구소
-+ 2008 - 2010 : 연구교수, 연세대학교 대기과학과
 + 2006 - 2008 : Postdoctoral Researcher, Univ. of Georgia, USA
 
 
@@ -50,6 +55,12 @@ weight = 8
 
 #### Selected Publications
 
++ Kim, J., J. Lee, J.-W. Hong, J. Hong, J. Koo, J. Kim, J. Yun, S. Nam, J. Jung, T. Choi, and B. Lee (2020) Evaluation of land-atmosphere processes of the Polar WRF in the summertime Arctic tundra, Atmospheric Research, 240, 104946, https://doi.org/10.1016/j.atmosres.2020.104946.
++ Lee, J., J. Hong, Y. Noh, and P. Jiménez (2020) Implementation of a roughness sublayer parameterization in the Weather Research and Forecasting model (WRF version 3.7.1) and its validation for regional climate simulations, Geoscientific Model Development, 13, 521-536.
++ Hong, J.-W., S. D. Lee, K. M. Lee, and J. Hong (2020) Seasonal variation of surface energy and CO2 flux over a high-rise high-population residential urban area in East Asian monsoon region, International Journal of Climatology, 40, 4384-4407, https://doi.org/10.1002/joc.6463.
++ Hong, J.-W., J. Hong, J. Chun, Y. Lee, L. Chang, J. Lee, K. Yi, Y. Park, Y. Byun, and S. Joo (2019) Comparative assessment of net CO2 exchange across an urbanization gradient in Korea based on in situ observation, Carbon Balance and Management, https//doi.org/10.1186/s13021-019-0128-6.
++ Hong, J.-W., J. Hong, E. Kwon, and D. Yoon (2019) Temporal dynamics of urban heat island correlated with the socio-economic development over the past half-century in Seoul, Korea, Environmental Pollution, 254, 112934, https://doi.org/10.1007/s10546-019-00452-5.
++ Lee, J. H., J.-W. Hong, K. M. Lee, J. Hong, E. Velasco, Y. Lim, J. Lee. K. Nam, and J. Park (2019) Ceilometer monitoring of boundary layer height in Seoul and its application to evaluate the dilution effect on air pollution, Boundary-Layer Meteorology, 171, 435-455.
 + Kent, C., K. Lee, H. C. Ward, J.-W. Hong, J. Hong, D. Gatey, and S. Grimmond (2018) Aerodynamic roughness variation with vegetation: Analysis in a suburban neighbourhood and a city park, *Urban Ecosystems*, 21, 227-243.
 + Song, I., U. Byun, J. Hong and S. Park (2018) Domain-size and top-height dependence in regional predictions for East Asia in spring, *Atmospheric Science Letters*, 19, e799.
 + Lee, C., K. Han, J. Yeom, K. Lee, M. Seo, J. Hong, J.-W. Hong, K. Lee, J. Shin, I. Shim, J. Chun, and J.-L. Roujean (2018) Surface albedo from the geostationary Communication, Ocean and Meteorological Satellite (COMS)/Meteorological Imager (MI) observation system, *GIScience & Remote Sensing*, 28, 38-62.
