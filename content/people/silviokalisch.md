@@ -4,11 +4,11 @@ date = "2018-03-24T13:39:46+02:00"
 teams = ["연구원"]
 banner = "img/people/Kalisch_picture_informal_200x200.jpg"
 email = "s.kalisch82 (at) gmail.com"
-job = "연구 교수"
+job = "박사 후 연구원"
 phone = ""
 room = "대기역학 연구실 / 과학관 529A호"
 web = "http://atmosdyn.yonsei.ac.kr"
-weight = 20
+weight = 40
 +++
 
 #### 연구분야
