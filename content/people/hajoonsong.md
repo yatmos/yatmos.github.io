@@ -31,10 +31,10 @@ weight = 10
 + 2005 : Research assistant, Korea Institute of Ocean Science & Technology, Ansan, Korea
 
 #### 담당과목
-+ [대기 해양 대순환](https://hajsong.github.io/ATM2106/)
++ [대기 해양 순환](https://hajsong.github.io/ATM2106/)
 + [해양 모델링](https://hajsong.github.io/ATM9107/)
 + [기상 프로그래밍](https://hajsong.github.io/ATM4110/)
-+ 대기 해양 순환
++ 대기 해양 상호작용
 + 해양 물리
 
 #### 논문
