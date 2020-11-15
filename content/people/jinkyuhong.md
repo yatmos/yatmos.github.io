@@ -3,7 +3,7 @@ title = "홍진규"
 date = "2018-04-10T13:39:46+02:00"
 teams = ["교수진"]
 banner = "img/people/jinkyuhong.jpg"
-email = "jhong[at]yonsei.ac.kr"
+email = "jhong [at] yonsei. ac. kr"
 job = "부교수"
 phone = "02-2123-5693"
 room = "미기상 연구실 / 과학관 542호"
@@ -40,13 +40,13 @@ weight = 8
 
 
 #### 경력
-+ 2020 - 현재 : 국가물관리위원회 자문위원
-+ 2020 - 현재 : 서울시 환경영향평가위원
-+ 2020 - 현재 : 과학기술정보통신부 에너지환경 R&D추진위원회 위원  
-+ 2020 - 현재 : 한국연구재단 기후적응 전문위원  
-+ 2020 - 현재 : Member of the study group on Integrated Energy Serices (SG-ENE), WMO Services Commission (SERCOM), World Meteorological Organization
-+ 2019 - 현재 : Expert Member of WMO flux measurements for agriculture with a focus on GHG emissions (ET2.2, CAgM)
-+ 2016 - 현재 : 교수, 연세대학교 대기과학과/지구환경연구소
++ (현) 국가물관리위원회 자문위원
++ (현) 서울시 환경영향평가위원
++ (현) 과학기술정보통신부 에너지환경 R&D추진위원회 위원  
++ (현) 한국연구재단 기후적응 전문위원  
++ (현) Member of the study group on Integrated Energy Serices (SG-ENE), WMO Services Commission (SERCOM), World Meteorological Organization
++ (현) Expert Member of WMO flux measurements for agriculture with a focus on GHG emissions (ET2.2, CAgM)
++ (현) 교수, 연세대학교 대기과학과
 + 2010 - 2012 : 선임연구원, 국가수리과학연구소
 + 2006 - 2008 : Postdoctoral Researcher, Univ. of Georgia, USA
 
