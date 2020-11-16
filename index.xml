@@ -6,7 +6,7 @@
     <description>Recent content on 연세대학교 대기과학과</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko</language>
-    <lastBuildDate>Thu, 12 Nov 2020 10:00:16 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2020 09:19:47 +0900</lastBuildDate>
     
 	<atom:link href="https://atmos.yonsei.ac.kr/index.xml" rel="self" type="application/rss+xml" />
     
@@ -426,15 +426,6 @@
     </item>
     
     <item>
-      <title>Silvio Kalisch</title>
-      <link>https://atmos.yonsei.ac.kr/people/silviokalisch/</link>
-      <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
-      
-      <guid>https://atmos.yonsei.ac.kr/people/silviokalisch/</guid>
-      <description>연구분야 Middle Atmosphere dynamics Gravity Waves Tropical atmosphere (Madden-Julian Oscillation) Sudden stratospheric warming 학력 Dr. rer.</description>
-    </item>
-    
-    <item>
       <title>고한창</title>
       <link>https://atmos.yonsei.ac.kr/people/hanchangko/</link>
       <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
@@ -576,15 +567,6 @@
       
       <guid>https://atmos.yonsei.ac.kr/people/donggunoh/</guid>
       <description>연구분야 Lagrangian Cloud Model Large Eddy Simulation 학력 B.Sc (2015) in Atmospheric Sciences, Yonsei University, Seoul,</description>
-    </item>
-    
-    <item>
-      <title>옥혜진</title>
-      <link>https://atmos.yonsei.ac.kr/people/hyejinok/</link>
-      <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
-      
-      <guid>https://atmos.yonsei.ac.kr/people/hyejinok/</guid>
-      <description>연구분야 Ocean Mixed Layer Air-sea Interaction Climate Model Ocean General Circulation Model 학력 B.Sc (2013) in</description>
     </item>
     
     <item>
@@ -759,15 +741,6 @@
     </item>
     
     <item>
-      <title>남궁천일</title>
-      <link>https://atmos.yonsei.ac.kr/people/chunilnamgung/</link>
-      <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
-      
-      <guid>https://atmos.yonsei.ac.kr/people/chunilnamgung/</guid>
-      <description>연구분야 Air-sea interactions Air-sea coupled modeling Climate Change of Southern Hemisphere Antarctic Circumpolar Curent(ACC) 학력 B.Sc</description>
-    </item>
-    
-    <item>
       <title>류승우</title>
       <link>https://atmos.yonsei.ac.kr/people/seungwooryu/</link>
       <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
@@ -900,6 +873,15 @@
       
       <guid>https://atmos.yonsei.ac.kr/people/alumnimaster/</guid>
       <description>석사학위자 명단 .tg {border-collapse:collapse;border-spacing:0;border:none;border-color:#ccc;margin:0px auto;} .tg td{font-family:Arial, sans-serif;font-size:14px;padding:20px 6px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:#ccc;color:#333;background-color:#fff;} .tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:20px 6px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:#ccc;color:#333;background-color:#f0f0f0;} .tg .tg-44m2{font-weight:bold;font-size:16px;font-family:&#34;Arial</description>
+    </item>
+    
+    <item>
+      <title>[세미나] 김백민 교수님</title>
+      <link>https://atmos.yonsei.ac.kr/blog/2020/11/16/seminar_2020_bmkim/</link>
+      <pubDate>Mon, 16 Nov 2020 09:19:47 +0900</pubDate>
+      
+      <guid>https://atmos.yonsei.ac.kr/blog/2020/11/16/seminar_2020_bmkim/</guid>
+      <description>How do intermittency and simultaneous processes obfuscate the Arctic influence on midlatitude winter extreme weather events? 김백민 교</description>
     </item>
     
     <item>

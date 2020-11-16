@@ -222,11 +222,6 @@
   </url>
   
   <url>
-    <loc>https://atmos.yonsei.ac.kr/people/silviokalisch/</loc>
-    <lastmod>2018-03-24T13:39:46+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://atmos.yonsei.ac.kr/people/hanchangko/</loc>
     <lastmod>2018-03-24T13:39:46+02:00</lastmod>
   </url>
@@ -303,11 +298,6 @@
   
   <url>
     <loc>https://atmos.yonsei.ac.kr/people/donggunoh/</loc>
-    <lastmod>2018-03-24T13:39:46+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://atmos.yonsei.ac.kr/people/hyejinok/</loc>
     <lastmod>2018-03-24T13:39:46+02:00</lastmod>
   </url>
   
@@ -407,11 +397,6 @@
   </url>
   
   <url>
-    <loc>https://atmos.yonsei.ac.kr/people/chunilnamgung/</loc>
-    <lastmod>2018-03-24T13:39:46+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://atmos.yonsei.ac.kr/people/seungwooryu/</loc>
     <lastmod>2018-03-24T13:39:46+02:00</lastmod>
   </url>
@@ -487,12 +472,27 @@
   </url>
   
   <url>
-    <loc>https://atmos.yonsei.ac.kr/blog/2020/11/12/notice_20201113/</loc>
-    <lastmod>2020-11-12T10:00:16+09:00</lastmod>
+    <loc>https://atmos.yonsei.ac.kr/blog/2020/11/16/seminar_2020_bmkim/</loc>
+    <lastmod>2020-11-16T09:19:47+09:00</lastmod>
   </url>
   
   <url>
     <loc>https://atmos.yonsei.ac.kr/categories/</loc>
+    <lastmod>2020-11-16T09:19:47+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://atmos.yonsei.ac.kr/categories/%EC%84%B8%EB%AF%B8%EB%82%98/</loc>
+    <lastmod>2020-11-16T09:19:47+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://atmos.yonsei.ac.kr/</loc>
+    <lastmod>2020-11-16T09:19:47+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://atmos.yonsei.ac.kr/blog/2020/11/12/notice_20201113/</loc>
     <lastmod>2020-11-12T10:00:16+09:00</lastmod>
   </url>
   
@@ -502,17 +502,7 @@
   </url>
   
   <url>
-    <loc>https://atmos.yonsei.ac.kr/</loc>
-    <lastmod>2020-11-12T10:00:16+09:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://atmos.yonsei.ac.kr/blog/2020/11/09/seminar_2020_ecjang/</loc>
-    <lastmod>2020-11-09T08:19:47+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://atmos.yonsei.ac.kr/categories/%EC%84%B8%EB%AF%B8%EB%82%98/</loc>
     <lastmod>2020-11-09T08:19:47+09:00</lastmod>
   </url>
   
