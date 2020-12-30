@@ -12,29 +12,38 @@
     
     
     <item>
-      <title>학생</title>
-      <link>https://atmos.yonsei.ac.kr/teams/%ED%95%99%EC%83%9D/</link>
+      <title>대학원생</title>
+      <link>https://atmos.yonsei.ac.kr/teams/%EB%8C%80%ED%95%99%EC%9B%90%EC%83%9D/</link>
       <pubDate>Tue, 24 Mar 2020 13:39:46 +0200</pubDate>
       
-      <guid>https://atmos.yonsei.ac.kr/teams/%ED%95%99%EC%83%9D/</guid>
+      <guid>https://atmos.yonsei.ac.kr/teams/%EB%8C%80%ED%95%99%EC%9B%90%EC%83%9D/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>교수진</title>
-      <link>https://atmos.yonsei.ac.kr/teams/%EA%B5%90%EC%88%98%EC%A7%84/</link>
+      <title>교수</title>
+      <link>https://atmos.yonsei.ac.kr/teams/%EA%B5%90%EC%88%98/</link>
       <pubDate>Tue, 04 Sep 2018 13:39:46 +0200</pubDate>
       
-      <guid>https://atmos.yonsei.ac.kr/teams/%EA%B5%90%EC%88%98%EC%A7%84/</guid>
+      <guid>https://atmos.yonsei.ac.kr/teams/%EA%B5%90%EC%88%98/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>연구원</title>
-      <link>https://atmos.yonsei.ac.kr/teams/%EC%97%B0%EA%B5%AC%EC%9B%90/</link>
+      <title>박사후연구원</title>
+      <link>https://atmos.yonsei.ac.kr/teams/%EB%B0%95%EC%82%AC%ED%9B%84%EC%97%B0%EA%B5%AC%EC%9B%90/</link>
       <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
       
-      <guid>https://atmos.yonsei.ac.kr/teams/%EC%97%B0%EA%B5%AC%EC%9B%90/</guid>
+      <guid>https://atmos.yonsei.ac.kr/teams/%EB%B0%95%EC%82%AC%ED%9B%84%EC%97%B0%EA%B5%AC%EC%9B%90/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>연구교수</title>
+      <link>https://atmos.yonsei.ac.kr/teams/%EC%97%B0%EA%B5%AC%EA%B5%90%EC%88%98/</link>
+      <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
+      
+      <guid>https://atmos.yonsei.ac.kr/teams/%EC%97%B0%EA%B5%AC%EA%B5%90%EC%88%98/</guid>
       <description></description>
     </item>
     
@@ -44,6 +53,24 @@
       <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/teams/%EC%A1%B8%EC%97%85%EC%83%9D%EB%AA%85%EB%8B%A8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>명예교수</title>
+      <link>https://atmos.yonsei.ac.kr/teams/%EB%AA%85%EC%98%88%EA%B5%90%EC%88%98/</link>
+      <pubDate>Mon, 10 Apr 2017 13:39:46 +0200</pubDate>
+      
+      <guid>https://atmos.yonsei.ac.kr/teams/%EB%AA%85%EC%98%88%EA%B5%90%EC%88%98/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>퇴임교수</title>
+      <link>https://atmos.yonsei.ac.kr/teams/%ED%87%B4%EC%9E%84%EA%B5%90%EC%88%98/</link>
+      <pubDate>Sun, 10 Apr 2016 13:39:46 +0200</pubDate>
+      
+      <guid>https://atmos.yonsei.ac.kr/teams/%ED%87%B4%EC%9E%84%EA%B5%90%EC%88%98/</guid>
       <description></description>
     </item>
     
