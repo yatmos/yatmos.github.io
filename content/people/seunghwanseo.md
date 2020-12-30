@@ -1,7 +1,7 @@
 +++
 title = "서승환"
 date = "2018-03-24T13:39:46+02:00"
-teams = ["학생"]
+teams = ["대학원생"]
 banner = "img/people/seunghwan_seo.png"
 email = "chemicdwarf@naver.com"
 job = "통합과정"

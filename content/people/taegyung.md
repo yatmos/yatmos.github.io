@@ -1,7 +1,7 @@
 +++
 title = "이태경"
 date = "2018-03-24T13:39:46+02:00"
-teams = ["학생"]
+teams = ["대학원생"]
 banner = "img/people/taegyung.jpg"
 email = "taegyung@yonsei.ac.kr"
 job = "박사과정"

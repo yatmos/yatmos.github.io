@@ -1,14 +1,14 @@
 +++
 title = "이단비"
 date = "2018-03-24T13:39:46+02:00"
-teams = ["학생"]
+teams = ["대학원생"]
 banner = "img/people/Dan-Bi Lee.png"
 email = "leedb@yonsei.ac.kr"
 job = "박사과정"
 phone = "02-2123-7643"
 room = "대기역학 연구실 / 과학관 533A호"
 web = "http://atmosdyn.yonsei.ac.kr"
-weight = 30
+weight = 40
 +++
 
 #### 연구분야

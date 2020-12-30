@@ -1,14 +1,14 @@
 +++
 title = "이하나"
 date = "2018-03-24T13:39:46+02:00"
-teams = ["학생"]
+teams = ["대학원생"]
 banner = "img/people/Hana_Lee.png"
 email = "leehn88@yonsei.ac.kr"
 job = "박사과정"
 phone = "02-2123-7616"
 room = "대기복사연구실 / 과학관 531호"
 web = "http://atrad.yonsei.ac.kr/"
-weight = 30
+weight = 40
 +++
 
 #### 연구분야

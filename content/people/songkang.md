@@ -1,14 +1,14 @@
 +++
 title = "김송강"
 date = "2018-03-24T13:39:46+02:00"
-teams = ["학생"]
+teams = ["대학원생"]
 banner = "img/people/songkang_kim.jpg"
 email = "songsiun2@yonsei.ac.kr"
 job = "석사과정"
 phone = "02-2123-7264"
 room = "대기화학 연구실"
 web = "https://atmchem.yonsei.ac.kr"
-weight = 40
+weight = 50
 +++
 
 #### 연구분야

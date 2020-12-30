@@ -1,7 +1,7 @@
 +++
 title = "곽경민"
 date = "2018-03-24T13:39:46+02:00"
-teams = ["학생"]
+teams = ["대학원생"]
 banner = "img/people/kyungminkwak.png"
 email = "kmindu14@yonsei.ac.kr"
 job = "석사과정"

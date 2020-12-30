@@ -1,14 +1,14 @@
 +++
 title = "허은숙"
 date = "2018-03-24T13:39:46+02:00"
-teams = ["학생"]
+teams = ["대학원생"]
 banner = "img/people/eunsookheo.png"
 email = "my9356@yonsei.ac.kr"
 job = "박사과정"
 phone = "02-2123-5684"
 room = "기후이론 연구실 / 과학관 536A호"
 web = "http://climatelab.yonsei.ac.kr"
-weight = 30
+weight = 40
 +++
 
 #### 연구분야

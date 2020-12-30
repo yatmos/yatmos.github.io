@@ -1,7 +1,7 @@
 +++
 title = "조원석"
 date = "2020-03-13T18:10:46+02:00"
-teams = ["학생"]
+teams = ["대학원생"]
 banner = "img/people/wonseokcho.jpg"
 email = "rebu@yonsei.ac.kr"
 job = "석사과정"
@@ -20,4 +20,3 @@ weight = 50
 #### 수상내역
 
 #### 논문
-

@@ -1,14 +1,14 @@
 ﻿+++
 title = "이주엽"
 date = "2018-03-24T13:39:46+02:00"
-teams = ["학생"]
+teams = ["대학원생"]
 banner = "img/people/jooyeoplee.png"
 email = "jooyeop94@yonsei.ac.kr"
 job = "박사과정"
 phone = "02-2123-5680"
 room = "미기상 연구실 / 과학관 533B호"
 web = "http://eapl.yonsei.ac.kr"
-weight = 50
+weight = 40
 +++
 
 #### 연구분야
@@ -22,4 +22,3 @@ weight = 50
 #### 수상내역
 
 #### 논문
-

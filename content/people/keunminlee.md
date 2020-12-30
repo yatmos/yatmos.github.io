@@ -1,14 +1,14 @@
 +++
 title = "이근민"
 date = "2018-03-24T13:39:46+02:00"
-teams = ["학생"]
+teams = ["대학원생"]
 banner = "img/people/keunminlee.png"
 email = "km.lee@yonsei.ac.kr"
 job = "박사과정"
 phone = "02-2123-5680"
 room = "미기상연구실/ 과학관 533B호"
 web = "http://eapl.yonsei.ac.kr"
-weight = 30
+weight = 40
 +++
 
 #### 연구분야
@@ -21,7 +21,7 @@ weight = 30
  + **B.Sc** (2013) in Atmospheric Sciences, Yonsei University, Seoul, Korea
 
 #### 수상내역
- + (2018) Group Achievement Award, KORea-United States Air Quality (KORUS-AQ), NASA 
+ + (2018) Group Achievement Award, KORea-United States Air Quality (KORUS-AQ), NASA
 
 
 #### 논문

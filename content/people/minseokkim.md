@@ -1,7 +1,7 @@
 +++
 title = "김민석"
 date = "2018-03-24T13:39:46+02:00"
-teams = ["학생"]
+teams = ["대학원생"]
 banner = "img/people/minseok_kim.png"
 email = "minskim@yonsei.ac.kr"
 job = "통합과정"

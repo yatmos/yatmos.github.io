@@ -1,14 +1,14 @@
 +++
 title = "양은경"
 date = "2018-03-24T13:39:46+02:00"
-teams = ["연구원"]
+teams = ["박사후연구원"]
 banner = "img/people/eungyeongyang.png"
 email = "yeg24@yonsei.ac.kr"
 job = "박사 후 연구원"
 phone = "02-2123-4815"
 room = "대기예측성, 자료동화 연구실 / 과학관 530 B호"
 web = "http://web.yonsei.ac.kr/apdal"
-weight = 20
+weight = 30
 +++
 
 #### 연구분야

@@ -1,14 +1,14 @@
 +++
 title = "김승기"
 date = "2018-03-24T13:39:46+02:00"
-teams = ["학생"]
+teams = ["대학원생"]
 banner = "img/people/kimsoongki.png"
 email = "sskk503@yonsei.ac.kr"
 job = "박사과정"
 phone = "010-5037-8889"
 room = "기후이론 연구실 / 과학관 536A호"
 web = "https://scholar.google.com/citations?user=WfLIUaoAAAAJ&hl=en"
-weight = 30
+weight = 40
 +++
 
 #### 연구분야

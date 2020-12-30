@@ -1,7 +1,7 @@
 +++
 title = "박인표"
 date = "2018-03-24T13:39:46+02:00"
-teams = ["학생"]
+teams = ["대학원생"]
 banner = "img/people/binpyo.jpg"
 email = "binpyo@naver.com"
 job = "석사과정"

@@ -1,14 +1,14 @@
 +++
 title = "김재엽"
 date = "2018-03-24T13:39:46+02:00"
-teams = ["학생"]
+teams = ["대학원생"]
 banner = "img/people/kimjy.jpg"
 email = "kimjy.par@yonsei.ac.kr"
 job = "통합과정"
 phone = "010-9954-4237"
 room = "대기모형연구실 / 과학관 536B호"
 web = "http://lamor.yonsei.ac.kr/"
-weight = 50
+weight = 40
 +++
 
 #### 연구분야

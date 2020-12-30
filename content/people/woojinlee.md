@@ -1,14 +1,14 @@
 +++
 title = "이우진"
 date = "2018-03-24T13:39:46+02:00"
-teams = ["연구원"]
+teams = ["연구교수"]
 banner = "img/people/LEEwoojin.jpg"
 email = "wjlee1977@gmail.com"
 job = "연구 교수"
 phone = "010-9395-1778"
 room = "대기역학 연구실 / 과학관 535호"
 web = "http://atmosdyn.yonsei.ac.kr"
-weight = 19
+weight = 20
 +++
 
 #### 연구분야

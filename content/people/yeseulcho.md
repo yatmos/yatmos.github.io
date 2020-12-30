@@ -1,7 +1,7 @@
 +++
 title = "조예슬"
 date = "2018-03-24T13:39:46+02:00"
-teams = ["학생"]
+teams = ["대학원생"]
 banner = "img/people/Yeseul_Cho.png"
 email = "dptmf209@naver.com"
 job = "통합과정"

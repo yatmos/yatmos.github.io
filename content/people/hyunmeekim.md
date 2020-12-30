@@ -1,7 +1,7 @@
 ﻿+++
 title = "김현미"
 date = "2018-04-13T13:39:46+02:00"
-teams = ["교수진"]
+teams = ["교수"]
 banner = "img/people/hyunmeekim.jpg"
 email = "khm@yonsei.ac.kr"
 job = "정교수"
@@ -38,7 +38,7 @@ weight = 5
 #### 논문
 + Hwang, S.-O., J. Park,and H. M. Kim, 2019: Effect of hydrometeor species on very-short-range simulations of precipitation using ERA5, Atmospheric Research, 218, 245-256, doi:10.1016/j.atmosres.2018.12.008.
 + On, N., H. M. Kim, and S. Kim, 2018: Effects of resolution, cumulus parameterization scheme, and probability forecasting on precipitation forecasts in a high-resolution limited-area ensemble prediction system, Asia-Pacific Journal of Atmospheric Sciences, 54, 623-637, doi:10.1007/s13143-018-0081-4.
-+ Kim, S.-M., and H. M. Kim, 2018: Effect of observation error variance adjustment on numerical weather prediction using forecast sensitivity to error covariance parameters, Tellus A, 70, 1-16, doi:10.1080 /16000870.2018.1492839 
++ Kim, S.-M., and H. M. Kim, 2018: Effect of observation error variance adjustment on numerical weather prediction using forecast sensitivity to error covariance parameters, Tellus A, 70, 1-16, doi:10.1080 /16000870.2018.1492839
 + Kim, D.-H., and H. M. Kim, 2018: Effect of assimilating Himawari-8 atmospheric motion vectors on forecast errors over East Asia, Journal of Atmospheric and Oceanic Technology, 35, 1737-1752, doi:10.1175/JTECH-D-17-0093.1.
 + Kim, H., H. M. Kim, M. K. Cho, J. Park, and D.-H. Kim, 2018:  Development of the aircraft CO2 measurement data assimilation system to improve the estimation of surface CO2 fluxes using an inverse modeling system, Atmosphere, 28(2), 1-9, doi:10.14191/Atmos.2018.28.2.113. (in Korean with English abstract)  
 + Noh, K., H. M. Kim, and D.-H. Kim, 2018: Development of the three-dimensional variational data assimilation system for the Republic of Korea Air Force operational numerical weather prediction system, Journal of the Korea Institute of Military Science and Technology, 21(3), 403-412, doi:10.9766/KIMST.2018.21.3.403. (in Korean with English abstract)

@@ -1,7 +1,7 @@
 +++
 title = "임수연"
 date = "2018-03-24T13:39:46+02:00"
-teams = ["학생"]
+teams = ["대학원생"]
 banner = "img/people/imsooyeon.png"
 email = "limsoo31@yonsei.ac.kr"
 job = "석사과정"

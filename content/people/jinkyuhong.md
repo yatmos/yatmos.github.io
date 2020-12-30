@@ -1,7 +1,7 @@
 +++
 title = "홍진규 (학과장)"
 date = "2018-04-10T13:39:46+02:00"
-teams = ["교수진"]
+teams = ["교수"]
 banner = "img/people/jinkyuhong.jpg"
 email = "jhong [at] yonsei. ac. kr"
 job = "부교수"

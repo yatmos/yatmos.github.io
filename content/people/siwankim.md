@@ -1,14 +1,14 @@
 +++
 title = "김시완"
 date = "2018-03-24T13:39:46+02:00"
-teams = ["연구원"]
+teams = ["연구교수"]
 banner = "img/people/siwankim.png"
 email = "siwan.kim@yonsei.ac.kr"
 job = "연구 교수"
 phone = ""
 room = "과학관 549호"
 web =  ""
-weight = 19
+weight = 20
 +++
 
 #### 연구분야
