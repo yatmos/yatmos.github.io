@@ -1,5 +1,5 @@
 +++
-title = "홍진규, 학과장"
+title = "홍진규 (학과장)"
 date = "2018-04-10T13:39:46+02:00"
 teams = ["교수진"]
 banner = "img/people/jinkyuhong.jpg"
