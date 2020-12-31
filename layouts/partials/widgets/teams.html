@@ -9,8 +9,12 @@
 
     <div class="panel-body">
         <ul class="nav nav-pills nav-stacked">
+            {{ $current := . }}
+            <!-- {{ $current.RelPermalink }} -->
             {{ range $name, $items := .Site.Taxonomies.teams }}
-            <li><a href="{{ $.Site.BaseURL }}teams/{{ $name | urlize | lower }}">{{ $name }} </a>
+            <!-- {{ $name | urlize | lower }} -->
+            <li{{ if eq $current.RelPermalink ($name | urlize | lower | printf "/teams/%s/") }} class="active"{{ end }}>
+                <a href="{{ $.Site.BaseURL }}teams/{{ $name | urlize | lower }}">{{ $name }} </a>
             </li>
             {{ end }}
         </ul>
