@@ -1,7 +1,7 @@
 ﻿+++
 title = "박민수"
 date = "2018-03-24T13:39:46+02:00"
-teams = ["박사후연구원"]
+teams = ["신진연구인력"]
 banner = "img/people/minsupark.png"
 email = "ms_park@yonsei.ac.kr "
 job = "박사 후 연구원"
