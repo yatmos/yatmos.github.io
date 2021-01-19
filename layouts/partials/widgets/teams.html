@@ -13,9 +13,19 @@
             <!-- {{ $current.RelPermalink }} -->
             {{ range $name, $items := .Site.Taxonomies.teams }}
             <!-- {{ $name | urlize | lower }} -->
+            {{ if eq $name "faculty" }}
+            <li{{ if eq $current.RelPermalink ($name | urlize | lower | printf "/teams/%s/") }} class="active"{{ end }}>
+                <a href="{{ $.Site.BaseURL }}teams/{{ $name | urlize | lower }}"> 교수 </a>
+            </li>
+            {{ else if eq $name "graduate" }}
+            <li{{ if eq $current.RelPermalink ($name | urlize | lower | printf "/teams/%s/") }} class="active"{{ end }}>
+                <a href="{{ $.Site.BaseURL }}teams/{{ $name | urlize | lower }}"> 대학원생 </a>
+            </li>
+            {{ else }}
             <li{{ if eq $current.RelPermalink ($name | urlize | lower | printf "/teams/%s/") }} class="active"{{ end }}>
                 <a href="{{ $.Site.BaseURL }}teams/{{ $name | urlize | lower }}">{{ $name }} </a>
             </li>
+            {{ end }}
             {{ end }}
         </ul>
     </div>

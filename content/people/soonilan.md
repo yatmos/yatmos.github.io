@@ -1,7 +1,7 @@
 +++
 title = "안순일"
 date = "2018-04-12T13:39:46+02:00"
-teams = ["교수"]
+teams = ["faculty"]
 banner = "img/people/soonilan.jpg"
 email = "sian@yonsei.ac.kr"
 job = "정교수"
