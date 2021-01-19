@@ -1,7 +1,7 @@
 +++
 title = "김준A"
 date = "2015-08-03T13:39:46+02:00"
-teams = ["퇴임교수"]
+teams = ["retired"]
 banner = "img/people/joonkima.jpg"
 job = "퇴임교수(1995 ~ 2011)"
 email = "joon@snu.ac.kr"

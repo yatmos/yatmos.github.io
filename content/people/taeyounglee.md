@@ -1,7 +1,7 @@
 +++
 title = "이태영"
 date = "2017-04-10T13:39:46+02:00"
-teams = ["퇴임교수"]
+teams = ["retired"]
 banner = "img/people/taeyounglee.jpg"
 email = "lty@yonsei.ac.kr"
 job = "명예교수(1987.3~2017.2)"

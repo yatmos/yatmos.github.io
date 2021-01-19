@@ -1,7 +1,7 @@
 +++
 title = "석사졸업생"
 date = "2018-03-24T13:39:46+02:00"
-teams = ["졸업생명단"]
+teams = ["zalumni"]
 banner = "img/people/alumni.png"
 type = "alumni"
 weight = 60

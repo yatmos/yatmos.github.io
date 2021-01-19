@@ -17,9 +17,17 @@
             <li{{ if eq $current.RelPermalink ($name | urlize | lower | printf "/teams/%s/") }} class="active"{{ end }}>
                 <a href="{{ $.Site.BaseURL }}teams/{{ $name | urlize | lower }}"> 교수 </a>
             </li>
-            {{ else if eq $name "graduate" }}
+            {{ else if eq $name "retired" }}
             <li{{ if eq $current.RelPermalink ($name | urlize | lower | printf "/teams/%s/") }} class="active"{{ end }}>
-                <a href="{{ $.Site.BaseURL }}teams/{{ $name | urlize | lower }}"> 대학원생 </a>
+                <a href="{{ $.Site.BaseURL }}teams/{{ $name | urlize | lower }}"> 퇴임교수 </a>
+            </li>
+            {{ else if eq $name "staff" }}
+            <li{{ if eq $current.RelPermalink ($name | urlize | lower | printf "/teams/%s/") }} class="active"{{ end }}>
+                <a href="{{ $.Site.BaseURL }}teams/{{ $name | urlize | lower }}"> 신진연구인력 </a>
+            </li>
+            {{ else if eq $name "zalumni" }}
+            <li{{ if eq $current.RelPermalink ($name | urlize | lower | printf "/teams/%s/") }} class="active"{{ end }}>
+                <a href="{{ $.Site.BaseURL }}teams/{{ $name | urlize | lower }}"> 졸업생명단 </a>
             </li>
             {{ else }}
             <li{{ if eq $current.RelPermalink ($name | urlize | lower | printf "/teams/%s/") }} class="active"{{ end }}>

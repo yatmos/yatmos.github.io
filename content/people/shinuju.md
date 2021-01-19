@@ -1,7 +1,7 @@
 +++
 title = "신우주"
 date = "2018-03-24T13:39:46+02:00"
-teams = ["신진연구인력"]
+teams = ["staff"]
 banner = "img/people/shinuju.png"
 email = "shinuju@yonsei.ac.kr"
 job = "박사후 연구원"

@@ -1,7 +1,7 @@
 +++
 title = "김정우"
 date = "2016-04-09T13:39:46+02:00"
-teams = ["퇴임교수"]
+teams = ["retired"]
 banner = "img/people/jeongwookim.jpg"
 email = "j-wkim@yonsei.ac.kr "
 job = "정년퇴임교수(1982.8~2003.2)"
