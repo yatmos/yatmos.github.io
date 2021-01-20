@@ -1,7 +1,7 @@
 +++
 title = "윤아림"
 date = "2018-03-24T13:39:46+02:00"
-teams = ["대학원생"]
+teams = ["graduate"]
 banner = "img/people/arimyun.png"
 email = "arimyun@yonsei.ac.kr"
 job = "석사과정"

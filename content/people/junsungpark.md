@@ -1,7 +1,7 @@
 +++
 title = "박준성"
 date = "2018-03-24T13:39:46+02:00"
-teams = ["대학원생"]
+teams = ["graduate"]
 banner = "img/people/jspark.jpg"
 email = "ippjs@yonsei.ac.kr"
 job = "석사과정"

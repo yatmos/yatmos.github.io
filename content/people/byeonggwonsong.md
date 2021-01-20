@@ -1,7 +1,7 @@
 +++
 title = "송병권"
 date = "2018-03-24T13:39:46+02:00"
-teams = ["대학원생"]
+teams = ["graduate"]
 banner = "img/people/Byeong-Gwon Song.png"
 email = "songbg@yonsei.ac.kr"
 job = "통합과정"

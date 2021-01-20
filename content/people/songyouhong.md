@@ -1,7 +1,7 @@
 +++
 title = "홍성유"
 date = "2016-04-10T13:39:46+02:00"
-teams = ["retired"]
+teams = ["y_retired"]
 banner = "img/people/hong-photo-small.jpg"
 job = "퇴임교수(2000.9 ~ 2017.3)"
 email = "songyouhong@gmail.com"

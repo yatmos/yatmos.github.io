@@ -1,7 +1,7 @@
 +++
 title = "홍재민"
 date = "2018-03-24T13:39:46+02:00"
-teams = ["대학원생"]
+teams = ["graduate"]
 banner = "img/people/Jaemin_Hong.png"
 email = "rookie820@gmail.com"
 job = "통합과정"

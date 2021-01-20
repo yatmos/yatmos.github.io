@@ -1,7 +1,7 @@
 +++
 title = "임나리"
 date = "2020-03-24T13:39:46+02:00"
-teams = ["대학원생"]
+teams = ["graduate"]
 banner = "img/people/imnari.jpg"
 email = "imnari@yonsei.ac.kr"
 job = "석사과정"
