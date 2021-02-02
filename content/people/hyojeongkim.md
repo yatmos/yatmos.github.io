@@ -1,4 +1,4 @@
-+++
+﻿+++
 title = "김효정"
 date = "2018-03-24T13:39:46+02:00"
 teams = ["graduate"]
@@ -7,7 +7,7 @@ email = "kimhj29@yonsei.ac.kr"
 job = "박사과정"
 phone = ""
 room = "기후이론연구실 / 첨단관 606호"
-web = "http://climatelab.yonsei.ac.kr"
+web = "https://www.yonseictl.com/"
 weight = 40
 +++
 

@@ -1,4 +1,4 @@
-+++
+﻿+++
 title = "정유주"
 date = "2020-03-24T13:39:46+02:00"
 teams = ["graduate"]
@@ -7,7 +7,7 @@ email = "jyj30924@yonsei.ac.kr"
 job = "석사과정"
 phone = "02-2123-2574"
 room = "기후이론 연구실 / 과학관 701호"
-web = "http://climatelab.yonsei.ac.kr"
+web = "https://www.yonseictl.com/"
 weight = 50
 +++
 
