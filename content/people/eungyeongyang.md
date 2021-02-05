@@ -6,7 +6,7 @@ banner = "img/people/eungyeongyang.png"
 email = "yeg24@yonsei.ac.kr"
 job = "박사 후 연구원"
 phone = "02-2123-4815"
-room = "대기예측성, 자료동화 연구실 / 과학관 530 B호"
+room = "대기예측성 및 자료동화 연구실 / 과학관 530 B호"
 web = "http://web.yonsei.ac.kr/apdal"
 weight = 30
 +++
