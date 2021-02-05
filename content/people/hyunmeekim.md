@@ -12,9 +12,10 @@ weight = 5
 +++
 
 #### 연구분야
-+ 자료동화
-+ 예측가능성
-+ 최적관측
++ 자료동화, 예측가능성, 확률 예측
++ 대기질 모델링, 탄소 인버스 모델링
++ 최적관측, 관측망 디자인, 관측영향평가
++ 재분석/재예측과 기후 빅데이터
 + 종관규모 및 대규모역학
 
 #### 학력
@@ -32,17 +33,24 @@ weight = 5
 
 #### 담당과목
 + 자료동화
-+ 대기역학
++ 기상재해
++ 환경과 대기
++ 대기역학 I, 대기역학 II 
 + 예측가능성론
 
 #### 논문
++ Yang, E.-G., and H. M. Kim, 2021: A comparison of variational, ensemble-based, and hybrid data assimilation methods over East Asia for two one-month periods, Atmospheric Research, 249,105257, https://doi.org/10.1016/j.atmosres.2020.105257.
++ Park, J., and H. M. Kim, 2020: Design and evaluation of CO₂ observation network to optimize surface CO₂ fluxes in Asia using observation system simulation experiments, Atmospheric Chemistry and Physics, 20, 5175-5195, https://doi.org/10.5194/acp-20-5175-2020.
++ Kim, D.-H., H. M. Kim, and J. Hong, 2019: Evaluation of wind forecasts over Svalbard using the high-resolution Polar WRF with 3DVAR, Arctic, Antarctic, and Alpine Research, 51, 471-489, doi:10.1080/ 15230430.2019.1676939.
++ He, J., F. Zhang, X. Chen, X. Bao, D. Chen, H. M. Kim, H.-W. Lai, L. R. Leung, X. Ma, Z. Meng, T. Ou, Z. Xiao, E.-G. Yang, and K. Yang, 2019: Development and evaluation of an ensemble-based data assimilation system for regional reanalysis over the Tibetan Plateau and surrounging regions, Journal of Advances in Modeling Earth Systems, 11, 2503-2522, doi:10.1029/2019MS001665.
++ Kim, S.-M., and H. M. Kim, 2019: Forecast sensitivity observation impact in the 4DVAR and Hybrid-4DVAR data assimilation systems, Journal of Atmospheric and Oceanic Technology, 36, 1563-1575, doi:10.1175/JTECH-D-18-0240.1.
 + Hwang, S.-O., J. Park,and H. M. Kim, 2019: Effect of hydrometeor species on very-short-range simulations of precipitation using ERA5, Atmospheric Research, 218, 245-256, doi:10.1016/j.atmosres.2018.12.008.
 + On, N., H. M. Kim, and S. Kim, 2018: Effects of resolution, cumulus parameterization scheme, and probability forecasting on precipitation forecasts in a high-resolution limited-area ensemble prediction system, Asia-Pacific Journal of Atmospheric Sciences, 54, 623-637, doi:10.1007/s13143-018-0081-4.
 + Kim, S.-M., and H. M. Kim, 2018: Effect of observation error variance adjustment on numerical weather prediction using forecast sensitivity to error covariance parameters, Tellus A, 70, 1-16, doi:10.1080 /16000870.2018.1492839
 + Kim, D.-H., and H. M. Kim, 2018: Effect of assimilating Himawari-8 atmospheric motion vectors on forecast errors over East Asia, Journal of Atmospheric and Oceanic Technology, 35, 1737-1752, doi:10.1175/JTECH-D-17-0093.1.
-+ Kim, H., H. M. Kim, M. K. Cho, J. Park, and D.-H. Kim, 2018:  Development of the aircraft CO2 measurement data assimilation system to improve the estimation of surface CO2 fluxes using an inverse modeling system, Atmosphere, 28(2), 1-9, doi:10.14191/Atmos.2018.28.2.113. (in Korean with English abstract)  
++ Kim, H., H. M. Kim, M. K. Cho, J. Park, and D.-H. Kim, 2018:  Development of the aircraft CO₂ measurement data assimilation system to improve the estimation of surface CO₂ fluxes using an inverse modeling system, Atmosphere, 28(2), 1-9, doi:10.14191/Atmos.2018.28.2.113. (in Korean with English abstract)  
 + Noh, K., H. M. Kim, and D.-H. Kim, 2018: Development of the three-dimensional variational data assimilation system for the Republic of Korea Air Force operational numerical weather prediction system, Journal of the Korea Institute of Military Science and Technology, 21(3), 403-412, doi:10.9766/KIMST.2018.21.3.403. (in Korean with English abstract)
-+ Kim, H., H. M. Kim, J. Kim, and C.-H. Cho, 2018: Effect of data assimilation parameters on the optimized surface CO2 flux in Asia, Asia-Pacific Journal of Atmospheric Sciences, 54, 1-17, doi:10.1007/s13143-017-0049-9.
++ Kim, H., H. M. Kim, J. Kim, and C.-H. Cho, 2018: Effect of data assimilation parameters on the optimized surface CO₂ flux in Asia, Asia-Pacific Journal of Atmospheric Sciences, 54, 1-17, doi:10.1007/s13143-017-0049-9.
 + Yang, E.-G., and H. M. Kim, 2017: Evaluation of a regional reanalysis and ERA-Interim over East Asia using in situ observations during 2013-14, Journal of Applied Meteorology and Climatology, 56, 2821-2844, doi: 10.1175/JAMC-D-16-0227.1.
 + Kim, S., and H. M. Kim, 2017: Effect of considering sub-grid scale uncertainties on the forecasts of a high-resolution limited area ensemble prediction system, Pure and Applied Geophysics, 174(5), 2021-2037, doi: 10.1007/s00024-017-1513-2.
 + Kim, S.-M., and H. M. Kim, 2017: Adjoint-based observation impact of Advanced Microwave Sounding Unit-A (AMSU-A) on the short-range forecast in East Asia, Atmosphere, 27(1), 93-104, doi:10.14191/Atmos.2017.27.1.093. (in Korean with English abstract)
@@ -50,7 +58,7 @@ weight = 5
 + Kim, J., H. M. Kim, C.-H. Cho, K.-O. Boo, A. R. Jacobson, M. Sasakawa, T. Machida, M. Arshinov, and N. Fedoseev, 2017: Impact of Siberian observations on the optimization of surface CO₂flux, Atmospheric Chemistry and Physics, 17, 2881-2899, doi:10.5194/acp-17-2881-2017.
 + Kim, H. J., H. M. Kim, J. Kim, and C.-H. Cho, 2016: A Comparison of the Atmospheric CO₂ Concentrations Obtained by an Inverse Modeling System and Passenger Aircraft Based Measurement, Atmosphere, 26(3), 387-400. (in Korean with English abstract)
 + Kim, S., H. M. Kim, J. K. Kay, and S.-W. Lee, 2015: Development and evaluation of high resolution limited area ensemble prediction system in KMA, Atmosphere, 25(1), 67-83. (in Korean with English abstract)
-+ Kim, J., H. M. Kim, and C.-H. Cho, 2014: Influence of CO2 observations on the optimized CO2 flux in an ensemble Kalman filter, Atmospheric Chemistry and Physics, 14, 13515-13530, doi:10.5194/acp-14-13515-2014.
++ Kim, J., H. M. Kim, and C.-H. Cho, 2014: Influence of CO₂ observations on the optimized CO₂ flux in an ensemble Kalman filter, Atmospheric Chemistry and Physics, 14, 13515-13530, doi:10.5194/acp-14-13515-2014.
 + Yang, E.-G., H. M. Kim, J. Kim, and J. K. Kay, 2014: Effect of observation network design on meteorological forecasts of Asian dust events, Monthly Weather Review, 142, 4679-4695, doi:10.1175/MWR-D-14-00080.1.
 + Kim, S.-M., and H. M. Kim, 2014: Sampling error of observation impact statistics, Tellus A, 66, 25435, http://dx.doi.org/10.3402/tellusa.v66.25435.
 + Kay, J. K., and H. M. Kim, 2014: Characteristics of initial perturbations in the ensemble prediction system of the Korea Meteorological Administration, Weather and Forecasting, 29, 563-581, doi: 10.1175/WAF-D-13-00097.1.
