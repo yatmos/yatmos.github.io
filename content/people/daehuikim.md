@@ -19,6 +19,13 @@ weight = 40
  + **B.Sc** (2015) in Atmospheric Sciences, Yonsei University, Seoul, Korea
 
 #### 수상내역
-
++ (2020.02) 우수논문상 (수상기관: 연세대학교 BK21 플러스 지구대기천문사업단)
++ (2019.02) 우수논문상 (수상기관: 연세대학교 BK21 플러스 지구대기천문사업단)
++ (2018.12) 정성기 동문 대학원생 우수논문상 (수상기관: 연세대학교)
 
 #### 논문
++ Kim, D.-H., H. M. Kim, and J. Hong, 2019: Evaluation of wind forecasts over Svalbard using the high-resolution Polar WRF with 3DVAR, Arctic, Antarctic, and Alpine Research, 51, 471-489, doi:10.1080/ 15230430.2019.1676939.
++ Kim, D.-H., and H. M. Kim, 2018: Effect of assimilating Himawari-8 atmospheric motion vectors on forecast errors over East Asia, Journal of Atmospheric and Oceanic Technology, 35, 1737-1752, doi:10.1175/JTECH-D-17-0093.1.
++ Kim, H., H. M. Kim, M. K. Cho, J. Park, and D.-H. Kim, 2018:  Development of the aircraft CO2 measurement data assimilation system to improve the estimation of surface CO2 fluxes using an inverse modeling system, Atmosphere, 28(2), 1-9, doi:10.14191/Atmos.2018.28.2.1. (in Korean with English abstract)
++ Noh, K., H. M. Kim, and D.-H. Kim, 2018: Development of the three-dimensional variational data assimilation system for the Republic of Korea Air Force operational numerical weather prediction system, Journal of the Korea Institute of Military Science and Technology, 21(3), 403-412, doi:10.9766/KIMST.2018.21.3.403. (in Korean with English abstract)
+
