@@ -90,6 +90,11 @@
   </url>
   
   <url>
+    <loc>https://atmos.yonsei.ac.kr/people/jkpark/</loc>
+    <lastmod>2021-02-09T13:39:46+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://atmos.yonsei.ac.kr/people/taeyounglee/</loc>
     <lastmod>2017-04-10T13:39:46+02:00</lastmod>
   </url>
@@ -410,7 +415,7 @@
   </url>
   
   <url>
-    <loc>https://atmos.yonsei.ac.kr/people/seungwooryu/</loc>
+    <loc>https://atmos.yonsei.ac.kr/people/heyjinkim/</loc>
     <lastmod>2018-03-24T13:39:46+02:00</lastmod>
   </url>
   
@@ -425,7 +430,7 @@
   </url>
   
   <url>
-    <loc>https://atmos.yonsei.ac.kr/people/junsungpark/</loc>
+    <loc>https://atmos.yonsei.ac.kr/people/joonsungpark/</loc>
     <lastmod>2018-03-24T13:39:46+02:00</lastmod>
   </url>
   
@@ -436,6 +441,16 @@
   
   <url>
     <loc>https://atmos.yonsei.ac.kr/people/nahyunlee/</loc>
+    <lastmod>2018-03-24T13:39:46+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://atmos.yonsei.ac.kr/people/minjaelee/</loc>
+    <lastmod>2018-03-24T13:39:46+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://atmos.yonsei.ac.kr/people/sehyunlee/</loc>
     <lastmod>2018-03-24T13:39:46+02:00</lastmod>
   </url>
   
@@ -465,6 +480,26 @@
   </url>
   
   <url>
+    <loc>https://atmos.yonsei.ac.kr/teams/faculty/</loc>
+    <lastmod>2021-02-09T13:39:46+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://atmos.yonsei.ac.kr/teams/</loc>
+    <lastmod>2021-02-09T13:39:46+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://atmos.yonsei.ac.kr/people/</loc>
+    <lastmod>2021-02-09T13:39:46+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://atmos.yonsei.ac.kr/</loc>
+    <lastmod>2021-02-09T13:39:46+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://atmos.yonsei.ac.kr/blog/2021/02/05/notice_20210205/</loc>
     <lastmod>2021-02-05T10:00:16+09:00</lastmod>
   </url>
@@ -476,11 +511,6 @@
   
   <url>
     <loc>https://atmos.yonsei.ac.kr/categories/%EA%B3%B5%EC%A7%80%EC%82%AC%ED%95%AD/</loc>
-    <lastmod>2021-02-05T10:00:16+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://atmos.yonsei.ac.kr/</loc>
     <lastmod>2021-02-05T10:00:16+09:00</lastmod>
   </url>
   
@@ -826,16 +856,6 @@
   
   <url>
     <loc>https://atmos.yonsei.ac.kr/teams/graduate/</loc>
-    <lastmod>2020-03-24T13:39:46+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://atmos.yonsei.ac.kr/teams/</loc>
-    <lastmod>2020-03-24T13:39:46+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://atmos.yonsei.ac.kr/people/</loc>
     <lastmod>2020-03-24T13:39:46+02:00</lastmod>
   </url>
   
@@ -1402,11 +1422,6 @@
   <url>
     <loc>https://atmos.yonsei.ac.kr/blog/2018/09/10/seminar_youngheeryu/</loc>
     <lastmod>2018-09-10T11:49:47+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://atmos.yonsei.ac.kr/teams/faculty/</loc>
-    <lastmod>2018-09-04T13:39:46+02:00</lastmod>
   </url>
   
   <url>

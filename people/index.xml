@@ -6,7 +6,7 @@
     <description>Recent content in 사람들 on 연세대학교 대기과학과</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko</language>
-    <lastBuildDate>Tue, 24 Mar 2020 13:39:46 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 09 Feb 2021 13:39:46 +0200</lastBuildDate>
     
 	<atom:link href="https://atmos.yonsei.ac.kr/people/index.xml" rel="self" type="application/rss+xml" />
     
@@ -108,6 +108,15 @@
       
       <guid>https://atmos.yonsei.ac.kr/people/jahokoo/</guid>
       <description>연구분야 Asian/Pacific air pollution and environment Polar atmospheric chemistry Regional and global distribution of atmospheric components 학</description>
+    </item>
+    
+    <item>
+      <title>박정규</title>
+      <link>https://atmos.yonsei.ac.kr/people/jkpark/</link>
+      <pubDate>Tue, 09 Feb 2021 13:39:46 +0200</pubDate>
+      
+      <guid>https://atmos.yonsei.ac.kr/people/jkpark/</guid>
+      <description>연구분야 Climate prediction and analysis Asian monsoon and drought Climate change science and adaptation Urban climate and</description>
     </item>
     
     <item>
@@ -687,12 +696,12 @@
     </item>
     
     <item>
-      <title>류승우</title>
-      <link>https://atmos.yonsei.ac.kr/people/seungwooryu/</link>
+      <title>김혜진</title>
+      <link>https://atmos.yonsei.ac.kr/people/heyjinkim/</link>
       <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
       
-      <guid>https://atmos.yonsei.ac.kr/people/seungwooryu/</guid>
-      <description>연구분야 Atmospheric Modeling 학력 B.Sc (2018) in Physics and Mathematics, Catholic University of Korea, Bucheon, Korea</description>
+      <guid>https://atmos.yonsei.ac.kr/people/heyjinkim/</guid>
+      <description>연구분야 Estimation of aerosol optical depth from chemical transport model 학력 M.Sc (2020) in Atmospheric Science,</description>
     </item>
     
     <item>
@@ -715,11 +724,11 @@
     
     <item>
       <title>박준성</title>
-      <link>https://atmos.yonsei.ac.kr/people/junsungpark/</link>
+      <link>https://atmos.yonsei.ac.kr/people/joonsungpark/</link>
       <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
       
-      <guid>https://atmos.yonsei.ac.kr/people/junsungpark/</guid>
-      <description>연구분야 Atmospheric Modeling 학력 B.Sc (2019) in atmospheric sicences, Yonsei University, Seoul, Korea 수상내</description>
+      <guid>https://atmos.yonsei.ac.kr/people/joonsungpark/</guid>
+      <description>연구분야 Atmospheric Modeling 학력 M.Sc (2021) in atmospheric sicences, Yonsei University, Seoul, Korea B.Sc (2019) in</description>
     </item>
     
     <item>
@@ -738,6 +747,24 @@
       
       <guid>https://atmos.yonsei.ac.kr/people/nahyunlee/</guid>
       <description>연구분야 Air Quality and Atmospheric Chemistry over East Asia 학력 B.Sc (2021) in Energy Resources Engineering,</description>
+    </item>
+    
+    <item>
+      <title>이민재</title>
+      <link>https://atmos.yonsei.ac.kr/people/minjaelee/</link>
+      <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
+      
+      <guid>https://atmos.yonsei.ac.kr/people/minjaelee/</guid>
+      <description>연구분야 Atmospheric Modeling 학력 B.Sc (2021) in atmospheric sicences, Yonsei University, Seoul, Korea 수상내</description>
+    </item>
+    
+    <item>
+      <title>이세현</title>
+      <link>https://atmos.yonsei.ac.kr/people/sehyunlee/</link>
+      <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
+      
+      <guid>https://atmos.yonsei.ac.kr/people/sehyunlee/</guid>
+      <description>연구분야 Atmospheric Modeling 학력 B.Sc (2021) in atmospheric sicences, Yonsei University, Seoul, Korea 수상내</description>
     </item>
     
     <item>
