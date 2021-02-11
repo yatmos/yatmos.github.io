@@ -1,11 +1,11 @@
 +++
-title = "류승우"
+title = "이세현"
 date = "2018-03-24T13:39:46+02:00"
 teams = ["graduate"]
-banner = "img/people/rsw.jpg"
-email = "swryu@yonsei.ac.kr"
+banner = "img/people/sehyunlee.png"
+email = "wwww1996@hanmail.net"
 job = "석사과정"
-phone = "010-7535-2988"
+phone = "02-2123-3872"
 room = "대기모형연구실 / 과학관 536B호"
 web = "http://lamor.yonsei.ac.kr/"
 weight = 50
@@ -15,9 +15,8 @@ weight = 50
 + Atmospheric Modeling
 
 #### 학력
-+ **B.Sc** (2018) in Physics and Mathematics, Catholic University of Korea, Bucheon, Korea
++ **B.Sc** (2021) in atmospheric sicences, Yonsei University, Seoul, Korea
 
 #### 수상내역
-
 
 #### 논문
