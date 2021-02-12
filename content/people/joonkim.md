@@ -17,6 +17,5 @@ weight = 15
 
 #### 약력
 + 2008. 4 ~ present	Chair of AsiaFlux
-+ 2008. 1 ~ present
-+ Editor-in-Chief, Korean Journal of Agricultural and Forest Meteorology    
++ 2008. 1 ~ present Editor-in-Chief, Korean Journal of Agricultural and Forest Meteorology    
 + 2012. 3 ~ present	Chair, Interdisciplinary Program in Agricultural and Forest Meteorology, Seoul National University

@@ -39,6 +39,10 @@ weight = 10
 + 해양 물리
 
 #### 논문
++ Doddridge, E. W. , J. Marshall, **H. Song**, J-M Campin and M. Kelley (2021). Southern Ocean heat storage, reemergence, and winter sea ice decline induced by summertime winds. _Journal of Climate_ 34 (4), 1403-1415
+
++ Gupta, M., J. Marshall, **H. Song**, J-M Campin and G. Meneghello (2020). Sea‐Ice Melt Driven by Ice‐Ocean Stresses on the Mesoscale, _Journal of Geophysical Research: Oceans_ 125 (11), e2020JC016404
+
 + Wang, S., Kranz, S. A., Kelly, T. B., **Song, H.**, Stukel, M. R., & Cassar, N. (2020). Lagrangian studies of net community production: The effect of diel and multiday nonsteady state factors and vertical fluxes on O<sub>2</sub>/Ar in a dynamic upwelling region. Journal of Geophysical Research: Biogeosciences, 125, e2019JG005569. https://doi.org/10.1029/2019JG005569
 
 + **Song, H.**, Marshall, J., McGillicuddy, D. J., & Seo, H. (2020). Impact of Current-Wind Interaction on Vertical Processes in the Southern Ocean. _Journal of Geophysical Research: Oceans_, 125(4), [e2020JC016046].
