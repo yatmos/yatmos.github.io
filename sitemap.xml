@@ -480,7 +480,7 @@
   </url>
   
   <url>
-    <loc>https://atmos.yonsei.ac.kr/teams/faculty/</loc>
+    <loc>https://atmos.yonsei.ac.kr/teams/staff/</loc>
     <lastmod>2021-02-09T13:39:46+02:00</lastmod>
   </url>
   
@@ -1425,6 +1425,11 @@
   </url>
   
   <url>
+    <loc>https://atmos.yonsei.ac.kr/teams/faculty/</loc>
+    <lastmod>2018-09-04T13:39:46+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://atmos.yonsei.ac.kr/blog/2018/09/04/seminar_kuo/</loc>
     <lastmod>2018-09-04T11:49:47+09:00</lastmod>
   </url>
@@ -1652,11 +1657,6 @@
   <url>
     <loc>https://atmos.yonsei.ac.kr/blog/2018/03/27/seminar_baek/</loc>
     <lastmod>2018-03-27T06:48:02+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://atmos.yonsei.ac.kr/teams/staff/</loc>
-    <lastmod>2018-03-24T13:39:46+02:00</lastmod>
   </url>
   
   <url>
