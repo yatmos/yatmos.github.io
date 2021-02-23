@@ -1,7 +1,7 @@
 +++
 title = "조원석"
 date = "2020-03-13T18:10:46+02:00"
-teams = ["대학원생"]
+teams = ["graduate"]
 banner = "img/people/wonseokcho.jpg"
 email = "rebu@yonsei.ac.kr"
 job = "석사과정"

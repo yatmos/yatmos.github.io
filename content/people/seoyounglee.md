@@ -1,7 +1,7 @@
 +++
 title = "이서영"
 date = "2018-03-24T13:39:46+02:00"
-teams = ["대학원생"]
+teams = ["graduate"]
 banner = "img/people/seoyounglee.png"
 email = "tjdud9207@yonsei.ac.kr"
 job = "통합과정"

@@ -1,7 +1,7 @@
 +++
 title = "김재엽"
 date = "2018-03-24T13:39:46+02:00"
-teams = ["대학원생"]
+teams = ["graduate"]
 banner = "img/people/kimjy.jpg"
 email = "kimjy.par@yonsei.ac.kr"
 job = "통합과정"

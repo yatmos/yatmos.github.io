@@ -1,7 +1,7 @@
 +++
 title = "유지희"
 date = "2018-03-24T13:39:46+02:00"
-teams = ["대학원생"]
+teams = ["graduate"]
 banner = "img/people/jhyoo.jpg"
 email = "yoojh92@yonsei.ac.kr"
 job = "박사과정"

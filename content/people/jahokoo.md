@@ -1,7 +1,7 @@
 +++
 title = "구자호"
 date = "2018-03-24T13:39:46+02:00"
-teams = ["교수"]
+teams = ["faculty"]
 banner = "img/people/jahokoo.jpg"
 email = "zach45@yonsei.ac.kr"
 job = "조교수"

@@ -1,7 +1,7 @@
 +++
 title = "이우진"
 date = "2018-03-24T13:39:46+02:00"
-teams = ["신진연구인력"]
+teams = ["staff"]
 banner = "img/people/LEEwoojin.jpg"
 email = "wjlee1977@gmail.com"
 job = "연구 교수"
