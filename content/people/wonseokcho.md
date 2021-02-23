@@ -13,9 +13,10 @@ weight = 50
 
 #### 연구분야
  + Regional modeling land-atmosphere interaction
+ + Regional chemical transport modeling
 
 #### 학력
- + **B.Sc** (2019) in Atmospheric Sciences, Yonsei University, Seoul, Korea
+ + **B.Sc** (2019) in Atmospheric Sciences & Mechanical Engineering, Yonsei University, Seoul, Korea
 
 #### 수상내역
 
