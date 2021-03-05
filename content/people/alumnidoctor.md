@@ -573,6 +573,14 @@ th.tg-sort-header::-moz-selection { background:transparent; }th.tg-sort-header::
     <td class="tg-s8ju">홍진규</td>
   </tr>
   <tr>
+    <td class="tg-s8ju">신우주</td>
+    <td class="tg-s8ju">2019년 2월</td>
+    <td class="tg-s8ju">Environment and Processes for heavy rainfall in the morning<br>
+                        over the Korean peninsula during episodes of cloud clusters<br> 
+						associated with mesoscale troughs</td>
+    <td class="tg-s8ju">이태영</td>
+  </tr>
+  <tr>
     <td class="tg-s8ju">김나진</td>
     <td class="tg-s8ju">2019년 8월</td>
     <td class="tg-s8ju">Impact of Physical, chemical and hygroscopic properties <br>
@@ -637,6 +645,12 @@ th.tg-sort-header::-moz-selection { background:transparent; }th.tg-sort-header::
                       Implications of Spaceborne OMPS-NM and Airborne GEO-TASO <br>
                       Retrievals for the GEMS mission</td>
     <td class="tg-s8ju">김준</td>
+  </tr>
+  <tr>
+  <td class="tg-s8ju">강민지</td>
+  <td class="tg-s8ju">2021년 2월</td>
+  <td class="tg-s8ju">Role of Equatorial Waves and Convective Gravity Waves in QBO Disruptions </td>
+    <td class="tg-s8ju">전혜영</td>
   </tr>
 </table></div>
 
