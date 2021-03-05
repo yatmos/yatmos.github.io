@@ -1,6 +1,6 @@
 +++
 title = "[세미나] 송지혜 박사님"
-date = 2021-03-09T09:19:47+09:00
+date = 2021-03-05T09:19:47+09:00
 categories = ["세미나"]
 banner = "img/placeholder.png"
 icon = "microphone"
