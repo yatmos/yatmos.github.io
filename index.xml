@@ -6,7 +6,7 @@
     <description>Recent content on 연세대학교 대기과학과</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko</language>
-    <lastBuildDate>Mon, 22 Feb 2021 10:00:16 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 05 Mar 2021 10:00:16 +0900</lastBuildDate>
     
 	<atom:link href="https://atmos.yonsei.ac.kr/index.xml" rel="self" type="application/rss+xml" />
     
@@ -165,6 +165,15 @@
     </item>
     
     <item>
+      <title>송인선</title>
+      <link>https://atmos.yonsei.ac.kr/people/insunsong/</link>
+      <pubDate>Mon, 09 Apr 2018 13:39:46 +0200</pubDate>
+      
+      <guid>https://atmos.yonsei.ac.kr/people/insunsong/</guid>
+      <description>연구분야 전지구 전층대기 모델링 고층대기 대기</description>
+    </item>
+    
+    <item>
       <title>송하준</title>
       <link>https://atmos.yonsei.ac.kr/people/hajoonsong/</link>
       <pubDate>Tue, 04 Sep 2018 13:39:46 +0200</pubDate>
@@ -309,12 +318,39 @@
     </item>
     
     <item>
+      <title>이하나</title>
+      <link>https://atmos.yonsei.ac.kr/people/hanalee/</link>
+      <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
+      
+      <guid>https://atmos.yonsei.ac.kr/people/hanalee/</guid>
+      <description>연구분야 Estimation of Surface Solar radiation using satellite data Ground-based measurement of surface radiation Analysis of vertical</description>
+    </item>
+    
+    <item>
+      <title>정희성</title>
+      <link>https://atmos.yonsei.ac.kr/people/heesungchong/</link>
+      <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
+      
+      <guid>https://atmos.yonsei.ac.kr/people/heesungchong/</guid>
+      <description>연구분야 Remote sensing Trace gas retrievals Uncertainty estimation 학력 Ph.d. (2021) in Atmospheric Sciences, Yonsei University,</description>
+    </item>
+    
+    <item>
       <title>탁용진</title>
       <link>https://atmos.yonsei.ac.kr/people/yongjintack/</link>
       <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/people/yongjintack/</guid>
       <description>연구분야 Physical Oceanography Air-sea interacion Physical-biogeochemical coupled modelling 학력 B.Sc (2012) in Ocean Sciences, Pusan National</description>
+    </item>
+    
+    <item>
+      <title>안찬우</title>
+      <link>https://atmos.yonsei.ac.kr/people/chanwooahn/</link>
+      <pubDate>Tue, 24 Mar 2020 13:39:46 +0200</pubDate>
+      
+      <guid>https://atmos.yonsei.ac.kr/people/chanwooahn/</guid>
+      <description>연구분야 Aerosol in situ observation 학력 B.Sc (2021) in Atmospheric Sciences, Yonsei University, Seoul, Korea 수</description>
     </item>
     
     <item>
@@ -333,6 +369,24 @@
       
       <guid>https://atmos.yonsei.ac.kr/people/hanchangko/</guid>
       <description>연구분야 Atmospheric Turbulence High Vertical Resolution Radiosonde Data Aviation Turbulence 학력 B.Sc (2017) in Atmospheric Sciences,</description>
+    </item>
+    
+    <item>
+      <title>권도윤</title>
+      <link>https://atmos.yonsei.ac.kr/people/doyoonkwon/</link>
+      <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
+      
+      <guid>https://atmos.yonsei.ac.kr/people/doyoonkwon/</guid>
+      <description>연구분야 Regional modeling land-atmosphere interaction 학력 B.Sc (2021) in Atmospheric Sciences, Yonsei University, Seoul, Korea 수</description>
+    </item>
+    
+    <item>
+      <title>김경민</title>
+      <link>https://atmos.yonsei.ac.kr/people/kyeongmingim/</link>
+      <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
+      
+      <guid>https://atmos.yonsei.ac.kr/people/kyeongmingim/</guid>
+      <description>연구분야 Measurement and analysis of energy fluxes at the land-atmosphere interface 학력 B.Sc (2021) in Atmospheric</description>
     </item>
     
     <item>
@@ -390,30 +444,21 @@
     </item>
     
     <item>
-      <title>김아현</title>
-      <link>https://atmos.yonsei.ac.kr/people/ahhyunkim/</link>
-      <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
-      
-      <guid>https://atmos.yonsei.ac.kr/people/ahhyunkim/</guid>
-      <description>연구분야 General ciruculation model, cloud droplet activation 학력 M.Sc (2016) in Atmospheric Sciences, Yonsei University, Seoul,</description>
-    </item>
-    
-    <item>
-      <title>김원흥</title>
-      <link>https://atmos.yonsei.ac.kr/people/wonheungkim/</link>
-      <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
-      
-      <guid>https://atmos.yonsei.ac.kr/people/wonheungkim/</guid>
-      <description>연구분야 Numerical modeling of fog and seeding 학력 B.Sc (2012) in Atmospheric Sciences, Yonsei University, Seoul,</description>
-    </item>
-    
-    <item>
       <title>김재엽</title>
       <link>https://atmos.yonsei.ac.kr/people/jaeyoupkim/</link>
       <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/people/jaeyoupkim/</guid>
       <description>연구분야 Atmospheric Modeling Parallel Processing 학력 M.Sc (2019) in information science, University of Science and Technology,</description>
+    </item>
+    
+    <item>
+      <title>김정원</title>
+      <link>https://atmos.yonsei.ac.kr/people/jeongwonkim/</link>
+      <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
+      
+      <guid>https://atmos.yonsei.ac.kr/people/jeongwonkim/</guid>
+      <description>연구분야 Regional climate modeling Arctic Modeling 학력 M.Sc (2019) in Atmospheric Sciences, Yonsei University, Seoul, Korea</description>
     </item>
     
     <item>
@@ -495,15 +540,6 @@
       
       <guid>https://atmos.yonsei.ac.kr/people/byeonggwonsong/</guid>
       <description>연구분야 Gravity waves Polar Dynamics Stratospheric Sudden Warming 학력 B.Sc (2014) in Atmospheric Sciences, Yonsei University,</description>
-    </item>
-    
-    <item>
-      <title>송재인</title>
-      <link>https://atmos.yonsei.ac.kr/people/jaeinsong/</link>
-      <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
-      
-      <guid>https://atmos.yonsei.ac.kr/people/jaeinsong/</guid>
-      <description>연구분야 Cloud Physics Ground based remote sensing of clouds Fog in-situ measurements Visibility Parameterization 학력 B.Sc</description>
     </item>
     
     <item>
@@ -615,15 +651,6 @@
     </item>
     
     <item>
-      <title>이하나</title>
-      <link>https://atmos.yonsei.ac.kr/people/hanalee/</link>
-      <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
-      
-      <guid>https://atmos.yonsei.ac.kr/people/hanalee/</guid>
-      <description>연구분야 Estimation of Surface Solar radiation using satellite data Ground-based measurement of surface radiation Analysis of vertical</description>
-    </item>
-    
-    <item>
       <title>이현규</title>
       <link>https://atmos.yonsei.ac.kr/people/hyunkyulee/</link>
       <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
@@ -651,15 +678,6 @@
     </item>
     
     <item>
-      <title>정희성</title>
-      <link>https://atmos.yonsei.ac.kr/people/heesungchong/</link>
-      <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
-      
-      <guid>https://atmos.yonsei.ac.kr/people/heesungchong/</guid>
-      <description>연구분야 Remote sensing Trace gas retrievals Uncertainty estimation 학력 B.Sc (2015) in Chemical and Biomolecular Engineering,</description>
-    </item>
-    
-    <item>
       <title>조민광</title>
       <link>https://atmos.yonsei.ac.kr/people/minkwangcho/</link>
       <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
@@ -675,15 +693,6 @@
       
       <guid>https://atmos.yonsei.ac.kr/people/yeseulcho/</guid>
       <description>연구분야 Column-surface relationship Investigation of aircraft measurement campaign Estimation of ground-level PM2.5 using a machine learning method</description>
-    </item>
-    
-    <item>
-      <title>최경옥</title>
-      <link>https://atmos.yonsei.ac.kr/people/kyoungockchoi/</link>
-      <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
-      
-      <guid>https://atmos.yonsei.ac.kr/people/kyoungockchoi/</guid>
-      <description>연구분야 Large Eddy Simulation Entrainment and Mixing Cloud Seeding 학력 B.Sc (2014) in Atmospheric Sciences, Yonsei</description>
     </item>
     
     <item>
@@ -764,7 +773,7 @@
       <pubDate>Fri, 13 Mar 2020 18:10:46 +0200</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/people/wonseokcho/</guid>
-      <description>연구분야 Regional modeling land-atmosphere interaction 학력 B.Sc (2019) in Atmospheric Sciences, Yonsei University, Seoul, Korea 수</description>
+      <description>연구분야 Regional modeling land-atmosphere interaction Regional chemical transport modeling 학력 B.Sc (2019) in Atmospheric Sciences &amp;amp;</description>
     </item>
     
     <item>
@@ -927,6 +936,42 @@
       
       <guid>https://atmos.yonsei.ac.kr/people/alumnimaster/</guid>
       <description>석사학위자 명단 .tg {border-collapse:collapse;border-spacing:0;border:none;border-color:#ccc;margin:0px auto;} .tg td{font-family:Arial, sans-serif;font-size:14px;padding:20px 6px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:#ccc;color:#333;background-color:#fff;} .tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:20px 6px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:#ccc;color:#333;background-color:#f0f0f0;} .tg .tg-44m2{font-weight:bold;font-size:16px;font-family:&#34;Arial</description>
+    </item>
+    
+    <item>
+      <title>2021학년도 1학기 대기과학과 콜로키엄 일정</title>
+      <link>https://atmos.yonsei.ac.kr/blog/2021/03/05/notice_20210305/</link>
+      <pubDate>Fri, 05 Mar 2021 10:00:16 +0900</pubDate>
+      
+      <guid>https://atmos.yonsei.ac.kr/blog/2021/03/05/notice_20210305/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>연세대학교 이과대학 BK21 지구·대기·천문 교육연구단(구름물리연구실) Post-Doc. 모집</title>
+      <link>https://atmos.yonsei.ac.kr/blog/2021/03/05/employment_20210305/</link>
+      <pubDate>Fri, 05 Mar 2021 10:00:16 +0900</pubDate>
+      
+      <guid>https://atmos.yonsei.ac.kr/blog/2021/03/05/employment_20210305/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[세미나] 송지혜 박사님</title>
+      <link>https://atmos.yonsei.ac.kr/blog/2021/03/05/seminar_20210309_jihyesong/</link>
+      <pubDate>Fri, 05 Mar 2021 09:19:47 +0900</pubDate>
+      
+      <guid>https://atmos.yonsei.ac.kr/blog/2021/03/05/seminar_20210309_jihyesong/</guid>
+      <description>송지혜 박사 (삼성안전환경연구소) 2021</description>
+    </item>
+    
+    <item>
+      <title>「2021년도 기상기후산업 청년창업 지원사업」 예비창업팀 모집 </title>
+      <link>https://atmos.yonsei.ac.kr/blog/2021/02/24/notice_20210224/</link>
+      <pubDate>Wed, 24 Feb 2021 10:00:16 +0900</pubDate>
+      
+      <guid>https://atmos.yonsei.ac.kr/blog/2021/02/24/notice_20210224/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -2970,6 +3015,15 @@
       
       <guid>https://atmos.yonsei.ac.kr/blog/2018/03/27/seminar_baek/</guid>
       <description>도시 흐름, 대류 및 분산 (Urban Flow, Convection, and Dispersion) 백종진 교수</description>
+    </item>
+    
+    <item>
+      <title>이예슬</title>
+      <link>https://atmos.yonsei.ac.kr/people/yeseullee/</link>
+      <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
+      
+      <guid>https://atmos.yonsei.ac.kr/people/yeseullee/</guid>
+      <description>연구분야 Wind Shear High Vertical Resolution Radiosonde Data Aviation Turbulence 학력 B.Sc (2021) in Atmospheric Sciences,</description>
     </item>
     
     <item>
