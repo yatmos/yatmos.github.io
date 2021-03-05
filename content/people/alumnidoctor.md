@@ -578,7 +578,7 @@ th.tg-sort-header::-moz-selection { background:transparent; }th.tg-sort-header::
     <td class="tg-s8ju">Environment and Processes for heavy rainfall in the morning<br>
                         over the Korean peninsula during episodes of cloud clusters<br> 
 						associated with mesoscale troughs</td>
-    <td class="tg-s8ju">이태영</td>
+    <td class="tg-s8ju">박상훈</td>
   </tr>
   <tr>
     <td class="tg-s8ju">김나진</td>
