@@ -19,7 +19,7 @@ web = "https://undividedlife.github.io"
 #### 학력
 + **Ph.D.** (2005) Department of Atmospheric Sciences, Yonsei University, Seoul, Korea
 + **M.S.** (1999) Department of Atmospheric Sciences, Yonsei University, Seoul, Korea
-+ **B.S.** (199)  Department of Atmospheric Sciences, Yonsei University, Seoul, Korea
++ **B.S.** (1997)  Department of Atmospheric Sciences, Yonsei University, Seoul, Korea
 
 #### 연구경력
 + 2015-2021: Postdoctoral scientist, Korea Polar Research Institute
