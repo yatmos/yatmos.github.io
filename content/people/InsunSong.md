@@ -1,13 +1,13 @@
 ﻿+++
 title = "송인선"
-date = "2018-04-09T13:39:46+02:00"
+date = "2018-01-24T13:39:46+02:00"
 teams = ["faculty"]
 banner = "img/people/insunsong.jpg"
 email = "songi@yonsei.ac.kr"
 job = "부교수"
 phone = "02-2123-5650"
 room = "수리대기물리 연구실 / 과학관 548호"
-weight = 9
+weight = 12
 web = "https://undividedlife.github.io"
 +++
 
