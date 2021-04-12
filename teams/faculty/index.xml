@@ -6,7 +6,7 @@
     <description>Recent content in faculty on 연세대학교 대기과학과</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko</language>
-    <lastBuildDate>Tue, 04 Sep 2018 13:39:46 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 24 Dec 2018 13:39:46 +0200</lastBuildDate>
     
 	<atom:link href="https://atmos.yonsei.ac.kr/teams/faculty/index.xml" rel="self" type="application/rss+xml" />
     
@@ -93,15 +93,6 @@
     </item>
     
     <item>
-      <title>송인선</title>
-      <link>https://atmos.yonsei.ac.kr/people/insunsong/</link>
-      <pubDate>Mon, 09 Apr 2018 13:39:46 +0200</pubDate>
-      
-      <guid>https://atmos.yonsei.ac.kr/people/insunsong/</guid>
-      <description>연구분야 전지구 전층대기 모델링 고층대기 대기</description>
-    </item>
-    
-    <item>
       <title>송하준</title>
       <link>https://atmos.yonsei.ac.kr/people/hajoonsong/</link>
       <pubDate>Tue, 04 Sep 2018 13:39:46 +0200</pubDate>
@@ -113,10 +104,19 @@
     <item>
       <title>구자호</title>
       <link>https://atmos.yonsei.ac.kr/people/jahokoo/</link>
-      <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
+      <pubDate>Mon, 24 Dec 2018 13:39:46 +0200</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/people/jahokoo/</guid>
       <description>연구분야 Asian/Pacific air pollution and environment Polar atmospheric chemistry Regional and global distribution of atmospheric components 학</description>
+    </item>
+    
+    <item>
+      <title>송인선</title>
+      <link>https://atmos.yonsei.ac.kr/people/insunsong/</link>
+      <pubDate>Wed, 24 Jan 2018 13:39:46 +0200</pubDate>
+      
+      <guid>https://atmos.yonsei.ac.kr/people/insunsong/</guid>
+      <description>연구분야 전지구 전층대기 모델링 고층대기 대기</description>
     </item>
     
   </channel>

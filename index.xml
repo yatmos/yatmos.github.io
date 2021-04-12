@@ -6,7 +6,7 @@
     <description>Recent content on 연세대학교 대기과학과</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko</language>
-    <lastBuildDate>Thu, 01 Apr 2021 10:00:16 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 12 Apr 2021 06:47:02 +0900</lastBuildDate>
     
 	<atom:link href="https://atmos.yonsei.ac.kr/index.xml" rel="self" type="application/rss+xml" />
     
@@ -165,15 +165,6 @@
     </item>
     
     <item>
-      <title>송인선</title>
-      <link>https://atmos.yonsei.ac.kr/people/insunsong/</link>
-      <pubDate>Mon, 09 Apr 2018 13:39:46 +0200</pubDate>
-      
-      <guid>https://atmos.yonsei.ac.kr/people/insunsong/</guid>
-      <description>연구분야 전지구 전층대기 모델링 고층대기 대기</description>
-    </item>
-    
-    <item>
       <title>송하준</title>
       <link>https://atmos.yonsei.ac.kr/people/hajoonsong/</link>
       <pubDate>Tue, 04 Sep 2018 13:39:46 +0200</pubDate>
@@ -185,7 +176,7 @@
     <item>
       <title>구자호</title>
       <link>https://atmos.yonsei.ac.kr/people/jahokoo/</link>
-      <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
+      <pubDate>Mon, 24 Dec 2018 13:39:46 +0200</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/people/jahokoo/</guid>
       <description>연구분야 Asian/Pacific air pollution and environment Polar atmospheric chemistry Regional and global distribution of atmospheric components 학</description>
@@ -198,6 +189,15 @@
       
       <guid>https://atmos.yonsei.ac.kr/people/jkpark/</guid>
       <description>연구분야 Climate prediction and analysis Asian monsoon and drought Climate change science and adaptation Urban climate and</description>
+    </item>
+    
+    <item>
+      <title>송인선</title>
+      <link>https://atmos.yonsei.ac.kr/people/insunsong/</link>
+      <pubDate>Wed, 24 Jan 2018 13:39:46 +0200</pubDate>
+      
+      <guid>https://atmos.yonsei.ac.kr/people/insunsong/</guid>
+      <description>연구분야 전지구 전층대기 모델링 고층대기 대기</description>
     </item>
     
     <item>
@@ -909,6 +909,33 @@
       
       <guid>https://atmos.yonsei.ac.kr/people/alumnimaster/</guid>
       <description>석사학위자 명단 .tg {border-collapse:collapse;border-spacing:0;border:none;border-color:#ccc;margin:0px auto;} .tg td{font-family:Arial, sans-serif;font-size:14px;padding:20px 6px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:#ccc;color:#333;background-color:#fff;} .tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:20px 6px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:#ccc;color:#333;background-color:#f0f0f0;} .tg .tg-44m2{font-weight:bold;font-size:16px;font-family:&#34;Arial</description>
+    </item>
+    
+    <item>
+      <title>박상훈, 송하준, 구자호 교수, 우수강의 교수상 수상</title>
+      <link>https://atmos.yonsei.ac.kr/blog/2021/04/12/award_2020_teaching/</link>
+      <pubDate>Mon, 12 Apr 2021 06:47:02 +0900</pubDate>
+      
+      <guid>https://atmos.yonsei.ac.kr/blog/2021/04/12/award_2020_teaching/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[세미나] 신혜윰 박사님</title>
+      <link>https://atmos.yonsei.ac.kr/blog/2021/04/09/seminar_20210413_hyeyumshin/</link>
+      <pubDate>Fri, 09 Apr 2021 09:19:47 +0900</pubDate>
+      
+      <guid>https://atmos.yonsei.ac.kr/blog/2021/04/09/seminar_20210413_hyeyumshin/</guid>
+      <description>Supporting Urban Air Mobility Operations with Building-Resolving Simulations: Weather Sensitivities of Fine-Scale Urban Flows 신혜윰 박사 (NCAR)</description>
+    </item>
+    
+    <item>
+      <title>[세미나] 최용주 박사님</title>
+      <link>https://atmos.yonsei.ac.kr/blog/2021/04/02/seminar_20210406_yongjoochoi/</link>
+      <pubDate>Fri, 02 Apr 2021 09:19:47 +0900</pubDate>
+      
+      <guid>https://atmos.yonsei.ac.kr/blog/2021/04/02/seminar_20210406_yongjoochoi/</guid>
+      <description>Regional variability in black carbon and carbon monoxide ratio from long-term observations over East Asia: assessment of emission inventories and</description>
     </item>
     
     <item>
