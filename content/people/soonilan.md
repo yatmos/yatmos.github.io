@@ -1,13 +1,13 @@
-+++
+﻿+++
 title = "안순일"
 date = "2018-04-12T13:39:46+02:00"
-teams = ["교수"]
+teams = ["faculty"]
 banner = "img/people/soonilan.jpg"
 email = "sian@yonsei.ac.kr"
 job = "정교수"
 phone = "02-2123-5684"
 room = "기후이론 연구실 / 과학관 538호"
-web = "http://climatelab.yonsei.ac.kr"
+web = "https://www.yonseictl.com/"
 weight = 6
 +++
 

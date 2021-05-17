@@ -1,7 +1,7 @@
 ﻿+++
 title = "최지수"
 date = "2018-03-24T13:39:46+02:00"
-teams = ["대학원생"]
+teams = ["graduate"]
 banner = "img/people/jisuchoi.png"
 email = "js4975@yonsei.ac.kr"
 job = "통합과정"

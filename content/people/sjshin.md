@@ -1,13 +1,13 @@
-+++
+﻿+++
 title = "신소정"
 date = "2018-03-24T13:39:46+02:00"
-teams = ["대학원생"]
+teams = ["graduate"]
 banner = "img/people/sjshin.png"
 email = "sjshin89@yonsei.ac.kr"
 job = "박사과정"
 phone = "010-2946-4065"
 room = "기후이론연구실/ 과학관 536A호"
-web = "http://climatelab.yonsei.ac.kr"
+web = "https://www.yonseictl.com/"
 weight = 40
 +++
 

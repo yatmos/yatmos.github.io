@@ -1,7 +1,7 @@
 +++
 title = "박사졸업생"
 date = "2018-03-24T13:39:46+02:00"
-teams = ["졸업생명단"]
+teams = ["학과졸업생"]
 banner = "img/people/alumni.png"
 type = "alumni"
 weight = 60
@@ -573,6 +573,14 @@ th.tg-sort-header::-moz-selection { background:transparent; }th.tg-sort-header::
     <td class="tg-s8ju">홍진규</td>
   </tr>
   <tr>
+    <td class="tg-s8ju">신우주</td>
+    <td class="tg-s8ju">2019년 2월</td>
+    <td class="tg-s8ju">Environment and Processes for heavy rainfall in the morning<br>
+                        over the Korean peninsula during episodes of cloud clusters<br> 
+						associated with mesoscale troughs</td>
+    <td class="tg-s8ju">박상훈</td>
+  </tr>
+  <tr>
     <td class="tg-s8ju">김나진</td>
     <td class="tg-s8ju">2019년 8월</td>
     <td class="tg-s8ju">Impact of Physical, chemical and hygroscopic properties <br>
@@ -611,6 +619,37 @@ th.tg-sort-header::-moz-selection { background:transparent; }th.tg-sort-header::
   <td class="tg-s8ju">Application of a Convective Gravity-Wave <br>
                       Drag Parameterization to Development <br>
                       of Near-Cloud Turbulence Diagnostics </td>
+    <td class="tg-s8ju">전혜영</td>
+  </tr>
+  <tr>
+  <td class="tg-s8ju">이하나</td>
+  <td class="tg-s8ju">2021년 2월</td>
+  <td class="tg-s8ju">Atmospheric Transmissions by Clouds, <br>
+                      Aerosol and Ozone in the Solar UV and <br>
+                      Total Radiation in Seoul, Korea </td>
+    <td class="tg-s8ju">김준</td>
+  </tr>
+  <tr>
+  <td class="tg-s8ju">이서영</td>
+  <td class="tg-s8ju">2021년 2월</td>
+  <td class="tg-s8ju">Retrieval of Aerosol Optical Properties <br>
+                      from GOCI and GOCI-II and Applications to <br>
+                      Trend and Transport Analyses in East Asia </td>
+    <td class="tg-s8ju">김준</td>
+  </tr>
+  <tr>
+  <td class="tg-s8ju">정희성</td>
+  <td class="tg-s8ju">2021년 2월</td>
+  <td class="tg-s8ju">Optimization of Spectral Fitting for Trace Gas <br>
+                      Column Retrievals from Hyperspectral UV-VIS Spectrometer: <br>
+                      Implications of Spaceborne OMPS-NM and Airborne GEO-TASO <br>
+                      Retrievals for the GEMS mission</td>
+    <td class="tg-s8ju">김준</td>
+  </tr>
+  <tr>
+  <td class="tg-s8ju">강민지</td>
+  <td class="tg-s8ju">2021년 2월</td>
+  <td class="tg-s8ju">Role of Equatorial Waves and Convective Gravity Waves in QBO Disruptions </td>
     <td class="tg-s8ju">전혜영</td>
   </tr>
 </table></div>

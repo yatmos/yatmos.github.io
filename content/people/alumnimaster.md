@@ -1,7 +1,7 @@
 +++
 title = "석사졸업생"
 date = "2018-03-24T13:39:46+02:00"
-teams = ["졸업생명단"]
+teams = ["학과졸업생"]
 banner = "img/people/alumni.png"
 type = "alumni"
 weight = 60
@@ -1028,6 +1028,25 @@ th.tg-sort-header::-moz-selection { background:transparent; }th.tg-sort-header::
     <td class="tg-s8ju">국립환경과학원 현업 수치모델을 이용한 에어로졸 광학두께 산출 방법<br>
                         및 검증에 관한 연구</td>
     <td class="tg-s8ju">박상훈</td>
+  </tr>
+    <tr>
+    <td class="tg-s8ju">박준성</td>
+    <td class="tg-s8ju">2021년 2월</td>
+    <td class="tg-s8ju">이상 실험을 이용한 역학 코어에 따른 성층권 돌연 승온 모의 비교</td>
+    <td class="tg-s8ju">박상훈</td>
+  </tr>
+    <tr>
+    <td class="tg-s8ju">류승우</td>
+    <td class="tg-s8ju">2021년 2월</td>
+    <td class="tg-s8ju">TIGGE data를 이용한 고농도 미세먼지와 황사 사례에 대한<br>
+                        종관기상장 예보 검증</td>
+    <td class="tg-s8ju">박상훈</td>
+  </tr>
+    <tr>
+    <td class="tg-s8ju">임수연</td>
+    <td class="tg-s8ju">2021년 2월</td>
+    <td class="tg-s8ju">산업화 이전과 홀로세 중기에서 나타난 엘니뇨-남방진동이 적도 대서양에 미치는 영향</td>
+    <td class="tg-s8ju">안순일</td>
   </tr>
 </table></div>
 

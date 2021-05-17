@@ -1,7 +1,7 @@
 +++
 title = "라인엽"
 date = "2018-03-24T13:39:46+02:00"
-teams = ["대학원생"]
+teams = ["graduate"]
 banner = "img/people/inyeobla.png"
 email = "iyna481@yonsei.ac.kr"
 job = "통합(박사)과정"

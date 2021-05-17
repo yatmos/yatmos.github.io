@@ -1,12 +1,12 @@
-+++
+﻿+++
 title = "김승기"
 date = "2018-03-24T13:39:46+02:00"
-teams = ["대학원생"]
+teams = ["graduate"]
 banner = "img/people/kimsoongki.png"
 email = "sskk503@yonsei.ac.kr"
 job = "박사과정"
 phone = "010-5037-8889"
-room = "기후이론 연구실 / 과학관 536A호"
+room = "기후이론 연구실 / 첨단관 606호"
 web = "https://scholar.google.com/citations?user=WfLIUaoAAAAJ&hl=en"
 weight = 40
 +++
@@ -23,4 +23,7 @@ weight = 40
 
 
 #### 논문
++ R. Olson, S.-I. An, S.-K. Kim and Y. Fan (2021) A novel approach for discovering stochastic models behind data applied to El Niño–Southern Oscillation, Scientific Reports, https://doi.org/10.1038/s41598-021-81162-2
++ S.-I. An, H.-J. Kim, and S.-K. Kim (2021) Rate-dependent hysteresis of the Atlantic Meridional Overturning Circulation system and its asymmetric loop, Geophysical Research Letters, https://doi.org/10.1029/2020GL090132
++ S.-I. An, S.-K. Kim and A. Timmermann (2020) Fokker–Planck dynamics of the El Niño-Southern Oscillation, Scientific Reports, 10, 16282, https://doi.org/10.1038/s41598-020-73449-7
 + S.-K. Kim, S.-I. An (2020) Untangling El Niño-La Niña Asymmetries Using a Nonlinear Coupled Dynamic Index, Geophysical Research Letters, e2019GL085881

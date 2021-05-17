@@ -1,7 +1,7 @@
 +++
 title = "윤아림"
 date = "2018-03-24T13:39:46+02:00"
-teams = ["대학원생"]
+teams = ["graduate"]
 banner = "img/people/arimyun.png"
 email = "arimyun@yonsei.ac.kr"
 job = "석사과정"
@@ -19,5 +19,6 @@ weight = 50
  + **B.Sc** (2019) in Atmospheric Sciences, Yonsei University, Seoul, Korea
 
 #### 수상내역
-
+ + (2020) Best Presentation in the 2020 fall conference of Korean Meteorological Society
+ 
 #### 논문

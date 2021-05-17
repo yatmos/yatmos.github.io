@@ -1,7 +1,7 @@
 +++
 title = "조원석"
 date = "2020-03-13T18:10:46+02:00"
-teams = ["대학원생"]
+teams = ["graduate"]
 banner = "img/people/wonseokcho.jpg"
 email = "rebu@yonsei.ac.kr"
 job = "석사과정"
@@ -13,9 +13,10 @@ weight = 50
 
 #### 연구분야
  + Regional modeling land-atmosphere interaction
+ + Regional chemical transport modeling
 
 #### 학력
- + **B.Sc** (2019) in Atmospheric Sciences, Yonsei University, Seoul, Korea
+ + **B.Sc** (2019) in Atmospheric Sciences & Mechanical Engineering, Yonsei University, Seoul, Korea
 
 #### 수상내역
 

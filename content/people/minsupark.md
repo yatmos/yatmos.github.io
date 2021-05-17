@@ -1,10 +1,10 @@
 ﻿+++
 title = "박민수"
 date = "2018-03-24T13:39:46+02:00"
-teams = ["신진연구인력"]
+teams = ["staff"]
 banner = "img/people/minsupark.png"
 email = "ms_park@yonsei.ac.kr "
-job = "박사 후 연구원"
+job = "연구교수"
 phone = "02-2123-7613"
 room = "구름물리 연구실 / 과학관 530A호"
 web = "http://cloud.yonsei.ac.kr"

@@ -1,7 +1,7 @@
 +++
 title = "염성수"
 date = "2018-04-15T13:39:46+02:00"
-teams = ["교수"]
+teams = ["faculty"]
 banner = "img/people/seongsooyum.jpg"
 email = "ssyum@yonsei.ac.kr"
 job = "정교수"
@@ -27,9 +27,47 @@ weight = 3
 
 #### 담당과목
 + 대기물리
++ 기상통계분석
 + 구름 및 강수과정
++ 기상자료처리법
 
 #### 논문
++ Kim, A. H., Yum, S. S., Chang, D. Y., & Park, M. (2020). Optimization of Sulfate Aerosol Hygroscopicity Parameter in WRF-Chem version (3.8.1). Geoscientific Model Development Discussions, 1-27.
++ Chang, D. Y., J. Lelieveld, B. Steil, J. Yoon, S. S. Yum, and A.-H. Kim, 2020: Variability of aerosol-cloud interactions induced by different cloud droplet nucleation schemes. Atmos. Res., accepted.
++ 김민석, 이서영, 조예슬, 구자호, 염성수, 김준, 2020: 서울의 기상 조건에 따른 미세먼지와 시정 거리의 상관성, 대기, 게재 승인
++ Kim, N., S. S. Yum, M. Park, J. S. Park, H. J. Shin, and J. Y. Ahn, 2020: Hygroscopicity of urban aerosols and its link to size-resolved chemical composition during spring/summer in Seoul, Korea. Atmos. Chem. Phys., 20, 11245-11262, https://doi.org/10.5194/acp-20-11245-2020.
++ Choi, K. O., S. S. Yum, D. Y. Chang, J. M. Yeom and S. S. Lee, 2020: A study of the effect of regenerated CCN on marine stratocumulus cloud development using the WRF-LES model with spectral bin microphysics scheme. Atmos. Res., 246,  https://doi.org/10.1016/j.atomsres.2020.105100.
++ Cha, J. W., and S. S. Yum, 2020: Characteristics of precipitation particles measured by PARSIVEL disdrometer at a mountain and a coastal site in Korea. Asia-Pac. J. Atmos. Sci., https://doi.org/10.1007/s13143-020-00190-6.
++ Park, M., S. S. Yum, N. Kim, B. E. Anderson, A. Beyersdorf, and K. L. Thornhill, 2020: On the submicron aerosol distributions and CCN activity in and around the Korean Peninsula measured onboard the NASA DC-8 research aircraft during the KORUS-AQ campaign, Atmos. Res., 243, https://doi.org/10.1016/j.atmosres.2020.105004.
++ Lu, C., Y. Liu, S. S. Yum, J. Chen, L. Zhu, S. Gao, Y. Yin, X. Jia, and Y. Wang, 2020: Reconciling contrasting relationships between relative dispersion and volume-mean radius of cloud droplet size distributions. J. Geophys. Res., 125, e2019JD031868, https://doi.org/10.1029/2019JD031868.
++ Zhu, L, C. Lu, S. Gao and S. S. Yum, 2020: Spectral width of cloud droplet spectra and its impact factors in marine stratocumulus. Chinese J. of Atmos. Sci., 44, 575-590, doi: 10.3878/j.issn.1006-9895.1905.19115.
++ Park, J., M. Dall’Ssto, K. Park. Y. Gim, H. J. Kang, E. Jang, K.-T. Park, M. Park, S. S. Yum, J. Jung, B. Y. Lee, and Y. J. Yoon, 2020: Shipborne observations reveal contrasting Arctic marine, Arctic terrestrial and Pacific marine aerosol properties. Atmos. Chem. Phys., 20, 5573-5590, https://doi.org/10.5194/acp-20-5573-2020.
++ Kim, W., S. S. Yum, J. Hong, and J. I. Song, 2020: Improvement of fog predictability by the nudging of a meteorological tower data in the WRF and PAFOG coupled model. Atmosphere, 11, 311, doi:10.3390/atmos11030311.
++ La, I., S. S. Yum, I. Gultepe, J. M. Yeom, J. I. Song, and J. W. Cha, 2020: Influence of quasi-periodic oscillation of atmospheric variables on radiation fog over a mountainous region of Korea. Atmosphere, 11, 230, doi:10.3390/atmos11030230.
++ Kim, W., S. S. Yum, and C. K. Kim, 2020: Numerical simulation of sea fog over the Yellow Sea: Comparison between UM+PAFOG and WRF+PAFOG coupled systems. Asia-Pac. J. of Atmos. Sci., 56, 89-105, https://doi.org/10.1007/s13143-019-00134-9.
++ Min, S., K.-H. Shin, W. Baek, K. Kim, C.-H. You, D.-I. Lee, S. S. Yum, W. Kim, K.-H. Chang, 2020: Dynamical Behavior of Combined Detrended Cross-Correlation Analysis Methods in Random Walks and Levy Flights. Physica A: Stat. Mech. And Appl., 539, 122872, https://doi.org/10.1016/j.physa.2019.122872.
++ 송재인, 염성수, 2019: 서울에서의 미세먼지 저감을 위한 인공강수 가능성 진단. 대기, 29, 609-614, https://doi.org/10.14191/Atmos.2019.29.5.609.
++ 심성보, 권상훈, 임윤진, 염성수, 변영화, 2019: 1.5/2.0 C 지구온난화 시나리오 기반의 동아시아 기후변화 분석. 대기, 29, 391-401, https://doi.org/10.14191/Atmos.2019.29.4.391.
++ Shim, S., J. Kim, S. S. Yum, H. Lee, K.-O. Boo and Y.-W. Byun, 2019: Effects of anthropogenic and natural forcings on the summer temperature variations in East Asia during the 20th century. Atmosphere, 10, 690, https://doi.org/10.3390/atmos10110690.
++ Yeom, J. M., S. S. Yum, F. Mei, B. Schmid, J. Comstock, L. A. Machado, and M. A. Cecchini, 2019: Impact of secondary droplet activation on the contrasting cloud microphysical relationships during the wet and dry seasons in the Amazon. Atmos. Res., 230, https://doi.org/10.1016/j.atmosres.2019.104648.
++ Park, J., M. Dall’Osto, K. Park,…..S. S. Yum et al., 2019: Arctic primary aerosol production strongly influenced by reverine organic matter. Environ. Sci. Technol., 53, 8621-8630. DOI: 10.1021/acs.est.9b03399.
++ Yoon, J., D. Y. Chang, J. Lelieveld, A. Pozzer, J. Kim and S. S. Yum, 2019: Empirical evidence of a positive climate forcing of aerosols at elevated albedo. Atmos. Res., 229, 269-279, https://doi.org/10.1016/j.atmosres.2019.07.001.
++ Song, J. I., S. S. Yum, I. Gultepe, K.-H. Chang, and B.-G. Kim, 2019: Development of a new visibility parameterization based on the measurement of fog microphysics at a mountain site in Korea. Atmos. Res., 229, 115-126, https://doi.org/10.1016/j.atmosres.2019.06.011
++ Kim, C. K, S. S. Yum, H.-G. Kim, and Y.-H. Kang, 2019: A WRF modeling study on the effect of land use changes on fog off the west coast of the Korean peninsula.  Pure. Appl. Geophys., 176, 463-4640,  https://doi.org/10.1007/s00024-019-02242-z
++ Shin, K.-H., W. Baek, K. Kim, C.-H. You, K.-H. Chang, D.-I. Lee and S. S. Yum, 2019: Neural network and regression methods for optimizations between two meteorological factors. Physica A: Stat. Mech. And Appl., 523, 778-796, https://doi.org/10.1016/J.Physa.2019.01.113
++ Gultepe, I., … S. S. Yum et al., 2019: A review of high impact weather for aviation meteorology. Pure Appl. Geophys., 176, 1869-1921, https://doi.org/10.1007/s00023-019-02168-6
++ Park, M., S. S. Yum, N. Kim, J. W. Cha, B. Shin, S. B. Ryoo, 2018: Characterization of submicron aerosols and CCN measured over the Yellow sea onboard the Gisang 1 research vessel using the positive matrix factorization analysis method. Atmos. Res., 214, 430-441.
++ Um, J., G. M. McFarquhar, J. L. Stith, C. H. Jung, S. S. lee, J. Y. Lee, Y. Shin, Y. G. Lee, Y. I. Yang, S. S. Yum, B.-G. Kim, J. W. Cha, and A-Reum Ko, 2018: Microphysical characteristics of frozen droplet aggregates from deep convective clouds. Atmos. Phys. Chem., 18, 16915-16930.
++ Kim, A-H, S. S. Yum, H. Lee, D. Y. Chang, and S. Shim, 2018: Polar cooling effect due to increases of phytoplankton and dimethyl-sulfide emission. Atmosphere, 9, 384, doi:10.3390/atmos9100384
++ 김아현, 염성수, 장동영, 2018: 구름방울 활성화 과정 모수화 방법에 따른 구름 형성의 민감도 실험. 대기, 28, 211-222.
++ Kim, N., M. Park, S. S. Yum, J. S. Park, H. J. Shin, and J. Y. Ahn, 2018: Impact of urban aerosol properties on cloud condensation nuclei (CCN) activity during the KORUS-AQ field campaign. Atmos. Env., 185, 221-236.
++ Lee, S. S., B.-G. Kim, H.-G. Nam, S. S. Yum, Y.-S. Choi, C.-H. Jung, 2018: Factors that control heavy snowfalls in the eastern coast of Korea. Terr. Atmos. Oceanic Sci., 29, 187-200.
++ Lu, C., Y. Liu, B. Zhu, S. S. Yum, S. Krueger, Y. Qiu, S. Niu, and S. Luo, 2018: On which microphysical time scale to use in study of entrainment-mixing mechanisms in clouds. J. Geophys. Res., 123, https://doi.org/10.1002/2017JD027985 
++ Schmale, J., S. Henning, … M. Park, …. S. S. Yum et al., 2018: Long term cloud condensation nuclei number concentration, particle number size distribution, and chemical composition measurements at regionally representative observatories. Atmos. Chem. Phys. 18, 2853-2881, https://doi.org/10.5194/acp-18-2853-2018.
++ Chae, S., K.-H. Chang, S.-K. Seo, J.-Y. Jeong, B.-J. Kim, C.-K. Kim, S. S. Yum, and J. Kim, 2018: Numerical simulations of airborne glaciogenic cloud seeding using the WRF model with the modified Morrison scheme over the Pyeongchang region in the winter of 2016. Adv. Meteor., Vol. 2018, Article ID8453460, https://doi.org/10.1155/2018/8453460 
++ Yeom, J. M., S. S. Yum, Y. Liu and C. Lu, 2017: A study on the entrainment and mixing process in the continental stratocumulus clouds measured during the RACORO campaign. Atmos. Res., 194, 89-99, dx.doi.org/10.1016/j.atmosres.2017.04.028.
++ Schmale, J., S. Henning, … M. Park, …. S. S. Yum et al., 2017: Collocated observations of cloud condensation nuclei, particle size distributions, and chemical composition. Sci. Data 4:170003 DOI:10.1038/sdata.2017.3.
++ Lee, S. S., B-G Kim, S. S. Yum, K-H Seo, C-H Jung, J. S. Um, Z Li, J. Hong, K-H Chang, 2017: Effects of aerosol on evaporation, freezing and precipitation in a multiple cloud system. Clim Dyn., 48, 1069-1087.
 + Kim, N., Park, M., Yum, S. S., Park, J. S., Song, I. H., Shin, H. J., … & Lee, G. (2017). Hygroscopic properties of urban aerosols and their cloud condensation nuclei activities measured in Seoul during the MAPS-Seoul campaign. Atmospheric Environment, 153, 217-232.
 + Lee, H., Yum, S. S., & Shim, S. (2016). Implementation of a new empirical relationship between aerosol and cloud droplet concentrations in a climate model. Climate Research, 70(1), 57-76.
 + Seong Soo Yum, Jian Wang, Yangang Liu, Gunnar Senum, Stephen Springston, Robert McGraw, and Jae Min Yeom, 2015: Cloud microphysical relationships and their implication on entrainment and mixing mechanism for the stratocumulus clouds measured during the VOCALS project, Journal of Geophysical Research, 120,  10.1002/2014JD022802
