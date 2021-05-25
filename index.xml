@@ -6,7 +6,7 @@
     <description>Recent content on 연세대학교 대기과학과</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko</language>
-    <lastBuildDate>Tue, 18 May 2021 10:00:16 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 25 May 2021 09:19:47 +0900</lastBuildDate>
     
 	<atom:link href="https://atmos.yonsei.ac.kr/index.xml" rel="self" type="application/rss+xml" />
     
@@ -279,15 +279,6 @@
       
       <guid>https://atmos.yonsei.ac.kr/people/shinuju/</guid>
       <description>연구분야 Mesoscale convective system Heavy precipitation systems over the Korean peninsula 학력 Ph.D. (2019) in Atmospheric</description>
-    </item>
-    
-    <item>
-      <title>양은경</title>
-      <link>https://atmos.yonsei.ac.kr/people/eungyeongyang/</link>
-      <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
-      
-      <guid>https://atmos.yonsei.ac.kr/people/eungyeongyang/</guid>
-      <description>연구분야 Data assimilation Regional reanalysis 학력 Ph.d (2020) in Atmospheric Sciences, Yonsei University, Seoul, Korea M.Sc</description>
     </item>
     
     <item>
@@ -903,12 +894,21 @@
     </item>
     
     <item>
-      <title>석사졸업생</title>
-      <link>https://atmos.yonsei.ac.kr/people/alumnimaster/</link>
-      <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
+      <title>[세미나] Dr. Julio Bacmeister</title>
+      <link>https://atmos.yonsei.ac.kr/blog/2021/05/25/seminar_20210528_julio/</link>
+      <pubDate>Tue, 25 May 2021 09:19:47 +0900</pubDate>
       
-      <guid>https://atmos.yonsei.ac.kr/people/alumnimaster/</guid>
-      <description>석사학위자 명단 .tg {border-collapse:collapse;border-spacing:0;border:none;border-color:#ccc;margin:0px auto;} .tg td{font-family:Arial, sans-serif;font-size:14px;padding:20px 6px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:#ccc;color:#333;background-color:#fff;} .tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:20px 6px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:#ccc;color:#333;background-color:#f0f0f0;} .tg .tg-44m2{font-weight:bold;font-size:16px;font-family:&#34;Arial</description>
+      <guid>https://atmos.yonsei.ac.kr/blog/2021/05/25/seminar_20210528_julio/</guid>
+      <description>Climate Sensitivity in the Community Earth System Model (CESM) Dr. Julio Bacmeister (NCAR) 2021년 05</description>
+    </item>
+    
+    <item>
+      <title>[세미나] Dr. Luke David Oman</title>
+      <link>https://atmos.yonsei.ac.kr/blog/2021/05/25/seminar_20210521_oman/</link>
+      <pubDate>Tue, 25 May 2021 09:19:47 +0900</pubDate>
+      
+      <guid>https://atmos.yonsei.ac.kr/blog/2021/05/25/seminar_20210521_oman/</guid>
+      <description>Applications for High Resolution Global Coupled Chemistry Simulations Dr. Luke David Oman (NASA GSFC) 2021년 0</description>
     </item>
     
     <item>
@@ -3357,6 +3357,15 @@
       
       <guid>https://atmos.yonsei.ac.kr/blog/2018/02/28/paperaward/</guid>
       <description>&lt;p&gt;2017년 우수논문 수상자입니다.  축하합니다!!&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://atmos.yonsei.ac.kr/people/alumnimaster/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://atmos.yonsei.ac.kr/people/alumnimaster/</guid>
+      <description>��&amp;lt;�h�t�m�l� �x�m�l�n�s�:�v�=�&amp;ldquo;�u�r�n�:�s�c�h�e�m�a�s�-�m�i�c�r�o�s�o�f�t�-�c�o�m�:�v�m�l�&amp;ldquo;� � �x�m�l�n�s�:�o�=�&amp;ldquo;�u�r�n�:�s�c�h�e�m�a�s�-�m�i�c�r�o�s�o�f�t�-�c�o�m�:�o�f�f�i�c�e�:�o�f�f�i�c�e�&amp;ldquo;� � �x�m�l�n�s�:�w�=�&amp;ldquo;�u�r�n�:�s�c�h�e�m�a�s�-�m�i�c�r�o�s�o�f�t�-�c�o�m�:�o�f�f�i�c�e�:�w�o�r�d�&amp;ldquo;�</description>
     </item>
     
     <item>

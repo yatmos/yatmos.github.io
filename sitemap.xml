@@ -145,11 +145,6 @@
   </url>
   
   <url>
-    <loc>https://atmos.yonsei.ac.kr/people/eungyeongyang/</loc>
-    <lastmod>2018-03-24T13:39:46+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://atmos.yonsei.ac.kr/people/yurilee/</loc>
     <lastmod>2018-03-24T13:39:46+02:00</lastmod>
   </url>
@@ -490,17 +485,32 @@
   </url>
   
   <url>
-    <loc>https://atmos.yonsei.ac.kr/people/alumnimaster/</loc>
-    <lastmod>2018-03-24T13:39:46+02:00</lastmod>
+    <loc>https://atmos.yonsei.ac.kr/blog/2021/05/25/seminar_20210528_julio/</loc>
+    <lastmod>2021-05-25T09:19:47+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://atmos.yonsei.ac.kr/blog/2021/05/18/notice_20210518/</loc>
-    <lastmod>2021-05-18T10:00:16+09:00</lastmod>
+    <loc>https://atmos.yonsei.ac.kr/blog/2021/05/25/seminar_20210521_oman/</loc>
+    <lastmod>2021-05-25T09:19:47+09:00</lastmod>
   </url>
   
   <url>
     <loc>https://atmos.yonsei.ac.kr/categories/</loc>
+    <lastmod>2021-05-25T09:19:47+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://atmos.yonsei.ac.kr/categories/%EC%84%B8%EB%AF%B8%EB%82%98/</loc>
+    <lastmod>2021-05-25T09:19:47+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://atmos.yonsei.ac.kr/</loc>
+    <lastmod>2021-05-25T09:19:47+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://atmos.yonsei.ac.kr/blog/2021/05/18/notice_20210518/</loc>
     <lastmod>2021-05-18T10:00:16+09:00</lastmod>
   </url>
   
@@ -515,22 +525,12 @@
   </url>
   
   <url>
-    <loc>https://atmos.yonsei.ac.kr/</loc>
-    <lastmod>2021-05-18T10:00:16+09:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://atmos.yonsei.ac.kr/categories/%EC%B1%84%EC%9A%A9%EA%B3%B5%EA%B3%A0/</loc>
     <lastmod>2021-05-18T10:00:16+09:00</lastmod>
   </url>
   
   <url>
     <loc>https://atmos.yonsei.ac.kr/blog/2021/05/14/seminar_20210518_shimchangsub/</loc>
-    <lastmod>2021-05-14T09:19:47+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://atmos.yonsei.ac.kr/categories/%EC%84%B8%EB%AF%B8%EB%82%98/</loc>
     <lastmod>2021-05-14T09:19:47+09:00</lastmod>
   </url>
   
@@ -1927,6 +1927,10 @@
   <url>
     <loc>https://atmos.yonsei.ac.kr/blog/</loc>
     <lastmod>2000-03-18T12:49:47+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://atmos.yonsei.ac.kr/people/alumnimaster/</loc>
   </url>
   
   <url>
