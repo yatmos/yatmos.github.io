@@ -6,10 +6,19 @@
     <description>Recent content in 세미나 on 연세대학교 대기과학과</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko</language>
-    <lastBuildDate>Tue, 25 May 2021 09:19:47 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 31 May 2021 09:19:47 +0900</lastBuildDate>
     
 	<atom:link href="https://atmos.yonsei.ac.kr/categories/%EC%84%B8%EB%AF%B8%EB%82%98/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>[세미나] 이준홍 박사님</title>
+      <link>https://atmos.yonsei.ac.kr/blog/2021/05/31/seminar_20210601_leejunhong/</link>
+      <pubDate>Mon, 31 May 2021 09:19:47 +0900</pubDate>
+      
+      <guid>https://atmos.yonsei.ac.kr/blog/2021/05/31/seminar_20210601_leejunhong/</guid>
+      <description>Implementation of the 3D Smagorinsky turbulence scheme in the ICON model and its applications 이준홍 박사 (Max</description>
+    </item>
     
     <item>
       <title>[세미나] Dr. Julio Bacmeister</title>
