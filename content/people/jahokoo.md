@@ -8,7 +8,7 @@ job = "조교수"
 phone = "02-2123-5694"
 room = "대기화학 연구실 / 과학관 539호"
 web = "https://atmchem.yonsei.ac.kr"
-weight = 11
+weight = 12
 +++
 
 #### 연구분야
