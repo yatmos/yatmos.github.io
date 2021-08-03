@@ -84,15 +84,6 @@
     </item>
     
     <item>
-      <title>송인선</title>
-      <link>https://atmos.yonsei.ac.kr/people/insunsong/</link>
-      <pubDate>Wed, 24 Jan 2018 13:39:46 +0200</pubDate>
-      
-      <guid>https://atmos.yonsei.ac.kr/people/insunsong/</guid>
-      <description>연구분야 전지구 전층대기 모델링 고층대기 대기</description>
-    </item>
-    
-    <item>
       <title>박상훈</title>
       <link>https://atmos.yonsei.ac.kr/people/sanghunpark/</link>
       <pubDate>Mon, 09 Apr 2018 13:39:46 +0200</pubDate>
@@ -117,6 +108,15 @@
       
       <guid>https://atmos.yonsei.ac.kr/people/jahokoo/</guid>
       <description>연구분야 Asian/Pacific air pollution and environment Polar atmospheric chemistry Regional and global distribution of atmospheric components 학</description>
+    </item>
+    
+    <item>
+      <title>송인선</title>
+      <link>https://atmos.yonsei.ac.kr/people/insunsong/</link>
+      <pubDate>Wed, 24 Jan 2018 13:39:46 +0200</pubDate>
+      
+      <guid>https://atmos.yonsei.ac.kr/people/insunsong/</guid>
+      <description>연구분야 전지구 전층대기 모델링 고층대기 대기</description>
     </item>
     
   </channel>
