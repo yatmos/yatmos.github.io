@@ -7,8 +7,8 @@ email = "songi@yonsei.ac.kr"
 job = "부교수"
 phone = "02-2123-5650"
 room = "수리대기물리 연구실 / 과학관 548호"
-weight = 9
-web = "https://undividedlife.github.io"
+weight = 13
+web = "https://mapl.yonsei.ac.kr"
 +++
 
 #### 연구분야
