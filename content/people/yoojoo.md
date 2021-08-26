@@ -5,8 +5,8 @@ teams = ["graduate"]
 banner = "img/people/yoojoo.png"
 email = "jyj30924@yonsei.ac.kr"
 job = "석사과정"
-phone = "02-2123-2574"
-room = "기후이론 연구실 / 과학관 701호"
+phone = ""
+room = "기후이론 연구실 / 과학관 536A호"
 web = "https://www.yonseictl.com/"
 weight = 50
 +++
