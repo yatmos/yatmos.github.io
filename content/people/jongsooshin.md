@@ -6,7 +6,7 @@ banner = "img/people/jongsooshin.png"
 email = "js-shin@yonsei.ac.kr"
 job = "박사과정"
 phone = ""
-room = "기후이론 연구실 / 과학관 536A호"
+room = "기후이론 연구실 / 과학관 606호"
 web = "https://www.yonseictl.com/"
 weight = 40
 +++
