@@ -622,6 +622,13 @@ th.tg-sort-header::-moz-selection { background:transparent; }th.tg-sort-header::
     <td class="tg-s8ju">전혜영</td>
   </tr>
   <tr>
+  <td class="tg-s8ju">김원흥</td>
+  <td class="tg-s8ju">2020년 8월</td>
+  <td class="tg-s8ju">A study on the characteristics of coastal fog <br>
+                      around the Korean Peninsula from numerical models </td>
+    <td class="tg-s8ju">염성수</td>
+  </tr>
+  <tr>
   <td class="tg-s8ju">이하나</td>
   <td class="tg-s8ju">2021년 2월</td>
   <td class="tg-s8ju">Atmospheric Transmissions by Clouds, <br>
@@ -651,6 +658,29 @@ th.tg-sort-header::-moz-selection { background:transparent; }th.tg-sort-header::
   <td class="tg-s8ju">2021년 2월</td>
   <td class="tg-s8ju">Role of Equatorial Waves and Convective Gravity Waves in QBO Disruptions </td>
     <td class="tg-s8ju">전혜영</td>
+  </tr>
+  <tr>
+  <td class="tg-s8ju">김아현</td>
+  <td class="tg-s8ju">2021년 2월</td>
+  <td class="tg-s8ju">A Modeling Study of the Impacts of Different Chemical <br>
+		Compositions and Hygroscopic Properties of Aerosols on <br>
+		Cloud Microphysical Properties and Cloud Radiative Effects</td>
+    <td class="tg-s8ju">염성수</td>
+  </tr>
+  <tr>
+  <td class="tg-s8ju">송재인</td>
+  <td class="tg-s8ju">2021년 2월</td>
+  <td class="tg-s8ju">Survey on climatology of cloud systems using <br>
+                      Ka-band cloud radar measurement data </td>
+    <td class="tg-s8ju">염성수</td>
+  </tr>
+  <tr>
+  <td class="tg-s8ju">최경옥</td>
+  <td class="tg-s8ju">2021년 2월</td>
+  <td class="tg-s8ju">A Study of the Effects of Regenerated CCN and Cloud <br>
+		Seeding Material on Cloud Development Using the WRF <br>
+		Model with Spectral Bin Microphysics Scheme </td>
+    <td class="tg-s8ju">염성수</td>
   </tr>
 </table></div>
 
