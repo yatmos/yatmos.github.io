@@ -105,7 +105,7 @@ summarylength = 20
 [[menu.topbar]]
     weight = 3
     name = "Language"
-    url = "https://atmos.yonsei.ac.kr/eng"
+    url = "https://yatmos.github.io/eng"
     pre = "English"
 
 [[menu.topbar]]
