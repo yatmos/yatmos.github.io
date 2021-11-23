@@ -6,7 +6,11 @@
     <description>Recent content in 학과소식 on 연세대학교 대기과학과</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko</language>
-    <lastBuildDate>Sat, 18 Mar 2000 12:49:47 +0900</lastBuildDate><atom:link href="https://atmos.yonsei.ac.kr/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 18 Mar 2000 12:49:47 +0900</lastBuildDate>
+    
+	<atom:link href="https://atmos.yonsei.ac.kr/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>[세미나] 김대현 교수님</title>
       <link>https://atmos.yonsei.ac.kr/blog/2021/11/20/seminar_20211123_daehyun_kim/</link>
@@ -26,7 +30,7 @@
     </item>
     
     <item>
-      <title>2022-1학기 연세대학교 대기과학과 연구교수 공개채용 안내</title>
+      <title>2022-1학기 연세대학교 대기과학과/지구환경연구소 연구교수 공개채용 안내</title>
       <link>https://atmos.yonsei.ac.kr/blog/2021/11/15/employment_20211115/</link>
       <pubDate>Mon, 15 Nov 2021 10:00:16 +0900</pubDate>
       
