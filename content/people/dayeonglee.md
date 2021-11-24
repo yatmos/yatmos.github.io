@@ -15,7 +15,7 @@ weight = 40
  + Remote Sensing for Atmospheric Chemistry
  + Spatiotemporal Variation of PM2.5 over the Korean Peninsula using Reanalysis Data
 #### 학력
- + **B.Sc** (2021) in Environmental Engineering, Yonsei University, Wonju, Korea
+ + **B.Ec** (2021) in Environmental Engineering, Yonsei University, Wonju, Korea
 
 #### 수상내역
 

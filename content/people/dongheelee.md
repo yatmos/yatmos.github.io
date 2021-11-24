@@ -16,10 +16,10 @@ weight = 40
  + Estimation of Plume Height from Wildfire Using Remote Sensing
 
 #### 학력
- + **M.Sc** (2017) in Earth and Environmental Engineering, Gwangju Institute of Science and Technology (GIST), Gwangju, Korea
- + **B.Sc** (2015) in Urban Engineering, Chungbuk National University, Cheongju, Korea
+ + **M.Ec** (2017) in Earth and Environmental Engineering, Gwangju Institute of Science and Technology (GIST), Gwangju, Korea
+ + **B.Ec** (2015) in Urban Engineering, Chungbuk National University, Cheongju, Korea
 
 #### 수상내역
  + Best Student Poster Presentation, 4th International Conference on Bioresources, Energy, Environment, and Materials Technology (BEEM), 2020
- 
+
 #### 논문
