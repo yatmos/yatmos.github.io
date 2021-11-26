@@ -6,11 +6,7 @@
     <description>Recent content in graduate on 연세대학교 대기과학과</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko</language>
-    <lastBuildDate>Tue, 24 Mar 2020 13:39:46 +0200</lastBuildDate>
-    
-	<atom:link href="https://atmos.yonsei.ac.kr/teams/graduate/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 24 Mar 2020 13:39:46 +0200</lastBuildDate><atom:link href="https://atmos.yonsei.ac.kr/teams/graduate/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>안찬우</title>
       <link>https://atmos.yonsei.ac.kr/people/chanwooahn/</link>
@@ -255,6 +251,15 @@
     </item>
     
     <item>
+      <title>이다영</title>
+      <link>https://atmos.yonsei.ac.kr/people/dayeonglee/</link>
+      <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
+      
+      <guid>https://atmos.yonsei.ac.kr/people/dayeonglee/</guid>
+      <description>연구분야 Remote Sensing for Atmospheric Chemistry Spatiotemporal Variation of PM2.5 over the Korean Peninsula using Reanalysis Data</description>
+    </item>
+    
+    <item>
       <title>이단비</title>
       <link>https://atmos.yonsei.ac.kr/people/danbilee/</link>
       <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
@@ -269,7 +274,7 @@
       <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/people/dongheelee/</guid>
-      <description>연구분야 Remote Sensing for Atmospheric Chemistry Spatiotemporal Variation Analysis of Hydrocarbons from Wildfires 학력 M.Sc (2017)</description>
+      <description>연구분야 Spatio-temporal Variation Analysis of Hydrocarbons from Wildfires Estimation of Plume Height from Wildfire Using Remote Sensing</description>
     </item>
     
     <item>
@@ -288,6 +293,15 @@
       
       <guid>https://atmos.yonsei.ac.kr/people/jooyeoplee/</guid>
       <description>연구분야 Modeling of the land-atmosphere interface Land Surface Modeling 학력 M.Sc (2020) in Atmospheric Sciences, Yonsei</description>
+    </item>
+    
+    <item>
+      <title>이주희</title>
+      <link>https://atmos.yonsei.ac.kr/people/juheelee/</link>
+      <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
+      
+      <guid>https://atmos.yonsei.ac.kr/people/juheelee/</guid>
+      <description>연구분야 Prediction of PM2.5 over the Korean Peninsula using Machine Learning Model Analysis of Aerosol Optical Properties</description>
     </item>
     
     <item>
@@ -521,7 +535,7 @@
       <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/people/nahyunlee/</guid>
-      <description>연구분야 Air Quality and Atmospheric Chemistry over East Asia 학력 B.Sc (2021) in Energy Resources Engineering,</description>
+      <description>연구분야 Air Quality and Atmospheric Chemistry over East Asia 학력 B.Ec (2021) in Energy Resources Engineering,</description>
     </item>
     
     <item>

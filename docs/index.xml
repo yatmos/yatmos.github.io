@@ -6,11 +6,7 @@
     <description>Recent content on 연세대학교 대기과학과</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko</language>
-    <lastBuildDate>Sat, 20 Nov 2021 10:00:00 +0900</lastBuildDate>
-    
-	<atom:link href="https://atmos.yonsei.ac.kr/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Fri, 26 Nov 2021 10:00:00 +0900</lastBuildDate><atom:link href="https://atmos.yonsei.ac.kr/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>노의근</title>
       <link>https://atmos.yonsei.ac.kr/people/yignnoh/</link>
@@ -561,6 +557,15 @@
     </item>
     
     <item>
+      <title>이다영</title>
+      <link>https://atmos.yonsei.ac.kr/people/dayeonglee/</link>
+      <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
+      
+      <guid>https://atmos.yonsei.ac.kr/people/dayeonglee/</guid>
+      <description>연구분야 Remote Sensing for Atmospheric Chemistry Spatiotemporal Variation of PM2.5 over the Korean Peninsula using Reanalysis Data</description>
+    </item>
+    
+    <item>
       <title>이단비</title>
       <link>https://atmos.yonsei.ac.kr/people/danbilee/</link>
       <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
@@ -575,7 +580,7 @@
       <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/people/dongheelee/</guid>
-      <description>연구분야 Remote Sensing for Atmospheric Chemistry Spatiotemporal Variation Analysis of Hydrocarbons from Wildfires 학력 M.Sc (2017)</description>
+      <description>연구분야 Spatio-temporal Variation Analysis of Hydrocarbons from Wildfires Estimation of Plume Height from Wildfire Using Remote Sensing</description>
     </item>
     
     <item>
@@ -603,6 +608,15 @@
       
       <guid>https://atmos.yonsei.ac.kr/people/jooyeoplee/</guid>
       <description>연구분야 Modeling of the land-atmosphere interface Land Surface Modeling 학력 M.Sc (2020) in Atmospheric Sciences, Yonsei</description>
+    </item>
+    
+    <item>
+      <title>이주희</title>
+      <link>https://atmos.yonsei.ac.kr/people/juheelee/</link>
+      <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
+      
+      <guid>https://atmos.yonsei.ac.kr/people/juheelee/</guid>
+      <description>연구분야 Prediction of PM2.5 over the Korean Peninsula using Machine Learning Model Analysis of Aerosol Optical Properties</description>
     </item>
     
     <item>
@@ -836,7 +850,7 @@
       <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/people/nahyunlee/</guid>
-      <description>연구분야 Air Quality and Atmospheric Chemistry over East Asia 학력 B.Sc (2021) in Energy Resources Engineering,</description>
+      <description>연구분야 Air Quality and Atmospheric Chemistry over East Asia 학력 B.Ec (2021) in Energy Resources Engineering,</description>
     </item>
     
     <item>
@@ -891,6 +905,15 @@
       
       <guid>https://atmos.yonsei.ac.kr/people/alumnimaster/</guid>
       <description>석사학위자 명단 .tg {border-collapse:collapse;border-spacing:0;border:none;border-color:#ccc;margin:0px auto;} .tg td{font-family:Arial, sans-serif;font-size:14px;padding:20px 6px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:#ccc;color:#333;background-color:#fff;} .tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:20px 6px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:#ccc;color:#333;background-color:#f0f0f0;} .tg .tg-44m2{font-weight:bold;font-size:16px;font-family:&#34;Arial</description>
+    </item>
+    
+    <item>
+      <title>[세미나] Prof. Kun Yang</title>
+      <link>https://atmos.yonsei.ac.kr/blog/2021/11/26/seminar_20211130_kun_yang/</link>
+      <pubDate>Fri, 26 Nov 2021 10:00:00 +0900</pubDate>
+      
+      <guid>https://atmos.yonsei.ac.kr/blog/2021/11/26/seminar_20211130_kun_yang/</guid>
+      <description>Impacts of complex terrain on water vapor transfer and precipitation over the Tibetan Plateau Prof. Kun Yang (Department of Earth</description>
     </item>
     
     <item>
