@@ -495,22 +495,32 @@
   </url>
   
   <url>
+    <loc>https://atmos.yonsei.ac.kr/categories/</loc>
+    <lastmod>2021-11-30T07:57:16+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://atmos.yonsei.ac.kr/categories/%EA%B3%B5%EC%A7%80%EC%82%AC%ED%95%AD/</loc>
+    <lastmod>2021-11-30T07:57:16+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://atmos.yonsei.ac.kr/</loc>
+    <lastmod>2021-11-30T07:57:16+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://atmos.yonsei.ac.kr/blog/2021/11/30/notice_20211130/</loc>
+    <lastmod>2021-11-30T07:57:16+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://atmos.yonsei.ac.kr/blog/2021/11/26/seminar_20211130_kun_yang/</loc>
     <lastmod>2021-11-26T10:00:00+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://atmos.yonsei.ac.kr/categories/</loc>
-    <lastmod>2021-11-26T10:00:00+09:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://atmos.yonsei.ac.kr/categories/%EC%84%B8%EB%AF%B8%EB%82%98/</loc>
-    <lastmod>2021-11-26T10:00:00+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://atmos.yonsei.ac.kr/</loc>
     <lastmod>2021-11-26T10:00:00+09:00</lastmod>
   </url>
   
@@ -550,11 +560,6 @@
   </url>
   
   <url>
-    <loc>https://atmos.yonsei.ac.kr/categories/%EA%B3%B5%EC%A7%80%EC%82%AC%ED%95%AD/</loc>
-    <lastmod>2021-11-08T07:57:16+09:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://atmos.yonsei.ac.kr/blog/2021/11/05/seminar_20211109_haeyoung_lee/</loc>
     <lastmod>2021-11-05T10:00:00+09:00</lastmod>
   </url>
@@ -572,11 +577,6 @@
   <url>
     <loc>https://atmos.yonsei.ac.kr/blog/2021/10/31/seminar_20211102_haklim_choi/</loc>
     <lastmod>2021-10-31T14:00:00+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://atmos.yonsei.ac.kr/blog/2021/10/29/employment_20211029/</loc>
-    <lastmod>2021-10-29T10:00:16+09:00</lastmod>
   </url>
   
   <url>
@@ -865,11 +865,6 @@
   </url>
   
   <url>
-    <loc>https://atmos.yonsei.ac.kr/blog/2021/05/18/employment_20210518/</loc>
-    <lastmod>2021-05-18T10:00:16+09:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://atmos.yonsei.ac.kr/blog/2021/05/14/seminar_20210518_shimchangsub/</loc>
     <lastmod>2021-05-14T09:19:47+09:00</lastmod>
   </url>
@@ -892,11 +887,6 @@
   <url>
     <loc>https://atmos.yonsei.ac.kr/blog/2021/05/04/notice_20210504/</loc>
     <lastmod>2021-05-04T10:00:16+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://atmos.yonsei.ac.kr/blog/2021/04/27/employment_20210427/</loc>
-    <lastmod>2021-04-27T10:00:16+09:00</lastmod>
   </url>
   
   <url>
@@ -1010,11 +1000,6 @@
   </url>
   
   <url>
-    <loc>https://atmos.yonsei.ac.kr/blog/2021/03/05/employment_20210305/</loc>
-    <lastmod>2021-03-05T10:00:16+09:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://atmos.yonsei.ac.kr/blog/2021/03/05/seminar_20210309_jihyesong/</loc>
     <lastmod>2021-03-05T09:19:47+09:00</lastmod>
   </url>
@@ -1052,11 +1037,6 @@
   <url>
     <loc>https://atmos.yonsei.ac.kr/blog/2021/02/05/notice_20210205/</loc>
     <lastmod>2021-02-05T10:00:16+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://atmos.yonsei.ac.kr/blog/2021/02/01/employment_20210201/</loc>
-    <lastmod>2021-02-01T10:00:16+09:00</lastmod>
   </url>
   
   <url>
@@ -1280,11 +1260,6 @@
   </url>
   
   <url>
-    <loc>https://atmos.yonsei.ac.kr/blog/2020/08/10/employment_20200810/</loc>
-    <lastmod>2020-08-10T10:00:16+09:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://atmos.yonsei.ac.kr/blog/2020/07/24/notice_20200724/</loc>
     <lastmod>2020-07-24T09:06:16+09:00</lastmod>
   </url>
@@ -1305,11 +1280,6 @@
   </url>
   
   <url>
-    <loc>https://atmos.yonsei.ac.kr/blog/2020/06/22/employment_20200622/</loc>
-    <lastmod>2020-06-22T10:00:16+09:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://atmos.yonsei.ac.kr/blog/2020/06/11/notice_20200611/</loc>
     <lastmod>2020-06-11T11:06:16+09:00</lastmod>
   </url>
@@ -1322,11 +1292,6 @@
   <url>
     <loc>https://atmos.yonsei.ac.kr/blog/2020/06/05/notice_20200605/</loc>
     <lastmod>2020-06-05T11:06:16+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://atmos.yonsei.ac.kr/blog/2020/05/26/employment_20200526/</loc>
-    <lastmod>2020-05-26T14:18:16+09:00</lastmod>
   </url>
   
   <url>
@@ -1512,11 +1477,6 @@
   <url>
     <loc>https://atmos.yonsei.ac.kr/blog/2019/09/27/notice_20190927/</loc>
     <lastmod>2019-09-27T12:28:16+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://atmos.yonsei.ac.kr/blog/2019/09/25/employment_20190925/</loc>
-    <lastmod>2019-09-25T14:18:16+09:00</lastmod>
   </url>
   
   <url>
@@ -1980,11 +1940,6 @@
   </url>
   
   <url>
-    <loc>https://atmos.yonsei.ac.kr/blog/2018/08/10/employment_20180810/</loc>
-    <lastmod>2018-08-10T05:49:42+09:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://atmos.yonsei.ac.kr/blog/2018/07/25/notice_20180725/</loc>
     <lastmod>2018-07-25T09:57:16+09:00</lastmod>
   </url>
@@ -2085,11 +2040,6 @@
   </url>
   
   <url>
-    <loc>https://atmos.yonsei.ac.kr/blog/2018/05/29/employment_20180529/</loc>
-    <lastmod>2018-05-29T05:49:42+09:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://atmos.yonsei.ac.kr/blog/2018/05/23/notice_20180523/</loc>
     <lastmod>2018-05-23T09:58:16+09:00</lastmod>
   </url>
@@ -2162,16 +2112,6 @@
   <url>
     <loc>https://atmos.yonsei.ac.kr/blog/2018/04/06/seminar_burrows/</loc>
     <lastmod>2018-04-06T06:48:02+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://atmos.yonsei.ac.kr/blog/2018/04/04/employment_20180404/</loc>
-    <lastmod>2018-04-04T08:49:42+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://atmos.yonsei.ac.kr/blog/2018/03/29/employment_2018march/</loc>
-    <lastmod>2018-03-29T08:49:42+09:00</lastmod>
   </url>
   
   <url>
