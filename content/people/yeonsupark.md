@@ -15,7 +15,7 @@ weight = 50
 + Atmospheric Chemistry
 
 #### 학력
- + **B.Sc** (2021) in Atmospheric Sciences, Yonsei University, Seoul, Korea
+ + **B.Sc** (2021) in Environmental Engineering, Yonsei University, Wonju, Korea
 
 #### 수상내역
 
