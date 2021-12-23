@@ -12,7 +12,7 @@ weight = 50
 +++
 
 #### 연구분야
-+ Atmospheric Chemistry
++ Atmospheric Chemistry (VOC)
 
 #### 학력
  + **B.Sc** (2020) in Atmospheric Sciences, Yonsei University, Seoul, Korea
