@@ -2,7 +2,7 @@
 title = "정유주"
 date = "2020-03-24T13:39:46+02:00"
 teams = ["graduate"]
-banner = "img/people/yoojoo.png"
+banner = "img/people/yujoojeong.jpg"
 email = "jyj30924@yonsei.ac.kr"
 job = "석사과정"
 phone = ""
@@ -12,7 +12,7 @@ weight = 50
 +++
 
 #### 연구분야
-+ Atmospheric Chemistry
++ Atmospheric Chemistry (VOC)
 
 #### 학력
  + **B.Sc** (2020) in Atmospheric Sciences, Yonsei University, Seoul, Korea
