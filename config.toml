@@ -1,5 +1,5 @@
 #baseurl = "https://atmos.yonsei.ac.kr/"
-baseurl = "https://yatmos.github.io/www/"
+baseurl = "https://yatmos.github.io/"
 title = "연세대학교 대기과학과"
 theme = "hugo-universal-theme"
 languageCode = "ko"

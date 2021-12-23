@@ -2,44 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>학사안내 on 연세대학교 대기과학과</title>
-    <link>https://atmos.yonsei.ac.kr/education/</link>
+    <link>https://yatmos.github.io/education/</link>
     <description>Recent content in 학사안내 on 연세대학교 대기과학과</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko</language>
-    <lastBuildDate>Mon, 18 Dec 2017 14:08:23 -0500</lastBuildDate><atom:link href="https://atmos.yonsei.ac.kr/education/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 18 Dec 2017 14:08:23 -0500</lastBuildDate><atom:link href="https://yatmos.github.io/education/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>학부</title>
-      <link>https://atmos.yonsei.ac.kr/education/undergraduate/</link>
+      <link>https://yatmos.github.io/education/undergraduate/</link>
       <pubDate>Mon, 18 Dec 2017 14:08:23 -0500</pubDate>
       
-      <guid>https://atmos.yonsei.ac.kr/education/undergraduate/</guid>
+      <guid>https://yatmos.github.io/education/undergraduate/</guid>
       <description>&lt;p&gt;학부입학 및 개설과목 안내입니다.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>대학원</title>
-      <link>https://atmos.yonsei.ac.kr/education/graduate/</link>
+      <link>https://yatmos.github.io/education/graduate/</link>
       <pubDate>Mon, 18 Dec 2017 14:08:23 -0500</pubDate>
       
-      <guid>https://atmos.yonsei.ac.kr/education/graduate/</guid>
+      <guid>https://yatmos.github.io/education/graduate/</guid>
       <description>&lt;p&gt;대학원 입학 및 개설과목 안내입니다.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>장학제도</title>
-      <link>https://atmos.yonsei.ac.kr/education/scholarship/</link>
+      <link>https://yatmos.github.io/education/scholarship/</link>
       <pubDate>Mon, 18 Dec 2017 14:08:23 -0500</pubDate>
       
-      <guid>https://atmos.yonsei.ac.kr/education/scholarship/</guid>
+      <guid>https://yatmos.github.io/education/scholarship/</guid>
       <description>&lt;p&gt;장학금 및 연구 지원 안내입니다.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>학사일정</title>
-      <link>https://atmos.yonsei.ac.kr/education/calender/</link>
+      <link>https://yatmos.github.io/education/calender/</link>
       <pubDate>Mon, 18 Dec 2017 14:08:23 -0500</pubDate>
       
-      <guid>https://atmos.yonsei.ac.kr/education/calender/</guid>
+      <guid>https://yatmos.github.io/education/calender/</guid>
       <description>&lt;p&gt;학사일정 안내입니다.&lt;/p&gt;</description>
     </item>
     
