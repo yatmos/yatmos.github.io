@@ -5,11 +5,7 @@
     <link>https://atmos.yonsei.ac.kr/research/</link>
     <description>Recent content in 연구활동 on 연세대학교 대기과학과</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>ko</language>
-    
-	<atom:link href="https://atmos.yonsei.ac.kr/research/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>ko</language><atom:link href="https://atmos.yonsei.ac.kr/research/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>연구 분야</title>
       <link>https://atmos.yonsei.ac.kr/research/research/</link>
