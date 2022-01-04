@@ -6,7 +6,11 @@
     <description>Recent content in 공지사항 on 연세대학교 대기과학과</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko</language>
-    <lastBuildDate>Thu, 30 Dec 2021 07:57:16 +0900</lastBuildDate><atom:link href="https://atmos.yonsei.ac.kr/categories/%EA%B3%B5%EC%A7%80%EC%82%AC%ED%95%AD/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 30 Dec 2021 07:57:16 +0900</lastBuildDate>
+    
+	<atom:link href="https://atmos.yonsei.ac.kr/categories/%EA%B3%B5%EC%A7%80%EC%82%AC%ED%95%AD/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>한국환경공단 채용공고문</title>
       <link>https://atmos.yonsei.ac.kr/blog/2021/12/30/notice_20211230/</link>
@@ -724,6 +728,15 @@
       <pubDate>Mon, 04 Jan 2021 10:00:16 +0900</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/blog/2021/01/04/notice_20210104/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title> 2022년 (재)논산시장학회 장학생 선발계획 알림 및 홍보요청 </title>
+      <link>https://atmos.yonsei.ac.kr/blog/2021/01/04/notice_20220104/</link>
+      <pubDate>Mon, 04 Jan 2021 07:57:16 +0900</pubDate>
+      
+      <guid>https://atmos.yonsei.ac.kr/blog/2021/01/04/notice_20220104/</guid>
       <description></description>
     </item>
     
