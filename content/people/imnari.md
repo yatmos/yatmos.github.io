@@ -5,8 +5,8 @@ teams = ["graduate"]
 banner = "img/people/imnari.jpg"
 email = "imnari1256@yonsei.ac.kr"
 job = "석사과정"
-phone = "02-2123-5684"
-room = "기후이론 연구실 / 과학관 536A호"
+phone = ""
+room = "기후이론 연구실 / 첨단관 606호"
 web = "https://www.yonseictl.com/"
 weight = 50
 +++

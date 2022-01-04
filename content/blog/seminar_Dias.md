@@ -1,6 +1,6 @@
-+++
+﻿+++
 title = "[세미나] Prof. Nelson L. Dias"
-date = 2018-07-23T8:49:46+09:00
+date = 2018-07-23T08:49:46+09:00
 categories = ["세미나"]
 banner = "img/placeholder.png"
 icon = "microphone"

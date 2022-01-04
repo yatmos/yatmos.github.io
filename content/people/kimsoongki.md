@@ -23,6 +23,8 @@ weight = 40
 
 
 #### 논문
++ S-K Kim, and S-I An, 2021: Seasonal gap theory for ENSO phase locking. Journal of Climate, 34, 5621-5634. https://doi.org/10.1175/JCLI-D-20-0495.1
++ H-J Kim, S-I An, S-K Kim, and J-H Park (2021) Feedback processes modulating the sensitivity of Atlantic thermohaline circulation to freshwater forcing timescales, J Clim, 34, 5081-5092
 + R. Olson, S.-I. An, S.-K. Kim and Y. Fan (2021) A novel approach for discovering stochastic models behind data applied to El Niño–Southern Oscillation, Scientific Reports, https://doi.org/10.1038/s41598-021-81162-2
 + S.-I. An, H.-J. Kim, and S.-K. Kim (2021) Rate-dependent hysteresis of the Atlantic Meridional Overturning Circulation system and its asymmetric loop, Geophysical Research Letters, https://doi.org/10.1029/2020GL090132
 + S.-I. An, S.-K. Kim and A. Timmermann (2020) Fokker–Planck dynamics of the El Niño-Southern Oscillation, Scientific Reports, 10, 16282, https://doi.org/10.1038/s41598-020-73449-7

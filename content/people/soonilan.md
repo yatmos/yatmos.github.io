@@ -6,7 +6,7 @@ banner = "img/people/soonilan.jpg"
 email = "sian@yonsei.ac.kr"
 job = "정교수"
 phone = "02-2123-5684"
-room = "기후이론 연구실 / 과학관 538호"
+room = "기후이론 연구실 / 과학관 538호, 첨단관 307A호"
 web = "https://www.yonseictl.com/"
 weight = 6
 +++
@@ -34,6 +34,42 @@ weight = 6
 + 해양-대기 상호작용
 
 #### 논문
++ S.-I. An, J. Shin, S.-W. Yeh, S.-W. Son, J.-S. Kug, S.-K., Min, and H.-J. Kim (2021) Global cooling hiatus driven by an AMOC overshoot in a carbon dioxide removal scenario, Earth’s Future
++ J-H Park, M-K Sung, Y-M Yang, J Zhao, S-I An, and J-S Kug, 2021: Role of the climatological intertropical convergence zone in the seasonal footprinting mechanism of the El Niño-Southern Oscillation, Journal of Climate, 34, 5243-5256. https://doi.org/10.1175/JCLI-D-20-0809.1.
++ S-K Kim, and S-I An, 2021: Seasonal gap theory for ENSO phase locking. Journal of Climate, 34, 5621-5634. https://doi.org/10.1175/JCLI-D-20-0495.1
++ H-J Kim, S-I An, S-K Kim, and J-H Park, 2021: Feedback processes modulating the sensitivity of Atlantic thermohaline circulation to freshwater forcing timescales. Journal of Climate, 34, 5081-5092, https://doi.org/10.1175/JCLI-D-20-0897.1.
++ E-S Heo, M-K Sung, S-I An, and Y-M Yang, 2021: Decadal phase shift of summertime Arctic dipole pattern and its nonlinear effect on sea ice extent, International Journal of Climatology, https://doi.org/10.1002/joc.7097.
++ Y-M Yang, J-H Park, S-I An, B Wang, and X Luo, 2021 : Mean sea surface temperature changes influence ENSO-related precipitation changes in the mid-latitudes. Nature Communications, 12, 1495. https://doi.org/10.1038/s41467-021-21787-z
++ Sung, M.-K., S.-W. Son, C. Yoo, J. Hwang, and S.-I. An, 2021: Seesawing of winter extremes between East Asia and North America. Journal of Climate, 1-42. https://doi.org/10.1175/JCLI-D-20-0789.1
++ R Olson, S-I An, S-K Kim and Y Fan, 2021 : A novel approach for discovering stochastic models behind data applied to El Niño–Southern Oscillation. Scientific Reports, 11, 2648. https://doi.org/10.1038/s41598-021-81162-2
++ S-I An, H-J Kim, and S-K Kim, 2021: Rate-dependent hysteresis of the Atlantic Meridional Overturning Circulation system and its asymmetric loop. Geophysical Research Letters, 48, e2020GL090132. https://doi.org/10.1029/2020GL090132
++ H-J Kim, S-I An, and D Kim, 2021 : Timescale-dependent AMOC-AMO relationship in an earth system model of intermediate complexity. International Journal of Climatology, 41, E3298-E3306. https://doi.org/10.1002/joc.6926
++ R Olson, A Timmermann, J-Y Lee, and S-I An, 2021: A low order dynamical model for runoff predictability. Climate Dynamics, 56, 399-422. https://doi.org/10.1007/s00382-020-05479-w
++ J-H Park, S-I An, J-S Kug, Y-M Yang, T Li, and H-S Jo, 2021 : Mid-latitude leading double-dip La Niña. International Journal of Climatology, 41, E1353-E1370. https://doi.org/10.1002/joc.6772
++ S-I An, E Tziperman, Y Okumura, and T Li, 2020: Chapter 4: Irregularity and asymmetry. AGU Monograph: ENSO in a Changing Climate.  M. McPhaden, A. Santoso, W. Cai (Eds.), Wiley, published.
++ H Kim, S-W Yeh, S-I An, and S-Y Song, 2020 : Changes in the role of Pacific Decadal Oscillation on sea ice extent variability across the mid-1990s. Scientific Reports, 10, 17564. https://doi.org/10.1038/s41598-020-74260-0
++ JR Brown, CM Brierley, S-I An, et al, 2020: Comparison of past and future simulations of ENSO in CMIP5/PMIP3 and CMIP6/PMIP4 models. Climate of the Past, 16, 1777-1805. https://doi.org/10.5194/cp-2019-155
++ S-Y Jun, J-H Kim, J Choi, S-J Kim, B-M Kim, and S-I An, 2020 : The internal origin of the west-east asymmetry of Antarctic climate change. Science Advances, 6(24), eaaz1490. DOI: 10.1126/sciadv.aaz1490
++ H Kim, S-W Yeh, S-I An, J-H Park, B-M Kim, and E-H Baek, 2020 : Arctic sea ice loss as a potential trigger for central Pacific El Nino events. Geophysical Research letters, 47, e2020GL087028. https://doi.org/10.1029/2020GL087028
++ M-K Sung, C Yoo, S-W Yeh, Y Kosaka, and S-I An, 2020 : Characteristics of the north Pacific Oscillation in CMIP5 models in relation to atmospheric mean states. Journal of Climate, 33, 3809-3825. https://doi.org/10.1175/JCLI-D-19-0446.1
++ S-I An, S-K Kim, and A Timmermann, 2020 : Fokker-Planck dynamics of the El Niño-Southern Oscillation. Scientific Reports, 10, 16282. https://doi.org/10.1038/s41598-020-73449-7
++ J Zhao, J-S Kug, J-H Park, and S-I An, 2020: Diversity of North Pacific meridional mode and its distinct impacts on El Niño-Southern Oscillation. Geophysical Research Letters, 47, e2020GL088993. https://doi.org/10.1029/2020GL088993
++ Y-M Yang, S-I An, B Wang, and J H Park, 2020: A global-scale multidecadal variability driven by Atlantic multidecadal oscillation. National Science Review, 7, 1190-1197. https://doi.org/10.1093/nsr/nwz216
++ Soong-Ki Kim, Soon-Il An. 2020: Untangling El Niño‐La Niña Asymmetries Using a Nonlinear Coupled Dynamic Index. Geophysical Research Letters, 47, e2019GL085881. https://doi.org/10.1029/2019GL085881
++ J.-H. Park, J.-S. Kug, S.-I. An, and T. Li, 2019: Role of the western hemisphere warm pool in climate variability over the western North Pacific. Climate Dynamics, 53, 2743-2755. https://doi.org/10.1007/s00382-019-04652-0
++ R. Olson, S.-I. An, et al. 2019: A novel method to test non-exclusive hypotheses applied to Arctic ice projections from dependent models. Nature Communications, 10(1), 3016. https://doi.org/10.1038/s41467-019-10561-x
++ Jongsoo Shin, Roman Olson, and Soon-Il An. 2019: Improved probabilistic twenty-first century projections of sea surface temperature over East Asian marginal seas by considering uncertainty owing to model error and internal variability. Climate Dynamics, 53, 6075-6087. https://doi.org/10.1007/s00382-019-04911-0
++ Soon-Il An and Eun Sook Heo. 2019: Robust opposite‐changing tendency between the thermal advection damping by mean current and thermo‐dynamical damping of ENSO Feedback in a changing climate. Royal Meteorological Society. International Journal of Climatology, 39, 5822-5829. https://doi.org/10.1002/joc.6176
++ Hyo-Jeong Kim and Soon-Il An. 2019: Impact of North Atlantic Freshwater Forcing on the Pacific Meridional Overturning Circulation under Glacial and Interglacial Conditions. Journal of Climate, 32. 4641-4659. https://doi.org/10.1175/JCLI-D-19-0065.1
++ Roman Olson, Soon-Il An, Yanan Fan, and Jason P. Evans. 2019: Accounting for skill in trend, variability, and autocorrelation facilitates better multi-model projections: Application to the AMOC and temperature time series. PLoS ONE, 14(4): e021435. https://doi.org/10.1371/journal. pone.0214535 
++ R. Olson, K. L. Ruckert, W. Chang, K. Keller, M. Haran, and S.-I. An, 2018: Stilt: Easy emulation of time series AR(1) computer model output in multidimensional parameter space. The R Journal 10:2, pages 209-225.
++ Ji-Won Kim, and Soon-Il An 2018: Western North Pacific anticyclone chnage associated with the EL Nino-Indian Ocean Dipole coupling. International Journal of Climatology, 39, 2505-2521. http://doi.org/10.1002/joc.5967
++ Soon-Il An, and Ji-Won Kim 2018: ENSO transition asymmetry: Internal and external causes and intermodel diversity. Geophysical Research Letters, 45, 5095-5104. https://doi.org/10.1029/2018GL078476
++ A. Timmermann, and S.-I. An, et al. 2018: El Nino-Southern Oscillation complexity. Nature, 559, 535-545. https://doi.org/10.1038/s41586-018-0252-6
++ Ji-Won Kim, Soon-Il An. 2018 : Origin of early-spring central Pacific warming as the 1982-1983 El Nino precursor. International Journal of Climatology, 38, 2899-2906. https://doi.org/10.1002/joc.5465
++ Soon-Il An. 2018 : Impact of Pacific Decadal Oscillation on Frequency Asymmetry of El Niño and La Niña events. Advances in Atmospheric Sciences, 35, 493-494. https://doi.org/10.1007/s00376-018-8024-7
++ Soon-Il An, Seul-Hee Im, Sang-Yoon Jun, 2018 : Changes in ENSO activity during the last 6,000 years modulated by background climate state. Geophysical Research Letters, 45, 2467-2475. https://doi.org/10.1002/2017GL076250
++ Sang-Wook Yeh, Wenju Cai, Seung-Ki Min, Michael J. McPhaden, Dietmar Dommenget, Boris Dewitte, Matthew Collins, Karumuri Ashok, Soon-Il An, Bo-Young Yim, Jong-Seong Kug, 2018 : ENSO atmospheric teleconnections and their response to greenhouse gas forcing. Reviews of Geophysics, 56, 185-206. https://doi.org/10.1002/2017RG000568
 + So-Jung Shin, Soon-Il An, 2018 :Interdecadal Change in the Relationship Between the North Pacific Oscillation and the Pacific Meridional Mode and Its Impact on ENSO. Asia-Pacific Journal of Atmospheric Sciences, DOI:10.1007/s13143-017-0060-1
 + Jongsoo Shin, R. Olson, Soon-Il An, 2018 : Projected Heat Wave Characteristics over the Korean Peninsula During the Twenty-First Century. Asia-Pacific Journal of Atmospheric Sciences. DOI:10.1007/s13143-017-0059-7
 + R. Olson,  S. -I. An, Y. Fan, J. P. Evans, L. Caesar, 2017 : North Atlantic observations sharpen meridional overturning projections. Climate Dynamics, doi:10.1007/s00382-017-3867-7.

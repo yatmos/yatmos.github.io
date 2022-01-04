@@ -16,7 +16,7 @@ weight = 50
 
 
 #### 학력
- + **B.Sc** (2021) in Energy Resources Engineering, Kangwon National University, Chuncheon, Korea
+ + **B.Ec** (2021) in Energy Resources Engineering, Kangwon National University, Chuncheon, Korea
 
 #### 수상내역
 

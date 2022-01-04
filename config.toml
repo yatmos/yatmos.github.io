@@ -9,6 +9,8 @@ defaultContentLanguage = "en"
 # Enable Google Analytics by entering your tracking code
 googleAnalytics = "UA-117501743-1"
 
+publishDir = "docs"
+
 hasCJKLanguage = true
 # Define the number of posts per page
 paginate = 20
@@ -103,7 +105,7 @@ summarylength = 20
 [[menu.topbar]]
     weight = 3
     name = "Language"
-    url = "https://atmos.yonsei.ac.kr/eng"
+    url = "https://yatmos.github.io/eng"
     pre = "English"
 
 [[menu.topbar]]
