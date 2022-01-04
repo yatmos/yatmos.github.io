@@ -628,6 +628,14 @@ th.tg-sort-header::-moz-selection { background:transparent; }th.tg-sort-header::
                       around the Korean Peninsula from numerical models </td>
     <td class="tg-s8ju">염성수</td>
   </tr>
+ <tr>
+  <td class="tg-s8ju">심성보</td>
+  <td class="tg-s8ju">2020년 8월</td>
+  <td class="tg-s8ju">Effects of Anthropogenic and Natural Forcing <br>
+                      on the Summer Temperature Variations <br>
+                      in East Asia during the 20th Century </td>
+    <td class="tg-s8ju">염성수</td>
+  </tr>
   <tr>
   <td class="tg-s8ju">이하나</td>
   <td class="tg-s8ju">2021년 2월</td>
