@@ -10,7 +10,7 @@ icon = "bullhorn"
 
 <!--more-->
 
-2021년 12월 28일 (화)에는 연세대학교 과학관 533B호, 미기상 연구실에서 상장 수여 및 현판식을 진행하였습니다.
+2021년 12월 28일 (화), 연세대학교 과학관 533B호, 미기상 연구실에서 상장 수여 및 현판식을 진행하였습니다.
 
 <br>
 <br>
@@ -19,9 +19,9 @@ icon = "bullhorn"
 <img src="/img/healty2.png" class="img-responsive" alt="">
 </div>
 
-<br>
-<br>
+<!--more-->
 
+<br>
 
 ### [관련 링크 더보기](https://research.yonsei.ac.kr/research/service/researchgallery.do?mode=view&articleNo=133529)
 
