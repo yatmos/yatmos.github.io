@@ -16,7 +16,7 @@ icon = "bullhorn"
 <br>
 
 <div class='image'>
-<img src="/img/healty2.png" class="img-responsive" alt="">
+<img src="/img/healthy2.png" class="img-responsive" alt="">
 </div>
 
 <!--more-->
