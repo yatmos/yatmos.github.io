@@ -4,7 +4,7 @@ date = "2018-09-04T13:39:46+02:00"
 teams = ["faculty"]
 banner = "img/people/HajoonSong.png"
 email = "hajsong@yonsei.ac.kr"
-job = "조교수"
+job = "부교수"
 phone = "02-2123-2579"
 room = "대기해양 모델링 연구실, 과학관 544호"
 web = "https://hajsong.github.io"
@@ -23,7 +23,7 @@ weight = 11
 + **B.S.** (2005) Department of Atmospheric Sciences, Yonsei University, Seoul, Korea
 
 #### 연구경력
-+ 2018.3 - : Assistant Professor, Department of Atmospheric Sciences, Yonsei University, Seoul, Korea
++ 2018.3 - : Assistant/Associate Professor, Department of Atmospheric Sciences, Yonsei University, Seoul, Korea
 + 2019.2 : Visiting Professor, MIT, Cambridge, USA
 + 2018.7 - 2018.8 : Visiting Professor, MIT, Cambridge, USA
 + 2013-2018: Research Scientist / Postdoctoral Associate, MIT, Cambridge, USA
@@ -34,11 +34,21 @@ weight = 11
 #### 담당과목
 + [대기 해양 순환](https://hajsong.github.io/ATM2106/)
 + [해양 모델링](https://hajsong.github.io/ATM9107/)
-+ [기상 프로그래밍](https://hajsong.github.io/ATM4110/)
 + 대기 해양 상호작용
 + 해양 물리
++ [기상 프로그래밍](https://hajsong.github.io/ATM4110/), 2018
 
 #### 논문
++ Kwak, K., **Song, H.**, Marshall, J., Seo, H. and McGillicuddy, D. J. Jr. (2021)}: Suppressed pCO2 in the Southern Ocean due to the interaction between current and wind. _Journal of Geophysical Research: Oceans_, 126, e2021JC017884
+
++ Al-Shehhi, M.R., **H. Song**, J.R. Scott and J. Marshall (2021). Water mass transformation and overturning circulation in the Arabian Gulf. _Journal of Physical Oceanography_, 51(11), 3513-3527
+
++ Seo, H., **H. Song**, L.W. O'Neill, M.R. Mazloff and B.D. Cornuelle (2021). Impacts of ocean currents on the South Indian Ocean extratropical storm track through the relative wind effect. _Journal of Climate_, 34(22), 9093-9113
+
++ Hur, I., M. KIM, **K. Kwak**, H.M. Sung, Y-H Byun, **H. Song** and C. Yoo (2021). Hadley circulation in the present and future climate simulations of the K-ACE model. _Asia-Pacific Journal of Atmospheric Sciences_, in press
+
++ **Tak, Y. J.**, **H. Song**, Y. K. Cho (2021). Impact of the reemergence of North Pacific subtropical mode water on the multi-year modulation of marine heatwaves in the North Pacific Ocean during winter and early spring. _Environmental Research Letters_, 16(7), 074036
+
 + Doddridge, E. W. , J. Marshall, **H. Song**, J-M Campin and M. Kelley (2021). Southern Ocean heat storage, reemergence, and winter sea ice decline induced by summertime winds. _Journal of Climate_ 34 (4), 1403-1415
 
 + Gupta, M., J. Marshall, **H. Song**, J-M Campin and G. Meneghello (2020). Sea‐Ice Melt Driven by Ice‐Ocean Stresses on the Mesoscale, _Journal of Geophysical Research: Oceans_ 125 (11), e2020JC016404
