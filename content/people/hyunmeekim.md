@@ -7,7 +7,7 @@ email = "khm@yonsei.ac.kr"
 job = "정교수"
 phone = "02-2123-5683"
 room = "대기예측성 및 자료동화 연구실 / 과학관 541호"
-web = "http://web.yonsei.ac.kr/apdal"
+web = "apdal.yonsei.ac.kr"
 weight = 5
 +++
 
@@ -35,10 +35,13 @@ weight = 5
 + 자료동화
 + 기상재해
 + 환경과 대기
++ 대기과학입문
 + 대기역학 I, 대기역학 II 
 + 예측가능성론
 
 #### 논문
++ Cho, M., and H. M. Kim, 2022: Effect of assimilating CO2 observations in the Korean Peninsula on the inverse modeling to estimate surface CO2 flux over Asia. PLoS ONE, 17, e0263925. https://doi.org/10.1371/journal.pone.0263925.
++ Kim, H. M., and D.-H. Kim, 2021: Effect of boundary conditions on adjoint-based forecast sensitivity observation impact in a regional model. Journal of Atmospheric and Oceanic Technology, 38, 1233-1247, doi:10.1175/JTECH-D-20-0040.1.
 + Yang, E.-G., and H. M. Kim, 2021: A comparison of variational, ensemble-based, and hybrid data assimilation methods over East Asia for two one-month periods, Atmospheric Research, 249,105257, https://doi.org/10.1016/j.atmosres.2020.105257.
 + Park, J., and H. M. Kim, 2020: Design and evaluation of CO₂ observation network to optimize surface CO₂ fluxes in Asia using observation system simulation experiments, Atmospheric Chemistry and Physics, 20, 5175-5195, https://doi.org/10.5194/acp-20-5175-2020.
 + Kim, D.-H., H. M. Kim, and J. Hong, 2019: Evaluation of wind forecasts over Svalbard using the high-resolution Polar WRF with 3DVAR, Arctic, Antarctic, and Alpine Research, 51, 471-489, doi:10.1080/ 15230430.2019.1676939.

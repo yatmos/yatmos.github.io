@@ -7,7 +7,7 @@ email = "seomg96@yonsei.ac.kr"
 job = "박사과정"
 phone = "02-2123-4815"
 room = "대기예측성 및 자료동화 연구실 / 과학관 530 B호"
-web = "http://web.yonsei.ac.kr/apdal"
+web = "apdal.yonsei.ac.kr"
 weight = 40
 +++
 
@@ -19,5 +19,6 @@ weight = 40
 + **B.Sc** (2019) in Atmospheric Sciences, Yonsei University, Seoul, Korea
 
 #### 수상내역
++ (2022.01.12) 우수논문장려상, 연세대학교 대학원 2021-2학기 우수 논문상 석사학위과정 자연부분 
 
 #### 논문
