@@ -1051,7 +1051,7 @@ th.tg-sort-header::-moz-selection { background:transparent; }th.tg-sort-header::
    <tr>
     <td class="tg-s8ju">서민경</td>
     <td class="tg-s8ju">2021년 2월</td>
-    <td class="tg-s8ju">Development of high-resolution regional model for simulating CO2 mole fraction <br> 
+    <td class="tg-s8ju">Development of high-resolution regional model for simulating CO2 mole fraction <br>
 	                    over East Asia and the effect of atmospheric field,	VPRM parameter, <br>
 						and anthropogenic emission inventory</td>
     <td class="tg-s8ju">김현미</td>
@@ -1062,6 +1062,13 @@ th.tg-sort-header::-moz-selection { background:transparent; }th.tg-sort-header::
     <td class="tg-s8ju">2022년 2월</td>
     <td class="tg-s8ju">Transient response of Global Heat Energy Transport in a Quadrupling CO2 Pulse experiment</td>
     <td class="tg-s8ju">안순일</td>
+  </tr>
+  </tr>
+    <tr>
+    <td class="tg-s8ju">김송강</td>
+    <td class="tg-s8ju">2022년 2월</td>
+    <td class="tg-s8ju">지상 및 위성관측자료를 활용한 남극 지역 오존 전량 및 연직분포 특성 분석</td>
+    <td class="tg-s8ju">구자호</td>
   </tr>
 </table></div>
 
