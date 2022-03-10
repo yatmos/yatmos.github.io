@@ -1,18 +1,17 @@
 <!DOCTYPE html>
 <html lang="{{ .Site.LanguageCode }}">
 
-  {{ partial "head.html" . }}
+  <head>
+    {{ partial "headers.html" . }}
+    {{ partial "custom_headers.html" . }}
+  </head>
 
   <body>
 
     <div id="all">
 
-        <header>
+        {{ partial "nav.html" . }}
 
-          {{ partial "top.html" . }}
-          {{ partial "nav.html" . }}
-
-        </header>
 
         {{ partial "breadcrumbs.html" . }}
 
@@ -79,8 +78,8 @@
 
                         {{ else if or (isset .Params "educations") (eq .Type "educations") }}
                         <!--  List page for "educations"  -->
-                        {{ $paginator := (.Paginate .Data.Site.Pages) }}
-                        {{ range $paginator.Site.Pages }}
+                        {{ $paginator := (.Paginate .Data.Pages) }}
+                        {{ range $paginator.Pages }}
                         <section class="post">
                             <div class="row">
                                 <div class="col-md-4">

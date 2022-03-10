@@ -1,8 +1,7 @@
 +++
-banner = ""
-categories = []
-date = 2022-03-07T15:00:00Z
-draft = true
+date = 2022-03-07T12:55:47+09:00
+categories = ["세미나"]
+banner = "img/placeholder.png"
 icon = "microphone"
 title = "[세미나] Prof. Kai Qin"
 

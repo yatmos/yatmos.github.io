@@ -1,18 +1,16 @@
 <!DOCTYPE html>
 <html lang="{{ .Site.LanguageCode }}">
 
-  {{ partial "head.html" . }}
+  <head>
+    {{ partial "headers.html" . }}
+    {{ partial "custom_headers.html" . }}
+  </head>
 
   <body>
 
     <div id="all">
 
-        <header>
-
-          {{ partial "top.html" . }}
-          {{ partial "nav.html" . }}
-
-        </header>
+        {{ partial "nav.html" . }}
 
         {{ partial "breadcrumbs.html" . }}
 
@@ -31,7 +29,7 @@
                                 <ul class="nav nav-pills nav-stacked">
                                     {{ $paginator := (.Paginate .Data.Pages) }}
                                     {{ range $paginator.Pages }} 
-                                    <li><a href="{{ .URL }}">{{ .Title }}</a>
+                                    <li><a href="{{ .Permalink }}">{{ .Title }}</a>
                                     </li>
                                     {{ end }} 
                                 </ul>
