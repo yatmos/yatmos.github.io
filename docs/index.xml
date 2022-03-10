@@ -6,7 +6,7 @@
     <description>Recent content on 연세대학교 대기과학과</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko</language>
-    <lastBuildDate>Wed, 02 Mar 2022 00:20:44 +0900</lastBuildDate><atom:link href="https://atmos.yonsei.ac.kr/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 08 Mar 2022 10:00:00 +0900</lastBuildDate><atom:link href="https://atmos.yonsei.ac.kr/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>노의근</title>
       <link>https://atmos.yonsei.ac.kr/people/yignnoh/</link>
@@ -163,7 +163,7 @@
     <item>
       <title>송하준</title>
       <link>https://atmos.yonsei.ac.kr/people/hajoonsong/</link>
-      <pubDate>Tue, 04 Sep 2018 13:39:46 +0200</pubDate>
+      <pubDate>Tue, 04 Sep 2018 11:39:46 +0000</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/people/hajoonsong/</guid>
       <description>연구분야 대기-해양 상호관계 탄소순환 대기-</description>
@@ -386,15 +386,6 @@
     </item>
     
     <item>
-      <title>김재엽</title>
-      <link>https://atmos.yonsei.ac.kr/people/jaeyoupkim/</link>
-      <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
-      
-      <guid>https://atmos.yonsei.ac.kr/people/jaeyoupkim/</guid>
-      <description>연구분야 Atmospheric Modeling Parallel Processing 학력 M.Sc (2019) in information science, University of Science and Technology,</description>
-    </item>
-    
-    <item>
       <title>김정원</title>
       <link>https://atmos.yonsei.ac.kr/people/jeongwonkim/</link>
       <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
@@ -428,6 +419,15 @@
       
       <guid>https://atmos.yonsei.ac.kr/people/inyeobla/</guid>
       <description>연구분야 Observation of the fog processes 학력 B.Sc (2017) in Atmospheric Sciences, Yonsei University, Seoul, Korea</description>
+    </item>
+    
+    <item>
+      <title>박민주</title>
+      <link>https://atmos.yonsei.ac.kr/people/minjupark/</link>
+      <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
+      
+      <guid>https://atmos.yonsei.ac.kr/people/minjupark/</guid>
+      <description>연구분야 Spatiotemporal characteristics of polar and mid-latitude ozone 학력 B.Sc (2022) in Atmospheric Science, Yonsei University,</description>
     </item>
     
     <item>
@@ -746,15 +746,6 @@
     </item>
     
     <item>
-      <title>김송강</title>
-      <link>https://atmos.yonsei.ac.kr/people/songkang/</link>
-      <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
-      
-      <guid>https://atmos.yonsei.ac.kr/people/songkang/</guid>
-      <description>연구분야 Polar Research for Atmospheric Chemistry 학력 B.Sc (2020) in Atmospheric Sciences, Yonsei University, Seoul, Korea</description>
-    </item>
-    
-    <item>
       <title>김유진</title>
       <link>https://atmos.yonsei.ac.kr/people/kimyujin/</link>
       <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
@@ -770,15 +761,6 @@
       
       <guid>https://atmos.yonsei.ac.kr/people/heyjinkim/</guid>
       <description>연구분야 Estimation of aerosol optical depth from chemical transport model 학력 M.Sc (2020) in Atmospheric Science,</description>
-    </item>
-    
-    <item>
-      <title>박인표</title>
-      <link>https://atmos.yonsei.ac.kr/people/inpyopark/</link>
-      <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
-      
-      <guid>https://atmos.yonsei.ac.kr/people/inpyopark/</guid>
-      <description>연구분야 Atmospheric Modeling 학력 B.Sc (2019) in atmospheric sicences, Yonsei University, Seoul, Korea 수상내</description>
     </item>
     
     <item>
@@ -836,6 +818,15 @@
     </item>
     
     <item>
+      <title>이채형</title>
+      <link>https://atmos.yonsei.ac.kr/people/chaehyeonglee/</link>
+      <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
+      
+      <guid>https://atmos.yonsei.ac.kr/people/chaehyeonglee/</guid>
+      <description>Research interests Air-sea interactions Persistence of sea surface temperature anomalies Education B.Sc (2022) in Atmospheric Sciences, Yonsei University, Seoul, Korea</description>
+    </item>
+    
+    <item>
       <title>이초현</title>
       <link>https://atmos.yonsei.ac.kr/people/chohyunrhee/</link>
       <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
@@ -854,6 +845,15 @@
     </item>
     
     <item>
+      <title>한경훈</title>
+      <link>https://atmos.yonsei.ac.kr/people/kyunghunhan/</link>
+      <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
+      
+      <guid>https://atmos.yonsei.ac.kr/people/kyunghunhan/</guid>
+      <description>Research interests Ocean circulation Air-Sea interaction Education B.Sc (2017) in Computer Sciences, Korea Naval Academy, Jinhae, Korea Awards Publications</description>
+    </item>
+    
+    <item>
       <title>박사졸업생</title>
       <link>https://atmos.yonsei.ac.kr/people/alumnidoctor/</link>
       <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
@@ -869,6 +869,15 @@
       
       <guid>https://atmos.yonsei.ac.kr/people/alumnimaster/</guid>
       <description>석사학위자 명단 .tg {border-collapse:collapse;border-spacing:0;border:none;border-color:#ccc;margin:0px auto;} .tg td{font-family:Arial, sans-serif;font-size:14px;padding:20px 6px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:#ccc;color:#333;background-color:#fff;} .tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:20px 6px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:#ccc;color:#333;background-color:#f0f0f0;} .tg .tg-44m2{font-weight:bold;font-size:16px;font-family:&#34;Arial</description>
+    </item>
+    
+    <item>
+      <title>[세미나] Prof. Kai Qin</title>
+      <link>https://atmos.yonsei.ac.kr/blog/2022/03/08/seminar_20220308_kai_qin/</link>
+      <pubDate>Tue, 08 Mar 2022 10:00:00 +0900</pubDate>
+      
+      <guid>https://atmos.yonsei.ac.kr/blog/2022/03/08/seminar_20220308_kai_qin/</guid>
+      <description>Improvement and application of satellite retrievals of atmospheric composition in China Prof. Kai Qin (China University of Mining and Technology)</description>
     </item>
     
     <item>
