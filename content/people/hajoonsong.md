@@ -22,7 +22,7 @@ weight = 11
 #### 학력
 
 * **Ph.D.** (2011) Scripps Institution of Oceanography, University of California, San Diego, USA
-* **B.S.** (2005) Department of Atmospheric Sciences, Yonsei University, Seoul, Korea
+* **B.S.** (2005) Department of Atmospheric Sciences, Yonsei University, Seoul, South Korea
 
 #### 연구경력
 
