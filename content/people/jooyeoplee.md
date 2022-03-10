@@ -22,3 +22,4 @@ weight = 40
 #### 수상내역
 
 #### 논문
++ Lee, J., Claussen, M., Kim, J., Hong, J. W., Song, I. S. and Hong, J. (2022). Effect of nitrogen limitation and soil biophysics on Holocene greening of the Sahara. Climate of the Past, 18(2), 313-326.

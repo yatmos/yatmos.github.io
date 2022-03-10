@@ -1,4 +1,4 @@
-+++
+﻿+++
 title = "이근민"
 date = "2018-03-24T13:39:46+02:00"
 teams = ["graduate"]
@@ -22,9 +22,11 @@ weight = 40
 
 #### 수상내역
  + (2018) Group Achievement Award, KORea-United States Air Quality (KORUS-AQ), NASA
++ (2021.11) Best Presentation Award, Korean Society of Climate Change Research 
 
 
 #### 논문
++ Lee, K, J.-W. Hong, J. Kim, S. Jo, and J. Hong (2021) Traces of urban forest in temperature and CO2 signals in the East Asian monsoon region, Atmospheric Chemistry and Physics, 21, 17833-17853.
 + Lee, K., Hong, J. W., Kim, J., & Hong, J. (2021). Partitioning of net CO2 exchanges at the city-atmosphere interface into biotic and abiotic components. MethodsX, 8, 101231.
 + Hong, J.-W. et al. (2020) Seasonal variations in surface energy and CO2 flux over a high-rise high-density residential urban area in East Asian monsoon region. International Journal of Climatology.
 + Lee, J. et al. (2019) Ceilometer monitoring of boundary layer height in Seoul and its application to evaluate the dilution effect on air pollution. Boundary Layer Meteorology, 172, 435-455.
