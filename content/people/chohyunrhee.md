@@ -2,7 +2,7 @@
 title = "이초현"
 date = "2018-03-24T13:39:46+02:00"
 teams = ["graduate"]
-banner = "img/people/chohyunrhee.png"
+banner = "img/people/chohyunrhee.jpg"
 email = "chohyun@yonsei.ac.kr"
 job = "석사과정"
 phone = "02-2123-7608"
