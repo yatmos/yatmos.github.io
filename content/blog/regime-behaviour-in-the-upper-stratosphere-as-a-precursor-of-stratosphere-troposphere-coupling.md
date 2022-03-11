@@ -4,7 +4,7 @@ categories = []
 date = 2022-03-11T15:00:00Z
 draft = true
 icon = ""
-title = "Regime Behaviour in the Upper Stratosphere as a Precursor of Stratosphere–Troposphere Coupling"
+title = "[세미나] Dr. Hua Lu"
 
 +++
 Dr. Hua Lu (British Antarctic Survey)
