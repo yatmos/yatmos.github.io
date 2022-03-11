@@ -2,7 +2,6 @@
 banner = ""
 categories = []
 date = 2022-03-11T15:00:00Z
-draft = true
 icon = ""
 title = "[세미나] Dr. Hua Lu"
 
