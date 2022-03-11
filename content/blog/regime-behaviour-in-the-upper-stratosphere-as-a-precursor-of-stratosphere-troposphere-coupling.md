@@ -1,8 +1,8 @@
 +++
-banner = ""
-categories = []
+banner = "/files/placeholder.png"
+categories = ["세미나"]
 date = 2022-03-11T15:00:00Z
-icon = ""
+icon = "microphone"
 title = "[세미나] Dr. Hua Lu"
 
 +++
