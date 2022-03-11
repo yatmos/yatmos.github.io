@@ -1,4 +1,4 @@
-+++
+﻿+++
 title = "김경민"
 date = "2018-03-24T13:39:46+02:00"
 teams = ["graduate"]
@@ -15,7 +15,7 @@ weight = 40
 + Measurement and analysis of energy fluxes at the land-atmosphere interface
 
 #### 학력
- + B.Sc (2021) in Atmospheric Sciences & Systems Biology, Yonsei University, Seoul, Korea
+ + **B.Sc** (2021) in Atmospheric Sciences & Systems Biology, Yonsei University, Seoul, Korea
 
 #### 수상내역
 
