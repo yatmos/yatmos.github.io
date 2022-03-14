@@ -6,7 +6,7 @@ banner = "img/people/dongheelee.png"
 email = "awzsseed@yonsei.ac.kr"
 job = "박사과정"
 phone = "02-2123-7264"
-room = "대기화학 연구실"
+room = "대기화학 연구실 / 과학관 535호"
 web = "https://atmchem.yonsei.ac.kr"
 weight = 40
 +++
