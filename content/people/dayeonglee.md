@@ -2,7 +2,7 @@
 title = "이다영"
 date = "2018-03-24T13:39:46+02:00"
 teams = ["graduate"]
-banner = "img/people/dayeonglee.png"
+banner = "img/people/dayeonglee.jpg"
 email = "dayeonglee@yonsei.ac.kr"
 job = "석사과정"
 phone = "02-2123-7264"
