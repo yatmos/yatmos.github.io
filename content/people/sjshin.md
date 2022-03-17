@@ -2,7 +2,7 @@
 title = "신소정"
 date = "2018-03-24T13:39:46+02:00"
 teams = ["graduate"]
-banner = "img/people/sjshin.png"
+banner = "img/people/sjshin.jpg"
 email = "sjshin89@yonsei.ac.kr"
 job = "박사과정"
 phone = ""
