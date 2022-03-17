@@ -1,8 +1,7 @@
 +++
 banner = "/files/placeholder.png"
-categories = []
-date = 2022-03-17T01:05:00Z
-draft = true
+categories = ["공지사항"]
+date = 2022-03-17T01:07:00Z
 icon = "bullhorn"
 title = "연세대학교 공군 장교학군단(ROTC) 후보생  모집 및 설명회 개최 안내(조종/일반)"
 
