@@ -2,7 +2,7 @@
 title = "권도윤"
 date = "2018-03-24T13:39:46+02:00"
 teams = ["graduate"]
-banner = "img/people/doyoon_kwon.png"
+banner = "img/people/doyoon_kwon.jpg"
 email = "doyoon_kwon@yonsei.ac.kr"
 job = "석사과정"
 phone = "02-2123-5680"
