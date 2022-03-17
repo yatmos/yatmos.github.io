@@ -19,3 +19,5 @@ fields:
   name: icon
   label: icon
   default: bullhorn
+pages:
+- content/blog/rotc.md
