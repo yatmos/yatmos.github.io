@@ -46,3 +46,5 @@ title = "연세대학교 공군 장교학군단(ROTC) 후보생  모집 및 설�
 가. 지원 관련 세부사항은 본교 홈페이지 공지사항 참조**(바로가기**[https://www.yonsei.ac.kr/sc/support/notice.jsp?mode=view&article_no=203025](https://www.yonsei.ac.kr/sc/support/notice.jsp?mode=view&article_no=203025 "https://www.yonsei.ac.kr/sc/support/notice.jsp?mode=view&article_no=203025")**)**
 
 나. 문의: 연세대학교 기획실 기획팀(02-2123-2062)
+
+붙임1.\[연세대학교 공군 장교학군단(ROTC) 후보생 모집 안내문\](/files/(2022.03.16) 붙임_연세대학교 공군 장교학군단(ROTC) 후보생 모집 안내문.hwp)
