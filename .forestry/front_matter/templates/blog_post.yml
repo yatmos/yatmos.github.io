@@ -20,4 +20,5 @@ fields:
   label: icon
   default: bullhorn
 pages:
+- content/blog/2022.md
 - content/blog/rotc.md
