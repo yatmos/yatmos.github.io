@@ -1,16 +1,16 @@
 +++
-title = "홍진규 (학과장)"
-date = "2018-04-10T13:39:46+02:00"
-teams = ["faculty"]
 banner = "img/people/jinkyuhong.jpg"
+date = 2018-04-10T11:39:46Z
 email = "jhong [at] yonsei. ac. kr"
 job = "정교수"
 phone = "02-2123-5693"
 room = "미기상 연구실 / 과학관 542호"
+teams = ["faculty"]
+title = "홍진규"
 web = "https://eapl.yonsei.ac.kr"
 weight = 8
-+++
 
++++
 #### 연구분야
 + 탄소 및 물 순환
 + 도시 기후 및 도시 환경

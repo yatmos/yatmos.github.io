@@ -1,16 +1,16 @@
 +++
-title = "전혜영"
-date = "2018-04-16T13:39:46+02:00"
-teams = ["faculty"]
 banner = "img/people/hyeyeongchun.jpg"
+date = 2018-04-16T11:39:46Z
 email = " chunhy@yonsei.ac.kr"
 job = "정교수"
 phone = "02-2123-2692"
 room = "대기역학 연구실 / 과학관 543호"
+teams = ["faculty"]
+title = "전혜영(학과장)"
 web = "http://atmosdyn.yonsei.ac.kr"
 weight = 2
-+++
 
++++
 #### 연구분야
 + 대기중력파
 + 중규모기상학
