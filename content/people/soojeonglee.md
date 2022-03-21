@@ -2,7 +2,7 @@
 title = "이수정"
 date = "2022-03-17T13:39:46+02:00"
 teams = ["graduate"]
-banner = "img/people/soojeonglee.JPG"
+banner = "img/people/soojeonglee.jpg"
 email = "cuarzolee@gmail.com"
 job = "박사과정"
 phone = "02-2123-5680"
