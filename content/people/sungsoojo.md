@@ -2,7 +2,7 @@
 title = "조성수"
 date = "2020-03-13T18:10:46+02:00"
 teams = ["graduate"]
-banner = "img/people/sungsoojo.jpg"
+banner = "img/people/sungsoojo.png"
 email = "jss_march@yonsei.ac.kr"
 job = "통합과정"
 phone = "02-2123-5680"
