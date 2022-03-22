@@ -12,122 +12,117 @@ weight = 2
 
 +++
 #### 연구분야
-+ 대기중력파
-+ 중규모기상학
-+ 중층대기역학
-+ 항공난류
+
+* 대기중력파
+* 중규모기상학
+* 중층대기역학
+* 항공난류
 
 #### 학력
- + **Ph.D.** (1991) in Atmospheric Sciences, North Carolina State University, USA
- + **M.Sc** (1987) in Meteorology, Yonsei University, Seoul, Korea
- + **B.Sc** (1985) in Meteorology, Yonsei University, Seoul, Korea
+
+* **Ph.D.** (1991) in Atmospheric Sciences, North Carolina State University, USA
+* **M.Sc** (1987) in Meteorology, Yonsei University, Seoul, Korea
+* **B.Sc** (1985) in Meteorology, Yonsei University, Seoul, Korea
 
 #### 담당과목
-+ 대기역학 I, II
-+ 고급대기역학
-+ 중층대기특론
-+ 중규모기상학
+
+* 대기역학 I, II
+* 고급대기역학
+* 중층대기특론
+* 중규모기상학
 
 #### 약력
- + 2010 ~ : 한국 과학기술한림원 이학부 정회원
- + 2016 - 2017: 연세대학교 학부대학 학장
- + 2014 - 2015: 한국기상학회 부회장
- + 2011 : 독일 JRC 방문교수
- + 2010 : 미국 JPL/NASA 방문학자
- + 2004 : 일본 교토대학 방문교수
- + 2003 : 미국 ATDD/ARL/NOAA 방문학자
- + 2003 ~ : 연세대학교 대기과학과 정교수
- + 2001 - 2003 : 연세대학교 대기과학과 학과장
- + 1998 - 2003 : 연세대학교 대기과학과 부교수
- + 1996 - 1998 : 연세대학교 대기과학과 조교수
- + 1995 - 1996 : 연세대학교 지구환경연구소 연구원
- + 1993 - 1995 : 서울대학교 자연과학연구소 특별연구원
- + 1992 - 1993 : 미국 GSFC/NASA 연구원
 
-#### 최근 논문
- + S. Kalisch, M.-J. Kang, and H.-Y. Chun, 2018: Impact of Convective Gravity Waves on the Tropical Middle Atmosphere During the Madden-Julian Oscillation. J. Geophys. Res. Atmos., doi: 10.1029/2017JD028221.
- + Kang, M.-J., H.-Y. Chun, Y.-H. Kim, P. Preusse, and M. Ern, 2018: Momentum Flux of Convective Gravity Waves Derived from an Offline Gravity Wave Parameterization. Part II: Impacts on the Quasi-Biennial Oscillation (QBO). J. Atmos. Sci.
- + Song I.‐ S., H.‐Y. Chun, G. Jee, S.‐Y. Kim, J. Kim, Y.‐H. Kim, and M.A Taylor, 2018: Dynamic initialization for whole‐atmospheric global modeling, J. Adv. Model. Earth Syst., https://doi.org/10.1029/2017MS001213.
- + Butchart N. and Coauthors, 2018: Overview of experiment design and comparison of models participating in phase 1 of the SPARC Quasi-Biennial Oscillation initiative (QBOi). Geosci. Model Dev., 11, 1009-1032.
- + Lee, D.-B., and H.-Y. Chun, 2018: A numerical study of aviation turbulence encountered on 13 February 2013 over the Yellow Sea between China and the Korean Peninsula. J. Appl. Meteor. Climatol., 57, 1043-1060.
- + Kang, M.-J., H.-Y. Chun, and Y.-H. Kim, 2017 Momentum flux of convective gravity waves derived from an off-line gravity wave parameterization. Part Ι Spatiotemporal variations at source level. J. Atmos. Sci., 74, 3167-3189.
- + S.-H. Kim, H.-Y. Chun, P. W. Chan, 2017: Comparison of turbulence indicators obtained from in situ flight data. J. Appl. Meteor. Climatol., 56(6), 1609-1623.
- + Song, I.-S., C. Lee, J.-H. Kim, G. Jee, Y.-H. Kim, H.-J. Choi, H.-Y. Chun, and Y. H. Kim, 2017. Meteor radar observations of vertically propagating low-frequency inertia-gravity waves near the southern polar mesopause region, J. Geophys. Res. Space Physics, 122, 4777-4800.
- + Kalisch, S. and Chun, H.-Y. and Ern, M. and Preusse, P. and Trinh, Q. T. and Eckermann, S. D. and Riese, M., 2016: Comparison of simulated and observed convective gravity waves. J.Geophys. Res. Atmos., 121, 13474-13492.
- + S.-H. Kim and H.-Y. Chun, 2016: Aviation turbulence encounters detected from aircraft observations: spatiotemporal characteristics and application to Korean Aviation Turbulence Guidance. Meteor. Appl., 23, 594-604.
- + Q.-T. Trinh, S. Kalish, P. Preusse, M. Ern, H.-Y. Chun, S. D. Eckermann, M.-J. Kang, and M. Riese, 2016: Tuning of a convective gravity wave source scheme based on HIRDLS observations. Atmos. Chem. Phys., 16, 7335-7356.
- + Y.-H. Kim, H.-Y. Chun, S.-H. Park, I.-S. Song, and H.-J Choi, 2016: Characteristics of gravity waves generated in the jet-front system in a baroclinic instability simulation. Atmos. Chem. Phys., 16, 4799-4815.
- + Jang, W., and H.-Y. Chun, 2015: Effects of thermodynamic profiles on the interaction of binary tropical cyclones. J.Geophys. Res. Atmos., 120, 9173-9192.
- + Y.-H. Kim and H.-Y. Chun, 2015: Momentum forcing of the quasi-biennial oscillation by equatorial waves in recent reanalyses. Atmos. Chem. Phys., 15, 6577-6587.
- + Q. T. Trinh, S. Kalisch, P. Preusse, H.-Y. Chun, S. D. Eckermann, M. Ern, and M. Riese, 2015: A comprehensive observational filter for satellite infrared limb sounding of gravity waves. Atmos. Meas. Tech., 8, 1491-1517.
- + Jang, W., and H.-Y. Chun, 2015: Characteristics of Binary Tropical Cyclones Observed in the Western North Pacific for 62 Years (1951-2012). Mon. Wea. Rev., 143, 1749-1761.
- + Kim, Y.-H., and H.-Y. Chun, 2015: Contributions of equatorial wave modes and parameterized gravity waves to the tropical QBO in HadGEM2. J.Geophys. Res. Atmos., 120, 1065-1090.
- + Kim, J.Y., H.-Y. Chun., and M.-J. Kang, 2014: Changes in the Brewer-Dobson Circulation for 1980-2009 Revealed in MERRA Reanalysis Data. Asia-Pac. J. Atmos. Sci., 50(s), 73-92.
- + Jia, J., P. Preusse, M. Ern, H.-Y. Chun, J. Gille, S. Eckermann, and M. Riese, 2014: Sea surface temperature as a proxy for convective gravity wave excitation: a study based on global observations in the middle atmosphere. Ann. Geophys., 32.
- + Kim, S.-H., H.-Y. Chun, and W. Jang, 2014: Horizontal divergence of typhoon-generated gravity waves in the upper troposphere and lower stratosphere (UTLS) and its influence on typhoon evolution. Atmos. Chem. Phys., 14, 3175-3182.
- + Kim, J.-H., H.-Y. Chun., R. D. Sharman and S. B. Trier, 2014: The Role of Vertical Shear on Aviation Turbulence within Cirrus Bands of a Simulated Western Pacific Cyclone. Mon. Wea. Rev., 142, 2794-2813.
- + Dhaka, S.K., Malik, V., Shibagaki, Y., Hashiguchi, H., Fukao, S., Shimomai, T., Chun, H.Y. and Takahashi, M., 2014: Comparison of vertical wavelengths of gravity waves emitted by convection in the UTLS region at Koto tabang (0.20˚S, 100.32˚E) and Gadanki (13.5˚N, 79.2˚E) using radars. Indian J. Radio & Space Phys., 43, 24-40.
- + Choi, E.-H., and H.-Y. Chun, 2014: Generation Mechanisms of Convectively Induced Internal Gravity Waves in a Three-Dimensional Framework. Asia-Pac. J. Atmos. Sci., 50, 163-177.
- + Choi, H.-J., and H.-Y. Chun, 2013: Effects of convective gravity wave drag in the Southern Hemisphere winter stratosphere. J. Atmos. Sci., 70, 2120-2136.
- + Kim, Y.-H., A. Bushell, D. Jackson, and H.-Y. Chun, 2013: Impacts of introducing a convective gravity-wave parameterization upon the QBO in the Met Office Unified Model. Geophys. Res. Lett., 40, 1873-1877.
- + Jang, W., and H.-Y. Chun, 2013: Effects of topography on the evolution of Typhoon Saomai (2006) under the Influence of Tropical Storm Bopha (2006). Mon. Wea. Rev., 141, 468-489.
- + Kim, Y.-H., H-Y. Chun, P. Preusse, M. Ern, and S.-Y. Kim, 2012: Gravity wave reflection and its influence on the consistency of temperature- and wind-based momentum fluxes simulated above Typhoon Ewiniar. Atmos. Chem. Phys., 12, 10787-10795.
- + Lee, S.-Y., H.-Y. Chun, and Y.-J. Choi, 2012: Establishment of a Multiple-Doppler Radar Wind Retrieval System and Its Application to the Analysis of Mesoscale Convective Systems. Asia-Pac. J. Atmos. Sci., 48, 369-390.
- + Lehmann, C., Y.-H. Kim, P. Preusse, H.-Y. Chun, M. Ern, and S.-Y. Kim, 2012: Consistency between Fourier transform and small-volume few-wave decomposition for spectral and spatial variability of gravity waves above a typhoon. Atmos. Meas. Tech., 5, 1637-1651.
- + Kim, J.-H., and H.-Y. Chun, 2012: A numerical simulation of convectively induced turbulence above deep convection. J. Appl. Meteor. Climatol., 51, 1180-1200.
- + Choi, H.-J., H.-Y. Chun, J. Gong, and D. Wu, 2012: Comparison of gravity wave temperature variances from ray-based spectral parameterization of convective gravity wave drag with AIRS observations. J. Geophys. Res. Atmos., 117, D05115.
- + Chun, H.-Y., Y.-H. Kim, H.-J. Choi, and J.-Y. Kim, 2011: Influence of gravity waves in the tropical upwelling: WACCM simulations. J. Atmos. Sci., 68, 2599-2612.
- + Kim, J.-H., H.-Y. Chun, R. Sharman, and Tk. Keller, 2011: Evaluations of upper-level turbulence diagnostics performance using the Graphical Turbulence Guidance (GTG) system and pilot reports (PIREPs) over East Asia. J. Appl. Meteor. Climatol., 50, 1936-1951.
- + Ki, M.-O., and H.-Y. Chun, 2011: Inertia-gravity waves associated with deep convection observed during the summers of 2005 and 2007 in Korea. J. Geophys. Res. Atmos., 116, D16122.
- + Choi, H.-J., and H.-Y. Chun, 2011: Momentum flux spectrum of convective gravity waves: Part 1: Validation of a parameterization using mesoscale simulations. J. Atmos. Sci., 68, 739-759.
- + Kim, J.-H., and H.-Y. Chun, 2011: Statistics and possible sources of aviation turbulence over South Korea. J. Appl. Meteor. Climatol., 50, 311-324.
- + Kim, S.-Y., and H.-Y. Chun, 2011: Impact of typhoon-generated gravity waves in the typhoon development. Geophys. Res. Lett., 38, L01806.
- + Kim, J.-H., and H.-Y. Chun, 2010: A numerical study on clear-air turbulence (CAT) encounters over South Korea on 2 April 2007. J. Appl. Meteor. Climatol., 49, 2381-2403.
- + Kim, S.-Y., and H.-Y. Chun, 2010: Stratospheric Gravity Waves Generated by Typhoon Saomai (2006): Numerical Modeling in a Moving Frame Following the Typhoon. J. Atmos. Sci., 67, 3617-3636.
- + Ki, M.-O., and H.-Y. Chun, 2010: Characteristics and Sources of Inertia-Gravity Waves Revealed in the KEOP-2007 Radiosonde Data. Asia-Pac. J. Atmos. Sci., 46, 261-277.
- + Kim, S.-Y., and H.-Y. Chun, 2010: Momentum flux of stratospheric gravity waves generated by Typhoon Ewiniar (2006). Asia-Pac. J. Atmos. Sci., 46, 199-208.
- + Wook, J., and H.-Y. Chun, 2010: A numerical study on severe downslope windstorms occurred on 5 April 2005 at Gangneung and Yangyang, Korea. Asia-Pac. J. Atmos. Sci., 46, 155-172.
- + Dhaka, S. K., R. Sapra, V. Panwar, A. Goel, R. Bhatnagar, M. Kaur, T. K. Mandal, A. R. Jain, and H.-Y. Chun, 2010: Influence of large-scale variations in convective available potential energy (CAPE) and solar cycle over temperature in tropopause region at Delhi (28.3oN, 77.1oE), Kolkata (22.3oN, 88.2oE), Cochin (10oN, 77oE) and Trivandruam (8.5oN, 77oE) using radiosonde during 1980-2005. Earth Planets Space. 62, 319-331.
- + Jeon, J.-H., S.-Y. Hong, H.-Y. Chun, and I.-S. Song, 2010: Testing of a Convectively Forced Gravity Wave Drag Parameterization in a General Circulation Model. Asia-Pac. J. Atmos. Sci., 46, 1-10.
- + Kim, S.-Y., H.-Y. Chun and D. L. Wu, 2009: A study on stratospheric gravity waves generated by Typhoon Ewiniar: Numerical simulations and satellite observations, J. Geophys. Res., 114, D22104.
- + Choi, H.-J., H.-Y. Chun, and I.-S. Song, 2009: Gravity wave temperature variance calculated using the Lagrangian spectral parameterization of convective gravity waves and its comparison with Mircowave Limb Sounder observations. J. Geophys. Res., 114, D08111.
- + Kim, Y.-H., and H.-Y. Chun, 2009: Effects of the basic-state wind on secondary waves generated by the breaking of gravity waves in the mesosphere. Asia-Pacific J. Atmos. Sci., 45, 91-100.
- + Chun, H.-Y., and Y.-H. Kim, 2008: Secondary waves generated by breaking of convective gravity waves in the mesosphere and their influence in the wave momentum flux. J. Geophys. Res., 113, D23107.
- + Singh, N., R. R. Joshi, H.-Y. Chun, G. B. Pant, S. H. Damle, and R. D. Vashishtha, 2008: Seasonal, annual and inter-annual features of turbulence parameters over the tropical station Pune (18o 32'N, 73o 51'E) observed with UHF wind profiler. Ann. Geophys., 26, 3677-3692.
- + Song, I.-S., and H.-Y. Chun, 2008: A lagrangian spectral parameterization of gravity wave drag induced by cumulus convection. J. Atmos. Sci., 65, 1204-1224.
- + Chun, H.-Y., H.-J. Choi, and I.-S, Song, 2008: Effects of nonlinearity on convectively forced internal gravity waves: Application to a convective gravity wave drag parameterization. J. Atmos. Sci., 65, 557-575.
- + Cho, H.-K., and H.-Y. Chun, 2008: Impacts on the TRMM data due to orbit boost in the spectral domain. Geophys. Res. Lett., 35, L01403.
- + Choi, H.-Y., H.-Y. Chun, and I.-S. Song, 2007: Characteristics and momentum flux spectrum of convectively forced internal gravity waves in ensemble numerical simulations. J. the Atmos. Sci., 64, 3723–3734.
- + Chun, H.-Y., J.-S. Goh, and Y.-H. Kim, 2007: Characteristics of inertio-gravity waves revealed in rawinsonde data observed in Korea during 20 August-5 September 2002. J. Geophys. Res., 112, D16108.
- + Kim, S.-Y., H.-Y. Chun, and J.-J. Baik, 2007: Sensitivity of typhoon-induced gravity waves to cumulus parameterization. Geophys. Res. Lett., 34, L15814.
- + Song, I.-S., H.-Y. Chun, R. R. Garcia, and B. Boville, 2007: Momentum flux spectrum of convectively forced internal gravity waves and its application to gravity wave drag parameterization. Part II: Impacts in a GCM (WACCM). J. Atmos. Sci., 64, 2286–2308.
- + Chun, H.-Y., J.-S. Goh, I.-S. Song, and L. Ricciardulli, 2007: Latitudinal variations of convective source and propagation condition of inertio-gravity waves in the Tropics. J. Atmos. Sci., 64, 1603-1618.
- + Dhaka, S. K., M. K. Yamamoto, Y. Shibagaki, H. Hashiguchi, S. Fukao, and H.-Y. Chun, 2006: Equatorial Atmosphere Radar observations of short vertical wavelength gravity waves in the upper troposphere and lower stratosphere region induced by localized convection Geophys. Res. Lett. 33, L19805.
- + Chun, H.-Y., I.-S. Song, and J.-J. Baik, 2006: Seasonal variations of gravity wave characteristics revealed in high-resolution rawinsonde data at Pohang, Meteor. Atmos. Phys., 93, 255-273.
- + Kim, S.-Y., H.-Y. Chun, and J.-J. Baik, 2005: A numerical study of gravity waves induced by convection associated with Typhoon Rusa. Geophys. Res. Lett. 32, L24816.
- + Kim, Y.-J., and H.-Y. Chun, 2005: A computationally-efficient nonstationary convective gravity-wave drag parameterization. Geophys. Res. Lett., 32, L22805.
- + Chun, H.-Y., I.-S. Song, and T. Horinouchi, 2005: Momentum flux spectrum of convectively forced gravity waves: Can diabatic forcing be a proxy for convective forcing ? J. Atmos. Sci., 62, 4113–4120.
- + Song, I.-S., and H.-Y. Chun, 2005: Momentum flux of convectively forced internal gravity waves and its application to gravity wave drag parameterization. Part I: Theory. J. Atmos. Sci., 62, 107-124.
- + Chun, H.-Y., I.-S. Song, J.-J. Baik, and Y.-J. Kim, 2004: Impact of a Convectively Forced Gravity Wave Drag Parameterization in NCAR CCM3. J. Climate, 18, 3530-3546.
- + Nappo, C. J., H.-Y. Chun, and H.-J. Lee, 2004: A parameterization of wave stress in the planetary boundary layer for use in mesoscale models. Atmos. Environ., 38, 2665-2675.
- + Song, I.-S., H.-Y. Chun, and T. P. Lane, 2003: Generation mechanisms of convectively forced internal gravity waves and their propagation to the stratosphere. J. Atmos. Sci., 60, 1960-1980.
- + Song, I.-S., H.-Y. Chun, and T. P. Lane, 2003: Vertically propagating gravity waves. Bull. Amer. Meteor. Soc., 84, 997-998.
- + Kim, Y.-J., S. E. Eckermann, and H.-Y. Chun, 2003: A review to the past, present and future of gravity-wave drag parameterization for numerical climate and weather prediction models. Atmos.-Ocean 41, 65-98.
- + Sun, A., H.-Y. Chun, J.-J. Baik, M. Yan, 2002: Influence of electrification on microphysical and dynamical processes in a numerically simulated thunderstorm. J. Appl. Meteor., 41, 1112-1127.
- + Chun, H.-Y., and J.-J. Baik, 2002: An updated parameterization of convectively forced gravity wave drag for use in large-scale models. J. Atmos. Sci., 59, 1006-1017.
- + Kim, J.-J., J.-J. Baik, H.-Y. Chun, 2001: Two-dimensional numerical modeling of flow and dispersion in the presence of hill and buildings. J. Wind Eng. Ind. Aerodyn., 89, 947-966.
- + Baik, J.-J., Y.-H. Kim, and H.-Y. Chun, 2001: Dry and moist convection forced by urban heat island. J. Appl. Meteor., 40, 1462-1475.
- + Chun, H.-Y., M.-D. Song, J.-W. Kim, and J.-J. Baik, 2001: Effects of gravity wave drag induced by cumulus convection on atmospheric general circulation. J. Atmos. Sci., 58, 302-319.
- + Baik, J.-J., R.-S. Park, H.-Y. Chun, and J.-J. Kim, 2000: A laboratory model of urban street-canyon flows. J. Appl. Meteor., 39, 1592-1600.
- + Chun, H.-Y., I.-S. Song, and J.-J. Baik, 1999: Some aspects of internal gravity waves in the multicell-type convective system. Meteor. Atmos. Phys., 69, 205-222.
- + Baik, J.-J., H.-S. Hwang, and H.-Y. Chun, 1999: Transient dynamics of a stably stratified shear flow with thermal forcing and critical level. J. Atmos. Sci., 56, 483-499. (1999. 2)
- + Baik, J.-J., H.-S. Hwang, and H.-Y. Chun, 1999: Transient critical level effect for internal gravity waves in a stably stratified shear flow with thermal forcing. Phys. Fluids, 11, 238-240.
- + Chun, H.-Y., and J.-J. Baik, 1998: Momentum flux by thermally induced internal gravity waves and its approximation for large-scale models. J. Atmos. Sci., 55, 3299-3310.
- + Chun, H.-Y., 1997: Weakly nonlinear response of a stably stratified shear flow to thermal forcing. Tellus, 528-534.
- + Baik, J.-J., and H.-Y. Chun, 1997: A dynamical model for urban heat islands. Bound.-Layer Meteor. 83, 463-477.
- + Baik, J.-J., and H.-Y. Chun, 1996: Effects of nonlinearity on the atmospheric flow response to low-level heating in a uniform flow. J. Atmos. Sci., 53, 1856-1869.
- + Chun, H.-Y., 1995: Enhanced response of a stably stratified two-layer atmosphere to low-level heating. J. Meteor. Res. Japan, 73, 685-696.
- + Chun, H.-Y., and Y.-L. Lin, 1995: Enhanced response of an atmospheric flow to a line-type heat sink in the presence of a critical level. Meteor. Atmos. Phys., 55, 33-45.
- + Chun, H.-Y., and J.-J. Baik, 1994: Weakly nonlinear response of a stably stratified atmosphere to diabatic forcing in a uniform flow. J. Atmos. Sci., 51, 3109-3121.
- + Lin, Y.-L., and H.-Y. Chun, 1993: Structures of dynamically unstable shear flows and their implications for shallow internal gravity waves. Meteor. Atmos. Phys., 52, 59-68.
- + Lin, Y.-L., and H.-Y. Chun, 1991: Effects of diabatic cooling in a shear flow with a critical level. J. Atmos. Sci., 48, 2476-2491.
+* 2010 \~ : 한국 과학기술한림원 이학부 정회원
+* 1996 \~ : 연세대학교 대기과학과 조교수/부교수/정교수
+* 2020 - 2021: 한국기상학회 회장
+* 2019 - 2021: 국가기후환경회의 국제협력분과 전문위원
+* 2016 - 2018: 연세대학교 학부대학 학장
+* 2015 - 2017: 국가지속가능발전위원회 위원
+* 2013 - 2015: BK21+ 지구대기천문사업단 단장
+* 2011 - 2019: International Commission of the Middle Atmosphere
+
+  (ICMA/IAMAS/IUFF) 위원
+* 2011 : 독일 JRC 방문교수
+* 2010 : 미국 JPL/NASA 방문학자
+* 2004 : 일본 교토대학 방문교수
+* 2003 : 미국 ATDD/ARL/NOAA 방문학자
+* 1995 - 1996 : 연세대학교 지구환경연구소 연구원
+* 1993 - 1995 : 서울대학교 자연과학연구소 특별연구원
+* 1992 - 1993 : 미국 GSFC/NASA 연구원
+
+#### 최근 5년간 논문(2017-2022)
+
+Shin, Y. J.-H. Kim, **H.-Y. Chun**, W. Jang, and S.-W. Son, 2022: Classification of synoptic patterns with mesoscale mechanisms for downslope windstorms in Korea using the self-organizing map. _J. Geophys. Res. Atmos._ (accepted)
+
+Lee, D.-B., **H.-Y. Chun**, S.-H. Kim, R. D. Sharman, and J.-H. Kim, 2022: Development and evaluation of global Korean aviation turbulence forecast systems based on an operational numerical weather prediction model and in situ flight turbulence observation data, _Wea. Forecasting_ (in press)
+
+Ko, H.-C. and **H.-Y. Chun**, 2022: Potential Sources of atmospheric turbulence estimated using the Thorpe method and operational radiosonde data in the United States, _Atmos. Res._, **265**, 105891.
+
+Kim, S.-H., **H.-Y. Chun**, D.-B. Lee, J.-H. Kim, and R. D. Sharman, 2021: Improving numerical weather prediction-based near-cloud aviation turbulence forecasts by diagnosing convective gravity wave breaking. _Wea. Forecasting_, **36**, 1735-1757.
+
+Kang. M.-J., and **H.-Y. Chun,** 2021: Contributions of equatorial waves and small-scale convective gravity waves to the 2019/20 QBO disruption, _Atmos. Chem. Phys.,_ **21**, 9839-9857.
+
+Song, B.-G., I.-S. Song, **H.-Y. Chun**, C. Lee, H. Kam, Y. H. Kim, M.-J. Kang, N. Hindley, and N. Mitchell, 2021: Activities of small-scale gravity waves in the upper mesosphere observed from meteor radar at King Sejong Station, Antarctica (62.22°S, 58.78°W) and their potential sources. _J. Geophys. Res. Atmos.,_ **126**. e2021JD034528.
+
+Anstey, J. A., and Coauthors, 2021: Teleconnections of the Quasi-Biennial Oscillation in a multi-model ensemble of QBO-resolving models. _Q. J. Royal Meteorol. Soc._, DOI: 10.1002/qj.4048.
+
+Kim, Y.-H., G. Bölöni, S. Borchert, **H.-Y. Chun**, and U. Achatz, 2021: Toward Transient Subgrid-Scale Gravity Wave Representation in Atmospheric Models. Part II: Wave Intermittency Simulated with Convective Sources, _J. Atmos. Sci._, 78(4), 1339–1357.
+
+Kalisch, S., and **H.-Y. Chun**, 2021: AIRS Satellite Observations of Gravity Waves During the 2009 Sudden Stratospheric Warming Event. _J. Geophys. Res. Atmos,_ **126,** e2020JD034073, [https://doi.org/10.1029/2020JD034073.](https://doi.org/10.1029/2020JD034073. "https://doi.org/10.1029/2020JD034073.")
+
+Kang, M.-J., **H.-Y. Chun,** and R. R. Garcia, 2020: Role of equatorial waves and convective gravity waves in the 2015/16 quasi-biennial oscillation disruption. _Atmos. Chem. Phys.,_ **20,** 14669-14693, [https://doi.org/10.5194/acp-20-14669-2020.](https://doi.org/10.5194/acp-20-14669-2020. "https://doi.org/10.5194/acp-20-14669-2020.")
+
+Song, B.-G., **H.-Y. Chun,** and I.-S. Song, 2020: Role of Gravity Waves in a Vortex-Split Sudden Stratospheric Warming in January 2009. _J. Atmos. Sci._, 77(10), 3321-3342.
+
+Kim, J.-H., D.H. Kim, D.-B. Lee, **H.-Y. Chun,** R. D. Sharman, P. D. Williams, and Y.-J. Kim, 2020: Impact of Climate Variabilities on Trans-Oceanic Flight Times and Emissions during strong NAO and ENSO phases. _Environ. Res. Lett._, **15,** [https://doi.org/10.1088/1748-9326/abaa77.](https://doi.org/10.1088/1748-9326/abaa77. "https://doi.org/10.1088/1748-9326/abaa77.")
+
+Song, I.-S., C. Lee, **H.-Y. Chun,** J.-H. Kim, G Jee, B.-G. Song, J. T. Bacmeister, 2020: Propagation of gravity waves and its effects on pseudomomentum flux in a sudden stratospheric warming event. _Atmos. Chem. Phys._ **20,** 7617-7644.
+
+Holt, Laura A., F. Lott, R. R. Garcia, G. N. Kiladis, Y.-M. Cheng J. A. Anstey, P. Braesicke, A. C. Bushell, N. Butchart, C. Cagnazzo, C.-C. Chen, **H.-Y. Chun,** Y. Kawatani, T. Kerzenmacher, Y.-H. Kim, C. McLandress, H. Naoe, S. Osprey, J. H. Richter, A. A. Scaife, J. Scinocca, F. Serva, S. Versick, S. Watanabe, K. Yoshida, S. Yukimoto, 2020: An evaluation of tropical waves and wave forcing of the QBO in the QBOi models, _Q. J. Royal Meteorol. Soc._, DOI: 10.1002/qj.3827
+
+Yoo, J. H., I.-S. Song, **H.-Y. Chun,** and B.-G. Song, 2020: Inertia-Gravity Waves Revealed in Radiosonde Data at Jang Bogo Station, Antarctica (74° 37‘S, 164° 13’E): 2. Potential Sources and Their Relation to Inertia-Gravity Waves. _J. Geophys. Res. Atmos.,_ **124**.
+
+Kim, S.-H., **H.-Y. Chun,** J.-H. Kim, R. D. Sharman, and M. Strahan, 2020: Retrieval of eddy dissipation rate from derived equivalent vertical gust included in Aircraft Meteorological Data Relay (AMDAR). _Atmos. Meas. Tech._ **13,** 1373-1385.
+
+Bushell, A. C., J. A. Anstey, N. Butchart, Y. Kawatani, S. M. Osprey, J. H. Richter, F. Serva, P. Braesicke, C. Cagnazzo, C.-C. Chen, **H.-Y. Chun,** R. R. Garcia, L. J. Gray, K. Hamilton, T. Kerzenmacher, Y.-H. Kim, F. Lott, C. McLandress, H. Naoe, J. Scinocca, A. K. Smith, T. N. Stockdale, S. Versick, S. Watanabe, K. Yoshida, S. Yukimoto, 2020: Evaluation of the Quasi-Biennial Oscillation in global climate models for the SPARC QBO-initiative. _Q. J. Royal Meteorol. Soc._, DOI: 10.1002/qj.3765
+
+Smith, A. K., L. A. Holt, R. R. Garcia, J. A. Anstey, F. Serva, N. Butchart, S. Osprey, A. C. Bushell, Y. Kawatani, Y.-H. Kim, F. Lott, P. Braesicke, C. Cagnazzo, C.-C. Chen, **H.-Y. Chun,** L. Gray, T. Kerzenmacher, H. Naoe, J. Richter, S. Versick, V. Schenzinger, S. Watanabe, and K. Yoshida, 2020: The equatorial stratospheric semiannual oscillation and time-mean winds in QBOi models. _Q. J. Royal Meteorol. Soc._, DOI: 10.1002/qj.3690
+
+Lee, D.-B., **H.-Y. Chun,** and J.-H. Kim, 2020: Evaluation of Multi-Model-Based Ensemble Forecasts for Clear-Air Turbulence, _Wea. Forecasting,_ **35,** 507-521.
+
+Kang, M.-J., **H.-Y. Chun,** and B.-G. Song, 2020: Contributions of Convective and Orographic Gravity Waves to the Brewer-Dobson Circulation Estimated from NCEP CFSR, _J. Atmos. Sci.,_ 77, 981-1000.
+
+**Chun**, **H.-Y.,** B.-G. Song, S.-W. Shin, and Y.-H. Kim, 2019: Gravity Waves associated with jet/front systems. Part I: Diagnostics and their correlations with GWs revealed in high-resolution global analysis data. _Asia-Pac. J. Atmos. Sci._, **55,** 589-608.
+
+Ko, H.-C., **H.-Y. Chun,** R. Wilson, and M. A. Geller, 2019: Characteristics of atmospheric turbulence retrieved from high vertical-resolution radiosonde data in the United States. _J. Geophys. Res. Atmos.,_ **124,** 7553-7579. [https://doi.org/10.1029/2019JD030287.](https://doi.org/10.1029/2019JD030287. "https://doi.org/10.1029/2019JD030287.")
+
+Lee, J.-H., M.-J. Kang, and **H.-Y. Chun**, 2019: Differences in the tropical convective activities at the opposite phases of the quasi-biennial oscillation. _Asia-Pac. J. Atmos. Sci._, **55,** 317-336.
+
+Kim, S.-H., **H.-Y. Chun,** R. D. Sharman, and S. B. Trier, 2019: Development of near-cloud turbulence diagnostics based on a convective gravity-wave drag parameterization. _J. Appl. Meteor. Climatol.,_ **58,** 1725-1750, doi:10.1175/JAMC-D-18-0300.1.
+
+Seo, J. M., J.-J. Baik, and **H.-Y. Chun**, 2018: Theoretical investigation of nonhydrostatic effects on convectively forced flows: Propagation and evanescent gravity-wave modes. _Physics of Fluids,_ **30,** 126604.
+
+Yoo, J.-H., T. Choi, **H.-Y. Chun**, Y.-H. Kim, I.-S. Song, and B.-G. Song, 2018: Inertia-gravity waves revealed in radiosonde data at Jang Bogo Station, Antarctica (74° 37′ S, 164° 13′ E): 1. Characteristics, energy, and momentum flux. _J. Geophys. Res. Atmos._. **123(23)**, 13,305-13,331.
+
+Kang, M.-J., **H.-Y. Chun,** Y.-H. Kim, P. Preusse, and M. Ern, 2018: Momentum flux of convective gravity waves derived from an offline gravity wave parameterization. Part ΙΙ: Impacts on the quasi-biennial oscillation. _J. Atmos. Sci.,_ **75,** 3753-3775.
+
+Kalisch, S., M.-J. Kang, and **H.-Y. Chun,** 2018: Impact of convective gravity waves on the tropical middle atmosphere during the Madden-Julian oscillation. _J. Geophys. Res. Atmos.,_ **123,** 8975-8992.
+
+Song, I.-S., **H.-Y. Chun**, G. Jee, S.-Y. Kim, J. Kim, Y.-H. Kim, and M. A. Taylor, 2018: Dynamic initialization for whole atmospheric global modeling. _J. Adv. Model. Earth Sy._, **10,** 2096-2120.
+
+Choi, H.-J., J.-Y. Han, M.-S. Koo, **H.-Y. Chun**, Y.-H. Kim, and S.-Y. Hong, 2018: Effects of non-orographic gravity wave drag on seasonal and medium-range predictions in a global forecast model. _Asia-Pac. J. Atmos. Sci._, **54(s),** 385-402.
+
+Lee, D.-B., and **H.-Y. Chun**, 2018: A numerical study of aviation turbulence encountered on 13 February 2013 over the Yellow Sea between China and the Korean Peninsula. _J. Appl. Meteor. Climatol._, **57**, 1043-1060.
+
+Butchart, N. and Co-authors including **H.-Y. Chun**, 2018: Overview of experiment design and comparison of models participating in phase 1 of the SPARC quasi-biennial oscillation initiative (QBOi). _Geosci. Model Dev._, **11**, 1009-1032. [https://doi.org/10.5194/gmd-11-1009-2018.](https://doi.org/10.5194/gmd-11-1009-2018. "https://doi.org/10.5194/gmd-11-1009-2018.")
+
+Kumar, V., S. K. Dhaka, S.-P. Ho, N. Singh, V. Singh, K. K. Reddy, and **H.-Y. Chun**, 2017: Impact of inter-seasonal solar variability on the association of lower troposphere and cold point tropopause in the tropics: Observations using RO data from COSMIC. _Atmospheric Research_, **198**, 216-225.
+
+Kang, M.-J., **H.-Y. Chun**, and Y.-H. Kim, 2017: Momentum flux of convective gravity waves derived from an offline gravity wave parameterization. Part I: Spatiotemporal variations at source level. _J. Atmos. Sci._, **74**, 3167-3189.
+
+Kim, S.-H., **H.-Y. Chun**, and P. W. Chan, 2017: Comparison in aviation turbulence indicators obtained from in-situ flight data. _J. Appl. Meteor. Climatol._, **56**, 1609-1623.
+
+**Chun, H.-Y.,** J.-H. Kim, D.-B. Lee, S.-H. Kim, M. Strahan, B. Pettegrew, P. Gill, P. D. Williams, U. Schumann, J. Tenenbaum, Y.-G. Lee, H.-W. Choi, I.-S. Song, Y.-J. Park, and R. D. Sharman, 2017: Research collaborations for better predictions of aviation weather hazards. _Bull. Amer. Meteor. Soc._, **98,** ES103-ES107.
+
+Song, I.-S., C. Lee, J.-H. Kim, G. Jee, Y.-H. Kim, H.-J. Choi, **H.-Y. Chun**, and Y. Kim, 2016: Meteor radar observations of vertical propagating low-frequency inertia-gravity waves near the Southern polar mesopause region. _J. Geophys. Res_. _Space Phys.,_**122**, doi:10.1002/2016JA022978
