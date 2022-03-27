@@ -1,11 +1,13 @@
 +++
 banner = "/files/placeholder.png"
 categories = ["세미나"]
-date = 2022-03-24T15:00:00Z
+date = 2022-03-27T04:35:00Z
 icon = "microphone"
 title = "[세미나] Dr. Saehee Lim"
 
 +++
+##### 임세희 박사 2022년 3월 29일 (화) 16:00
+
 ### Anthropogenic black carbon since preindustrial times
 
 ### : determination, emissions, and atmospheric processes
