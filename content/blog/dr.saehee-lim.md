@@ -2,6 +2,7 @@
 banner = "/files/placeholder.png"
 categories = ["세미나"]
 date = 2022-03-24T15:00:00Z
+draft = true
 icon = "microphone"
 title = "[세미나] Dr. Saehee Lim"
 
