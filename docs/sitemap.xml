@@ -99,7 +99,7 @@
     <lastmod>2020-03-24T13:39:46+02:00</lastmod>
   </url><url>
     <loc>https://atmos.yonsei.ac.kr/people/hanchangko/</loc>
-    <lastmod>2018-03-24T13:39:46+02:00</lastmod>
+    <lastmod>2018-03-24T11:39:46+00:00</lastmod>
   </url><url>
     <loc>https://atmos.yonsei.ac.kr/people/doyoonkwon/</loc>
     <lastmod>2018-03-24T13:39:46+02:00</lastmod>
@@ -153,7 +153,7 @@
     <lastmod>2018-03-24T13:39:46+02:00</lastmod>
   </url><url>
     <loc>https://atmos.yonsei.ac.kr/people/byeonggwonsong/</loc>
-    <lastmod>2018-03-24T13:39:46+02:00</lastmod>
+    <lastmod>2018-03-24T11:39:46+00:00</lastmod>
   </url><url>
     <loc>https://atmos.yonsei.ac.kr/people/sjshin/</loc>
     <lastmod>2018-03-24T13:39:46+02:00</lastmod>
@@ -168,15 +168,12 @@
     <lastmod>2018-03-24T13:39:46+02:00</lastmod>
   </url><url>
     <loc>https://atmos.yonsei.ac.kr/people/jhyoo/</loc>
-    <lastmod>2018-03-24T13:39:46+02:00</lastmod>
+    <lastmod>2018-03-24T11:39:46+00:00</lastmod>
   </url><url>
     <loc>https://atmos.yonsei.ac.kr/people/keunminlee/</loc>
     <lastmod>2018-03-24T13:39:46+02:00</lastmod>
   </url><url>
     <loc>https://atmos.yonsei.ac.kr/people/dayeonglee/</loc>
-    <lastmod>2018-03-24T13:39:46+02:00</lastmod>
-  </url><url>
-    <loc>https://atmos.yonsei.ac.kr/people/danbilee/</loc>
     <lastmod>2018-03-24T13:39:46+02:00</lastmod>
   </url><url>
     <loc>https://atmos.yonsei.ac.kr/people/dongheelee/</loc>
@@ -220,6 +217,9 @@
   </url><url>
     <loc>https://atmos.yonsei.ac.kr/people/jaeminhong/</loc>
     <lastmod>2018-03-24T13:39:46+02:00</lastmod>
+  </url><url>
+    <loc>https://atmos.yonsei.ac.kr/people/jeongwoo_kim/</loc>
+    <lastmod>2022-03-24T13:39:46+02:00</lastmod>
   </url><url>
     <loc>https://atmos.yonsei.ac.kr/people/hyojinpark/</loc>
     <lastmod>2021-03-24T13:39:46+02:00</lastmod>
@@ -287,29 +287,35 @@
     <loc>https://atmos.yonsei.ac.kr/people/alumnimaster/</loc>
     <lastmod>2018-03-24T13:39:46+02:00</lastmod>
   </url><url>
+    <loc>https://atmos.yonsei.ac.kr/blog/2022/03/27/dr.saehee-lim/</loc>
+    <lastmod>2022-03-27T04:35:00+00:00</lastmod>
+  </url><url>
+    <loc>https://atmos.yonsei.ac.kr/categories/</loc>
+    <lastmod>2022-03-27T04:35:00+00:00</lastmod>
+  </url><url>
+    <loc>https://atmos.yonsei.ac.kr/categories/%EC%84%B8%EB%AF%B8%EB%82%98/</loc>
+    <lastmod>2022-03-27T04:35:00+00:00</lastmod>
+  </url><url>
+    <loc>https://atmos.yonsei.ac.kr/</loc>
+    <lastmod>2022-03-27T04:35:00+00:00</lastmod>
+  </url><url>
+    <loc>https://atmos.yonsei.ac.kr/teams/graduate/</loc>
+    <lastmod>2022-03-24T13:39:46+02:00</lastmod>
+  </url><url>
+    <loc>https://atmos.yonsei.ac.kr/teams/</loc>
+    <lastmod>2022-03-24T13:39:46+02:00</lastmod>
+  </url><url>
+    <loc>https://atmos.yonsei.ac.kr/people/</loc>
+    <lastmod>2022-03-24T13:39:46+02:00</lastmod>
+  </url><url>
     <loc>https://atmos.yonsei.ac.kr/blog/2022/03/20/2022-1/</loc>
     <lastmod>2022-03-20T02:00:00+00:00</lastmod>
   </url><url>
     <loc>https://atmos.yonsei.ac.kr/blog/2022/03/20/2022/</loc>
     <lastmod>2022-03-20T02:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://atmos.yonsei.ac.kr/categories/</loc>
-    <lastmod>2022-03-20T02:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://atmos.yonsei.ac.kr/</loc>
-    <lastmod>2022-03-20T02:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://atmos.yonsei.ac.kr/categories/%EC%B1%84%EC%9A%A9%EA%B3%B5%EA%B3%A0/</loc>
     <lastmod>2022-03-20T02:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://atmos.yonsei.ac.kr/teams/graduate/</loc>
-    <lastmod>2022-03-17T13:39:46+02:00</lastmod>
-  </url><url>
-    <loc>https://atmos.yonsei.ac.kr/teams/</loc>
-    <lastmod>2022-03-17T13:39:46+02:00</lastmod>
-  </url><url>
-    <loc>https://atmos.yonsei.ac.kr/people/</loc>
-    <lastmod>2022-03-17T13:39:46+02:00</lastmod>
   </url><url>
     <loc>https://atmos.yonsei.ac.kr/blog/2022/03/17/samsung/</loc>
     <lastmod>2022-03-17T07:59:00+00:00</lastmod>
@@ -321,9 +327,6 @@
     <lastmod>2022-03-17T01:07:00+00:00</lastmod>
   </url><url>
     <loc>https://atmos.yonsei.ac.kr/blog/2022/03/11/regime-behaviour-in-the-upper-stratosphere-as-a-precursor-of-stratosphere-troposphere-coupling/</loc>
-    <lastmod>2022-03-11T15:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://atmos.yonsei.ac.kr/categories/%EC%84%B8%EB%AF%B8%EB%82%98/</loc>
     <lastmod>2022-03-11T15:00:00+00:00</lastmod>
   </url><url>
     <loc>https://atmos.yonsei.ac.kr/blog/2022/03/07/prof.kai-qin/</loc>
