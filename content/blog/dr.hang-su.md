@@ -1,7 +1,7 @@
 +++
 banner = "/files/placeholder.png"
 categories = ["세미나"]
-date = 2022-03-28T15:00:00Z
+date = 2022-03-27T15:00:00Z
 icon = "microphone"
 title = "[세미나] Dr. Hang Su"
 
