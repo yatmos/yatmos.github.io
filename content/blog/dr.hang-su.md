@@ -10,6 +10,8 @@ Dr. Hang Su (Max Planck Institute for Chemistry, Germany)
 
 #### 2022년 3월 31일 (목) 11:00
 
+#### Aerosols, air pollution and the pandemic
+
 #### Zoom
 
 [https://yonsei.zoom.us/j/84294573715?pwd=cDYxT2g1d1d4cU9sSlRFTTFRV0w4Zz09](https://yonsei.zoom.us/j/84294573715?pwd=cDYxT2g1d1d4cU9sSlRFTTFRV0w4Zz09 "https://yonsei.zoom.us/j/84294573715?pwd=cDYxT2g1d1d4cU9sSlRFTTFRV0w4Zz09")
