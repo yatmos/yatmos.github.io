@@ -8,7 +8,7 @@ title = "[세미나] Dr. Lawrence Coy"
 +++
 Dr. Lawrence Coy (NASA Goddard Space Flight Center, Greenbelt, Maryland, USA / Science Systems and Applications, Inc., Lanham, Maryland, USA)
 
-#### 2022년 4월 1일 (목) 11:00
+#### 2022년 4월 1일 (금) 11:00
 
 #### Stratospheric forecasting and data assimilation at the NASA GMAO
 
