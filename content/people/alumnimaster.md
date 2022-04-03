@@ -4,7 +4,7 @@ date = "2018-03-24T13:39:46+02:00"
 teams = ["학과졸업생"]
 banner = "img/people/alumni.png"
 type = "alumni"
-weight = 60
+weight = 50
 +++
 ## 석사학위자 명단
 <style type="text/css">
