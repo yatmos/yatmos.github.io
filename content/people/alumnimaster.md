@@ -1029,6 +1029,13 @@ th.tg-sort-header::-moz-selection { background:transparent; }th.tg-sort-header::
                         및 검증에 관한 연구</td>
     <td class="tg-s8ju">박상훈</td>
   </tr>
+  <tr>
+    <td class="tg-s8ju">임정섭</td>
+    <td class="tg-s8ju">2020년 8월</td>
+    <td class="tg-s8ju">The Effects of Giant Aerosol and Turbulence on<br>
+                        the Stochastic Coalescence in clouds</td>
+    <td class="tg-s8ju">노의근</td>
+  </tr>
     <tr>
     <td class="tg-s8ju">박준성</td>
     <td class="tg-s8ju">2021년 2월</td>
