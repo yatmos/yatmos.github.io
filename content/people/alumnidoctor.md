@@ -697,6 +697,13 @@ th.tg-sort-header::-moz-selection { background:transparent; }th.tg-sort-header::
                             of the Atlantic Meridional Overturning Circulation </td>
      <td class="tg-s8ju">안순일</td>
   </tr>
+  <td class="tg-s8ju">이종혁</td>
+   <td class="tg-s8ju">2022년 2월</td>
+   <td class="tg-s8ju">Development of cloud top height retrieval algorithm <br>
+              using simultaneous observations from the Himawari-8 and <br>
+	      FengYun-4A geostationary satellites</td>
+     <td class="tg-s8ju">신동빈</td>
+  </tr>
   <td class="tg-s8ju">임현광</td>
    <td class="tg-s8ju">2022년 2월</td>
    <td class="tg-s8ju">Development of aerosol optical property retrieval algorithm <br>
