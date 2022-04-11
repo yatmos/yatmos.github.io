@@ -39,6 +39,7 @@ weight = 5
 + 예측가능성론
 
 #### 논문
++ Kim, D.-H., and H. M. Kim, 2022: Effect of data assimilation in the Polar WRF with 3DVAR on the prediction of radiation, heat flux, cloud, and near surface atmospheric variables over Svalbard. Atmospheric Research, 272, 106155, https://doi.org/10.1016/j.atmosres.2022.106155.
 + Cho, M., and H. M. Kim, 2022: Effect of assimilating CO2 observations in the Korean Peninsula on the inverse modeling to estimate surface CO2 flux over Asia. PLoS ONE, 17, e0263925. https://doi.org/10.1371/journal.pone.0263925.
 + Kim, H. M., and D.-H. Kim, 2021: Effect of boundary conditions on adjoint-based forecast sensitivity observation impact in a regional model. Journal of Atmospheric and Oceanic Technology, 38, 1233-1247, doi:10.1175/JTECH-D-20-0040.1.
 + Yang, E.-G., and H. M. Kim, 2021: A comparison of variational, ensemble-based, and hybrid data assimilation methods over East Asia for two one-month periods, Atmospheric Research, 249,105257, https://doi.org/10.1016/j.atmosres.2020.105257.
