@@ -7,7 +7,7 @@ email = "mk_cho@yonsei.ac.kr"
 job = "박사과정"
 phone = "02-2123-4815"
 room = "대기예측성 및 자료동화 연구실 / 과학관 530 B호"
-web = "apdal.yonsei.ac.kr"
+web = "https://apdal.yonsei.ac.kr"
 weight = 40
 +++
 
