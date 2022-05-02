@@ -6,6 +6,6 @@ icon = "bullhorn"
 title = "제6회 UST Fun 사이언스 포럼"
 
 +++
-![](/files/ust-6-fun-_.png)
+![](/files/1651510766.091.png)
 
-붙임1.\[제6회 UST Fun 사이언스 포럼 안내\](/files/ust-6-fun.zip)
+붙임1.[제6회 UST Fun 사이언스 포럼 안내](/files/ust-6-fun.zip)
