@@ -41,7 +41,6 @@ weight = 2
 * 2015 - 2017: 국가지속가능발전위원회 위원
 * 2013 - 2015: BK21+ 지구대기천문사업단 단장
 * 2011 - 2019: International Commission of the Middle Atmosphere
-
   (ICMA/IAMAS/IUFF) 위원
 * 2011 : 독일 JRC 방문교수
 * 2010 : 미국 JPL/NASA 방문학자
