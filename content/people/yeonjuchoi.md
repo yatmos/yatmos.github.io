@@ -1,10 +1,10 @@
 +++
 title = "최연주"
 date = "2018-03-24T13:39:46+02:00"
-teams = ["graduate"]
+teams = ["staff"]
 banner = "img/people/yeonjuchoi.png"
 email = "ywn0709@yonsei.ac.kr"
-job = "통합과정"
+job = "박사 후 연구원"
 phone = "02-2123-7619"
 room = "지구물리유체역학 연구실 / 과학관 534호"
 web = "http://gfdl.yonsei.ac.kr"
