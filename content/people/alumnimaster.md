@@ -1063,6 +1063,23 @@ th.tg-sort-header::-moz-selection { background:transparent; }th.tg-sort-header::
 						and anthropogenic emission inventory</td>
     <td class="tg-s8ju">김현미</td>
   </tr>
+    <tr>
+    <td class="tg-s8ju">곽경민</td>
+    <td class="tg-s8ju">2021년 8월</td>
+    <td class="tg-s8ju">바람 응력 변화가 대기-해양 탄소 교환 및 미래 해양 풍성 순환에 미치는 영향 분석 </td>
+    <td class="tg-s8ju">송하준</td>
+  </tr>
+    <tr>
+    <td class="tg-s8ju">윤아림</td>
+    <td class="tg-s8ju">2021년 8월</td>
+    <td class="tg-s8ju">동아시아 최근 폭염 사례에 대한 원인 분석 </td>
+    <td class="tg-s8ju">홍진규</td>
+  </tr>
+    <tr>
+    <td class="tg-s8ju">조아진</td>
+    <td class="tg-s8ju">2021년 8월</td>
+    <td class="tg-s8ju">계절예측시스템의 북서태평양 해수면온도 음의 편차 원인 규명 </td>
+    <td class="tg-s8ju">송하준</td>
   </tr>
     <tr>
     <td class="tg-s8ju">박소은</td>
@@ -1070,12 +1087,17 @@ th.tg-sort-header::-moz-selection { background:transparent; }th.tg-sort-header::
     <td class="tg-s8ju">Transient response of Global Heat Energy Transport in a Quadrupling CO2 Pulse experiment</td>
     <td class="tg-s8ju">안순일</td>
   </tr>
-  </tr>
     <tr>
     <td class="tg-s8ju">김송강</td>
     <td class="tg-s8ju">2022년 2월</td>
     <td class="tg-s8ju">지상 및 위성관측자료를 활용한 남극 지역 오존 전량 및 연직분포 특성 분석</td>
     <td class="tg-s8ju">구자호</td>
+  </tr>
+  <tr>
+    <td class="tg-s8ju">조원석</td>
+    <td class="tg-s8ju">2022년 2월</td>
+    <td class="tg-s8ju">WRF-Chem을 이용한 동아시아 지역 대기오염 모의에 대한 지형과 식생의 영향</td>
+    <td class="tg-s8ju">홍진규</td>
   </tr>
 </table></div>
 
