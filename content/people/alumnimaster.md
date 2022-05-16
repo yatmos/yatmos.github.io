@@ -1084,7 +1084,8 @@ th.tg-sort-header::-moz-selection { background:transparent; }th.tg-sort-header::
     <tr>
     <td class="tg-s8ju">박소은</td>
     <td class="tg-s8ju">2022년 2월</td>
-    <td class="tg-s8ju">Transient response of Global Heat Energy Transport in a Quadrupling CO2 Pulse experiment</td>
+    <td class="tg-s8ju">Transient response of Global Heat Energy Transport in <br>
+	                a Quadrupling CO2 Pulse experiment </td>
     <td class="tg-s8ju">안순일</td>
   </tr>
     <tr>
