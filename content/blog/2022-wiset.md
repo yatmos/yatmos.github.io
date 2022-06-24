@@ -38,4 +38,4 @@ title = "2022년 WISET 이공계 여학생 대상 온라인 유망기업탐방 �
 
 ![](/files/_-edm-poster-sap-korea.png)
 
-붙임1.\[2022년 WISET 이공계 여학생 대상 온라인 유망기업탐방 안내\](/files/2022-wiset.zip)
+붙임1.[2022년 WISET 이공계 여학생 대상 온라인 유망기업탐방 안내](/files/2022-wiset.zip)
