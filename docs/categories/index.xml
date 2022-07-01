@@ -8,9 +8,18 @@
     <language>ko</language>
     <lastBuildDate>Fri, 01 Jul 2022 15:46:00 +0900</lastBuildDate><atom:link href="https://atmos.yonsei.ac.kr/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>채용공고</title>
+      <link>https://atmos.yonsei.ac.kr/categories/%EC%B1%84%EC%9A%A9%EA%B3%B5%EA%B3%A0/</link>
+      <pubDate>Fri, 01 Jul 2022 15:46:00 +0900</pubDate>
+      
+      <guid>https://atmos.yonsei.ac.kr/categories/%EC%B1%84%EC%9A%A9%EA%B3%B5%EA%B3%A0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>공지사항</title>
       <link>https://atmos.yonsei.ac.kr/categories/%EA%B3%B5%EC%A7%80%EC%82%AC%ED%95%AD/</link>
-      <pubDate>Fri, 01 Jul 2022 15:46:00 +0900</pubDate>
+      <pubDate>Mon, 27 Jun 2022 06:47:02 +0900</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/categories/%EA%B3%B5%EC%A7%80%EC%82%AC%ED%95%AD/</guid>
       <description></description>
@@ -22,15 +31,6 @@
       <pubDate>Wed, 25 May 2022 16:00:00 +0000</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/categories/%EC%84%B8%EB%AF%B8%EB%82%98/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>채용공고</title>
-      <link>https://atmos.yonsei.ac.kr/categories/%EC%B1%84%EC%9A%A9%EA%B3%B5%EA%B3%A0/</link>
-      <pubDate>Wed, 11 May 2022 02:00:00 +0000</pubDate>
-      
-      <guid>https://atmos.yonsei.ac.kr/categories/%EC%B1%84%EC%9A%A9%EA%B3%B5%EA%B3%A0/</guid>
       <description></description>
     </item>
     
