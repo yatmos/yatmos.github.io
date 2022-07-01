@@ -1,6 +1,6 @@
 +++
 banner = "/files/placeholder.png"
-categories = []
+categories = ["공지사항"]
 date = 2022-05-01T15:00:00Z
 icon = "bullhorn"
 title = "제6회 UST Fun 사이언스 포럼"

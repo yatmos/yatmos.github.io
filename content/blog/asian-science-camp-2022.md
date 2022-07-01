@@ -1,6 +1,6 @@
 +++
 banner = "/files/placeholder.png"
-categories = []
+categories = ["공지사항"]
 date = 2022-04-18T15:00:00Z
 icon = "bullhorn"
 title = "Asian Science Camp 2022 한국 대표 학생 모집 "

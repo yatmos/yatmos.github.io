@@ -1,6 +1,6 @@
 +++
 banner = "/files/placeholder.png"
-categories = []
+categories = ["공지사항"]
 date = 2022-06-23T15:00:00Z
 icon = "bullhorn"
 title = "2022년 WISET 이공계 여학생 대상 온라인 유망기업탐방 홍보 협조 요청의 건"

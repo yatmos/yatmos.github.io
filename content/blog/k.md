@@ -1,6 +1,6 @@
 +++
 banner = "/files/placeholder.png"
-categories = []
+categories = ["공지사항"]
 date = 2022-04-11T15:00:00Z
 icon = "bullhorn"
 title = "고용노동부「K-디지털 기초역량훈련」사업 홍보"
