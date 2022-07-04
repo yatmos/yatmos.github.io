@@ -1,14 +1,14 @@
 +++
 title = "김효정"
-date = "2022-07-04T08:39:46+02:00"
+date = "2022-07-04T00:39:46+02:00"
 teams = ["staff"]
-banner = "img/people/hj_kim.png"
+banner = "img/people/hyojkim.png"
 email = "kimhj29@yonsei.ac.kr"
 job = "박사 후 연구원"
 phone = " "
 room = "기후이론연구실 / 첨단과학기술연구관 106호"
 web = "http://www.yonseiircc.com/"
-weight = 40
+weight = 30
 +++
 
 #### 연구분야

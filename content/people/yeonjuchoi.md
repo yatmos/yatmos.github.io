@@ -8,7 +8,7 @@ job = "박사 후 연구원"
 phone = "02-2123-7619"
 room = "지구물리유체역학 연구실 / 과학관 534호"
 web = "http://gfdl.yonsei.ac.kr"
-weight = 40
+weight = 30
 +++
 
 #### 연구분야
