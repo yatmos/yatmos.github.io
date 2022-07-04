@@ -4,11 +4,11 @@ date = "2022-07-04T08:39:46+02:00"
 teams = ["staff"]
 banner = "img/people/hj_kim.png"
 email = "kimhj29@yonsei.ac.kr"
-job = "박사후 연구원"
+job = "박사 후 연구원"
 phone = " "
 room = "기후이론연구실 / 첨단과학기술연구관 106호"
 web = "http://www.yonseiircc.com/"
-weight = 30
+weight = 40
 +++
 
 #### 연구분야
