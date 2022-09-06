@@ -26,3 +26,4 @@ weight = 50
 
 
 #### 논문
++ Cho, A., Song, H., Tak, Y. J., Yeh, S. W., An, S. I., Lee, S. M., ... & Hyun, Y. K. (2022). Atmosphere-driven cold SST biases over the western North Pacific in the GloSea5 seasonal forecast system. Climate Dynamics, 1-14.

@@ -18,7 +18,8 @@ paginate = 20
 summarylength = 20
 
 [markup]
-  defaultMarkdownHandler = "blackfriday"
+  defaultMarkdownHandler = "goldmark"
+#  defaultMarkdownHandler = "blackfriday"
 
 #[markup]
 #  [markup.goldmark]
