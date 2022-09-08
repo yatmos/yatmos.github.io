@@ -2,7 +2,7 @@
 title = "이준우"
 date = "2018-03-24T13:39:46+02:00"
 teams = ["graduate"]
-banner = "img/people/joonwoolee.jpg"
+banner = "img/people/joonwoolee.jpeg"
 email = "joonhi@yonsei.ac.kr"
 job = "석사과정"
 phone = "02-2123-7608"
