@@ -20,3 +20,4 @@ weight = 50
 #### 수상내역
 
 #### 논문
++ S.-I An, H.-J. Park, S.-K. Kim, J. Shin, S.-W. Yeh, J.-S. Jug, (2022) Intensity changes of Indian Ocean Dipole Mode in a Carbon Dioxide Removal Scenario, npj Climate and Atmospheric Science
