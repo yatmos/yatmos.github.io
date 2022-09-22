@@ -6,7 +6,7 @@
     <description>Recent content in staff on 연세대학교 대기과학과</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko</language>
-    <lastBuildDate>Fri, 24 Jun 2022 08:39:46 +0200</lastBuildDate><atom:link href="https://atmos.yonsei.ac.kr/teams/staff/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 05 Jul 2022 13:39:46 +0200</lastBuildDate><atom:link href="https://atmos.yonsei.ac.kr/teams/staff/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>박정규</title>
       <link>https://atmos.yonsei.ac.kr/people/jkpark/</link>
@@ -23,15 +23,6 @@
       
       <guid>https://atmos.yonsei.ac.kr/people/minjuyeo/</guid>
       <description>연구분야 Factors affecting air quality 학력 Ph.D. (2015) in Environmental Science and Engineering, Ewha Womans University,</description>
-    </item>
-    
-    <item>
-      <title>Silvio Kalisch</title>
-      <link>https://atmos.yonsei.ac.kr/people/silviokalisch/</link>
-      <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
-      
-      <guid>https://atmos.yonsei.ac.kr/people/silviokalisch/</guid>
-      <description>연구분야 Middle Atmosphere dynamics Gravity Waves Tropical atmosphere (Madden-Julian Oscillation) Sudden stratospheric warming 학력 Dr. rer.</description>
     </item>
     
     <item>
@@ -53,24 +44,6 @@
     </item>
     
     <item>
-      <title>이유리</title>
-      <link>https://atmos.yonsei.ac.kr/people/yurilee/</link>
-      <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
-      
-      <guid>https://atmos.yonsei.ac.kr/people/yurilee/</guid>
-      <description>연구분야 Remote sensing for precipitation estimation 학력 Ph.d. (2017) in Atmospheric Sciences, Yonsei University, Seoul, Korea</description>
-    </item>
-    
-    <item>
-      <title>탁용진</title>
-      <link>https://atmos.yonsei.ac.kr/people/yongjintack/</link>
-      <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
-      
-      <guid>https://atmos.yonsei.ac.kr/people/yongjintack/</guid>
-      <description>연구분야 Physical Oceanography Air-sea interacion Physical-biogeochemical coupled modelling 학력 B.Sc (2012) in Ocean Sciences, Pusan National</description>
-    </item>
-    
-    <item>
       <title>이서영</title>
       <link>https://atmos.yonsei.ac.kr/people/seoyounglee/</link>
       <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
@@ -80,12 +53,66 @@
     </item>
     
     <item>
+      <title>이유리</title>
+      <link>https://atmos.yonsei.ac.kr/people/yurilee/</link>
+      <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
+      
+      <guid>https://atmos.yonsei.ac.kr/people/yurilee/</guid>
+      <description>연구분야 Remote sensing for precipitation estimation 학력 Ph.d. (2017) in Atmospheric Sciences, Yonsei University, Seoul, Korea</description>
+    </item>
+    
+    <item>
       <title>최연주</title>
       <link>https://atmos.yonsei.ac.kr/people/yeonjuchoi/</link>
       <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/people/yeonjuchoi/</guid>
-      <description>연구분야 Ocean Mixed Layer Large Eddy Simulation Atmospheric Boundary Layer 학력 B.Sc (2015) in Atmospheric Sciences,</description>
+      <description>연구분야 Mesoscale eddy Ocean Mixed Layer Large Eddy Simulation Atmospheric Boundary Layer 학력 Ph.D (2022) in</description>
+    </item>
+    
+    <item>
+      <title>심자순</title>
+      <link>https://atmos.yonsei.ac.kr/people/shimj/</link>
+      <pubDate>Tue, 05 Jul 2022 08:39:46 +0200</pubDate>
+      
+      <guid>https://atmos.yonsei.ac.kr/people/shimj/</guid>
+      <description>연구분야 Ionosphere-Thermosphere modeling Magnetosphere-Ionosphere-Thermosphere coupling Space weather impacts on the Earth&amp;rsquo;s upper atmosphere 학력 Ph.D. (2009)</description>
+    </item>
+    
+    <item>
+      <title>이재원</title>
+      <link>https://atmos.yonsei.ac.kr/people/jwlee/</link>
+      <pubDate>Tue, 05 Jul 2022 08:39:46 +0200</pubDate>
+      
+      <guid>https://atmos.yonsei.ac.kr/people/jwlee/</guid>
+      <description>연구분야 Atmospheric data analysis with Statistics Instruments and Methods of Meteorological Observation 학력 Ph.D. (1997) in</description>
+    </item>
+    
+    <item>
+      <title>이원석</title>
+      <link>https://atmos.yonsei.ac.kr/people/wslee/</link>
+      <pubDate>Tue, 05 Jul 2022 13:39:46 +0200</pubDate>
+      
+      <guid>https://atmos.yonsei.ac.kr/people/wslee/</guid>
+      <description>연구분야 Middle atmospheric dynamics Planetary waves Coupling between the middle atmosphere and ionosphere 학력 Ph.D. (2022)</description>
+    </item>
+    
+    <item>
+      <title>임나리</title>
+      <link>https://atmos.yonsei.ac.kr/people/imnari/</link>
+      <pubDate>Tue, 24 Mar 2020 13:39:46 +0200</pubDate>
+      
+      <guid>https://atmos.yonsei.ac.kr/people/imnari/</guid>
+      <description>연구분야 Future climate change Extremes (heat waves, extreme precipitation, drought) Hysteresis of climate system 학력 M.Sc</description>
+    </item>
+    
+    <item>
+      <title>정유주</title>
+      <link>https://atmos.yonsei.ac.kr/people/yujoojeong/</link>
+      <pubDate>Tue, 24 Mar 2020 13:39:46 +0200</pubDate>
+      
+      <guid>https://atmos.yonsei.ac.kr/people/yujoojeong/</guid>
+      <description>연구분야 Atmospheric Chemistry (VOC) 학력 M.Sc (2022) in Atmospheric Sciences, Yonsei University, Seoul, Korea B.Sc (2020)</description>
     </item>
     
   </channel>

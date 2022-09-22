@@ -80,20 +80,26 @@
     <loc>https://atmos.yonsei.ac.kr/people/minjuyeo/</loc>
     <lastmod>2022-06-24T08:39:46+02:00</lastmod>
   </url><url>
-    <loc>https://atmos.yonsei.ac.kr/people/silviokalisch/</loc>
-    <lastmod>2018-03-24T13:39:46+02:00</lastmod>
-  </url><url>
     <loc>https://atmos.yonsei.ac.kr/people/minsupark/</loc>
     <lastmod>2018-03-24T13:39:46+02:00</lastmod>
   </url><url>
     <loc>https://atmos.yonsei.ac.kr/people/ujushin/</loc>
     <lastmod>2018-03-24T13:39:46+02:00</lastmod>
   </url><url>
+    <loc>https://atmos.yonsei.ac.kr/people/seoyounglee/</loc>
+    <lastmod>2018-03-24T13:39:46+02:00</lastmod>
+  </url><url>
     <loc>https://atmos.yonsei.ac.kr/people/yurilee/</loc>
     <lastmod>2018-03-24T13:39:46+02:00</lastmod>
   </url><url>
-    <loc>https://atmos.yonsei.ac.kr/people/yongjintack/</loc>
+    <loc>https://atmos.yonsei.ac.kr/people/yeonjuchoi/</loc>
     <lastmod>2018-03-24T13:39:46+02:00</lastmod>
+  </url><url>
+    <loc>https://atmos.yonsei.ac.kr/people/shimj/</loc>
+    <lastmod>2022-07-05T08:39:46+02:00</lastmod>
+  </url><url>
+    <loc>https://atmos.yonsei.ac.kr/people/jwlee/</loc>
+    <lastmod>2022-07-05T08:39:46+02:00</lastmod>
   </url><url>
     <loc>https://atmos.yonsei.ac.kr/people/soojeonglee/</loc>
     <lastmod>2022-03-17T13:39:46+02:00</lastmod>
@@ -161,9 +167,6 @@
     <loc>https://atmos.yonsei.ac.kr/people/sjshin/</loc>
     <lastmod>2018-03-24T13:39:46+02:00</lastmod>
   </url><url>
-    <loc>https://atmos.yonsei.ac.kr/people/jongsooshin/</loc>
-    <lastmod>2018-03-24T13:39:46+02:00</lastmod>
-  </url><url>
     <loc>https://atmos.yonsei.ac.kr/people/dhahyunahn/</loc>
     <lastmod>2018-03-24T13:39:46+02:00</lastmod>
   </url><url>
@@ -182,7 +185,7 @@
     <loc>https://atmos.yonsei.ac.kr/people/dongheelee/</loc>
     <lastmod>2018-03-24T13:39:46+02:00</lastmod>
   </url><url>
-    <loc>https://atmos.yonsei.ac.kr/people/seoyounglee/</loc>
+    <loc>https://atmos.yonsei.ac.kr/people/sojeonglee/</loc>
     <lastmod>2018-03-24T13:39:46+02:00</lastmod>
   </url><url>
     <loc>https://atmos.yonsei.ac.kr/people/jonghyuklee/</loc>
@@ -206,9 +209,6 @@
     <loc>https://atmos.yonsei.ac.kr/people/yeseulcho/</loc>
     <lastmod>2018-03-24T13:39:46+02:00</lastmod>
   </url><url>
-    <loc>https://atmos.yonsei.ac.kr/people/yeonjuchoi/</loc>
-    <lastmod>2018-03-24T13:39:46+02:00</lastmod>
-  </url><url>
     <loc>https://atmos.yonsei.ac.kr/people/jisuchoi/</loc>
     <lastmod>2018-03-24T13:39:46+02:00</lastmod>
   </url><url>
@@ -217,6 +217,15 @@
   </url><url>
     <loc>https://atmos.yonsei.ac.kr/people/jaeminhong/</loc>
     <lastmod>2018-03-24T13:39:46+02:00</lastmod>
+  </url><url>
+    <loc>https://atmos.yonsei.ac.kr/people/seungminyu/</loc>
+    <lastmod>2022-07-05T13:39:46+02:00</lastmod>
+  </url><url>
+    <loc>https://atmos.yonsei.ac.kr/people/wslee/</loc>
+    <lastmod>2022-07-05T13:39:46+02:00</lastmod>
+  </url><url>
+    <loc>https://atmos.yonsei.ac.kr/people/hyejicha/</loc>
+    <lastmod>2022-07-05T13:39:46+02:00</lastmod>
   </url><url>
     <loc>https://atmos.yonsei.ac.kr/people/jeongwoo_kim/</loc>
     <lastmod>2022-03-24T13:39:46+02:00</lastmod>
@@ -272,10 +281,10 @@
     <loc>https://atmos.yonsei.ac.kr/people/sehyunlee/</loc>
     <lastmod>2018-03-24T13:39:46+02:00</lastmod>
   </url><url>
-    <loc>https://atmos.yonsei.ac.kr/people/chaehyeonglee/</loc>
+    <loc>https://atmos.yonsei.ac.kr/people/joonwoolee/</loc>
     <lastmod>2018-03-24T13:39:46+02:00</lastmod>
   </url><url>
-    <loc>https://atmos.yonsei.ac.kr/people/chohyunrhee/</loc>
+    <loc>https://atmos.yonsei.ac.kr/people/chaehyeonglee/</loc>
     <lastmod>2018-03-24T13:39:46+02:00</lastmod>
   </url><url>
     <loc>https://atmos.yonsei.ac.kr/people/ajincho/</loc>
@@ -287,13 +296,67 @@
     <loc>https://atmos.yonsei.ac.kr/people/alumnidoctor/</loc>
     <lastmod>2018-03-24T13:39:46+02:00</lastmod>
   </url><url>
-    <loc>https://atmos.yonsei.ac.kr/categories/</loc>
-    <lastmod>2022-07-03T15:00:00+00:00</lastmod>
+    <loc>https://atmos.yonsei.ac.kr/blog/2022/09/20/%EC%84%B8%EB%AF%B8%EB%82%98-%EA%B0%95%EB%AF%BC%EC%A7%80-%EB%B0%95%EC%82%AC/</loc>
+    <lastmod>2022-09-20T07:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://atmos.yonsei.ac.kr/blog/2022/07/03/new-contact-details-of-yeon-joo-new-planetary-atmospheres-groupinsouth-korea-invites-applications/</loc>
-    <lastmod>2022-07-03T15:00:00+00:00</lastmod>
+    <loc>https://atmos.yonsei.ac.kr/categories/</loc>
+    <lastmod>2022-09-20T07:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://atmos.yonsei.ac.kr/categories/%EC%84%B8%EB%AF%B8%EB%82%98/</loc>
+    <lastmod>2022-09-20T07:00:00+00:00</lastmod>
   </url><url>
     <loc>https://atmos.yonsei.ac.kr/</loc>
+    <lastmod>2022-09-20T07:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://atmos.yonsei.ac.kr/blog/2022/09/04/2022-2-7/</loc>
+    <lastmod>2022-09-04T15:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://atmos.yonsei.ac.kr/blog/2022/09/04/2022-8/</loc>
+    <lastmod>2022-09-04T15:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://atmos.yonsei.ac.kr/blog/2022/09/04/k-1/</loc>
+    <lastmod>2022-09-04T15:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://atmos.yonsei.ac.kr/categories/%EA%B3%B5%EC%A7%80%EC%82%AC%ED%95%AD/</loc>
+    <lastmod>2022-09-04T15:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://atmos.yonsei.ac.kr/categories/%EC%83%88%EC%86%8C%EC%8B%9D/</loc>
+    <lastmod>2022-09-04T15:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://atmos.yonsei.ac.kr/blog/2022/09/04/%EC%A7%84%EB%A1%9C-%EB%B0%8F-%EC%B7%A8%EC%97%85-%EA%B4%80%EB%A0%A8-%EB%B9%84%EA%B5%90%EA%B3%BC-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8-%EA%B0%9C%EC%84%A4-%EC%8B%9C-%EA%B2%BD%EB%A0%A5%EA%B0%9C%EB%B0%9C%EC%8B%9C%EC%8A%A4%ED%85%9C-%EC%9D%B4%EC%9A%A9-%ED%98%91%EC%A1%B0-%EC%9A%94%EC%B2%AD/</loc>
+    <lastmod>2022-09-04T15:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://atmos.yonsei.ac.kr/blog/2022/09/03/%EC%84%B8%EB%AF%B8%EB%82%98-%EC%97%AC%EB%AF%BC%EC%A3%BC-%EB%B0%95%EC%82%AC/</loc>
+    <lastmod>2022-09-03T15:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://atmos.yonsei.ac.kr/blog/2022/08/30/2022-2-vol3/</loc>
+    <lastmod>2022-08-30T15:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://atmos.yonsei.ac.kr/blog/2022/08/23/22-_-2022/</loc>
+    <lastmod>2022-08-23T00:52:00+00:00</lastmod>
+  </url><url>
+    <loc>https://atmos.yonsei.ac.kr/blog/2022/08/15/2022-2-6/</loc>
+    <lastmod>2022-08-15T15:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://atmos.yonsei.ac.kr/blog/2022/07/19/2022-2-5/</loc>
+    <lastmod>2022-07-19T15:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://atmos.yonsei.ac.kr/blog/2022/07/11/2022-2-4/</loc>
+    <lastmod>2022-07-11T15:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://atmos.yonsei.ac.kr/teams/graduate/</loc>
+    <lastmod>2022-07-05T13:39:46+02:00</lastmod>
+  </url><url>
+    <loc>https://atmos.yonsei.ac.kr/teams/staff/</loc>
+    <lastmod>2022-07-05T13:39:46+02:00</lastmod>
+  </url><url>
+    <loc>https://atmos.yonsei.ac.kr/teams/</loc>
+    <lastmod>2022-07-05T13:39:46+02:00</lastmod>
+  </url><url>
+    <loc>https://atmos.yonsei.ac.kr/people/</loc>
+    <lastmod>2022-07-05T13:39:46+02:00</lastmod>
+  </url><url>
+    <loc>https://atmos.yonsei.ac.kr/blog/2022/07/03/new-contact-details-of-yeon-joo-new-planetary-atmospheres-groupinsouth-korea-invites-applications/</loc>
     <lastmod>2022-07-03T15:00:00+00:00</lastmod>
   </url><url>
     <loc>https://atmos.yonsei.ac.kr/categories/%EC%B1%84%EC%9A%A9%EA%B3%B5%EA%B3%A0/</loc>
@@ -302,20 +365,8 @@
     <loc>https://atmos.yonsei.ac.kr/blog/2022/07/01/kopri/</loc>
     <lastmod>2022-07-01T15:46:00+09:00</lastmod>
   </url><url>
-    <loc>https://atmos.yonsei.ac.kr/categories/%EA%B3%B5%EC%A7%80%EC%82%AC%ED%95%AD/</loc>
-    <lastmod>2022-06-27T06:47:02+09:00</lastmod>
-  </url><url>
     <loc>https://atmos.yonsei.ac.kr/blog/2022/06/27/blog_220624/</loc>
     <lastmod>2022-06-27T06:47:02+09:00</lastmod>
-  </url><url>
-    <loc>https://atmos.yonsei.ac.kr/teams/staff/</loc>
-    <lastmod>2022-06-24T08:39:46+02:00</lastmod>
-  </url><url>
-    <loc>https://atmos.yonsei.ac.kr/teams/</loc>
-    <lastmod>2022-06-24T08:39:46+02:00</lastmod>
-  </url><url>
-    <loc>https://atmos.yonsei.ac.kr/people/</loc>
-    <lastmod>2022-06-24T08:39:46+02:00</lastmod>
   </url><url>
     <loc>https://atmos.yonsei.ac.kr/blog/2022/06/23/2022-wiset/</loc>
     <lastmod>2022-06-23T15:00:00+00:00</lastmod>
@@ -330,9 +381,6 @@
     <lastmod>2022-06-07T15:00:00+00:00</lastmod>
   </url><url>
     <loc>https://atmos.yonsei.ac.kr/blog/2022/05/25/%EC%84%9C%EC%9A%B8%EB%8C%80-%EC%97%B0%EC%84%B8%EB%8C%80-%EB%8C%80%EA%B8%B0%EA%B3%BC%ED%95%99%EA%B3%BC-%EA%B3%B5%EB%8F%99%EC%84%B8%EB%AF%B8%EB%82%98/</loc>
-    <lastmod>2022-05-25T16:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://atmos.yonsei.ac.kr/categories/%EC%84%B8%EB%AF%B8%EB%82%98/</loc>
     <lastmod>2022-05-25T16:00:00+00:00</lastmod>
   </url><url>
     <loc>https://atmos.yonsei.ac.kr/blog/2022/05/22/%EC%84%B8%EB%AF%B8%EB%82%98-%EC%8B%AC%EC%84%B1%EB%B3%B4-%EB%B0%95%EC%82%AC/</loc>
@@ -434,9 +482,6 @@
     <loc>https://atmos.yonsei.ac.kr/blog/2022/03/27/dr.saehee-lim/</loc>
     <lastmod>2022-03-27T04:35:00+00:00</lastmod>
   </url><url>
-    <loc>https://atmos.yonsei.ac.kr/teams/graduate/</loc>
-    <lastmod>2022-03-24T13:39:46+02:00</lastmod>
-  </url><url>
     <loc>https://atmos.yonsei.ac.kr/blog/2022/03/20/2022-1/</loc>
     <lastmod>2022-03-20T02:00:00+00:00</lastmod>
   </url><url>
@@ -471,9 +516,6 @@
     <lastmod>2022-01-11T07:57:16+09:00</lastmod>
   </url><url>
     <loc>https://atmos.yonsei.ac.kr/blog/2022/01/06/healthy_lab_award/</loc>
-    <lastmod>2022-01-06T10:00:00+09:00</lastmod>
-  </url><url>
-    <loc>https://atmos.yonsei.ac.kr/categories/%EC%83%88%EC%86%8C%EC%8B%9D/</loc>
     <lastmod>2022-01-06T10:00:00+09:00</lastmod>
   </url><url>
     <loc>https://atmos.yonsei.ac.kr/blog/2022/01/04/notice_20220104/</loc>

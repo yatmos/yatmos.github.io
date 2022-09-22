@@ -27,5 +27,5 @@ weight = 40
 
 #### 논문
 
-* Song, B. G., Chun, H. Y., & Song, I. S. (2020). Role of gravity waves in a vortex-split sudden stratospheric warming in January 2009. Journal of the Atmospheric Sciences, 77(10), 3321-3342.3.2.
-* Song, B. G., Song, I. S., Chun, H. Y., Lee, C., Kam, H., Kim, Y. H., ... & Mitchell, N. J. (2021). Activities of Small‐Scale Gravity Waves in the Upper Mesosphere Observed From Meteor Radar at King Sejong Station, Antarctica (62.22° S, 58.78° W) and Their Potential Sources. Journal of Geophysical Research: Atmospheres, 126(10), e2021JD034528.3.3.
+* Song, B.‐G., Song, I. ‐S., Chun, H. ‐Y., Lee, C., Kam, H., Kim, Y. H., Kang, M. ‐J., Hindley, N. P., & Mitchell, N. J. (2021). Activities of small‐scale gravity waves in the upper mesosphere observed from meteor radar at King Sejong Station, Antarctica (62.22°S, 58.78°W) and their potential sources. Journal of Geophysical Research: Atmospheres, 126(10), 1–22. https://doi.org/10.1029/2021jd034528
+* Song, B.-G., Chun, H.-Y., & Song, I.-S. (2020). Role of gravity waves in a vortex-split sudden stratospheric warming in January 2009. Journal of the Atmospheric Sciences, 77(10), 3321-3342. https://doi.org/10.1175/JAS-D-20-0039.1

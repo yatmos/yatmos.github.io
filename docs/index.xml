@@ -6,7 +6,7 @@
     <description>Recent content on 연세대학교 대기과학과</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko</language>
-    <lastBuildDate>Sun, 03 Jul 2022 15:00:00 +0000</lastBuildDate><atom:link href="https://atmos.yonsei.ac.kr/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 20 Sep 2022 07:00:00 +0000</lastBuildDate><atom:link href="https://atmos.yonsei.ac.kr/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>노의근</title>
       <link>https://atmos.yonsei.ac.kr/people/yignnoh/</link>
@@ -260,15 +260,6 @@
     </item>
     
     <item>
-      <title>Silvio Kalisch</title>
-      <link>https://atmos.yonsei.ac.kr/people/silviokalisch/</link>
-      <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
-      
-      <guid>https://atmos.yonsei.ac.kr/people/silviokalisch/</guid>
-      <description>연구분야 Middle Atmosphere dynamics Gravity Waves Tropical atmosphere (Madden-Julian Oscillation) Sudden stratospheric warming 학력 Dr. rer.</description>
-    </item>
-    
-    <item>
       <title>박민수</title>
       <link>https://atmos.yonsei.ac.kr/people/minsupark/</link>
       <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
@@ -287,6 +278,15 @@
     </item>
     
     <item>
+      <title>이서영</title>
+      <link>https://atmos.yonsei.ac.kr/people/seoyounglee/</link>
+      <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
+      
+      <guid>https://atmos.yonsei.ac.kr/people/seoyounglee/</guid>
+      <description>연구분야 Retrieval of aerosols and trace gases from satellite or airborne based remote sensing measurements Estimation of</description>
+    </item>
+    
+    <item>
       <title>이유리</title>
       <link>https://atmos.yonsei.ac.kr/people/yurilee/</link>
       <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
@@ -296,12 +296,30 @@
     </item>
     
     <item>
-      <title>탁용진</title>
-      <link>https://atmos.yonsei.ac.kr/people/yongjintack/</link>
+      <title>최연주</title>
+      <link>https://atmos.yonsei.ac.kr/people/yeonjuchoi/</link>
       <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
       
-      <guid>https://atmos.yonsei.ac.kr/people/yongjintack/</guid>
-      <description>연구분야 Physical Oceanography Air-sea interacion Physical-biogeochemical coupled modelling 학력 B.Sc (2012) in Ocean Sciences, Pusan National</description>
+      <guid>https://atmos.yonsei.ac.kr/people/yeonjuchoi/</guid>
+      <description>연구분야 Mesoscale eddy Ocean Mixed Layer Large Eddy Simulation Atmospheric Boundary Layer 학력 Ph.D (2022) in</description>
+    </item>
+    
+    <item>
+      <title>심자순</title>
+      <link>https://atmos.yonsei.ac.kr/people/shimj/</link>
+      <pubDate>Tue, 05 Jul 2022 08:39:46 +0200</pubDate>
+      
+      <guid>https://atmos.yonsei.ac.kr/people/shimj/</guid>
+      <description>연구분야 Ionosphere-Thermosphere modeling Magnetosphere-Ionosphere-Thermosphere coupling Space weather impacts on the Earth&amp;rsquo;s upper atmosphere 학력 Ph.D. (2009)</description>
+    </item>
+    
+    <item>
+      <title>이재원</title>
+      <link>https://atmos.yonsei.ac.kr/people/jwlee/</link>
+      <pubDate>Tue, 05 Jul 2022 08:39:46 +0200</pubDate>
+      
+      <guid>https://atmos.yonsei.ac.kr/people/jwlee/</guid>
+      <description>연구분야 Atmospheric data analysis with Statistics Instruments and Methods of Meteorological Observation 학력 Ph.D. (1997) in</description>
     </item>
     
     <item>
@@ -503,15 +521,6 @@
     </item>
     
     <item>
-      <title>신종수</title>
-      <link>https://atmos.yonsei.ac.kr/people/jongsooshin/</link>
-      <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
-      
-      <guid>https://atmos.yonsei.ac.kr/people/jongsooshin/</guid>
-      <description>연구분야 Heatwave Change of SST RCM simulation 학력 M.Sc (2017) in Atmospheric Sciences, Yonsei University, Seoul,</description>
-    </item>
-    
-    <item>
       <title>안다현</title>
       <link>https://atmos.yonsei.ac.kr/people/dhahyunahn/</link>
       <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
@@ -566,12 +575,12 @@
     </item>
     
     <item>
-      <title>이서영</title>
-      <link>https://atmos.yonsei.ac.kr/people/seoyounglee/</link>
+      <title>이소정</title>
+      <link>https://atmos.yonsei.ac.kr/people/sojeonglee/</link>
       <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
       
-      <guid>https://atmos.yonsei.ac.kr/people/seoyounglee/</guid>
-      <description>연구분야 Retrieval of aerosols and trace gases from satellite or airborne based remote sensing measurements Estimation of</description>
+      <guid>https://atmos.yonsei.ac.kr/people/sojeonglee/</guid>
+      <description>연구분야 Analysis of Greenhouse Gases Distribution in East Asia 학력 B.S (2022) in Nanophysics, Gachon University,</description>
     </item>
     
     <item>
@@ -638,15 +647,6 @@
     </item>
     
     <item>
-      <title>최연주</title>
-      <link>https://atmos.yonsei.ac.kr/people/yeonjuchoi/</link>
-      <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
-      
-      <guid>https://atmos.yonsei.ac.kr/people/yeonjuchoi/</guid>
-      <description>연구분야 Ocean Mixed Layer Large Eddy Simulation Atmospheric Boundary Layer 학력 B.Sc (2015) in Atmospheric Sciences,</description>
-    </item>
-    
-    <item>
       <title>최지수</title>
       <link>https://atmos.yonsei.ac.kr/people/jisuchoi/</link>
       <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
@@ -671,6 +671,33 @@
       
       <guid>https://atmos.yonsei.ac.kr/people/jaeminhong/</guid>
       <description>연구분야 Retrieval of atmospheric carbon dioxide density using satellite measurement 학력 B.Sc (2017) in Atmospheric Sciences,</description>
+    </item>
+    
+    <item>
+      <title>유승민</title>
+      <link>https://atmos.yonsei.ac.kr/people/seungminyu/</link>
+      <pubDate>Tue, 05 Jul 2022 13:39:46 +0200</pubDate>
+      
+      <guid>https://atmos.yonsei.ac.kr/people/seungminyu/</guid>
+      <description>연구분야 Hybrid weather prediction model with the numerical solution and artificial neural network 학력 B.Sc (2022)</description>
+    </item>
+    
+    <item>
+      <title>이원석</title>
+      <link>https://atmos.yonsei.ac.kr/people/wslee/</link>
+      <pubDate>Tue, 05 Jul 2022 13:39:46 +0200</pubDate>
+      
+      <guid>https://atmos.yonsei.ac.kr/people/wslee/</guid>
+      <description>연구분야 Middle atmospheric dynamics Planetary waves Coupling between the middle atmosphere and ionosphere 학력 Ph.D. (2022)</description>
+    </item>
+    
+    <item>
+      <title>차혜지</title>
+      <link>https://atmos.yonsei.ac.kr/people/hyejicha/</link>
+      <pubDate>Tue, 05 Jul 2022 13:39:46 +0200</pubDate>
+      
+      <guid>https://atmos.yonsei.ac.kr/people/hyejicha/</guid>
+      <description>연구분야 H2O retrieval from Geostationary Environment Monitoring Spectrometer (GEMS) Inferring NOx emissions over South Korea by using</description>
     </item>
     
     <item>
@@ -724,7 +751,7 @@
       <pubDate>Tue, 24 Mar 2020 13:39:46 +0200</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/people/imnari/</guid>
-      <description>연구분야 Heat Waves in Europe Climate Irreversibility 학력 B.Sc (2020) in Atmospheric Sciences, Yonsei University, Seoul,</description>
+      <description>연구분야 Future climate change Extremes (heat waves, extreme precipitation, drought) Hysteresis of climate system 학력 M.Sc</description>
     </item>
     
     <item>
@@ -733,7 +760,7 @@
       <pubDate>Tue, 24 Mar 2020 13:39:46 +0200</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/people/yujoojeong/</guid>
-      <description>연구분야 Atmospheric Chemistry (VOC) 학력 B.Sc (2020) in Atmospheric Sciences, Yonsei University, Seoul, Korea 수상</description>
+      <description>연구분야 Atmospheric Chemistry (VOC) 학력 M.Sc (2022) in Atmospheric Sciences, Yonsei University, Seoul, Korea B.Sc (2020)</description>
     </item>
     
     <item>
@@ -760,7 +787,7 @@
       <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/people/donghyukkim/</guid>
-      <description>연구분야 Ocean circulation Air-sea interaction 학력 B.Sc (2020) Atmospheric Sciences, Yonsei University, Seoul, Korea 수상</description>
+      <description>연구분야 Indian Ocean Dipole Ocean circulation Air-sea interaction 학력 M.Sc (2022) in Atmospheric Sciences, Yonsei University,</description>
     </item>
     
     <item>
@@ -836,21 +863,21 @@
     </item>
     
     <item>
+      <title>이준우</title>
+      <link>https://atmos.yonsei.ac.kr/people/joonwoolee/</link>
+      <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
+      
+      <guid>https://atmos.yonsei.ac.kr/people/joonwoolee/</guid>
+      <description>연구분야 Air-sea Interaction Global ocean analysis 학력 B.Sc (2022) in Atmospheric Sciences, Yonsei University, Seoul, Korea</description>
+    </item>
+    
+    <item>
       <title>이채형</title>
       <link>https://atmos.yonsei.ac.kr/people/chaehyeonglee/</link>
       <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/people/chaehyeonglee/</guid>
       <description>Research interests Air-sea interactions Persistence of sea surface temperature anomalies Education B.Sc (2022) in Atmospheric Sciences, Yonsei University, Seoul, Korea</description>
-    </item>
-    
-    <item>
-      <title>이초현</title>
-      <link>https://atmos.yonsei.ac.kr/people/chohyunrhee/</link>
-      <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
-      
-      <guid>https://atmos.yonsei.ac.kr/people/chohyunrhee/</guid>
-      <description>연구분야 Air-sea coupled modeling 학력 B.Sc (2018) Environmental Science and Ecological Engineering, Korea University, Seoul, Korea</description>
     </item>
     
     <item>
@@ -878,6 +905,105 @@
       
       <guid>https://atmos.yonsei.ac.kr/people/alumnidoctor/</guid>
       <description>박사학위자 명단 .tg {border-collapse:collapse;border-spacing:0;border:none;border-color:#ccc;margin:0px auto;} .tg td{font-family:Arial, sans-serif;font-size:14px;padding:20px 6px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:#ccc;color:#333;background-color:#fff;} .tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:20px 6px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:#ccc;color:#333;background-color:#f0f0f0;} .tg .tg-44m2{font-weight:bold;font-size:16px;font-family:&#34;Arial</description>
+    </item>
+    
+    <item>
+      <title>[세미나] 강민지 박사</title>
+      <link>https://atmos.yonsei.ac.kr/blog/2022/09/20/%EC%84%B8%EB%AF%B8%EB%82%98-%EA%B0%95%EB%AF%BC%EC%A7%80-%EB%B0%95%EC%82%AC/</link>
+      <pubDate>Tue, 20 Sep 2022 07:00:00 +0000</pubDate>
+      
+      <guid>https://atmos.yonsei.ac.kr/blog/2022/09/20/%EC%84%B8%EB%AF%B8%EB%82%98-%EA%B0%95%EB%AF%BC%EC%A7%80-%EB%B0%95%EC%82%AC/</guid>
+      <description>Role of tropical lower stratosphere winds in quasi-biennial oscillation disruptions 강민지 박사 2022년</description>
+    </item>
+    
+    <item>
+      <title>2022-2학기 신촌캠퍼스 기도실 개방시간 안내</title>
+      <link>https://atmos.yonsei.ac.kr/blog/2022/09/04/2022-2-7/</link>
+      <pubDate>Sun, 04 Sep 2022 15:00:00 +0000</pubDate>
+      
+      <guid>https://atmos.yonsei.ac.kr/blog/2022/09/04/2022-2-7/</guid>
+      <description>1. 기도실 운영에 적극 협조해주셔서 감사드립니</description>
+    </item>
+    
+    <item>
+      <title>2022년 항공기상서비스 아이디어 공모전 안내</title>
+      <link>https://atmos.yonsei.ac.kr/blog/2022/09/04/2022-8/</link>
+      <pubDate>Sun, 04 Sep 2022 15:00:00 +0000</pubDate>
+      
+      <guid>https://atmos.yonsei.ac.kr/blog/2022/09/04/2022-8/</guid>
+      <description>1. 귀 기관(관계부처, 학교, 항공사 등)의 무</description>
+    </item>
+    
+    <item>
+      <title>고용노동부「K-디지털 기초역량훈련」사업 홍보</title>
+      <link>https://atmos.yonsei.ac.kr/blog/2022/09/04/k-1/</link>
+      <pubDate>Sun, 04 Sep 2022 15:00:00 +0000</pubDate>
+      
+      <guid>https://atmos.yonsei.ac.kr/blog/2022/09/04/k-1/</guid>
+      <description>&amp;lt;고용노동부「K-디지털 기초역량훈</description>
+    </item>
+    
+    <item>
+      <title>진로 및 취업 관련 비교과 프로그램 개설 시 경력개발시스템 이용 협조 요청</title>
+      <link>https://atmos.yonsei.ac.kr/blog/2022/09/04/%EC%A7%84%EB%A1%9C-%EB%B0%8F-%EC%B7%A8%EC%97%85-%EA%B4%80%EB%A0%A8-%EB%B9%84%EA%B5%90%EA%B3%BC-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8-%EA%B0%9C%EC%84%A4-%EC%8B%9C-%EA%B2%BD%EB%A0%A5%EA%B0%9C%EB%B0%9C%EC%8B%9C%EC%8A%A4%ED%85%9C-%EC%9D%B4%EC%9A%A9-%ED%98%91%EC%A1%B0-%EC%9A%94%EC%B2%AD/</link>
+      <pubDate>Sun, 04 Sep 2022 15:00:00 +0000</pubDate>
+      
+      <guid>https://atmos.yonsei.ac.kr/blog/2022/09/04/%EC%A7%84%EB%A1%9C-%EB%B0%8F-%EC%B7%A8%EC%97%85-%EA%B4%80%EB%A0%A8-%EB%B9%84%EA%B5%90%EA%B3%BC-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8-%EA%B0%9C%EC%84%A4-%EC%8B%9C-%EA%B2%BD%EB%A0%A5%EA%B0%9C%EB%B0%9C%EC%8B%9C%EC%8A%A4%ED%85%9C-%EC%9D%B4%EC%9A%A9-%ED%98%91%EC%A1%B0-%EC%9A%94%EC%B2%AD/</guid>
+      <description>&amp;lt;진로 및 취업 관련 비교과 프로그램 개설</description>
+    </item>
+    
+    <item>
+      <title>[세미나] 여민주 박사</title>
+      <link>https://atmos.yonsei.ac.kr/blog/2022/09/03/%EC%84%B8%EB%AF%B8%EB%82%98-%EC%97%AC%EB%AF%BC%EC%A3%BC-%EB%B0%95%EC%82%AC/</link>
+      <pubDate>Sat, 03 Sep 2022 15:00:00 +0000</pubDate>
+      
+      <guid>https://atmos.yonsei.ac.kr/blog/2022/09/03/%EC%84%B8%EB%AF%B8%EB%82%98-%EC%97%AC%EB%AF%BC%EC%A3%BC-%EB%B0%95%EC%82%AC/</guid>
+      <description>우리나라 지표면 대기오염물질 농도 추이와 영향</description>
+    </item>
+    
+    <item>
+      <title>2022학년도 2학기 대기과학과 뉴스레터 vol3</title>
+      <link>https://atmos.yonsei.ac.kr/blog/2022/08/30/2022-2-vol3/</link>
+      <pubDate>Tue, 30 Aug 2022 15:00:00 +0000</pubDate>
+      
+      <guid>https://atmos.yonsei.ac.kr/blog/2022/08/30/2022-2-vol3/</guid>
+      <description>2022학년도 2학기 대기과학과 뉴스레터 vol3</description>
+    </item>
+    
+    <item>
+      <title>[22학번 학부생_필독] 2022 대학요람 수정본</title>
+      <link>https://atmos.yonsei.ac.kr/blog/2022/08/23/22-_-2022/</link>
+      <pubDate>Tue, 23 Aug 2022 00:52:00 +0000</pubDate>
+      
+      <guid>https://atmos.yonsei.ac.kr/blog/2022/08/23/22-_-2022/</guid>
+      <description>대기과학과 2022 학부 신입생 여러분께, 안녕하세</description>
+    </item>
+    
+    <item>
+      <title>2022학년도 2학기 졸업앨범 사진 추가촬영 관련 안내</title>
+      <link>https://atmos.yonsei.ac.kr/blog/2022/08/15/2022-2-6/</link>
+      <pubDate>Mon, 15 Aug 2022 15:00:00 +0000</pubDate>
+      
+      <guid>https://atmos.yonsei.ac.kr/blog/2022/08/15/2022-2-6/</guid>
+      <description>2022학년도 2학기 학부 졸업사진 촬영을 붙</description>
+    </item>
+    
+    <item>
+      <title>2022학년도 2학기 대학원 재입학 안내</title>
+      <link>https://atmos.yonsei.ac.kr/blog/2022/07/19/2022-2-5/</link>
+      <pubDate>Tue, 19 Jul 2022 15:00:00 +0000</pubDate>
+      
+      <guid>https://atmos.yonsei.ac.kr/blog/2022/07/19/2022-2-5/</guid>
+      <description>1. 관련: 대학원 학칙 제7조의3(재입학) 2.</description>
+    </item>
+    
+    <item>
+      <title>2022학년도 2학기 대학원 휴학 및 복학 기간 안내</title>
+      <link>https://atmos.yonsei.ac.kr/blog/2022/07/11/2022-2-4/</link>
+      <pubDate>Mon, 11 Jul 2022 15:00:00 +0000</pubDate>
+      
+      <guid>https://atmos.yonsei.ac.kr/blog/2022/07/11/2022-2-4/</guid>
+      <description>1. 관련 근거: 대학원 학칙 제11조(휴학),</description>
     </item>
     
     <item>
