@@ -2,116 +2,116 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>faculty on 연세대학교 대기과학과</title>
-    <link>https://atmos.yonsei.ac.kr/teams/faculty/</link>
+    <link>http://localhost:1313/teams/faculty/</link>
     <description>Recent content in faculty on 연세대학교 대기과학과</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko</language>
-    <lastBuildDate>Mon, 24 Dec 2018 13:39:46 +0200</lastBuildDate><atom:link href="https://atmos.yonsei.ac.kr/teams/faculty/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 24 Dec 2018 13:39:46 +0200</lastBuildDate><atom:link href="http://localhost:1313/teams/faculty/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>노의근</title>
-      <link>https://atmos.yonsei.ac.kr/people/yignnoh/</link>
+      <link>http://localhost:1313/people/yignnoh/</link>
       <pubDate>Tue, 17 Apr 2018 00:39:46 +0200</pubDate>
       
-      <guid>https://atmos.yonsei.ac.kr/people/yignnoh/</guid>
+      <guid>http://localhost:1313/people/yignnoh/</guid>
       <description>연구분야 난류 유체역학 해양물리 미기상학 학력</description>
     </item>
     
     <item>
       <title>전혜영</title>
-      <link>https://atmos.yonsei.ac.kr/people/hyeyeongchun/</link>
+      <link>http://localhost:1313/people/hyeyeongchun/</link>
       <pubDate>Mon, 16 Apr 2018 11:39:46 +0000</pubDate>
       
-      <guid>https://atmos.yonsei.ac.kr/people/hyeyeongchun/</guid>
+      <guid>http://localhost:1313/people/hyeyeongchun/</guid>
       <description>연구분야 대기중력파 중규모기상학 중층대기역</description>
     </item>
     
     <item>
       <title>염성수</title>
-      <link>https://atmos.yonsei.ac.kr/people/seongsooyum/</link>
+      <link>http://localhost:1313/people/seongsooyum/</link>
       <pubDate>Sun, 15 Apr 2018 13:39:46 +0200</pubDate>
       
-      <guid>https://atmos.yonsei.ac.kr/people/seongsooyum/</guid>
+      <guid>http://localhost:1313/people/seongsooyum/</guid>
       <description>연구분야 구름물리학 구름관측 및 수치모형연구</description>
     </item>
     
     <item>
       <title>김준</title>
-      <link>https://atmos.yonsei.ac.kr/people/jhoonkim/</link>
+      <link>http://localhost:1313/people/jhoonkim/</link>
       <pubDate>Sat, 14 Apr 2018 13:39:46 +0200</pubDate>
       
-      <guid>https://atmos.yonsei.ac.kr/people/jhoonkim/</guid>
+      <guid>http://localhost:1313/people/jhoonkim/</guid>
       <description>연구분야 대기복사 대기환경 위성원격탐사 에어</description>
     </item>
     
     <item>
       <title>김현미</title>
-      <link>https://atmos.yonsei.ac.kr/people/hyunmeekim/</link>
+      <link>http://localhost:1313/people/hyunmeekim/</link>
       <pubDate>Fri, 13 Apr 2018 13:39:46 +0200</pubDate>
       
-      <guid>https://atmos.yonsei.ac.kr/people/hyunmeekim/</guid>
+      <guid>http://localhost:1313/people/hyunmeekim/</guid>
       <description>연구분야 자료동화, 예측가능성, 확률 예측 대</description>
     </item>
     
     <item>
       <title>안순일</title>
-      <link>https://atmos.yonsei.ac.kr/people/soonilan/</link>
+      <link>http://localhost:1313/people/soonilan/</link>
       <pubDate>Thu, 12 Apr 2018 13:39:46 +0200</pubDate>
       
-      <guid>https://atmos.yonsei.ac.kr/people/soonilan/</guid>
+      <guid>http://localhost:1313/people/soonilan/</guid>
       <description>연구분야 기후역학 대기-해양 상호작용 El Nino 기</description>
     </item>
     
     <item>
       <title>신동빈</title>
-      <link>https://atmos.yonsei.ac.kr/people/dongbinshin/</link>
+      <link>http://localhost:1313/people/dongbinshin/</link>
       <pubDate>Wed, 11 Apr 2018 13:39:46 +0200</pubDate>
       
-      <guid>https://atmos.yonsei.ac.kr/people/dongbinshin/</guid>
+      <guid>http://localhost:1313/people/dongbinshin/</guid>
       <description>연구분야 위성기상 원격탐사 대기복사 학력 Ph.D. (1999)</description>
     </item>
     
     <item>
       <title>홍진규</title>
-      <link>https://atmos.yonsei.ac.kr/people/jinkyuhong/</link>
+      <link>http://localhost:1313/people/jinkyuhong/</link>
       <pubDate>Tue, 10 Apr 2018 11:39:46 +0000</pubDate>
       
-      <guid>https://atmos.yonsei.ac.kr/people/jinkyuhong/</guid>
+      <guid>http://localhost:1313/people/jinkyuhong/</guid>
       <description>연구분야 탄소 및 물 순환 도시 기후 및 도시 환경 생</description>
     </item>
     
     <item>
       <title>박상훈</title>
-      <link>https://atmos.yonsei.ac.kr/people/sanghunpark/</link>
+      <link>http://localhost:1313/people/sanghunpark/</link>
       <pubDate>Mon, 09 Apr 2018 13:39:46 +0200</pubDate>
       
-      <guid>https://atmos.yonsei.ac.kr/people/sanghunpark/</guid>
+      <guid>http://localhost:1313/people/sanghunpark/</guid>
       <description>연구분야 수치모형 중규모 기상학 학력 Ph.D. (2009) Department of</description>
     </item>
     
     <item>
       <title>송하준</title>
-      <link>https://atmos.yonsei.ac.kr/people/hajoonsong/</link>
+      <link>http://localhost:1313/people/hajoonsong/</link>
       <pubDate>Tue, 04 Sep 2018 11:39:46 +0000</pubDate>
       
-      <guid>https://atmos.yonsei.ac.kr/people/hajoonsong/</guid>
+      <guid>http://localhost:1313/people/hajoonsong/</guid>
       <description>연구분야 대기-해양 상호관계 탄소순환 대기-</description>
     </item>
     
     <item>
       <title>구자호</title>
-      <link>https://atmos.yonsei.ac.kr/people/jahokoo/</link>
+      <link>http://localhost:1313/people/jahokoo/</link>
       <pubDate>Mon, 24 Dec 2018 13:39:46 +0200</pubDate>
       
-      <guid>https://atmos.yonsei.ac.kr/people/jahokoo/</guid>
+      <guid>http://localhost:1313/people/jahokoo/</guid>
       <description>연구분야 Asian/Pacific air pollution and environment Polar atmospheric chemistry Regional and global distribution of atmospheric components 학</description>
     </item>
     
     <item>
       <title>송인선</title>
-      <link>https://atmos.yonsei.ac.kr/people/insunsong/</link>
+      <link>http://localhost:1313/people/insunsong/</link>
       <pubDate>Wed, 24 Jan 2018 13:39:46 +0200</pubDate>
       
-      <guid>https://atmos.yonsei.ac.kr/people/insunsong/</guid>
+      <guid>http://localhost:1313/people/insunsong/</guid>
       <description>연구분야 전지구 전층대기 모델링 고층대기 대기</description>
     </item>
     
