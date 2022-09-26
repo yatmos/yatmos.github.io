@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Teams on 연세대학교 대기과학과</title>
-    <link>http://localhost:1313/teams/</link>
+    <link>https://atmos.yonsei.ac.kr/teams/</link>
     <description>Recent content in Teams on 연세대학교 대기과학과</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko</language>
-    <lastBuildDate>Tue, 05 Jul 2022 13:39:46 +0200</lastBuildDate><atom:link href="http://localhost:1313/teams/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 05 Jul 2022 13:39:46 +0200</lastBuildDate><atom:link href="https://atmos.yonsei.ac.kr/teams/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>graduate</title>
-      <link>http://localhost:1313/teams/graduate/</link>
+      <link>https://atmos.yonsei.ac.kr/teams/graduate/</link>
       <pubDate>Tue, 05 Jul 2022 13:39:46 +0200</pubDate>
       
-      <guid>http://localhost:1313/teams/graduate/</guid>
+      <guid>https://atmos.yonsei.ac.kr/teams/graduate/</guid>
       <description></description>
     </item>
     
     <item>
       <title>staff</title>
-      <link>http://localhost:1313/teams/staff/</link>
+      <link>https://atmos.yonsei.ac.kr/teams/staff/</link>
       <pubDate>Tue, 05 Jul 2022 13:39:46 +0200</pubDate>
       
-      <guid>http://localhost:1313/teams/staff/</guid>
+      <guid>https://atmos.yonsei.ac.kr/teams/staff/</guid>
       <description></description>
     </item>
     
     <item>
       <title>faculty</title>
-      <link>http://localhost:1313/teams/faculty/</link>
+      <link>https://atmos.yonsei.ac.kr/teams/faculty/</link>
       <pubDate>Mon, 24 Dec 2018 13:39:46 +0200</pubDate>
       
-      <guid>http://localhost:1313/teams/faculty/</guid>
+      <guid>https://atmos.yonsei.ac.kr/teams/faculty/</guid>
       <description></description>
     </item>
     
     <item>
       <title>학과졸업생</title>
-      <link>http://localhost:1313/teams/%ED%95%99%EA%B3%BC%EC%A1%B8%EC%97%85%EC%83%9D/</link>
+      <link>https://atmos.yonsei.ac.kr/teams/%ED%95%99%EA%B3%BC%EC%A1%B8%EC%97%85%EC%83%9D/</link>
       <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
       
-      <guid>http://localhost:1313/teams/%ED%95%99%EA%B3%BC%EC%A1%B8%EC%97%85%EC%83%9D/</guid>
+      <guid>https://atmos.yonsei.ac.kr/teams/%ED%95%99%EA%B3%BC%EC%A1%B8%EC%97%85%EC%83%9D/</guid>
       <description></description>
     </item>
     
     <item>
       <title>퇴임교수</title>
-      <link>http://localhost:1313/teams/%ED%87%B4%EC%9E%84%EA%B5%90%EC%88%98/</link>
+      <link>https://atmos.yonsei.ac.kr/teams/%ED%87%B4%EC%9E%84%EA%B5%90%EC%88%98/</link>
       <pubDate>Mon, 10 Apr 2017 13:39:46 +0200</pubDate>
       
-      <guid>http://localhost:1313/teams/%ED%87%B4%EC%9E%84%EA%B5%90%EC%88%98/</guid>
+      <guid>https://atmos.yonsei.ac.kr/teams/%ED%87%B4%EC%9E%84%EA%B5%90%EC%88%98/</guid>
       <description></description>
     </item>
     
