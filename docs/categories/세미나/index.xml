@@ -2,1178 +2,1187 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>세미나 on 연세대학교 대기과학과</title>
-    <link>https://atmos.yonsei.ac.kr/categories/%EC%84%B8%EB%AF%B8%EB%82%98/</link>
+    <link>http://localhost:1313/categories/%EC%84%B8%EB%AF%B8%EB%82%98/</link>
     <description>Recent content in 세미나 on 연세대학교 대기과학과</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko</language>
-    <lastBuildDate>Tue, 20 Sep 2022 07:00:00 +0000</lastBuildDate><atom:link href="https://atmos.yonsei.ac.kr/categories/%EC%84%B8%EB%AF%B8%EB%82%98/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 27 Sep 2022 16:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/%EC%84%B8%EB%AF%B8%EB%82%98/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[세미나] 신성균 박사</title>
+      <link>http://localhost:1313/blog/2022/09/27/%EC%84%B8%EB%AF%B8%EB%82%98-%EC%8B%A0%EC%84%B1%EA%B7%A0-%EB%B0%95%EC%82%AC/</link>
+      <pubDate>Tue, 27 Sep 2022 16:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/2022/09/27/%EC%84%B8%EB%AF%B8%EB%82%98-%EC%8B%A0%EC%84%B1%EA%B7%A0-%EB%B0%95%EC%82%AC/</guid>
+      <description>서울시 대기환경 현안과 도심지역 대기질 측정을</description>
+    </item>
+    
     <item>
       <title>[세미나] 강민지 박사</title>
-      <link>https://atmos.yonsei.ac.kr/blog/2022/09/20/%EC%84%B8%EB%AF%B8%EB%82%98-%EA%B0%95%EB%AF%BC%EC%A7%80-%EB%B0%95%EC%82%AC/</link>
+      <link>http://localhost:1313/blog/2022/09/20/%EC%84%B8%EB%AF%B8%EB%82%98-%EA%B0%95%EB%AF%BC%EC%A7%80-%EB%B0%95%EC%82%AC/</link>
       <pubDate>Tue, 20 Sep 2022 07:00:00 +0000</pubDate>
       
-      <guid>https://atmos.yonsei.ac.kr/blog/2022/09/20/%EC%84%B8%EB%AF%B8%EB%82%98-%EA%B0%95%EB%AF%BC%EC%A7%80-%EB%B0%95%EC%82%AC/</guid>
+      <guid>http://localhost:1313/blog/2022/09/20/%EC%84%B8%EB%AF%B8%EB%82%98-%EA%B0%95%EB%AF%BC%EC%A7%80-%EB%B0%95%EC%82%AC/</guid>
       <description>Role of tropical lower stratosphere winds in quasi-biennial oscillation disruptions 강민지 박사 2022년</description>
     </item>
     
     <item>
       <title>[세미나] 여민주 박사</title>
-      <link>https://atmos.yonsei.ac.kr/blog/2022/09/03/%EC%84%B8%EB%AF%B8%EB%82%98-%EC%97%AC%EB%AF%BC%EC%A3%BC-%EB%B0%95%EC%82%AC/</link>
+      <link>http://localhost:1313/blog/2022/09/03/%EC%84%B8%EB%AF%B8%EB%82%98-%EC%97%AC%EB%AF%BC%EC%A3%BC-%EB%B0%95%EC%82%AC/</link>
       <pubDate>Sat, 03 Sep 2022 15:00:00 +0000</pubDate>
       
-      <guid>https://atmos.yonsei.ac.kr/blog/2022/09/03/%EC%84%B8%EB%AF%B8%EB%82%98-%EC%97%AC%EB%AF%BC%EC%A3%BC-%EB%B0%95%EC%82%AC/</guid>
+      <guid>http://localhost:1313/blog/2022/09/03/%EC%84%B8%EB%AF%B8%EB%82%98-%EC%97%AC%EB%AF%BC%EC%A3%BC-%EB%B0%95%EC%82%AC/</guid>
       <description>우리나라 지표면 대기오염물질 농도 추이와 영향</description>
     </item>
     
     <item>
       <title>서울대-연세대 대기과학과 공동세미나</title>
-      <link>https://atmos.yonsei.ac.kr/blog/2022/05/25/%EC%84%9C%EC%9A%B8%EB%8C%80-%EC%97%B0%EC%84%B8%EB%8C%80-%EB%8C%80%EA%B8%B0%EA%B3%BC%ED%95%99%EA%B3%BC-%EA%B3%B5%EB%8F%99%EC%84%B8%EB%AF%B8%EB%82%98/</link>
+      <link>http://localhost:1313/blog/2022/05/25/%EC%84%9C%EC%9A%B8%EB%8C%80-%EC%97%B0%EC%84%B8%EB%8C%80-%EB%8C%80%EA%B8%B0%EA%B3%BC%ED%95%99%EA%B3%BC-%EA%B3%B5%EB%8F%99%EC%84%B8%EB%AF%B8%EB%82%98/</link>
       <pubDate>Wed, 25 May 2022 16:00:00 +0000</pubDate>
       
-      <guid>https://atmos.yonsei.ac.kr/blog/2022/05/25/%EC%84%9C%EC%9A%B8%EB%8C%80-%EC%97%B0%EC%84%B8%EB%8C%80-%EB%8C%80%EA%B8%B0%EA%B3%BC%ED%95%99%EA%B3%BC-%EA%B3%B5%EB%8F%99%EC%84%B8%EB%AF%B8%EB%82%98/</guid>
+      <guid>http://localhost:1313/blog/2022/05/25/%EC%84%9C%EC%9A%B8%EB%8C%80-%EC%97%B0%EC%84%B8%EB%8C%80-%EB%8C%80%EA%B8%B0%EA%B3%BC%ED%95%99%EA%B3%BC-%EA%B3%B5%EB%8F%99%EC%84%B8%EB%AF%B8%EB%82%98/</guid>
       <description>서울대ㆍ연세대 대기과학과 공동 세미나 일시:</description>
     </item>
     
     <item>
       <title>[세미나] 심성보 박사</title>
-      <link>https://atmos.yonsei.ac.kr/blog/2022/05/22/%EC%84%B8%EB%AF%B8%EB%82%98-%EC%8B%AC%EC%84%B1%EB%B3%B4-%EB%B0%95%EC%82%AC/</link>
+      <link>http://localhost:1313/blog/2022/05/22/%EC%84%B8%EB%AF%B8%EB%82%98-%EC%8B%AC%EC%84%B1%EB%B3%B4-%EB%B0%95%EC%82%AC/</link>
       <pubDate>Sun, 22 May 2022 16:00:00 +0000</pubDate>
       
-      <guid>https://atmos.yonsei.ac.kr/blog/2022/05/22/%EC%84%B8%EB%AF%B8%EB%82%98-%EC%8B%AC%EC%84%B1%EB%B3%B4-%EB%B0%95%EC%82%AC/</guid>
+      <guid>http://localhost:1313/blog/2022/05/22/%EC%84%B8%EB%AF%B8%EB%82%98-%EC%8B%AC%EC%84%B1%EB%B3%B4-%EB%B0%95%EC%82%AC/</guid>
       <description>국가 기후변화 표준 시나리오 생산과 미래 전망 심</description>
     </item>
     
     <item>
       <title>[세미나] 이준이 교수</title>
-      <link>https://atmos.yonsei.ac.kr/blog/2022/05/15/%EC%84%B8%EB%AF%B8%EB%82%98-%EC%9D%B4%EC%A4%80%EC%9D%B4-%EA%B5%90%EC%88%98/</link>
+      <link>http://localhost:1313/blog/2022/05/15/%EC%84%B8%EB%AF%B8%EB%82%98-%EC%9D%B4%EC%A4%80%EC%9D%B4-%EA%B5%90%EC%88%98/</link>
       <pubDate>Sun, 15 May 2022 16:00:00 +0000</pubDate>
       
-      <guid>https://atmos.yonsei.ac.kr/blog/2022/05/15/%EC%84%B8%EB%AF%B8%EB%82%98-%EC%9D%B4%EC%A4%80%EC%9D%B4-%EA%B5%90%EC%88%98/</guid>
+      <guid>http://localhost:1313/blog/2022/05/15/%EC%84%B8%EB%AF%B8%EB%82%98-%EC%9D%B4%EC%A4%80%EC%9D%B4-%EA%B5%90%EC%88%98/</guid>
       <description>Decadal changes in the Madden-Julian Oscillation: A source for decadal changes in high-latitude climate 이준이 교수 2</description>
     </item>
     
     <item>
       <title>[세미나] 최예지 박사</title>
-      <link>https://atmos.yonsei.ac.kr/blog/2022/05/08/%EC%84%B8%EB%AF%B8%EB%82%98-%EC%B5%9C%EC%98%88%EC%A7%80-%EB%B0%95%EC%82%AC/</link>
+      <link>http://localhost:1313/blog/2022/05/08/%EC%84%B8%EB%AF%B8%EB%82%98-%EC%B5%9C%EC%98%88%EC%A7%80-%EB%B0%95%EC%82%AC/</link>
       <pubDate>Sun, 08 May 2022 16:00:00 +0000</pubDate>
       
-      <guid>https://atmos.yonsei.ac.kr/blog/2022/05/08/%EC%84%B8%EB%AF%B8%EB%82%98-%EC%B5%9C%EC%98%88%EC%A7%80-%EB%B0%95%EC%82%AC/</guid>
+      <guid>http://localhost:1313/blog/2022/05/08/%EC%84%B8%EB%AF%B8%EB%82%98-%EC%B5%9C%EC%98%88%EC%A7%80-%EB%B0%95%EC%82%AC/</guid>
       <description>기상 관측 자료를 활용한 인공지능 기반 기상 예측</description>
     </item>
     
     <item>
       <title>[세미나] 곽경환 교수</title>
-      <link>https://atmos.yonsei.ac.kr/blog/2022/04/13/%EC%84%B8%EB%AF%B8%EB%82%98-%EA%B3%BD%EA%B2%BD%ED%99%98-%EA%B5%90%EC%88%98/</link>
+      <link>http://localhost:1313/blog/2022/04/13/%EC%84%B8%EB%AF%B8%EB%82%98-%EA%B3%BD%EA%B2%BD%ED%99%98-%EA%B5%90%EC%88%98/</link>
       <pubDate>Wed, 13 Apr 2022 15:00:00 +0000</pubDate>
       
-      <guid>https://atmos.yonsei.ac.kr/blog/2022/04/13/%EC%84%B8%EB%AF%B8%EB%82%98-%EA%B3%BD%EA%B2%BD%ED%99%98-%EA%B5%90%EC%88%98/</guid>
+      <guid>http://localhost:1313/blog/2022/04/13/%EC%84%B8%EB%AF%B8%EB%82%98-%EA%B3%BD%EA%B2%BD%ED%99%98-%EA%B5%90%EC%88%98/</guid>
       <description>기체상 화학종과 에어로졸 크기 분포를 반영한 도</description>
     </item>
     
     <item>
       <title>[세미나] 이연주 박사</title>
-      <link>https://atmos.yonsei.ac.kr/blog/2022/04/08/%EC%84%B8%EB%AF%B8%EB%82%98-%EC%9D%B4%EC%97%B0%EC%A3%BC-%EB%B0%95%EC%82%AC/</link>
+      <link>http://localhost:1313/blog/2022/04/08/%EC%84%B8%EB%AF%B8%EB%82%98-%EC%9D%B4%EC%97%B0%EC%A3%BC-%EB%B0%95%EC%82%AC/</link>
       <pubDate>Fri, 08 Apr 2022 15:00:00 +0000</pubDate>
       
-      <guid>https://atmos.yonsei.ac.kr/blog/2022/04/08/%EC%84%B8%EB%AF%B8%EB%82%98-%EC%9D%B4%EC%97%B0%EC%A3%BC-%EB%B0%95%EC%82%AC/</guid>
+      <guid>http://localhost:1313/blog/2022/04/08/%EC%84%B8%EB%AF%B8%EB%82%98-%EC%9D%B4%EC%97%B0%EC%A3%BC-%EB%B0%95%EC%82%AC/</guid>
       <description>Exploration of the Venusian clouds 이연주 박사 2022년 4월 12일</description>
     </item>
     
     <item>
       <title>[세미나] Dr. Lawrence Coy</title>
-      <link>https://atmos.yonsei.ac.kr/blog/2022/03/28/dr.lawrence-coy/</link>
+      <link>http://localhost:1313/blog/2022/03/28/dr.lawrence-coy/</link>
       <pubDate>Mon, 28 Mar 2022 15:00:00 +0000</pubDate>
       
-      <guid>https://atmos.yonsei.ac.kr/blog/2022/03/28/dr.lawrence-coy/</guid>
+      <guid>http://localhost:1313/blog/2022/03/28/dr.lawrence-coy/</guid>
       <description>Dr. Lawrence Coy (NASA Goddard Space Flight Center, Greenbelt, Maryland, USA / Science Systems and Applications, Inc., Lanham, Maryland, USA)</description>
     </item>
     
     <item>
       <title>[세미나] Dr. Hang Su</title>
-      <link>https://atmos.yonsei.ac.kr/blog/2022/03/27/dr.hang-su/</link>
+      <link>http://localhost:1313/blog/2022/03/27/dr.hang-su/</link>
       <pubDate>Sun, 27 Mar 2022 15:00:00 +0000</pubDate>
       
-      <guid>https://atmos.yonsei.ac.kr/blog/2022/03/27/dr.hang-su/</guid>
+      <guid>http://localhost:1313/blog/2022/03/27/dr.hang-su/</guid>
       <description>Dr. Hang Su (Max Planck Institute for Chemistry, Germany) 2022년 3월 31일 (</description>
     </item>
     
     <item>
       <title>[세미나] Dr. Saehee Lim</title>
-      <link>https://atmos.yonsei.ac.kr/blog/2022/03/27/dr.saehee-lim/</link>
+      <link>http://localhost:1313/blog/2022/03/27/dr.saehee-lim/</link>
       <pubDate>Sun, 27 Mar 2022 04:35:00 +0000</pubDate>
       
-      <guid>https://atmos.yonsei.ac.kr/blog/2022/03/27/dr.saehee-lim/</guid>
+      <guid>http://localhost:1313/blog/2022/03/27/dr.saehee-lim/</guid>
       <description>Anthropogenic black carbon since preindustrial times : determination, emissions, and atmospheric processes 임세희 박사 202</description>
     </item>
     
     <item>
       <title>[세미나] Dr. Hua Lu</title>
-      <link>https://atmos.yonsei.ac.kr/blog/2022/03/11/regime-behaviour-in-the-upper-stratosphere-as-a-precursor-of-stratosphere-troposphere-coupling/</link>
+      <link>http://localhost:1313/blog/2022/03/11/regime-behaviour-in-the-upper-stratosphere-as-a-precursor-of-stratosphere-troposphere-coupling/</link>
       <pubDate>Fri, 11 Mar 2022 15:00:00 +0000</pubDate>
       
-      <guid>https://atmos.yonsei.ac.kr/blog/2022/03/11/regime-behaviour-in-the-upper-stratosphere-as-a-precursor-of-stratosphere-troposphere-coupling/</guid>
+      <guid>http://localhost:1313/blog/2022/03/11/regime-behaviour-in-the-upper-stratosphere-as-a-precursor-of-stratosphere-troposphere-coupling/</guid>
       <description>Dr. Hua Lu (British Antarctic Survey) 2022년 3월 15일 (화) 17:00</description>
     </item>
     
     <item>
       <title>[세미나] Prof. Kai Qin</title>
-      <link>https://atmos.yonsei.ac.kr/blog/2022/03/07/prof.kai-qin/</link>
+      <link>http://localhost:1313/blog/2022/03/07/prof.kai-qin/</link>
       <pubDate>Mon, 07 Mar 2022 12:55:47 +0900</pubDate>
       
-      <guid>https://atmos.yonsei.ac.kr/blog/2022/03/07/prof.kai-qin/</guid>
+      <guid>http://localhost:1313/blog/2022/03/07/prof.kai-qin/</guid>
       <description>Prof. Kai Qin (China University of Mining and Technology) 2022년 3월 8일 (화</description>
     </item>
     
     <item>
       <title>[세미나] Prof. Kun Yang</title>
-      <link>https://atmos.yonsei.ac.kr/blog/2021/11/26/seminar_20211130_kun_yang/</link>
+      <link>http://localhost:1313/blog/2021/11/26/seminar_20211130_kun_yang/</link>
       <pubDate>Fri, 26 Nov 2021 10:00:00 +0900</pubDate>
       
-      <guid>https://atmos.yonsei.ac.kr/blog/2021/11/26/seminar_20211130_kun_yang/</guid>
+      <guid>http://localhost:1313/blog/2021/11/26/seminar_20211130_kun_yang/</guid>
       <description>Impacts of complex terrain on water vapor transfer and precipitation over the Tibetan Plateau Prof. Kun Yang (Department of Earth</description>
     </item>
     
     <item>
       <title>[세미나] 김대현 교수님</title>
-      <link>https://atmos.yonsei.ac.kr/blog/2021/11/20/seminar_20211123_daehyun_kim/</link>
+      <link>http://localhost:1313/blog/2021/11/20/seminar_20211123_daehyun_kim/</link>
       <pubDate>Sat, 20 Nov 2021 10:00:00 +0900</pubDate>
       
-      <guid>https://atmos.yonsei.ac.kr/blog/2021/11/20/seminar_20211123_daehyun_kim/</guid>
+      <guid>http://localhost:1313/blog/2021/11/20/seminar_20211123_daehyun_kim/</guid>
       <description>MJO 시뮬레이션의 비결을 찾아서 Prof. Daehyun Kim (University of Washington) 2</description>
     </item>
     
     <item>
       <title>[세미나] Dr. Andrea Molod</title>
-      <link>https://atmos.yonsei.ac.kr/blog/2021/11/17/seminar_20211119_andrea_molod/</link>
+      <link>http://localhost:1313/blog/2021/11/17/seminar_20211119_andrea_molod/</link>
       <pubDate>Wed, 17 Nov 2021 10:00:00 +0900</pubDate>
       
-      <guid>https://atmos.yonsei.ac.kr/blog/2021/11/17/seminar_20211119_andrea_molod/</guid>
+      <guid>http://localhost:1313/blog/2021/11/17/seminar_20211119_andrea_molod/</guid>
       <description>The GMAO High‐Resolution Coupled Model and</description>
     </item>
     
     <item>
       <title>[세미나] 이해영 박사님</title>
-      <link>https://atmos.yonsei.ac.kr/blog/2021/11/05/seminar_20211109_haeyoung_lee/</link>
+      <link>http://localhost:1313/blog/2021/11/05/seminar_20211109_haeyoung_lee/</link>
       <pubDate>Fri, 05 Nov 2021 10:00:00 +0900</pubDate>
       
-      <guid>https://atmos.yonsei.ac.kr/blog/2021/11/05/seminar_20211109_haeyoung_lee/</guid>
+      <guid>http://localhost:1313/blog/2021/11/05/seminar_20211109_haeyoung_lee/</guid>
       <description>The observations of atmospheric CO2 and 14CO2 at KMA/GAW regional stations, their characteristics, and implications. 이해영 박사</description>
     </item>
     
     <item>
       <title>[세미나] 전원배 교수님</title>
-      <link>https://atmos.yonsei.ac.kr/blog/2021/11/02/seminar_20211105_wonbae_jeon/</link>
+      <link>http://localhost:1313/blog/2021/11/02/seminar_20211105_wonbae_jeon/</link>
       <pubDate>Tue, 02 Nov 2021 14:00:00 +0900</pubDate>
       
-      <guid>https://atmos.yonsei.ac.kr/blog/2021/11/02/seminar_20211105_wonbae_jeon/</guid>
+      <guid>http://localhost:1313/blog/2021/11/02/seminar_20211105_wonbae_jeon/</guid>
       <description>Modeling studies on chemical production/loss of PM2.5 and O3 during their long-range transport 전원배 교수님 (</description>
     </item>
     
     <item>
       <title>[세미나] 최학림 박사님</title>
-      <link>https://atmos.yonsei.ac.kr/blog/2021/10/31/seminar_20211102_haklim_choi/</link>
+      <link>http://localhost:1313/blog/2021/10/31/seminar_20211102_haklim_choi/</link>
       <pubDate>Sun, 31 Oct 2021 14:00:00 +0900</pubDate>
       
-      <guid>https://atmos.yonsei.ac.kr/blog/2021/10/31/seminar_20211102_haklim_choi/</guid>
+      <guid>http://localhost:1313/blog/2021/10/31/seminar_20211102_haklim_choi/</guid>
       <description>Measurement of atmospheric halogenated compounds and the implication for regional emissions in East Asia 최학림 박사 (</description>
     </item>
     
     <item>
       <title>[세미나] Prof. Masahito Ueyama</title>
-      <link>https://atmos.yonsei.ac.kr/blog/2021/10/12/seminar_20211026_masahito_ueyama/</link>
+      <link>http://localhost:1313/blog/2021/10/12/seminar_20211026_masahito_ueyama/</link>
       <pubDate>Tue, 12 Oct 2021 14:00:00 +0900</pubDate>
       
-      <guid>https://atmos.yonsei.ac.kr/blog/2021/10/12/seminar_20211026_masahito_ueyama/</guid>
+      <guid>http://localhost:1313/blog/2021/10/12/seminar_20211026_masahito_ueyama/</guid>
       <description>Biosphere-atmosphere interaction in boreal ecosystems under changing climate Prof. Masahito Ueyama (Graduate School of Life and Environmental Sciences, Osaka Prefecture</description>
     </item>
     
     <item>
       <title>[세미나] 권영철 박사님</title>
-      <link>https://atmos.yonsei.ac.kr/blog/2021/10/11/seminar_20211012_youngcheol_kwon/</link>
+      <link>http://localhost:1313/blog/2021/10/11/seminar_20211012_youngcheol_kwon/</link>
       <pubDate>Mon, 11 Oct 2021 10:00:00 +0900</pubDate>
       
-      <guid>https://atmos.yonsei.ac.kr/blog/2021/10/11/seminar_20211012_youngcheol_kwon/</guid>
+      <guid>http://localhost:1313/blog/2021/10/11/seminar_20211012_youngcheol_kwon/</guid>
       <description>한국형수치예보모델, 현업 1주년 성과 및 계획</description>
     </item>
     
     <item>
       <title>[세미나] 김하나 교수님</title>
-      <link>https://atmos.yonsei.ac.kr/blog/2021/10/05/seminar_20211008_hana_kim/</link>
+      <link>http://localhost:1313/blog/2021/10/05/seminar_20211008_hana_kim/</link>
       <pubDate>Tue, 05 Oct 2021 17:00:00 +0900</pubDate>
       
-      <guid>https://atmos.yonsei.ac.kr/blog/2021/10/05/seminar_20211008_hana_kim/</guid>
+      <guid>http://localhost:1313/blog/2021/10/05/seminar_20211008_hana_kim/</guid>
       <description>스마트 에너지 전환 – ‘정보제공의 인식과 소비</description>
     </item>
     
     <item>
       <title>[세미나] Prof. Xinzhao Chu</title>
-      <link>https://atmos.yonsei.ac.kr/blog/2021/09/28/seminar_20211001_xinzhao_chu/</link>
+      <link>http://localhost:1313/blog/2021/09/28/seminar_20211001_xinzhao_chu/</link>
       <pubDate>Tue, 28 Sep 2021 14:00:00 +0900</pubDate>
       
-      <guid>https://atmos.yonsei.ac.kr/blog/2021/09/28/seminar_20211001_xinzhao_chu/</guid>
+      <guid>http://localhost:1313/blog/2021/09/28/seminar_20211001_xinzhao_chu/</guid>
       <description>First Lidar Observations of Vertical Transport of Heat and Meteoric Na by the Complete Temporal Spectrum of Gravity Waves in</description>
     </item>
     
     <item>
       <title>[세미나] 문승주 박사님</title>
-      <link>https://atmos.yonsei.ac.kr/blog/2021/09/24/seminar_20210928_sungju_moon/</link>
+      <link>http://localhost:1313/blog/2021/09/24/seminar_20210928_sungju_moon/</link>
       <pubDate>Fri, 24 Sep 2021 13:00:00 +0900</pubDate>
       
-      <guid>https://atmos.yonsei.ac.kr/blog/2021/09/24/seminar_20210928_sungju_moon/</guid>
+      <guid>http://localhost:1313/blog/2021/09/24/seminar_20210928_sungju_moon/</guid>
       <description>Chaos Synchronization and data assimilation 문승주 박사님 (서울대학교 기초과</description>
     </item>
     
     <item>
       <title>[세미나] Dr. Hanli Liu</title>
-      <link>https://atmos.yonsei.ac.kr/blog/2021/09/17/seminar_20210924_hanli_liu/</link>
+      <link>http://localhost:1313/blog/2021/09/17/seminar_20210924_hanli_liu/</link>
       <pubDate>Fri, 17 Sep 2021 13:30:00 +0900</pubDate>
       
-      <guid>https://atmos.yonsei.ac.kr/blog/2021/09/17/seminar_20210924_hanli_liu/</guid>
+      <guid>http://localhost:1313/blog/2021/09/17/seminar_20210924_hanli_liu/</guid>
       <description>Development of NCAR WACCM-X and Its Research Applications Dr. Hanli Liu (National Center for Atmospheric Research) 2021</description>
     </item>
     
     <item>
       <title>[세미나] Dr. Nicholas Pedatella</title>
-      <link>https://atmos.yonsei.ac.kr/blog/2021/09/14/seminar_20210917_nick_pedatella/</link>
+      <link>http://localhost:1313/blog/2021/09/14/seminar_20210917_nick_pedatella/</link>
       <pubDate>Tue, 14 Sep 2021 13:30:00 +0900</pubDate>
       
-      <guid>https://atmos.yonsei.ac.kr/blog/2021/09/14/seminar_20210917_nick_pedatella/</guid>
+      <guid>http://localhost:1313/blog/2021/09/14/seminar_20210917_nick_pedatella/</guid>
       <description>Predictability of the Mesosphere and Lower Thermosphere during Major Sudden Stratospheric Warmings Dr. Nicholas Pedatella (National Center for Atmospheric Research)</description>
     </item>
     
     <item>
       <title>[세미나] 류지훈 박사님</title>
-      <link>https://atmos.yonsei.ac.kr/blog/2021/09/10/seminar_20210914_jihoon_ryu/</link>
+      <link>http://localhost:1313/blog/2021/09/10/seminar_20210914_jihoon_ryu/</link>
       <pubDate>Fri, 10 Sep 2021 11:00:00 +0900</pubDate>
       
-      <guid>https://atmos.yonsei.ac.kr/blog/2021/09/10/seminar_20210914_jihoon_ryu/</guid>
+      <guid>http://localhost:1313/blog/2021/09/10/seminar_20210914_jihoon_ryu/</guid>
       <description>GPM/DPR에서 관측된 전구영역 집중호우</description>
     </item>
     
     <item>
       <title>[세미나] 황태희 교수님</title>
-      <link>https://atmos.yonsei.ac.kr/blog/2021/09/03/seminar_20210907_taehee_hwang/</link>
+      <link>http://localhost:1313/blog/2021/09/03/seminar_20210907_taehee_hwang/</link>
       <pubDate>Fri, 03 Sep 2021 15:45:00 +0900</pubDate>
       
-      <guid>https://atmos.yonsei.ac.kr/blog/2021/09/03/seminar_20210907_taehee_hwang/</guid>
+      <guid>http://localhost:1313/blog/2021/09/03/seminar_20210907_taehee_hwang/</guid>
       <description>Linking vegetation dynamics with watershed-scale hydrologic behavior 황태희 교수님 (Indiana University Bloomington) 2021</description>
     </item>
     
     <item>
       <title>[세미나] 송강현 박사님</title>
-      <link>https://atmos.yonsei.ac.kr/blog/2021/06/04/seminar_20210601_songkanghyun/</link>
+      <link>http://localhost:1313/blog/2021/06/04/seminar_20210601_songkanghyun/</link>
       <pubDate>Fri, 04 Jun 2021 09:19:47 +0900</pubDate>
       
-      <guid>https://atmos.yonsei.ac.kr/blog/2021/06/04/seminar_20210601_songkanghyun/</guid>
+      <guid>http://localhost:1313/blog/2021/06/04/seminar_20210601_songkanghyun/</guid>
       <description>Stratospheric-Tropospheric interaction and its application: Stratospheric sudden warming events 송강현 박사 (연세대학교</description>
     </item>
     
     <item>
       <title>[세미나] 이준홍 박사님</title>
-      <link>https://atmos.yonsei.ac.kr/blog/2021/05/31/seminar_20210601_leejunhong/</link>
+      <link>http://localhost:1313/blog/2021/05/31/seminar_20210601_leejunhong/</link>
       <pubDate>Mon, 31 May 2021 09:19:47 +0900</pubDate>
       
-      <guid>https://atmos.yonsei.ac.kr/blog/2021/05/31/seminar_20210601_leejunhong/</guid>
+      <guid>http://localhost:1313/blog/2021/05/31/seminar_20210601_leejunhong/</guid>
       <description>Implementation of the 3D Smagorinsky turbulence scheme in the ICON model and its applications 이준홍 박사 (Max</description>
     </item>
     
     <item>
       <title>[세미나] Dr. Julio Bacmeister</title>
-      <link>https://atmos.yonsei.ac.kr/blog/2021/05/25/seminar_20210528_julio/</link>
+      <link>http://localhost:1313/blog/2021/05/25/seminar_20210528_julio/</link>
       <pubDate>Tue, 25 May 2021 09:19:47 +0900</pubDate>
       
-      <guid>https://atmos.yonsei.ac.kr/blog/2021/05/25/seminar_20210528_julio/</guid>
+      <guid>http://localhost:1313/blog/2021/05/25/seminar_20210528_julio/</guid>
       <description>Climate Sensitivity in the Community Earth System Model (CESM) Dr. Julio Bacmeister (NCAR) 2021년 05</description>
     </item>
     
     <item>
       <title>[세미나] Dr. Luke David Oman</title>
-      <link>https://atmos.yonsei.ac.kr/blog/2021/05/25/seminar_20210521_oman/</link>
+      <link>http://localhost:1313/blog/2021/05/25/seminar_20210521_oman/</link>
       <pubDate>Tue, 25 May 2021 09:19:47 +0900</pubDate>
       
-      <guid>https://atmos.yonsei.ac.kr/blog/2021/05/25/seminar_20210521_oman/</guid>
+      <guid>http://localhost:1313/blog/2021/05/25/seminar_20210521_oman/</guid>
       <description>Applications for High Resolution Global Coupled Chemistry Simulations Dr. Luke David Oman (NASA GSFC) 2021년 0</description>
     </item>
     
     <item>
       <title>[세미나] 심창섭 박사님</title>
-      <link>https://atmos.yonsei.ac.kr/blog/2021/05/14/seminar_20210518_shimchangsub/</link>
+      <link>http://localhost:1313/blog/2021/05/14/seminar_20210518_shimchangsub/</link>
       <pubDate>Fri, 14 May 2021 09:19:47 +0900</pubDate>
       
-      <guid>https://atmos.yonsei.ac.kr/blog/2021/05/14/seminar_20210518_shimchangsub/</guid>
+      <guid>http://localhost:1313/blog/2021/05/14/seminar_20210518_shimchangsub/</guid>
       <description>심창섭 박사 (한국환경정책평가연구원) 20</description>
     </item>
     
     <item>
       <title>[세미나] Dr. Daniel Holdaway</title>
-      <link>https://atmos.yonsei.ac.kr/blog/2021/05/07/seminar_20210514_danielholdaway/</link>
+      <link>http://localhost:1313/blog/2021/05/07/seminar_20210514_danielholdaway/</link>
       <pubDate>Fri, 07 May 2021 09:19:47 +0900</pubDate>
       
-      <guid>https://atmos.yonsei.ac.kr/blog/2021/05/07/seminar_20210514_danielholdaway/</guid>
+      <guid>http://localhost:1313/blog/2021/05/07/seminar_20210514_danielholdaway/</guid>
       <description>Towards the next generation data assimilation system for NASA’s GEOS model Dr. Daniel Holdaway (JCSDA)</description>
     </item>
     
     <item>
       <title>[세미나] 박재흥 박사님</title>
-      <link>https://atmos.yonsei.ac.kr/blog/2021/05/07/seminar_20210511_jaeheungpark/</link>
+      <link>http://localhost:1313/blog/2021/05/07/seminar_20210511_jaeheungpark/</link>
       <pubDate>Fri, 07 May 2021 09:19:47 +0900</pubDate>
       
-      <guid>https://atmos.yonsei.ac.kr/blog/2021/05/07/seminar_20210511_jaeheungpark/</guid>
+      <guid>http://localhost:1313/blog/2021/05/07/seminar_20210511_jaeheungpark/</guid>
       <description>Understanding of the connection between tropics and extratropics in the Pacific 박재흥 박사 (포항공</description>
     </item>
     
     <item>
       <title>[세미나] 김형준 교수님</title>
-      <link>https://atmos.yonsei.ac.kr/blog/2021/04/27/seminar_20210504_kimhyungjun/</link>
+      <link>http://localhost:1313/blog/2021/04/27/seminar_20210504_kimhyungjun/</link>
       <pubDate>Tue, 27 Apr 2021 09:19:47 +0900</pubDate>
       
-      <guid>https://atmos.yonsei.ac.kr/blog/2021/04/27/seminar_20210504_kimhyungjun/</guid>
+      <guid>http://localhost:1313/blog/2021/04/27/seminar_20210504_kimhyungjun/</guid>
       <description>New approach for estimating soil moisture and soil organic matter from microwave brightness temperature 김형준 교수 (</description>
     </item>
     
     <item>
       <title>[세미나] 박창환 박사님</title>
-      <link>https://atmos.yonsei.ac.kr/blog/2021/04/23/seminar_20210427_parkchanghwan/</link>
+      <link>http://localhost:1313/blog/2021/04/23/seminar_20210427_parkchanghwan/</link>
       <pubDate>Fri, 23 Apr 2021 09:19:47 +0900</pubDate>
       
-      <guid>https://atmos.yonsei.ac.kr/blog/2021/04/23/seminar_20210427_parkchanghwan/</guid>
+      <guid>http://localhost:1313/blog/2021/04/23/seminar_20210427_parkchanghwan/</guid>
       <description>New approach for estimating soil moisture and soil organic matter from microwave brightness temperature 박창환 박사 (</description>
     </item>
     
     <item>
       <title>[세미나] 신혜윰 박사님</title>
-      <link>https://atmos.yonsei.ac.kr/blog/2021/04/09/seminar_20210413_hyeyumshin/</link>
+      <link>http://localhost:1313/blog/2021/04/09/seminar_20210413_hyeyumshin/</link>
       <pubDate>Fri, 09 Apr 2021 09:19:47 +0900</pubDate>
       
-      <guid>https://atmos.yonsei.ac.kr/blog/2021/04/09/seminar_20210413_hyeyumshin/</guid>
+      <guid>http://localhost:1313/blog/2021/04/09/seminar_20210413_hyeyumshin/</guid>
       <description>Supporting Urban Air Mobility Operations with Building-Resolving Simulations: Weather Sensitivities of Fine-Scale Urban Flows 신혜윰 박사 (NCAR)</description>
     </item>
     
     <item>
       <title>[세미나] 최용주 박사님</title>
-      <link>https://atmos.yonsei.ac.kr/blog/2021/04/02/seminar_20210406_yongjoochoi/</link>
+      <link>http://localhost:1313/blog/2021/04/02/seminar_20210406_yongjoochoi/</link>
       <pubDate>Fri, 02 Apr 2021 09:19:47 +0900</pubDate>
       
-      <guid>https://atmos.yonsei.ac.kr/blog/2021/04/02/seminar_20210406_yongjoochoi/</guid>
+      <guid>http://localhost:1313/blog/2021/04/02/seminar_20210406_yongjoochoi/</guid>
       <description>Regional variability in black carbon and carbon monoxide ratio from long-term observations over East Asia: assessment of emission inventories and</description>
     </item>
     
     <item>
       <title>[세미나] 유주미 박사님</title>
-      <link>https://atmos.yonsei.ac.kr/blog/2021/03/26/seminar_20210330_jumeeryoo/</link>
+      <link>http://localhost:1313/blog/2021/03/26/seminar_20210330_jumeeryoo/</link>
       <pubDate>Fri, 26 Mar 2021 09:19:47 +0900</pubDate>
       
-      <guid>https://atmos.yonsei.ac.kr/blog/2021/03/26/seminar_20210330_jumeeryoo/</guid>
+      <guid>http://localhost:1313/blog/2021/03/26/seminar_20210330_jumeeryoo/</guid>
       <description>유주미 박사 (NASA Ames Research Center) 2021년 03월 30일</description>
     </item>
     
     <item>
       <title>[세미나] Prof. Toru, Terao</title>
-      <link>https://atmos.yonsei.ac.kr/blog/2021/03/19/seminar_20210323_teraotoru/</link>
+      <link>http://localhost:1313/blog/2021/03/19/seminar_20210323_teraotoru/</link>
       <pubDate>Fri, 19 Mar 2021 09:19:47 +0900</pubDate>
       
-      <guid>https://atmos.yonsei.ac.kr/blog/2021/03/19/seminar_20210323_teraotoru/</guid>
+      <guid>http://localhost:1313/blog/2021/03/19/seminar_20210323_teraotoru/</guid>
       <description>Prof. Toru, Terao (Kagawa University) 2021년 03월 23일 (화) 16:00</description>
     </item>
     
     <item>
       <title>[세미나] 윤정민 박사님</title>
-      <link>https://atmos.yonsei.ac.kr/blog/2021/03/19/seminar_20210323_jungminyoon/</link>
+      <link>http://localhost:1313/blog/2021/03/19/seminar_20210323_jungminyoon/</link>
       <pubDate>Fri, 19 Mar 2021 01:19:47 +0900</pubDate>
       
-      <guid>https://atmos.yonsei.ac.kr/blog/2021/03/19/seminar_20210323_jungminyoon/</guid>
+      <guid>http://localhost:1313/blog/2021/03/19/seminar_20210323_jungminyoon/</guid>
       <description>윤정민 박사 (서울대학교) 2021년 03월</description>
     </item>
     
     <item>
       <title>[세미나] 송지혜 박사님</title>
-      <link>https://atmos.yonsei.ac.kr/blog/2021/03/05/seminar_20210309_jihyesong/</link>
+      <link>http://localhost:1313/blog/2021/03/05/seminar_20210309_jihyesong/</link>
       <pubDate>Fri, 05 Mar 2021 09:19:47 +0900</pubDate>
       
-      <guid>https://atmos.yonsei.ac.kr/blog/2021/03/05/seminar_20210309_jihyesong/</guid>
+      <guid>http://localhost:1313/blog/2021/03/05/seminar_20210309_jihyesong/</guid>
       <description>송지혜 박사 (삼성안전환경연구소) 2021</description>
     </item>
     
     <item>
       <title>[세미나] 김영하 박사님</title>
-      <link>https://atmos.yonsei.ac.kr/blog/2020/12/01/seminar_2020_yhkim/</link>
+      <link>http://localhost:1313/blog/2020/12/01/seminar_2020_yhkim/</link>
       <pubDate>Tue, 01 Dec 2020 09:19:47 +0900</pubDate>
       
-      <guid>https://atmos.yonsei.ac.kr/blog/2020/12/01/seminar_2020_yhkim/</guid>
+      <guid>http://localhost:1313/blog/2020/12/01/seminar_2020_yhkim/</guid>
       <description>Transient dynamics of gravity waves and its representation in a global mode 김영하 박사 (Institute for Atmosphere</description>
     </item>
     
     <item>
       <title>[세미나] 전혜영 교수님</title>
-      <link>https://atmos.yonsei.ac.kr/blog/2020/11/27/seminar_2020_hychun/</link>
+      <link>http://localhost:1313/blog/2020/11/27/seminar_2020_hychun/</link>
       <pubDate>Fri, 27 Nov 2020 09:19:47 +0900</pubDate>
       
-      <guid>https://atmos.yonsei.ac.kr/blog/2020/11/27/seminar_2020_hychun/</guid>
+      <guid>http://localhost:1313/blog/2020/11/27/seminar_2020_hychun/</guid>
       <description>Generation of Planetary Waves by Gravity-Wave Drag in the Middle Atmosphere 전혜영 교수 (연세대</description>
     </item>
     
     <item>
       <title>[세미나] 김백민 교수님</title>
-      <link>https://atmos.yonsei.ac.kr/blog/2020/11/16/seminar_2020_bmkim/</link>
+      <link>http://localhost:1313/blog/2020/11/16/seminar_2020_bmkim/</link>
       <pubDate>Mon, 16 Nov 2020 09:19:47 +0900</pubDate>
       
-      <guid>https://atmos.yonsei.ac.kr/blog/2020/11/16/seminar_2020_bmkim/</guid>
+      <guid>http://localhost:1313/blog/2020/11/16/seminar_2020_bmkim/</guid>
       <description>How do intermittency and simultaneous processes obfuscate the Arctic influence on midlatitude winter extreme weather events? 김백민 교</description>
     </item>
     
     <item>
       <title>[세미나] 장은철 교수님</title>
-      <link>https://atmos.yonsei.ac.kr/blog/2020/11/09/seminar_2020_ecjang/</link>
+      <link>http://localhost:1313/blog/2020/11/09/seminar_2020_ecjang/</link>
       <pubDate>Mon, 09 Nov 2020 08:19:47 +0900</pubDate>
       
-      <guid>https://atmos.yonsei.ac.kr/blog/2020/11/09/seminar_2020_ecjang/</guid>
+      <guid>http://localhost:1313/blog/2020/11/09/seminar_2020_ecjang/</guid>
       <description>날씨 규모에서의 장마 연구 장은철 교수 (공주대</description>
     </item>
     
     <item>
       <title>[세미나] 곽영실 박사님</title>
-      <link>https://atmos.yonsei.ac.kr/blog/2020/11/03/seminar_2020_ysgwak/</link>
+      <link>http://localhost:1313/blog/2020/11/03/seminar_2020_ysgwak/</link>
       <pubDate>Tue, 03 Nov 2020 17:19:47 +0900</pubDate>
       
-      <guid>https://atmos.yonsei.ac.kr/blog/2020/11/03/seminar_2020_ysgwak/</guid>
+      <guid>http://localhost:1313/blog/2020/11/03/seminar_2020_ysgwak/</guid>
       <description>우주가시작되는곳: 전리권/고층대기 곽영실</description>
     </item>
     
     <item>
       <title>[세미나] 박정규 교수님</title>
-      <link>https://atmos.yonsei.ac.kr/blog/2020/10/27/seminar_2020_jkpark/</link>
+      <link>http://localhost:1313/blog/2020/10/27/seminar_2020_jkpark/</link>
       <pubDate>Tue, 27 Oct 2020 17:19:47 +0900</pubDate>
       
-      <guid>https://atmos.yonsei.ac.kr/blog/2020/10/27/seminar_2020_jkpark/</guid>
+      <guid>http://localhost:1313/blog/2020/10/27/seminar_2020_jkpark/</guid>
       <description>유엔 지속가능발전목표와 세계기상기구의 역할</description>
     </item>
     
     <item>
       <title>[세미나] 박기태 박사님</title>
-      <link>https://atmos.yonsei.ac.kr/blog/2020/10/13/seminar_2020_gtpark/</link>
+      <link>http://localhost:1313/blog/2020/10/13/seminar_2020_gtpark/</link>
       <pubDate>Tue, 13 Oct 2020 17:19:47 +0900</pubDate>
       
-      <guid>https://atmos.yonsei.ac.kr/blog/2020/10/13/seminar_2020_gtpark/</guid>
+      <guid>http://localhost:1313/blog/2020/10/13/seminar_2020_gtpark/</guid>
       <description>Phytoplankton, Dimethyl sulfide and Aerosols in the Polar Atmosphere 박기태 박사 (극지연구소</description>
     </item>
     
     <item>
       <title>[세미나] 김수현 박사님</title>
-      <link>https://atmos.yonsei.ac.kr/blog/2020/10/06/seminar_2020_shkim/</link>
+      <link>http://localhost:1313/blog/2020/10/06/seminar_2020_shkim/</link>
       <pubDate>Tue, 06 Oct 2020 17:19:47 +0900</pubDate>
       
-      <guid>https://atmos.yonsei.ac.kr/blog/2020/10/06/seminar_2020_shkim/</guid>
+      <guid>http://localhost:1313/blog/2020/10/06/seminar_2020_shkim/</guid>
       <description>Application of a convective gravity-wave drag parameterization to development of near-cloud turbulence diagnostics 김수현 박사 (연</description>
     </item>
     
     <item>
       <title>[세미나] 안순일 교수님</title>
-      <link>https://atmos.yonsei.ac.kr/blog/2020/09/29/seminar_2020_sian/</link>
+      <link>http://localhost:1313/blog/2020/09/29/seminar_2020_sian/</link>
       <pubDate>Tue, 29 Sep 2020 17:19:47 +0900</pubDate>
       
-      <guid>https://atmos.yonsei.ac.kr/blog/2020/09/29/seminar_2020_sian/</guid>
+      <guid>http://localhost:1313/blog/2020/09/29/seminar_2020_sian/</guid>
       <description>Abruptness, tipping point and irreversibility of climate system 안순일 교수 (연세대학교 대</description>
     </item>
     
     <item>
       <title>[세미나] 김순태 교수님</title>
-      <link>https://atmos.yonsei.ac.kr/blog/2020/09/22/seminar_2020_stkim/</link>
+      <link>http://localhost:1313/blog/2020/09/22/seminar_2020_stkim/</link>
       <pubDate>Tue, 22 Sep 2020 17:19:47 +0900</pubDate>
       
-      <guid>https://atmos.yonsei.ac.kr/blog/2020/09/22/seminar_2020_stkim/</guid>
+      <guid>http://localhost:1313/blog/2020/09/22/seminar_2020_stkim/</guid>
       <description>2020년 겨울 동북아지역의 PM2.5 농도 감소의 원</description>
     </item>
     
     <item>
       <title>[세미나] 김영재 박사님</title>
-      <link>https://atmos.yonsei.ac.kr/blog/2020/09/15/seminar_2020_yjkim/</link>
+      <link>http://localhost:1313/blog/2020/09/15/seminar_2020_yjkim/</link>
       <pubDate>Tue, 15 Sep 2020 17:19:47 +0900</pubDate>
       
-      <guid>https://atmos.yonsei.ac.kr/blog/2020/09/15/seminar_2020_yjkim/</guid>
+      <guid>http://localhost:1313/blog/2020/09/15/seminar_2020_yjkim/</guid>
       <description>Clean Energy Transition (에너지 전환 기술 및 정책) 김영재 박사</description>
     </item>
     
     <item>
       <title>[세미나] 김 준 교수님</title>
-      <link>https://atmos.yonsei.ac.kr/blog/2020/09/08/seminar_2020_jhoonkim/</link>
+      <link>http://localhost:1313/blog/2020/09/08/seminar_2020_jhoonkim/</link>
       <pubDate>Tue, 08 Sep 2020 17:19:47 +0900</pubDate>
       
-      <guid>https://atmos.yonsei.ac.kr/blog/2020/09/08/seminar_2020_jhoonkim/</guid>
+      <guid>http://localhost:1313/blog/2020/09/08/seminar_2020_jhoonkim/</guid>
       <description>코로나사태로 본 대기질 문제 - 미세먼지 장거리</description>
     </item>
     
     <item>
       <title>[세미나] 김현석 교수님</title>
-      <link>https://atmos.yonsei.ac.kr/blog/2020/04/09/seminar_hs-kim/</link>
+      <link>http://localhost:1313/blog/2020/04/09/seminar_hs-kim/</link>
       <pubDate>Thu, 09 Apr 2020 16:49:47 +0900</pubDate>
       
-      <guid>https://atmos.yonsei.ac.kr/blog/2020/04/09/seminar_hs-kim/</guid>
+      <guid>http://localhost:1313/blog/2020/04/09/seminar_hs-kim/</guid>
       <description>가뭄의 증가가 우리나라 산림생태계에 미치는 영</description>
     </item>
     
     <item>
       <title>[세미나] 김진수 박사님</title>
-      <link>https://atmos.yonsei.ac.kr/blog/2020/01/10/seminar_jin-sookim/</link>
+      <link>http://localhost:1313/blog/2020/01/10/seminar_jin-sookim/</link>
       <pubDate>Fri, 10 Jan 2020 17:19:47 +0900</pubDate>
       
-      <guid>https://atmos.yonsei.ac.kr/blog/2020/01/10/seminar_jin-sookim/</guid>
+      <guid>http://localhost:1313/blog/2020/01/10/seminar_jin-sookim/</guid>
       <description>How large-scale atmospheric circulation changes drive fire activity in Equatorial Asia and southeastern Siberia? 김진수 박사 (University</description>
     </item>
     
     <item>
       <title>[세미나] 최명제 박사님</title>
-      <link>https://atmos.yonsei.ac.kr/blog/2020/01/08/seminar_myungjechoi/</link>
+      <link>http://localhost:1313/blog/2020/01/08/seminar_myungjechoi/</link>
       <pubDate>Wed, 08 Jan 2020 15:37:47 +0900</pubDate>
       
-      <guid>https://atmos.yonsei.ac.kr/blog/2020/01/08/seminar_myungjechoi/</guid>
+      <guid>http://localhost:1313/blog/2020/01/08/seminar_myungjechoi/</guid>
       <description>Aerosol profiling using radiometric and polarimetric spectral measurements in the O2A-band 최명제 박사 (NASA JPL, California Institute</description>
     </item>
     
     <item>
       <title>2019년도 2학기 대기과학과 박사 학위 심사 일정</title>
-      <link>https://atmos.yonsei.ac.kr/blog/2019/12/17/seminar_phd/</link>
+      <link>http://localhost:1313/blog/2019/12/17/seminar_phd/</link>
       <pubDate>Tue, 17 Dec 2019 18:16:47 +0900</pubDate>
       
-      <guid>https://atmos.yonsei.ac.kr/blog/2019/12/17/seminar_phd/</guid>
+      <guid>http://localhost:1313/blog/2019/12/17/seminar_phd/</guid>
       <description>염재민 (구름물리 연구실) 2019년 12월</description>
     </item>
     
     <item>
       <title>[세미나] 정병주 박사님</title>
-      <link>https://atmos.yonsei.ac.kr/blog/2019/12/15/seminar_byoungjooju/</link>
+      <link>http://localhost:1313/blog/2019/12/15/seminar_byoungjooju/</link>
       <pubDate>Sun, 15 Dec 2019 15:37:47 +0900</pubDate>
       
-      <guid>https://atmos.yonsei.ac.kr/blog/2019/12/15/seminar_byoungjooju/</guid>
+      <guid>http://localhost:1313/blog/2019/12/15/seminar_byoungjooju/</guid>
       <description>JEDI를 이용한 MPAS 자료동화 시스템 개발 현황</description>
     </item>
     
     <item>
       <title>[세미나] 임은순 교수님</title>
-      <link>https://atmos.yonsei.ac.kr/blog/2019/12/15/seminar_eunsoonim0/</link>
+      <link>http://localhost:1313/blog/2019/12/15/seminar_eunsoonim0/</link>
       <pubDate>Sun, 15 Dec 2019 15:35:47 +0900</pubDate>
       
-      <guid>https://atmos.yonsei.ac.kr/blog/2019/12/15/seminar_eunsoonim0/</guid>
+      <guid>http://localhost:1313/blog/2019/12/15/seminar_eunsoonim0/</guid>
       <description>Ubiquitous increase of extreme heat stress under global warming 임은순 교수 (홍콩UST</description>
     </item>
     
     <item>
       <title>[세미나] 신방실 기자님</title>
-      <link>https://atmos.yonsei.ac.kr/blog/2019/11/27/seminar_bangsilshin/</link>
+      <link>http://localhost:1313/blog/2019/11/27/seminar_bangsilshin/</link>
       <pubDate>Wed, 27 Nov 2019 16:49:47 +0900</pubDate>
       
-      <guid>https://atmos.yonsei.ac.kr/blog/2019/11/27/seminar_bangsilshin/</guid>
+      <guid>http://localhost:1313/blog/2019/11/27/seminar_bangsilshin/</guid>
       <description>날씨와 뉴스 신방실 기자 (KBS) 2019년 12월 4</description>
     </item>
     
     <item>
       <title>[세미나] 최재철 명예교수님</title>
-      <link>https://atmos.yonsei.ac.kr/blog/2019/11/27/seminar_jaichulchoi/</link>
+      <link>http://localhost:1313/blog/2019/11/27/seminar_jaichulchoi/</link>
       <pubDate>Wed, 27 Nov 2019 16:33:47 +0900</pubDate>
       
-      <guid>https://atmos.yonsei.ac.kr/blog/2019/11/27/seminar_jaichulchoi/</guid>
+      <guid>http://localhost:1313/blog/2019/11/27/seminar_jaichulchoi/</guid>
       <description>동북아 환경공동체 실현을 위한 환경 외교 최재철</description>
     </item>
     
     <item>
       <title>[세미나] 장은철 교수님</title>
-      <link>https://atmos.yonsei.ac.kr/blog/2019/11/25/seminar_eunchulchang/</link>
+      <link>http://localhost:1313/blog/2019/11/25/seminar_eunchulchang/</link>
       <pubDate>Mon, 25 Nov 2019 15:51:47 +0900</pubDate>
       
-      <guid>https://atmos.yonsei.ac.kr/blog/2019/11/25/seminar_eunchulchang/</guid>
+      <guid>http://localhost:1313/blog/2019/11/25/seminar_eunchulchang/</guid>
       <description>영동지역 강설 메커니즘에 관한 관측 및 모델링 연</description>
     </item>
     
     <item>
       <title>[세미나] 이한림 교수님</title>
-      <link>https://atmos.yonsei.ac.kr/blog/2019/11/20/seminar_hanlimlee/</link>
+      <link>http://localhost:1313/blog/2019/11/20/seminar_hanlimlee/</link>
       <pubDate>Wed, 20 Nov 2019 16:10:47 +0900</pubDate>
       
-      <guid>https://atmos.yonsei.ac.kr/blog/2019/11/20/seminar_hanlimlee/</guid>
+      <guid>http://localhost:1313/blog/2019/11/20/seminar_hanlimlee/</guid>
       <description>초분광 위성 센서 자료 기반의 이산화질소 대류권</description>
     </item>
     
     <item>
       <title>[세미나] 류영렬 교수님</title>
-      <link>https://atmos.yonsei.ac.kr/blog/2019/11/12/seminar_youngryelryu/</link>
+      <link>http://localhost:1313/blog/2019/11/12/seminar_youngryelryu/</link>
       <pubDate>Tue, 12 Nov 2019 14:31:47 +0900</pubDate>
       
-      <guid>https://atmos.yonsei.ac.kr/blog/2019/11/12/seminar_youngryelryu/</guid>
+      <guid>http://localhost:1313/blog/2019/11/12/seminar_youngryelryu/</guid>
       <description>Shaking hands between atmospheric radiation and canopy photosynthesis: why do we need Fraunhofer lines and O2A bands? 류영렬</description>
     </item>
     
     <item>
       <title>[세미나] 손석우 교수님</title>
-      <link>https://atmos.yonsei.ac.kr/blog/2019/11/08/seminar_seokwooson/</link>
+      <link>http://localhost:1313/blog/2019/11/08/seminar_seokwooson/</link>
       <pubDate>Fri, 08 Nov 2019 16:30:47 +0900</pubDate>
       
-      <guid>https://atmos.yonsei.ac.kr/blog/2019/11/08/seminar_seokwooson/</guid>
+      <guid>http://localhost:1313/blog/2019/11/08/seminar_seokwooson/</guid>
       <description>성층권-대류권 접합 손석우 교수 (서울대학교</description>
     </item>
     
     <item>
       <title>[세미나] Dr. Wojciech W. Grabowski</title>
-      <link>https://atmos.yonsei.ac.kr/blog/2019/11/06/seminar_wojciech/</link>
+      <link>http://localhost:1313/blog/2019/11/06/seminar_wojciech/</link>
       <pubDate>Wed, 06 Nov 2019 16:01:47 +0900</pubDate>
       
-      <guid>https://atmos.yonsei.ac.kr/blog/2019/11/06/seminar_wojciech/</guid>
+      <guid>http://localhost:1313/blog/2019/11/06/seminar_wojciech/</guid>
       <description>Comparison of Eulerian bin and Lagrangian particle-based schemes in simulations of Pi Chamber dynamics and microphysics Dr. Wojciech W. Grabowski</description>
     </item>
     
     <item>
       <title>[세미나] Prof. Yang Liu</title>
-      <link>https://atmos.yonsei.ac.kr/blog/2019/10/31/seminar_yangliu/</link>
+      <link>http://localhost:1313/blog/2019/10/31/seminar_yangliu/</link>
       <pubDate>Thu, 31 Oct 2019 14:33:47 +0900</pubDate>
       
-      <guid>https://atmos.yonsei.ac.kr/blog/2019/10/31/seminar_yangliu/</guid>
+      <guid>http://localhost:1313/blog/2019/10/31/seminar_yangliu/</guid>
       <description>Applications of Satellite and Low-cost Sensor Data in Estimating PM2.5 Concentrations Prof. Yang Liu (Emory University) 2019</description>
     </item>
     
     <item>
       <title>[세미나] 김기태 박사님</title>
-      <link>https://atmos.yonsei.ac.kr/blog/2019/10/10/seminar_kitaekim/</link>
+      <link>http://localhost:1313/blog/2019/10/10/seminar_kitaekim/</link>
       <pubDate>Thu, 10 Oct 2019 11:25:47 +0900</pubDate>
       
-      <guid>https://atmos.yonsei.ac.kr/blog/2019/10/10/seminar_kitaekim/</guid>
+      <guid>http://localhost:1313/blog/2019/10/10/seminar_kitaekim/</guid>
       <description>극지방 얼음에서 일어나는 화학반응 연구 김기태</description>
     </item>
     
     <item>
       <title>[세미나] 최우석 박사님</title>
-      <link>https://atmos.yonsei.ac.kr/blog/2019/10/02/seminar_woosukchoi/</link>
+      <link>http://localhost:1313/blog/2019/10/02/seminar_woosukchoi/</link>
       <pubDate>Wed, 02 Oct 2019 11:37:47 +0900</pubDate>
       
-      <guid>https://atmos.yonsei.ac.kr/blog/2019/10/02/seminar_woosukchoi/</guid>
+      <guid>http://localhost:1313/blog/2019/10/02/seminar_woosukchoi/</guid>
       <description>안전한 도시를 위한 기상 연구 최우석 박사 (서울</description>
     </item>
     
     <item>
       <title>[세미나] 성미경 박사님</title>
-      <link>https://atmos.yonsei.ac.kr/blog/2019/09/27/seminar_mi-kyungsung/</link>
+      <link>http://localhost:1313/blog/2019/09/27/seminar_mi-kyungsung/</link>
       <pubDate>Fri, 27 Sep 2019 13:00:47 +0900</pubDate>
       
-      <guid>https://atmos.yonsei.ac.kr/blog/2019/09/27/seminar_mi-kyungsung/</guid>
+      <guid>http://localhost:1313/blog/2019/09/27/seminar_mi-kyungsung/</guid>
       <description>최근 중위도 극한기후현상의 원인: 지구온난화</description>
     </item>
     
     <item>
       <title>[세미나] 이정모 관장님</title>
-      <link>https://atmos.yonsei.ac.kr/blog/2019/09/20/seminar_jmlee/</link>
+      <link>http://localhost:1313/blog/2019/09/20/seminar_jmlee/</link>
       <pubDate>Fri, 20 Sep 2019 17:08:47 +0900</pubDate>
       
-      <guid>https://atmos.yonsei.ac.kr/blog/2019/09/20/seminar_jmlee/</guid>
+      <guid>http://localhost:1313/blog/2019/09/20/seminar_jmlee/</guid>
       <description>공생 멸종 진화 - 여섯 번째 대멸종에서 살아남기</description>
     </item>
     
     <item>
       <title>[세미나] 유승협 과장님</title>
-      <link>https://atmos.yonsei.ac.kr/blog/2019/09/18/seminar_sunghyupyou/</link>
+      <link>http://localhost:1313/blog/2019/09/18/seminar_sunghyupyou/</link>
       <pubDate>Wed, 18 Sep 2019 11:35:47 +0900</pubDate>
       
-      <guid>https://atmos.yonsei.ac.kr/blog/2019/09/18/seminar_sunghyupyou/</guid>
+      <guid>http://localhost:1313/blog/2019/09/18/seminar_sunghyupyou/</guid>
       <description>해양기상의 현재와 미래 유승협 과장님 (기상청</description>
     </item>
     
     <item>
       <title>[세미나] 박선영 교수님</title>
-      <link>https://atmos.yonsei.ac.kr/blog/2019/09/17/seminar_sunyoungpark/</link>
+      <link>http://localhost:1313/blog/2019/09/17/seminar_sunyoungpark/</link>
       <pubDate>Tue, 17 Sep 2019 13:12:47 +0900</pubDate>
       
-      <guid>https://atmos.yonsei.ac.kr/blog/2019/09/17/seminar_sunyoungpark/</guid>
+      <guid>http://localhost:1313/blog/2019/09/17/seminar_sunyoungpark/</guid>
       <description>Atmospheric observations trace mysterious emissions of banned ozone-destroying, greenhouse gases 박선영 교수님 (경북대</description>
     </item>
     
     <item>
       <title>[세미나] 김준 교수님</title>
-      <link>https://atmos.yonsei.ac.kr/blog/2019/09/09/seminar_jhoonkim/</link>
+      <link>http://localhost:1313/blog/2019/09/09/seminar_jhoonkim/</link>
       <pubDate>Mon, 09 Sep 2019 10:55:47 +0900</pubDate>
       
-      <guid>https://atmos.yonsei.ac.kr/blog/2019/09/09/seminar_jhoonkim/</guid>
+      <guid>http://localhost:1313/blog/2019/09/09/seminar_jhoonkim/</guid>
       <description>Remote Sensing of Air Quality in Asia from Space 김 준 교수 (연세대학교 대</description>
     </item>
     
     <item>
       <title>[세미나] 노유정 박사님</title>
-      <link>https://atmos.yonsei.ac.kr/blog/2019/09/03/seminar_yoojeongnoh/</link>
+      <link>http://localhost:1313/blog/2019/09/03/seminar_yoojeongnoh/</link>
       <pubDate>Tue, 03 Sep 2019 15:00:47 +0900</pubDate>
       
-      <guid>https://atmos.yonsei.ac.kr/blog/2019/09/03/seminar_yoojeongnoh/</guid>
+      <guid>http://localhost:1313/blog/2019/09/03/seminar_yoojeongnoh/</guid>
       <description>Improvement of Satellite Cloud Layer Products Using Multi-Sensor Observations and Numerical Model Simulations (다중 센서 관측</description>
     </item>
     
     <item>
       <title>[세미나] 김백민 교수님</title>
-      <link>https://atmos.yonsei.ac.kr/blog/2019/06/10/seminar_baekminkim/</link>
+      <link>http://localhost:1313/blog/2019/06/10/seminar_baekminkim/</link>
       <pubDate>Mon, 10 Jun 2019 08:48:02 +0900</pubDate>
       
-      <guid>https://atmos.yonsei.ac.kr/blog/2019/06/10/seminar_baekminkim/</guid>
+      <guid>http://localhost:1313/blog/2019/06/10/seminar_baekminkim/</guid>
       <description>Critical Role of Extreme Midlatitude-storms in Arctic Amplification 김백민 교수님 (부경대학교</description>
     </item>
     
     <item>
       <title>[세미나] 박성훈 교수님</title>
-      <link>https://atmos.yonsei.ac.kr/blog/2019/05/30/seminar_sunghoonpark/</link>
+      <link>http://localhost:1313/blog/2019/05/30/seminar_sunghoonpark/</link>
       <pubDate>Thu, 30 May 2019 08:48:02 +0900</pubDate>
       
-      <guid>https://atmos.yonsei.ac.kr/blog/2019/05/30/seminar_sunghoonpark/</guid>
+      <guid>http://localhost:1313/blog/2019/05/30/seminar_sunghoonpark/</guid>
       <description>Introduction to Aerosol Population Dynamics Modeling 박성훈 교수님 (순천대학교) 2</description>
     </item>
     
     <item>
       <title>[세미나] 홍성유 단장님</title>
-      <link>https://atmos.yonsei.ac.kr/blog/2019/05/23/seminar_songyouhong/</link>
+      <link>http://localhost:1313/blog/2019/05/23/seminar_songyouhong/</link>
       <pubDate>Thu, 23 May 2019 08:48:02 +0900</pubDate>
       
-      <guid>https://atmos.yonsei.ac.kr/blog/2019/05/23/seminar_songyouhong/</guid>
+      <guid>http://localhost:1313/blog/2019/05/23/seminar_songyouhong/</guid>
       <description>Weather forecasts and seasonal simulation in a non-hydrostatic global atmospheric model 홍성유 단장님 (KIAPS) 20</description>
     </item>
     
     <item>
       <title>[세미나] 손성환 명예교수님</title>
-      <link>https://atmos.yonsei.ac.kr/blog/2019/05/20/seminar_sunghwanson/</link>
+      <link>http://localhost:1313/blog/2019/05/20/seminar_sunghwanson/</link>
       <pubDate>Mon, 20 May 2019 08:48:02 +0900</pubDate>
       
-      <guid>https://atmos.yonsei.ac.kr/blog/2019/05/20/seminar_sunghwanson/</guid>
+      <guid>http://localhost:1313/blog/2019/05/20/seminar_sunghwanson/</guid>
       <description>기후변화 협상동향 손성환 명예교수님 (외교부</description>
     </item>
     
     <item>
       <title>[세미나] 김창기 박사님</title>
-      <link>https://atmos.yonsei.ac.kr/blog/2019/05/10/seminar_changkikim/</link>
+      <link>http://localhost:1313/blog/2019/05/10/seminar_changkikim/</link>
       <pubDate>Fri, 10 May 2019 08:48:02 +0900</pubDate>
       
-      <guid>https://atmos.yonsei.ac.kr/blog/2019/05/10/seminar_changkikim/</guid>
+      <guid>http://localhost:1313/blog/2019/05/10/seminar_changkikim/</guid>
       <description>Current Status of Renewable Energy Potentials in Korea and Toward Improved Solar Irradiance Forecast in the U.S. 김창기</description>
     </item>
     
     <item>
       <title>[세미나] 송하준 교수님, 김정훈 교수님</title>
-      <link>https://atmos.yonsei.ac.kr/blog/2019/05/07/seminar_hajoonsong/</link>
+      <link>http://localhost:1313/blog/2019/05/07/seminar_hajoonsong/</link>
       <pubDate>Tue, 07 May 2019 08:48:02 +0900</pubDate>
       
-      <guid>https://atmos.yonsei.ac.kr/blog/2019/05/07/seminar_hajoonsong/</guid>
+      <guid>http://localhost:1313/blog/2019/05/07/seminar_hajoonsong/</guid>
       <description>연세대-서울대 공동세미나 송하준 교수님 (연</description>
     </item>
     
     <item>
       <title>[세미나] 조천호 전 국립기상과학원장님</title>
-      <link>https://atmos.yonsei.ac.kr/blog/2019/04/24/seminar_chunhocho/</link>
+      <link>http://localhost:1313/blog/2019/04/24/seminar_chunhocho/</link>
       <pubDate>Wed, 24 Apr 2019 08:48:02 +0900</pubDate>
       
-      <guid>https://atmos.yonsei.ac.kr/blog/2019/04/24/seminar_chunhocho/</guid>
+      <guid>http://localhost:1313/blog/2019/04/24/seminar_chunhocho/</guid>
       <description>파란하늘 빨간지구 조천호 전 국립기상과학원장</description>
     </item>
     
     <item>
       <title>[세미나] Dr. Alexei Lyapustin</title>
-      <link>https://atmos.yonsei.ac.kr/blog/2019/04/24/semina_alexeilyapustin/</link>
+      <link>http://localhost:1313/blog/2019/04/24/semina_alexeilyapustin/</link>
       <pubDate>Wed, 24 Apr 2019 06:48:02 +0900</pubDate>
       
-      <guid>https://atmos.yonsei.ac.kr/blog/2019/04/24/semina_alexeilyapustin/</guid>
+      <guid>http://localhost:1313/blog/2019/04/24/semina_alexeilyapustin/</guid>
       <description>High-resolution Aerosol Retrievals with Algorithm MAIAC from Geostationary Satellites Dr. Alexei Lyapustin (NASA Goddard Space Flight Center) 201</description>
     </item>
     
     <item>
       <title>[세미나] 이재원 청장님</title>
-      <link>https://atmos.yonsei.ac.kr/blog/2019/04/16/seminar_jaeonelee/</link>
+      <link>http://localhost:1313/blog/2019/04/16/seminar_jaeonelee/</link>
       <pubDate>Tue, 16 Apr 2019 03:48:02 +0900</pubDate>
       
-      <guid>https://atmos.yonsei.ac.kr/blog/2019/04/16/seminar_jaeonelee/</guid>
+      <guid>http://localhost:1313/blog/2019/04/16/seminar_jaeonelee/</guid>
       <description>항공기상업무: 어제, 오늘 그리고 내일 이재원</description>
     </item>
     
     <item>
       <title>[세미나] Kazuhito Ichii 교수님</title>
-      <link>https://atmos.yonsei.ac.kr/blog/2019/04/15/seminar_kazuhitoichii/</link>
+      <link>http://localhost:1313/blog/2019/04/15/seminar_kazuhitoichii/</link>
       <pubDate>Mon, 15 Apr 2019 06:48:02 +0900</pubDate>
       
-      <guid>https://atmos.yonsei.ac.kr/blog/2019/04/15/seminar_kazuhitoichii/</guid>
+      <guid>http://localhost:1313/blog/2019/04/15/seminar_kazuhitoichii/</guid>
       <description>Monitoring and modeling of atmosphere-land CO2 exchanges in Asia Kazuhito Ichii 교수님 (Center for Environmental Remote Sensing, Chiba</description>
     </item>
     
     <item>
       <title>[세미나] 정수종 교수님</title>
-      <link>https://atmos.yonsei.ac.kr/blog/2019/04/03/seminar_sujongjeong/</link>
+      <link>http://localhost:1313/blog/2019/04/03/seminar_sujongjeong/</link>
       <pubDate>Wed, 03 Apr 2019 06:48:02 +0900</pubDate>
       
-      <guid>https://atmos.yonsei.ac.kr/blog/2019/04/03/seminar_sujongjeong/</guid>
+      <guid>http://localhost:1313/blog/2019/04/03/seminar_sujongjeong/</guid>
       <description>Understanding carbon cycle from urban to the Globe by integrating data and model 정수종 교수님 (</description>
     </item>
     
     <item>
       <title>[세미나] 이정환 센터장님</title>
-      <link>https://atmos.yonsei.ac.kr/blog/2019/03/28/seminar_junghwanlee/</link>
+      <link>http://localhost:1313/blog/2019/03/28/seminar_junghwanlee/</link>
       <pubDate>Thu, 28 Mar 2019 06:48:02 +0900</pubDate>
       
-      <guid>https://atmos.yonsei.ac.kr/blog/2019/03/28/seminar_junghwanlee/</guid>
+      <guid>http://localhost:1313/blog/2019/03/28/seminar_junghwanlee/</guid>
       <description>기상청 관측망(기상레이더 포함) 현황과 기상</description>
     </item>
     
     <item>
       <title>[세미나] 장임석 센터장님</title>
-      <link>https://atmos.yonsei.ac.kr/blog/2019/03/22/seminar_imseokchang/</link>
+      <link>http://localhost:1313/blog/2019/03/22/seminar_imseokchang/</link>
       <pubDate>Fri, 22 Mar 2019 06:48:02 +0900</pubDate>
       
-      <guid>https://atmos.yonsei.ac.kr/blog/2019/03/22/seminar_imseokchang/</guid>
+      <guid>http://localhost:1313/blog/2019/03/22/seminar_imseokchang/</guid>
       <description>초미세먼지 현황과 2019년 고농도 사례 장임</description>
     </item>
     
     <item>
       <title>[세미나] 김영준 명예교수님</title>
-      <link>https://atmos.yonsei.ac.kr/blog/2019/03/13/seminar_youngjoonkim/</link>
+      <link>http://localhost:1313/blog/2019/03/13/seminar_youngjoonkim/</link>
       <pubDate>Wed, 13 Mar 2019 06:48:02 +0900</pubDate>
       
-      <guid>https://atmos.yonsei.ac.kr/blog/2019/03/13/seminar_youngjoonkim/</guid>
+      <guid>http://localhost:1313/blog/2019/03/13/seminar_youngjoonkim/</guid>
       <description>한반도 초미세먼지 오염 현황과 전망 (해결은 가</description>
     </item>
     
     <item>
       <title>[세미나] 엄준식 교수님</title>
-      <link>https://atmos.yonsei.ac.kr/blog/2019/03/11/seminar_junshikum/</link>
+      <link>http://localhost:1313/blog/2019/03/11/seminar_junshikum/</link>
       <pubDate>Mon, 11 Mar 2019 06:48:02 +0900</pubDate>
       
-      <guid>https://atmos.yonsei.ac.kr/blog/2019/03/11/seminar_junshikum/</guid>
+      <guid>http://localhost:1313/blog/2019/03/11/seminar_junshikum/</guid>
       <description>Microphysical characteristics of frozen droplet aggregates from deep convective clouds 엄준식 교수님 (부산대</description>
     </item>
     
     <item>
       <title>[세미나] 김정수 교수님</title>
-      <link>https://atmos.yonsei.ac.kr/blog/2019/03/10/seminar_jeongsookim/</link>
+      <link>http://localhost:1313/blog/2019/03/10/seminar_jeongsookim/</link>
       <pubDate>Sun, 10 Mar 2019 06:48:02 +0900</pubDate>
       
-      <guid>https://atmos.yonsei.ac.kr/blog/2019/03/10/seminar_jeongsookim/</guid>
+      <guid>http://localhost:1313/blog/2019/03/10/seminar_jeongsookim/</guid>
       <description>우리나라 미세먼지 특징과 원인 김정수 교수님 (</description>
     </item>
     
     <item>
       <title>[세미나] 서효대 박사님</title>
-      <link>https://atmos.yonsei.ac.kr/blog/2019/03/04/seminar_hyodaeseo/</link>
+      <link>http://localhost:1313/blog/2019/03/04/seminar_hyodaeseo/</link>
       <pubDate>Mon, 04 Mar 2019 06:48:02 +0900</pubDate>
       
-      <guid>https://atmos.yonsei.ac.kr/blog/2019/03/04/seminar_hyodaeseo/</guid>
+      <guid>http://localhost:1313/blog/2019/03/04/seminar_hyodaeseo/</guid>
       <description>Distinct Influence of Coupled Ocean-atmosphere Interactions Mediated by Sea Surface Temperature and Current 서효대 박사님 (Woods</description>
     </item>
     
     <item>
       <title>[세미나] Prof. Martin Claussen</title>
-      <link>https://atmos.yonsei.ac.kr/blog/2019/02/13/seminar_claussen/</link>
+      <link>http://localhost:1313/blog/2019/02/13/seminar_claussen/</link>
       <pubDate>Wed, 13 Feb 2019 11:49:47 +0900</pubDate>
       
-      <guid>https://atmos.yonsei.ac.kr/blog/2019/02/13/seminar_claussen/</guid>
+      <guid>http://localhost:1313/blog/2019/02/13/seminar_claussen/</guid>
       <description>The“Green Sahara” Prof. Martin Claussen 2</description>
     </item>
     
     <item>
       <title>[세미나] Dr. Bidyut Bikash Goswami</title>
-      <link>https://atmos.yonsei.ac.kr/blog/2019/02/13/seminar_goswami/</link>
+      <link>http://localhost:1313/blog/2019/02/13/seminar_goswami/</link>
       <pubDate>Wed, 13 Feb 2019 10:49:47 +0900</pubDate>
       
-      <guid>https://atmos.yonsei.ac.kr/blog/2019/02/13/seminar_goswami/</guid>
+      <guid>http://localhost:1313/blog/2019/02/13/seminar_goswami/</guid>
       <description>Beyond the shallow water equation: Convective parameterization … and beyond. Dr. Bidyut Bikash Goswami (New York University Abu Dhabi) 2</description>
     </item>
     
     <item>
       <title>[세미나] Dr. Jonathan Guerrette</title>
-      <link>https://atmos.yonsei.ac.kr/blog/2019/01/10/seminar_jonathan/</link>
+      <link>http://localhost:1313/blog/2019/01/10/seminar_jonathan/</link>
       <pubDate>Thu, 10 Jan 2019 12:55:47 +0900</pubDate>
       
-      <guid>https://atmos.yonsei.ac.kr/blog/2019/01/10/seminar_jonathan/</guid>
+      <guid>http://localhost:1313/blog/2019/01/10/seminar_jonathan/</guid>
       <description>Constraining aerosol emissions with 4D-Var in WRFDA Dr. Jonathan Guerrette (NCAR) 2019년 1월 15</description>
     </item>
     
     <item>
       <title>[세미나] 최현주 박사님</title>
-      <link>https://atmos.yonsei.ac.kr/blog/2018/12/04/seminar_hyunjoochoi/</link>
+      <link>http://localhost:1313/blog/2018/12/04/seminar_hyunjoochoi/</link>
       <pubDate>Tue, 04 Dec 2018 12:55:47 +0900</pubDate>
       
-      <guid>https://atmos.yonsei.ac.kr/blog/2018/12/04/seminar_hyunjoochoi/</guid>
+      <guid>http://localhost:1313/blog/2018/12/04/seminar_hyunjoochoi/</guid>
       <description>Parameterizations of Subgrid Orographic Drag and Non-Orographic Gravity Wave Drag for Korean Integrated Model (KIM) System 최현주 박</description>
     </item>
     
     <item>
       <title>[세미나] 문태섭 교수님</title>
-      <link>https://atmos.yonsei.ac.kr/blog/2018/11/27/seminar_taesupmoon/</link>
+      <link>http://localhost:1313/blog/2018/11/27/seminar_taesupmoon/</link>
       <pubDate>Tue, 27 Nov 2018 12:55:47 +0900</pubDate>
       
-      <guid>https://atmos.yonsei.ac.kr/blog/2018/11/27/seminar_taesupmoon/</guid>
+      <guid>http://localhost:1313/blog/2018/11/27/seminar_taesupmoon/</guid>
       <description>Introduction to machine (deep) learning and its application to PM2.5 estimation 문태섭 교수 (성균관</description>
     </item>
     
     <item>
       <title>[세미나] 이윤곤 교수님</title>
-      <link>https://atmos.yonsei.ac.kr/blog/2018/11/22/seminar_yungonlee/</link>
+      <link>http://localhost:1313/blog/2018/11/22/seminar_yungonlee/</link>
       <pubDate>Thu, 22 Nov 2018 12:55:47 +0900</pubDate>
       
-      <guid>https://atmos.yonsei.ac.kr/blog/2018/11/22/seminar_yungonlee/</guid>
+      <guid>http://localhost:1313/blog/2018/11/22/seminar_yungonlee/</guid>
       <description>Potential impacts of regional and large-scale climate variability on Asian aerosols activity: an observational investigation using ground and satellite measurements</description>
     </item>
     
     <item>
       <title>[세미나] 김정훈 교수님</title>
-      <link>https://atmos.yonsei.ac.kr/blog/2018/11/19/seminar_junghoonkim/</link>
+      <link>http://localhost:1313/blog/2018/11/19/seminar_junghoonkim/</link>
       <pubDate>Mon, 19 Nov 2018 12:55:47 +0900</pubDate>
       
-      <guid>https://atmos.yonsei.ac.kr/blog/2018/11/19/seminar_junghoonkim/</guid>
+      <guid>http://localhost:1313/blog/2018/11/19/seminar_junghoonkim/</guid>
       <description>Research on Aviation Turbulence Forecasting 김정훈 교수 (서울대학교) 201</description>
     </item>
     
     <item>
       <title>[세미나] Dr. Fabian Hoffmann</title>
-      <link>https://atmos.yonsei.ac.kr/blog/2018/11/15/seminar_fabian/</link>
+      <link>http://localhost:1313/blog/2018/11/15/seminar_fabian/</link>
       <pubDate>Thu, 15 Nov 2018 12:55:47 +0900</pubDate>
       
-      <guid>https://atmos.yonsei.ac.kr/blog/2018/11/15/seminar_fabian/</guid>
+      <guid>http://localhost:1313/blog/2018/11/15/seminar_fabian/</guid>
       <description>Entrainment and Mixing in Warm Boundary Layer Clouds: Development and Results of an Explicit Subgrid-Scale Scheme for Large-Eddy Simulations with</description>
     </item>
     
     <item>
       <title>[세미나] 박록진 교수님</title>
-      <link>https://atmos.yonsei.ac.kr/blog/2018/11/13/seminar_rokjinpark/</link>
+      <link>http://localhost:1313/blog/2018/11/13/seminar_rokjinpark/</link>
       <pubDate>Tue, 13 Nov 2018 12:55:47 +0900</pubDate>
       
-      <guid>https://atmos.yonsei.ac.kr/blog/2018/11/13/seminar_rokjinpark/</guid>
+      <guid>http://localhost:1313/blog/2018/11/13/seminar_rokjinpark/</guid>
       <description>A global simulation of organic aerosols: Implications for climate and air quality 박록진 교수 (서울</description>
     </item>
     
     <item>
       <title>[세미나] Dr. Brian C. McDonald</title>
-      <link>https://atmos.yonsei.ac.kr/blog/2018/11/07/seminar_mcdonald/</link>
+      <link>http://localhost:1313/blog/2018/11/07/seminar_mcdonald/</link>
       <pubDate>Wed, 07 Nov 2018 12:55:47 +0900</pubDate>
       
-      <guid>https://atmos.yonsei.ac.kr/blog/2018/11/07/seminar_mcdonald/</guid>
+      <guid>http://localhost:1313/blog/2018/11/07/seminar_mcdonald/</guid>
       <description>Chemical Product Emissions Emerging as Important Urban Source of Volatile Organic Compounds Dr. Brian C. McDonald (NOAA) 201</description>
     </item>
     
     <item>
       <title>[세미나] Prof. Shin-ichiro Shima</title>
-      <link>https://atmos.yonsei.ac.kr/blog/2018/10/23/seminar_shima/</link>
+      <link>http://localhost:1313/blog/2018/10/23/seminar_shima/</link>
       <pubDate>Tue, 23 Oct 2018 12:55:47 +0900</pubDate>
       
-      <guid>https://atmos.yonsei.ac.kr/blog/2018/10/23/seminar_shima/</guid>
+      <guid>http://localhost:1313/blog/2018/10/23/seminar_shima/</guid>
       <description>Super-Droplet Method and its Application to Mixed-Phase Clouds Prof. Shin-ichiro Shima (University of Hyogo) 2018년 1</description>
     </item>
     
     <item>
       <title>[세미나] Prof. Naoki Hirose</title>
-      <link>https://atmos.yonsei.ac.kr/blog/2018/10/17/seminar_naoki/</link>
+      <link>http://localhost:1313/blog/2018/10/17/seminar_naoki/</link>
       <pubDate>Wed, 17 Oct 2018 12:55:47 +0900</pubDate>
       
-      <guid>https://atmos.yonsei.ac.kr/blog/2018/10/17/seminar_naoki/</guid>
+      <guid>http://localhost:1313/blog/2018/10/17/seminar_naoki/</guid>
       <description>Coastal Ocean Data Assimilation Experiment with Small-Scale Fisheries Prof. Naoki Hirose (Kyushu University) 2018년 10</description>
     </item>
     
     <item>
       <title>[세미나] Dr. Louisa Emmons</title>
-      <link>https://atmos.yonsei.ac.kr/blog/2018/10/16/seminar_louisa/</link>
+      <link>http://localhost:1313/blog/2018/10/16/seminar_louisa/</link>
       <pubDate>Tue, 16 Oct 2018 12:55:47 +0900</pubDate>
       
-      <guid>https://atmos.yonsei.ac.kr/blog/2018/10/16/seminar_louisa/</guid>
+      <guid>http://localhost:1313/blog/2018/10/16/seminar_louisa/</guid>
       <description>Impact of anthropogenic and natural emissions on air quality in Korea: CAM-chem model analyses of KORUS-AQ observations Dr. Louisa Emmons</description>
     </item>
     
     <item>
       <title>[세미나] Prof. Saewung Kim</title>
-      <link>https://atmos.yonsei.ac.kr/blog/2018/10/16/seminar_saewungkim/</link>
+      <link>http://localhost:1313/blog/2018/10/16/seminar_saewungkim/</link>
       <pubDate>Tue, 16 Oct 2018 12:49:47 +0900</pubDate>
       
-      <guid>https://atmos.yonsei.ac.kr/blog/2018/10/16/seminar_saewungkim/</guid>
+      <guid>http://localhost:1313/blog/2018/10/16/seminar_saewungkim/</guid>
       <description>Air Pollution – Observational Constraints in Relative Contributions from Transport in Relative Contributions from Transport vs Local Production and Their</description>
     </item>
     
     <item>
       <title>[세미나] 임교선 교수님</title>
-      <link>https://atmos.yonsei.ac.kr/blog/2018/10/09/seminar_gyosunim/</link>
+      <link>http://localhost:1313/blog/2018/10/09/seminar_gyosunim/</link>
       <pubDate>Tue, 09 Oct 2018 12:49:47 +0900</pubDate>
       
-      <guid>https://atmos.yonsei.ac.kr/blog/2018/10/09/seminar_gyosunim/</guid>
+      <guid>http://localhost:1313/blog/2018/10/09/seminar_gyosunim/</guid>
       <description>Classified Cloud Types for More Effective Use of ARM Observations in Model Evaluation 임교선 교수님 2</description>
     </item>
     
     <item>
       <title>[세미나] 박상서 박사님</title>
-      <link>https://atmos.yonsei.ac.kr/blog/2018/09/10/seminar_sangseopark/</link>
+      <link>http://localhost:1313/blog/2018/09/10/seminar_sangseopark/</link>
       <pubDate>Mon, 10 Sep 2018 13:49:47 +0900</pubDate>
       
-      <guid>https://atmos.yonsei.ac.kr/blog/2018/09/10/seminar_sangseopark/</guid>
+      <guid>http://localhost:1313/blog/2018/09/10/seminar_sangseopark/</guid>
       <description>Discrepancies of atmospheric compositions between model and observation 박상서 박사님 2018년 9</description>
     </item>
     
     <item>
       <title>[세미나] 구자호 박사님</title>
-      <link>https://atmos.yonsei.ac.kr/blog/2018/09/10/seminar_jahokoo/</link>
+      <link>http://localhost:1313/blog/2018/09/10/seminar_jahokoo/</link>
       <pubDate>Mon, 10 Sep 2018 12:49:47 +0900</pubDate>
       
-      <guid>https://atmos.yonsei.ac.kr/blog/2018/09/10/seminar_jahokoo/</guid>
+      <guid>http://localhost:1313/blog/2018/09/10/seminar_jahokoo/</guid>
       <description>Atmospheric chemistry in East Asia and the Arctic: Questions for individual issues and their connection 구자호 박사</description>
     </item>
     
     <item>
       <title>[세미나] 유영희 박사님</title>
-      <link>https://atmos.yonsei.ac.kr/blog/2018/09/10/seminar_youngheeryu/</link>
+      <link>http://localhost:1313/blog/2018/09/10/seminar_youngheeryu/</link>
       <pubDate>Mon, 10 Sep 2018 11:49:47 +0900</pubDate>
       
-      <guid>https://atmos.yonsei.ac.kr/blog/2018/09/10/seminar_youngheeryu/</guid>
+      <guid>http://localhost:1313/blog/2018/09/10/seminar_youngheeryu/</guid>
       <description>The importance of clouds in photochemistry and air quality modeling: A quantitative assessment using satellite cloud retrievals 유영희</description>
     </item>
     
     <item>
       <title>[세미나] Dr. Ying-Hwa (Bill) Kuo</title>
-      <link>https://atmos.yonsei.ac.kr/blog/2018/09/04/seminar_kuo/</link>
+      <link>http://localhost:1313/blog/2018/09/04/seminar_kuo/</link>
       <pubDate>Tue, 04 Sep 2018 11:49:47 +0900</pubDate>
       
-      <guid>https://atmos.yonsei.ac.kr/blog/2018/09/04/seminar_kuo/</guid>
+      <guid>http://localhost:1313/blog/2018/09/04/seminar_kuo/</guid>
       <description>Predicting the Genesis of Typhoon Nuri (2008): Impact of GPS Radio Occultation Data Dr. Ying-Hwa (Bill) Kuo (UCAR) 20</description>
     </item>
     
     <item>
       <title>[세미나] Dr. Elizabeth Mulvihill Page</title>
-      <link>https://atmos.yonsei.ac.kr/blog/2018/09/04/seminar_page/</link>
+      <link>http://localhost:1313/blog/2018/09/04/seminar_page/</link>
       <pubDate>Tue, 04 Sep 2018 10:49:47 +0900</pubDate>
       
-      <guid>https://atmos.yonsei.ac.kr/blog/2018/09/04/seminar_page/</guid>
+      <guid>http://localhost:1313/blog/2018/09/04/seminar_page/</guid>
       <description>COMET&amp;rsquo;s Support of University Teaching in Geosciences Dr. Elizabeth Mulvihill Page (UCAR) 2018년 9월 6</description>
     </item>
     
     <item>
       <title>[세미나] Dr. Mohan Ramamurthy</title>
-      <link>https://atmos.yonsei.ac.kr/blog/2018/09/04/seminar_mohan/</link>
+      <link>http://localhost:1313/blog/2018/09/04/seminar_mohan/</link>
       <pubDate>Tue, 04 Sep 2018 09:49:47 +0900</pubDate>
       
-      <guid>https://atmos.yonsei.ac.kr/blog/2018/09/04/seminar_mohan/</guid>
+      <guid>http://localhost:1313/blog/2018/09/04/seminar_mohan/</guid>
       <description>Unidata Science Gateway: A Cloud-based Platform for Enabling Open and Reproducible Science Dr. Mohan Ramamurthy (UCAR) 2018</description>
     </item>
     
     <item>
       <title>[세미나] 홍현기 박사님</title>
-      <link>https://atmos.yonsei.ac.kr/blog/2018/08/10/seminar_hyunkeehong/</link>
+      <link>http://localhost:1313/blog/2018/08/10/seminar_hyunkeehong/</link>
       <pubDate>Fri, 10 Aug 2018 12:49:47 +0900</pubDate>
       
-      <guid>https://atmos.yonsei.ac.kr/blog/2018/08/10/seminar_hyunkeehong/</guid>
+      <guid>http://localhost:1313/blog/2018/08/10/seminar_hyunkeehong/</guid>
       <description>Development of NO2 Retrieval Algorithm for the Hyper-spectral UV-Vis Space-borne Sensor: A Novel Algorithm for NO2 Vertical Profile Retrieval 홍</description>
     </item>
     
     <item>
       <title>[세미나] Prof. Keith McNaughton</title>
-      <link>https://atmos.yonsei.ac.kr/blog/2018/07/23/seminar_mcnaughton/</link>
+      <link>http://localhost:1313/blog/2018/07/23/seminar_mcnaughton/</link>
       <pubDate>Mon, 23 Jul 2018 08:49:47 +0900</pubDate>
       
-      <guid>https://atmos.yonsei.ac.kr/blog/2018/07/23/seminar_mcnaughton/</guid>
+      <guid>http://localhost:1313/blog/2018/07/23/seminar_mcnaughton/</guid>
       <description>A historical background on research in CBL turbulence Prof. Keith McNaughton (Landcare research, New zealand) 2018년</description>
     </item>
     
     <item>
       <title>[세미나] Prof. Nelson L. Dias</title>
-      <link>https://atmos.yonsei.ac.kr/blog/2018/07/23/seminar_dias/</link>
+      <link>http://localhost:1313/blog/2018/07/23/seminar_dias/</link>
       <pubDate>Mon, 23 Jul 2018 08:49:46 +0900</pubDate>
       
-      <guid>https://atmos.yonsei.ac.kr/blog/2018/07/23/seminar_dias/</guid>
+      <guid>http://localhost:1313/blog/2018/07/23/seminar_dias/</guid>
       <description>The Hurst Phenomenon in Turbulence: an approach to calculate random errors of turbulence statistics Prof. Nelson L. Dias (Department of</description>
     </item>
     
     <item>
       <title>[세미나] 장원 교수님</title>
-      <link>https://atmos.yonsei.ac.kr/blog/2018/07/09/seminar_wonchang/</link>
+      <link>http://localhost:1313/blog/2018/07/09/seminar_wonchang/</link>
       <pubDate>Mon, 09 Jul 2018 08:49:47 +0900</pubDate>
       
-      <guid>https://atmos.yonsei.ac.kr/blog/2018/07/09/seminar_wonchang/</guid>
+      <guid>http://localhost:1313/blog/2018/07/09/seminar_wonchang/</guid>
       <description>Changes in Spatiotemporal Precipitation Patterns in Changing Climate Conditions &amp;amp; Diagnosing added value of convection-permitting regional models using precipitation event</description>
     </item>
     
     <item>
       <title>[세미나] 강성락 교수님</title>
-      <link>https://atmos.yonsei.ac.kr/blog/2018/06/04/seminar_songlakkang/</link>
+      <link>http://localhost:1313/blog/2018/06/04/seminar_songlakkang/</link>
       <pubDate>Mon, 04 Jun 2018 08:49:47 +0900</pubDate>
       
-      <guid>https://atmos.yonsei.ac.kr/blog/2018/06/04/seminar_songlakkang/</guid>
+      <guid>http://localhost:1313/blog/2018/06/04/seminar_songlakkang/</guid>
       <description>Unexplored Territory between the Meso- and Micro-scale Worlds 강성락 교수(강릉원주대학</description>
     </item>
     
     <item>
       <title>[세미나] 전천하 박사님</title>
-      <link>https://atmos.yonsei.ac.kr/blog/2018/05/30/seminar_cheonhajeon/</link>
+      <link>http://localhost:1313/blog/2018/05/30/seminar_cheonhajeon/</link>
       <pubDate>Wed, 30 May 2018 12:49:47 +0900</pubDate>
       
-      <guid>https://atmos.yonsei.ac.kr/blog/2018/05/30/seminar_cheonhajeon/</guid>
+      <guid>http://localhost:1313/blog/2018/05/30/seminar_cheonhajeon/</guid>
       <description>Ultra-intense ultrafast lasers and its applications: From science fiction to reality 전천하 박사님 (Center for Relativistic</description>
     </item>
     
     <item>
       <title>[세미나] 김형진 박사님</title>
-      <link>https://atmos.yonsei.ac.kr/blog/2018/05/29/seminar_hyungjinkim/</link>
+      <link>http://localhost:1313/blog/2018/05/29/seminar_hyungjinkim/</link>
       <pubDate>Tue, 29 May 2018 08:49:47 +0900</pubDate>
       
-      <guid>https://atmos.yonsei.ac.kr/blog/2018/05/29/seminar_hyungjinkim/</guid>
+      <guid>http://localhost:1313/blog/2018/05/29/seminar_hyungjinkim/</guid>
       <description>Bridging Climate Information and Social Needs 김형진 박사님 (APEC Climate Center) 2018년</description>
     </item>
     
     <item>
       <title>[세미나] 권은영 박사님</title>
-      <link>https://atmos.yonsei.ac.kr/blog/2018/05/11/seminar_eunyoungkwon/</link>
+      <link>http://localhost:1313/blog/2018/05/11/seminar_eunyoungkwon/</link>
       <pubDate>Fri, 11 May 2018 12:49:47 +0900</pubDate>
       
-      <guid>https://atmos.yonsei.ac.kr/blog/2018/05/11/seminar_eunyoungkwon/</guid>
+      <guid>http://localhost:1313/blog/2018/05/11/seminar_eunyoungkwon/</guid>
       <description>Stable carbon isotope evidence for large terrestrial carbon inputs to the global ocean 권은영 박사님 (</description>
     </item>
     
     <item>
       <title>[세미나] 연세대-서울대 공동 세미나</title>
-      <link>https://atmos.yonsei.ac.kr/blog/2018/05/01/jointseminar2018/</link>
+      <link>http://localhost:1313/blog/2018/05/01/jointseminar2018/</link>
       <pubDate>Tue, 01 May 2018 12:49:47 +0900</pubDate>
       
-      <guid>https://atmos.yonsei.ac.kr/blog/2018/05/01/jointseminar2018/</guid>
+      <guid>http://localhost:1313/blog/2018/05/01/jointseminar2018/</guid>
       <description>연세대-서울대 공동세미나 허창회 교수님 (서</description>
     </item>
     
     <item>
       <title>[세미나] 장기호 박사님</title>
-      <link>https://atmos.yonsei.ac.kr/blog/2018/04/27/seminar_kihochang/</link>
+      <link>http://localhost:1313/blog/2018/04/27/seminar_kihochang/</link>
       <pubDate>Fri, 27 Apr 2018 12:49:47 +0900</pubDate>
       
-      <guid>https://atmos.yonsei.ac.kr/blog/2018/04/27/seminar_kihochang/</guid>
+      <guid>http://localhost:1313/blog/2018/04/27/seminar_kihochang/</guid>
       <description>지난 10년(2008년-2018년) 인공</description>
     </item>
     
     <item>
       <title>[세미나] 김성용 교수님</title>
-      <link>https://atmos.yonsei.ac.kr/blog/2018/04/13/seminar_sungyongkim/</link>
+      <link>http://localhost:1313/blog/2018/04/13/seminar_sungyongkim/</link>
       <pubDate>Fri, 13 Apr 2018 12:49:47 +0900</pubDate>
       
-      <guid>https://atmos.yonsei.ac.kr/blog/2018/04/13/seminar_sungyongkim/</guid>
+      <guid>http://localhost:1313/blog/2018/04/13/seminar_sungyongkim/</guid>
       <description>Van Gogh&amp;rsquo;s Starry Night으로부터 배우는 바다에서의</description>
     </item>
     
     <item>
       <title>[세미나] Prof. John Burrows (University of Bremen)</title>
-      <link>https://atmos.yonsei.ac.kr/blog/2018/04/06/seminar_burrows/</link>
+      <link>http://localhost:1313/blog/2018/04/06/seminar_burrows/</link>
       <pubDate>Fri, 06 Apr 2018 06:48:02 +0900</pubDate>
       
-      <guid>https://atmos.yonsei.ac.kr/blog/2018/04/06/seminar_burrows/</guid>
+      <guid>http://localhost:1313/blog/2018/04/06/seminar_burrows/</guid>
       <description>Observing the changing Anthropocene from space and from aircraft: GOME, SCIAMACHY, GOME2, Sentinel 5-P, and the EMeRGe campaign Prof. John</description>
     </item>
     
     <item>
       <title>[세미나] 백종진 교수님</title>
-      <link>https://atmos.yonsei.ac.kr/blog/2018/03/27/seminar_baek/</link>
+      <link>http://localhost:1313/blog/2018/03/27/seminar_baek/</link>
       <pubDate>Tue, 27 Mar 2018 06:48:02 +0900</pubDate>
       
-      <guid>https://atmos.yonsei.ac.kr/blog/2018/03/27/seminar_baek/</guid>
+      <guid>http://localhost:1313/blog/2018/03/27/seminar_baek/</guid>
       <description>도시 흐름, 대류 및 분산 (Urban Flow, Convection, and Dispersion) 백종진 교수</description>
     </item>
     
     <item>
       <title>[세미나] Prof. Myung-in Lee</title>
-      <link>https://atmos.yonsei.ac.kr/blog/2018/03/18/seminar_leemyungin/</link>
+      <link>http://localhost:1313/blog/2018/03/18/seminar_leemyungin/</link>
       <pubDate>Sun, 18 Mar 2018 12:49:47 +0900</pubDate>
       
-      <guid>https://atmos.yonsei.ac.kr/blog/2018/03/18/seminar_leemyungin/</guid>
+      <guid>http://localhost:1313/blog/2018/03/18/seminar_leemyungin/</guid>
       <description>Korean Heatwaves and Their Association with Large-scale Atmospheric Circulation Patterns Prof. Myong-In Lee (Ulsan National Institute of Science and Technology)</description>
     </item>
     
     <item>
       <title>[세미나] Prof. Michael L. Kaplan</title>
-      <link>https://atmos.yonsei.ac.kr/blog/2018/03/17/seminar_kaplan/</link>
+      <link>http://localhost:1313/blog/2018/03/17/seminar_kaplan/</link>
       <pubDate>Sat, 17 Mar 2018 18:04:13 +0900</pubDate>
       
-      <guid>https://atmos.yonsei.ac.kr/blog/2018/03/17/seminar_kaplan/</guid>
+      <guid>http://localhost:1313/blog/2018/03/17/seminar_kaplan/</guid>
       <description>The Unbalanced Dynamics of Deep Jet Streaks Above Developing Surface Inverted Troughs Prof. Michael L. Kaplan (Desert Research Institute) 2</description>
     </item>
     
