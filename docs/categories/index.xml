@@ -2,44 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on 연세대학교 대기과학과</title>
-    <link>http://localhost:1313/categories/</link>
+    <link>https://atmos.yonsei.ac.kr/categories/</link>
     <description>Recent content in Categories on 연세대학교 대기과학과</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko</language>
-    <lastBuildDate>Tue, 27 Sep 2022 16:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 20 Sep 2022 07:00:00 +0000</lastBuildDate><atom:link href="https://atmos.yonsei.ac.kr/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>세미나</title>
-      <link>http://localhost:1313/categories/%EC%84%B8%EB%AF%B8%EB%82%98/</link>
-      <pubDate>Tue, 27 Sep 2022 16:00:00 +0000</pubDate>
+      <link>https://atmos.yonsei.ac.kr/categories/%EC%84%B8%EB%AF%B8%EB%82%98/</link>
+      <pubDate>Tue, 20 Sep 2022 07:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/categories/%EC%84%B8%EB%AF%B8%EB%82%98/</guid>
+      <guid>https://atmos.yonsei.ac.kr/categories/%EC%84%B8%EB%AF%B8%EB%82%98/</guid>
       <description></description>
     </item>
     
     <item>
       <title>공지사항</title>
-      <link>http://localhost:1313/categories/%EA%B3%B5%EC%A7%80%EC%82%AC%ED%95%AD/</link>
+      <link>https://atmos.yonsei.ac.kr/categories/%EA%B3%B5%EC%A7%80%EC%82%AC%ED%95%AD/</link>
       <pubDate>Sun, 04 Sep 2022 15:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/categories/%EA%B3%B5%EC%A7%80%EC%82%AC%ED%95%AD/</guid>
+      <guid>https://atmos.yonsei.ac.kr/categories/%EA%B3%B5%EC%A7%80%EC%82%AC%ED%95%AD/</guid>
       <description></description>
     </item>
     
     <item>
       <title>새소식</title>
-      <link>http://localhost:1313/categories/%EC%83%88%EC%86%8C%EC%8B%9D/</link>
+      <link>https://atmos.yonsei.ac.kr/categories/%EC%83%88%EC%86%8C%EC%8B%9D/</link>
       <pubDate>Sun, 04 Sep 2022 15:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/categories/%EC%83%88%EC%86%8C%EC%8B%9D/</guid>
+      <guid>https://atmos.yonsei.ac.kr/categories/%EC%83%88%EC%86%8C%EC%8B%9D/</guid>
       <description></description>
     </item>
     
     <item>
       <title>채용공고</title>
-      <link>http://localhost:1313/categories/%EC%B1%84%EC%9A%A9%EA%B3%B5%EA%B3%A0/</link>
+      <link>https://atmos.yonsei.ac.kr/categories/%EC%B1%84%EC%9A%A9%EA%B3%B5%EA%B3%A0/</link>
       <pubDate>Sun, 03 Jul 2022 15:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/categories/%EC%B1%84%EC%9A%A9%EA%B3%B5%EA%B3%A0/</guid>
+      <guid>https://atmos.yonsei.ac.kr/categories/%EC%B1%84%EC%9A%A9%EA%B3%B5%EA%B3%A0/</guid>
       <description></description>
     </item>
     
