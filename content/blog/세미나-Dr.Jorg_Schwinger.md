@@ -6,7 +6,7 @@ icon = "microphone"
 title = "[세미나] Dr. Jörg Schwinger"
 
 +++
-### emit now, mitigate later? Earth system response to overshoots of different magnitude and duration
+### Emit now, mitigate later? Earth system response to overshoots of different magnitude and duration
 
 #### Dr. Jörg Schwinger
 
