@@ -115,9 +115,10 @@ summarylength = 20
 #    pre = "<i class='fab fa-2x fa-facebook'></i>"
     url = "https://www.facebook.com/%EC%97%B0%EC%84%B8%EB%8C%80%ED%95%99%EA%B5%90-%EB%8C%80%EA%B8%B0%EA%B3%BC%ED%95%99%EA%B3%BC-111926883780249/?modal=admin_todo_tour"
     #url = "http://facebook.com"
-    pre = "<i class='fa fa-facebook'></i>"
+#    pre = "<i class='fa fa-facebook'></i>"
 #pre = "<i class='fa fa-facebook-square'></i>"
     #pre = "<i class='fa fa-bullhorn fa-stack-1x'></i>"
+    pre = "Facebook"
 
 [params]
     viewMorePostLink = "/blog/"
