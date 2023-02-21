@@ -6,7 +6,7 @@
     <description>Recent content in faculty on 연세대학교 대기과학과</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko</language>
-    <lastBuildDate>Mon, 24 Dec 2018 13:39:46 +0200</lastBuildDate><atom:link href="https://atmos.yonsei.ac.kr/teams/faculty/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 19 Feb 2023 13:39:46 +0200</lastBuildDate><atom:link href="https://atmos.yonsei.ac.kr/teams/faculty/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>노의근</title>
       <link>https://atmos.yonsei.ac.kr/people/yignnoh/</link>
@@ -113,6 +113,15 @@
       
       <guid>https://atmos.yonsei.ac.kr/people/insunsong/</guid>
       <description>연구분야 전지구 전층대기 모델링 고층대기 대기</description>
+    </item>
+    
+    <item>
+      <title>유영희</title>
+      <link>https://atmos.yonsei.ac.kr/people/yhryu/</link>
+      <pubDate>Sun, 19 Feb 2023 13:39:46 +0200</pubDate>
+      
+      <guid>https://atmos.yonsei.ac.kr/people/yhryu/</guid>
+      <description>연구분야 Boundary layer meteorology and turbulence Air quality modeling and Air pollutants/meteorology/climate interactions Urban meteorology modeling Land/atmosphere</description>
     </item>
     
   </channel>

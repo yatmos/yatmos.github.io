@@ -56,9 +56,6 @@
     <loc>https://atmos.yonsei.ac.kr/people/jahokoo/</loc>
     <lastmod>2018-12-24T13:39:46+02:00</lastmod>
   </url><url>
-    <loc>https://atmos.yonsei.ac.kr/people/yhryu/</loc>
-    <lastmod>2023-02-19T13:39:46+02:00</lastmod>
-  </url><url>
     <loc>https://atmos.yonsei.ac.kr/people/insunsong/</loc>
     <lastmod>2018-01-24T13:39:46+02:00</lastmod>
   </url><url>
@@ -70,6 +67,9 @@
   </url><url>
     <loc>https://atmos.yonsei.ac.kr/people/jeongwookim/</loc>
     <lastmod>2016-04-09T13:39:46+02:00</lastmod>
+  </url><url>
+    <loc>https://atmos.yonsei.ac.kr/people/yhryu/</loc>
+    <lastmod>2023-02-19T13:39:46+02:00</lastmod>
   </url><url>
     <loc>https://atmos.yonsei.ac.kr/people/seungmanlee/</loc>
     <lastmod>2016-04-08T13:39:46+02:00</lastmod>
@@ -302,7 +302,7 @@
     <loc>https://atmos.yonsei.ac.kr/people/alumnidoctor/</loc>
     <lastmod>2018-03-24T13:39:46+02:00</lastmod>
   </url><url>
-    <loc>https://atmos.yonsei.ac.kr/teams/staff/</loc>
+    <loc>https://atmos.yonsei.ac.kr/teams/faculty/</loc>
     <lastmod>2023-02-19T13:39:46+02:00</lastmod>
   </url><url>
     <loc>https://atmos.yonsei.ac.kr/teams/</loc>
@@ -445,6 +445,9 @@
   </url><url>
     <loc>https://atmos.yonsei.ac.kr/blog/2022/07/11/2022-2-4/</loc>
     <lastmod>2022-07-11T15:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://atmos.yonsei.ac.kr/teams/staff/</loc>
+    <lastmod>2022-07-05T13:39:46+02:00</lastmod>
   </url><url>
     <loc>https://atmos.yonsei.ac.kr/blog/2022/07/03/new-contact-details-of-yeon-joo-new-planetary-atmospheres-groupinsouth-korea-invites-applications/</loc>
     <lastmod>2022-07-03T15:00:00+00:00</lastmod>
@@ -1390,9 +1393,6 @@
   </url><url>
     <loc>https://atmos.yonsei.ac.kr/blog/2018/12/25/notice_20181225/</loc>
     <lastmod>2018-12-25T07:57:16+09:00</lastmod>
-  </url><url>
-    <loc>https://atmos.yonsei.ac.kr/teams/faculty/</loc>
-    <lastmod>2018-12-24T13:39:46+02:00</lastmod>
   </url><url>
     <loc>https://atmos.yonsei.ac.kr/blog/2018/12/19/notice_20181219/</loc>
     <lastmod>2018-12-19T07:57:16+09:00</lastmod>

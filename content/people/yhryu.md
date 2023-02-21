@@ -1,13 +1,13 @@
 ﻿+++
 title = "유영희"
 date = "2023-02-19T13:39:46+02:00"
-teams = ["staff"]
+teams = ["faculty"]
 banner = "img/people/yhryu.jpg"
 email = "yhryu@yonsei.ac.kr"
 job = "부교수"
 phone = "02-2123-5699"
 room = "대기환경 연구실 / 과학관 540호"
-weight = 13
+weight = 14
 web = "https://sites.google.com/view/yhryu"
 +++
 
