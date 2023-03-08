@@ -15,8 +15,9 @@ weight = 50
 + Atmospheric Modeling
 
 #### 학력
-+ **B.Sc** (2021) in atmospheric sicences, Yonsei University, Seoul, Korea
 + **M.Sc** (2023) in Atmospheric Sciences, Yonsei University, Seoul, Korea
++ **B.Sc** (2021) in atmospheric sicences, Yonsei University, Seoul, Korea
+
 #### 수상내역
 
 #### 논문
