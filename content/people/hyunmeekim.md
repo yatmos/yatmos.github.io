@@ -1,5 +1,5 @@
 ﻿+++
-title = "김현미"
+title = "김현미" 
 date = "2018-04-13T13:39:46+02:00"
 teams = ["faculty"]
 banner = "img/people/hyunmeekim.jpg"
