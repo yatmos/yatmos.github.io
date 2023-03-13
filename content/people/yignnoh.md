@@ -1,12 +1,12 @@
 +++
 title = "노의근"
 date = "2018-04-17T00:39:46+02:00"
-teams = ["faculty"]
+teams = ["퇴임교수"]
 banner = "img/people/yignnoh.jpg"
 email = " noh@yonsei.ac.kr"
-job = "정교수"
-phone = "02-2123-2690"
-room = "지구물리 유체역학 연구실 / 과학관 540호"
+job = "퇴임교수(1993.3 ~ 2022.8)"
+phone = ""
+room = ""
 web = "http://gfdl.yonsei.ac.kr"
 weight = 1
 +++
