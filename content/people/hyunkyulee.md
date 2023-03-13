@@ -21,4 +21,5 @@ weight = 40
 #### 수상내역
 
 #### 논문
++ Kim, D., Shin, D. B., Kim, J., Kang, M. J., Lee, H. K., & Chun, H. Y. (2022). Differences in Satellite‐Based Latent Heating Profiles Between the 2015/2016 Disruption and Westerly Phase of the Quasi‐Biennial Oscillation. Journal of Geophysical Research: Atmospheres, 127(19), e2021JD036254
 + Lee, H.-K., Kang, M.-J., Chun, H.-Y., Kim, D., & Shin, D.-B. (2022). Characteristics of latent heating rate from GPM and convective gravity wave momentum flux calculated using the GPM data. Journal of Geophysical Research: Atmospheres, 127(17). e2022JD037003. https://doi.org/10.1029/2022JD037003

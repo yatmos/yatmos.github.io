@@ -22,7 +22,7 @@ weight = 40
 * **B.Sc** (2017) in Atmospheric Sciences, Yonsei University, Seoul, Korea
 
 #### 수상내역
-
+* Best Student Paper and Presenter award on 23rd Conference of Aviation, Range and Aerospace Meteorology (ARAM), American Meteorological Society (AMS) 2023
 * Ko et al. (2019, JGR) is selected on EOS Editor's Highlight.
 
 #### 논문

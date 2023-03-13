@@ -28,6 +28,6 @@ weight = 40
 * 우수논문장려상, 연세대학교 대학원 2018-1학기 우수 논문상 석사학위과정 자연부분에서 장려상을 수상 (2018.11.20)
 
 #### 논문
-
+* Yoo, J. H., & Chun, H. Y. (2023). Compensation between Resolved Wave Forcing and Parameterized Orographic Gravity Wave Drag in the Northern Hemisphere Winter Stratosphere Revealed in NCEP CFS Reanalysis Data. Journal of the Atmospheric Sciences, 80(2), 487-499.
 * Yoo, J.-H., T. Choi, H.-Y. Chun, Y.-H. Kim, I.-S. Song, and B.-G. Song, 2018: Inertia-gravity waves revealed in radiosonde data at Jang Bogo Station, Antarctica (74° 37′ S, 164° 13′ E): 1. Characteristics, energy, and momentum flux. J. Geophys. Res. Atmos.. 123(23), 13,305-13,331.
 * Yoo, J. H., Song, I. S., Chun, H. Y., & Song, B. G. (2020). Inertia‐gravity waves revealed in radiosonde data at Jang Bogo Station, Antarctica (74 37′ S, 164 13′ E): 2. Potential sources and their relation to inertia‐gravity waves. Journal of Geophysical Research: Atmospheres, 125(7), e2019JD032260.
