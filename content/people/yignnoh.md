@@ -1,10 +1,10 @@
 +++
 title = "노의근"
 date = "2018-04-17T00:39:46+02:00"
-teams = ["명예교수"]
+teams = ["퇴임교수"]
 banner = "img/people/yignnoh.jpg"
 email = " noh@yonsei.ac.kr"
-job = "퇴임교수(1993.3 ~ 2022.8)"
+job = "명예교수(1993.3 ~ 2022.8)"
 phone = ""
 room = ""
 web = ""
