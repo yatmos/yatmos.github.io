@@ -16,8 +16,8 @@ weight = 40
 + Polar Weather Prediction
 
 #### 학력
- + **B.Sc** (2015) in Atmospheric Sciences, Yonsei University, Seoul, Korea
- + **Ph.d.** (2023) in Atmospheric Sciences, Yonsei University, Seoul, Korea 
++ **B.Sc** (2015) in Atmospheric Sciences, Yonsei University, Seoul, Korea
++ **Ph.d.** (2023) in Atmospheric Sciences, Yonsei University, Seoul, Korea 
 
 #### 수상내역
 + (2020.02) 우수논문상 (수상기관: 연세대학교 BK21 플러스 지구대기천문사업단)
