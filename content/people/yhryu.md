@@ -6,9 +6,9 @@ banner = "img/people/yhryu.jpg"
 email = "yhryu@yonsei.ac.kr"
 job = "부교수"
 phone = "02-2123-5699"
-room = "대기환경 연구실 / 과학관 540호"
+room = "경계층기상/환경 연구실 / 과학관 540호"
 weight = 14
-web = "https://sites.google.com/view/yhryu"
+web = "blme.yonsei.ac.kr"
 +++
 
 #### 연구분야
