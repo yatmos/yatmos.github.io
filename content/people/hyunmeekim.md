@@ -33,12 +33,16 @@ weight = 5
 
 #### 담당과목
 + 자료동화
++ 대기예측
 + 기상재해
 + 환경과 대기
 + 대기역학 I, 대기역학 II 
 + 예측가능성론
 
 #### 논문
++ Terao T., S. Kanae, H. Fujinami, S. Das, A. P. Dimri, S. Dutta, K. Fujita, A. Fukushima, K.-J. Ha, M. Hirose, J. Hong, H. Kamimera, R. B. Kayastha, M. Kiguchi, K. Kikuchi, H. M. Kim, A. Kitoh, H. Kubota, W. Ma, Y. Ma, M. Mujumdar, M. I. Nodzu, T. Sato, Z. Su, S. Sugimoto, H. G. Takahashi, Y. Takaya, S. Wang, K. Yang, S. Yokoi, and J. Matsumoto, 2023: AsiaPEX: Challenges and Prospects in Asian Precipitation Research. Bulletin of the American Meteorological Society.
++ Kim, D.-H., and H. M. Kim, 2022: Deep learning for downward longwave radiative flux forecasts in the Arctic. Expert Systems With Applications, 210, 118547, https://doi.org/10.1016/j.eswa.2022.118547.
++ Yang, E.-G., H. M. Kim, and D.-H. Kim, 2022: Development of East Asia Regional Reanalysis based on advanced hybrid gain data assimilation method and evaluation with E3DVAR, ERA-5, and ERA-Interim reanalysis. Earth System Science Data, 14, 2109-2127, https://doi.org/10.5194/essd-14-2109-2022.
 + Kim, D.-H., and H. M. Kim, 2022: Effect of data assimilation in the Polar WRF with 3DVAR on the prediction of radiation, heat flux, cloud, and near surface atmospheric variables over Svalbard. Atmospheric Research, 272, 106155, https://doi.org/10.1016/j.atmosres.2022.106155.
 + Cho, M., and H. M. Kim, 2022: Effect of assimilating CO2 observations in the Korean Peninsula on the inverse modeling to estimate surface CO2 flux over Asia. PLoS ONE, 17, e0263925. https://doi.org/10.1371/journal.pone.0263925.
 + Kim, H. M., and D.-H. Kim, 2021: Effect of boundary conditions on adjoint-based forecast sensitivity observation impact in a regional model. Journal of Atmospheric and Oceanic Technology, 38, 1233-1247, doi:10.1175/JTECH-D-20-0040.1.
