@@ -16,7 +16,7 @@ weight = 40
 + AMOC
 
 #### 학력
- + **Ph. D.** (2023) in Atmospheric Sciences, Yonsei University, Seoul, Korea 
+ + **Ph.D.** (2023) in Atmospheric Sciences, Yonsei University, Seoul, Korea 
  + **M.Sc** (2019) in Atmospheric Sciences, Yonsei University, Seoul, Korea
  + **B.Sc** (2017) in Atmospheric Sciences, Physics, Yonsei University, Seoul, Korea
 
