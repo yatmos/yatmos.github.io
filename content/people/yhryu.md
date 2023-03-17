@@ -8,7 +8,7 @@ job = "부교수"
 phone = "02-2123-5699"
 room = "경계층기상/환경 연구실 / 과학관 540호"
 weight = 14
-web = "blme.yonsei.ac.kr"
+web = "https://blme.yonsei.ac.kr"
 +++
 
 #### 연구분야
