@@ -1,10 +1,10 @@
 ﻿+++
 title = "김승기"
 date = "2018-03-24T13:39:46+02:00"
-teams = ["graduate"]
+teams = ["staff"]
 banner = "img/people/kimsoongki.png"
 email = "sskk503@yonsei.ac.kr"
-job = "박사과정"
+job = "박사 후 연구원"
 phone = "010-5037-8889"
 room = "기후이론 연구실 / 첨단관 606호"
 web = "https://sites.google.com/view/skkim1"
@@ -16,13 +16,15 @@ weight = 40
 + AMOC
 
 #### 학력
+ + **Ph.D.** (2023) in Atmospheric Sciences, Yonsei University, Seoul, Korea 
  + **M.Sc** (2019) in Atmospheric Sciences, Yonsei University, Seoul, Korea
  + **B.Sc** (2017) in Atmospheric Sciences, Physics, Yonsei University, Seoul, Korea
 
 #### 수상내역
-
++ 학과우수논문상 (2023)
 
 #### 논문
++ R. Olson, S.-K. Kim, Y. Fan, S.-I. An (2022) Probabilistic projections of El Niño Southern Oscillation properties accounting for model dependence and skill, Scientific Reports, 12, 22128.
 + S.-K. Kim, J. Shin, S.-I. An, H.-J. Kim, N. Im, S.-P. Xie, J.-S. Kug, S.-W. Yeh (2022) Widespread irreversible changes in surface temperature and precipitation in response to CO2 forcing, Nature Climate Change.
 + S.-K. Kim, A. Timmermann, J.-S. Kim, R. Olson, S.-I. An (2022) A low-order dynamical model for fire-vegetation-climate interactions, Environmental Research Letters, 17, 094004. 
 + S.-I. An, H.-J. Park, S.-K. Kim, J. Shin, S.-W. Yeh, J.-S. Jug (2022) Intensity changes of Indian Ocean Dipole Mode in a Carbon Dioxide Removal Scenario, npj Climate and Atmospheric Science, 5, 20. 
