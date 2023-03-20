@@ -7,7 +7,7 @@ email = "iis04120@naver.com"
 job = "통합과정"
 phone = "02-2123-7613"
 room = "구름물리 연구실 / 과학관 530A호"
-web = "http://cloud.yonsei.ac.kr"
+web = "http://cloud.yonsei.ac.kr/wordpress/"
 weight = 40
 +++
 
