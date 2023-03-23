@@ -7,7 +7,7 @@ email = "iyna481@yonsei.ac.kr"
 job = "통합(박사)과정"
 phone = "02-2123-7613"
 room = "구름물리 연구실 / 과학관 530A호"
-web = "http://cloud.yonsei.ac.kr/wordpress/"
+web = "http://cloud.yonsei.ac.kr/"
 weight = 40
 +++
 
