@@ -14,7 +14,6 @@ $(function () {
   fullScreenContainer()
   productDetailGallery(4000)
   menuSliding()
-  menuMouseOver()
   productDetailSizes()
   utils()
   animations()
@@ -151,12 +150,6 @@ function menuSliding () {
     } else {
       $(this).find('.dropdown-menu').first().stop(true, true).hide()
     }
-  })
-}
-
-function menuMouseOver () {
-  $('.mouseover .dropdown').hover(function () {
-    $('.dropdown-toggle', this).trigger('click')
   })
 }
 
