@@ -12,8 +12,11 @@ weight = 40
 +++
 
 #### 연구분야
-+ Modeling of the land-atmosphere interface
-+ Land Surface Modeling
++ Land-atmosphere interaction
++ Climate adaptation modeling
++ Climate Change
++ Green Sahara
++ Earth system modeling
 
 #### 학력
 + **M.Sc** (2020) in Atmospheric Sciences, Yonsei University, Seoul, Korea
