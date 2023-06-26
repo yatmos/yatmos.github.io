@@ -23,6 +23,7 @@ weight = 40
 + **B.Sc** (2018) in Atmospheric Sciences, Yonsei University, Seoul, Korea
 
 #### 수상내역
-
++ (2022.12) 정성기 동문 대학원생 우수논문상 (수상기관: 연세대학교)
++ (2022.12) Seong-Gi Jeong Graduate Student Best Paper Award by Yonsei University
 #### 논문
 + Lee, J., Claussen, M., Kim, J., Hong, J. W., Song, I. S. and Hong, J. (2022). Effect of nitrogen limitation and soil biophysics on Holocene greening of the Sahara. Climate of the Past, 18(2), 313-326.
