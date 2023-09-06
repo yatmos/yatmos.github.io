@@ -1,5 +1,5 @@
 +++
-banner = "img/people/HajoonSong.png"
+banner = "img/people/hajoonsong_200x200.jpeg"
 date = 2018-09-04T11:39:46Z
 email = "hajsong@yonsei.ac.kr"
 job = "부교수"
