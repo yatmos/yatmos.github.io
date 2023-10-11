@@ -1132,6 +1132,12 @@ th.tg-sort-header::-moz-selection { background:transparent; }th.tg-sort-header::
     <td class="tg-s8ju">Understanding temporal variability of dust activity in Gobi Desert</td>
     <td class="tg-s8ju">안순일</td>
   </tr>
+  <tr>
+    <td class="tg-s8ju">김정연</td>
+    <td class="tg-s8ju">2023년 8월</td>
+    <td class="tg-s8ju">미국 서부 지역의 산불과 대류권 오존의 변화에 대한 연구</td>
+    <td class="tg-s8ju">안순일</td>
+  </tr>
     
 </table></div>
 
