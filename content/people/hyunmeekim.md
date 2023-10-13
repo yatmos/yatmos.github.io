@@ -40,6 +40,8 @@ weight = 5
 + 예측가능성론
 
 #### 논문
++ Seo, M.-G., H. M. Kim, and D.-H. Kim, 2023: Effect of atmospheric conditions and VPRM parameters on high-resolution regional CO2 simulations over East Asia. Theoretical and Applied Climatology, online published, https://doi.org/10.1007/s00704-023-04663-2.
++ Seo, M.-G., and H. M. Kim, 2023: Effect of meteorological data assimilation using 3DVAR on high-resolution simulations of atmospheric CO2 concentrations in East Asia. Atmospheric Pollution Research, 14, 101759, https://doi.org/10.1016/j.apr.2023.101759.
 + Terao T., S. Kanae, H. Fujinami, S. Das, A. P. Dimri, S. Dutta, K. Fujita, A. Fukushima, K.-J. Ha, M. Hirose, J. Hong, H. Kamimera, R. B. Kayastha, M. Kiguchi, K. Kikuchi, H. M. Kim, A. Kitoh, H. Kubota, W. Ma, Y. Ma, M. Mujumdar, M. I. Nodzu, T. Sato, Z. Su, S. Sugimoto, H. G. Takahashi, Y. Takaya, S. Wang, K. Yang, S. Yokoi, and J. Matsumoto, 2023: AsiaPEX: Challenges and Prospects in Asian Precipitation Research. Bulletin of the American Meteorological Society.
 + Kim, D.-H., and H. M. Kim, 2022: Deep learning for downward longwave radiative flux forecasts in the Arctic. Expert Systems With Applications, 210, 118547, https://doi.org/10.1016/j.eswa.2022.118547.
 + Yang, E.-G., H. M. Kim, and D.-H. Kim, 2022: Development of East Asia Regional Reanalysis based on advanced hybrid gain data assimilation method and evaluation with E3DVAR, ERA-5, and ERA-Interim reanalysis. Earth System Science Data, 14, 2109-2127, https://doi.org/10.5194/essd-14-2109-2022.

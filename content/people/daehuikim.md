@@ -20,11 +20,13 @@ weight = 40
 + **Ph.d.** (2023) in Atmospheric Sciences, Yonsei University, Seoul, Korea 
 
 #### 수상내역
++ (2023.01) 대학원 혁신 우수논문 장려상 (수상기관: 연세대학교)
 + (2020.02) 우수논문상 (수상기관: 연세대학교 BK21 플러스 지구대기천문사업단)
 + (2019.02) 우수논문상 (수상기관: 연세대학교 BK21 플러스 지구대기천문사업단)
 + (2018.12) 정성기 동문 대학원생 우수논문상 (수상기관: 연세대학교)
 
 #### 논문
++ Seo, M.-G., H. M. Kim, and D.-H. Kim, 2023: Effect of atmospheric conditions and VPRM parameters on high-resolution regional CO2 simulations over East Asia. Theoretical and Applied Climatology, online published, https://doi.org/10.1007/s00704-023-04663-2.
 + Kim, D.-H., and H. M. Kim, 2022: Deep learning for downward longwave radiative flux forecasts in the Arctic. Expert Systems With Applications, 210, 118547, https://doi.org/10.1016/j.eswa.2022.118547.
 + Kim, D.-H., and H. M. Kim, 2022: Effect of data assimilation in the Polar WRF with 3DVAR on the prediction of radiation, heat flux, cloud, and near surface atmospheric variables over Svalbard. Atmospheric Research, 272, 106155, https://doi.org/10.1016/j.atmosres.2022.106155.
 + Kim, H. M., and D.-H. Kim, 2021: Effect of boundary conditions on adjoint-based forecast sensitivity observation impact in a regional model. Journal of Atmospheric and Oceanic Technology, 38, 1233-1247, doi:10.1175/JTECH-D-20-0040.1.

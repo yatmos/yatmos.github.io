@@ -1,5 +1,5 @@
 ﻿+++
-title = "조민광"
+title = "조윤재"
 date = "2018-03-24T13:39:46+02:00"
 teams = ["graduate"]
 banner = "img/people/minkwangcho.png"
