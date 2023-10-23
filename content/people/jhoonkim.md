@@ -1,10 +1,10 @@
-﻿+++
++++
 title = "김준"
 date = "2018-04-14T13:39:46+02:00"
 teams = ["faculty"]
 banner = "img/people/jhoonkim2.jpg"
 email = "jkim2@yonsei.ac.kr"
-job = "정교수"
+job = "정교수, 연세 이윤재 펠로우"
 phone = "02-2123-5682"
 room = "대기복사 연구실 / 과학관 545호"
 web = "http://atrad.yonsei.ac.kr"
@@ -13,45 +13,43 @@ weight = 4
 
 #### 연구분야
 + 대기복사
-+ 대기환경
++ 대기환경, 기후변화
 + 위성원격탐사
 + 에어러솔 및 미량기체 원격측정 및 분석
 
 
 #### 학력
-+ **Ph.D.** (1991) 미시건대학교 (앤아버), 공과대학 대기. 우주과학
++ **Ph.D.** (1991) 미시건대학교 (앤아버), 공과대학 대기.우주과학
 + **M.S.** (1987)  미시건대학교 (앤아버), 공과대학 대기과학
 + **B.S.** (1986)  서울대학교 자연과학대학 대기과학
 
 #### 경력
-+ 2003 - 현재      :  연세대학교 대기과학과/지구환경연구소 교수
-+ 1991 - 2003    :  한국항공우주연구원(KARI) 책임연구원, 선임연구원
++ 2003 - 현재     : 연세대학교 대기과학과/지구환경연구소 교수, 연세 이윤재 펠로우
++ 1991 - 2003    : 한국항공우주연구원(KARI) 책임연구원, 선임연구원
 + 2021 - 현재     : 한국과학기술한림원 이학부 정회원
-+ 2019 - 2021     : 국가기후환경회의 (NCCA) 과학기술전문위원
-+ 2017 - 2020    :   International Radiation Commission (IRC) 위원
-+ 2017 - 현재    :  WMO (세계기상기구) GAW Urban Research Meteorology and Environment (GURME) 과학기술자문위원
-+ 2016 - 현재      : 객원편집인, Atmospheric Measurement Technique(AMT)
-+ 2016 - 2017     :  Harvard Smithonian Center for Astrophysics, Atmospheric Measurement Group 방문과학자
-+ 2015 - 2016      :  자연과학연구원 부원장
-+ 2014 - 현재    : WHO (세계보건기구) Global Platform for Air Quality and Public Health, 자문위원
-+ 2012 - 현재      :  환경위성탑재체알고리즘개발 연구단장, GEMS (Geostationary Environment Monitoring Spectrometer) Mission
-+ 2010 - 현재     :   CEOS (Committee on Earth Observing Satellites) AC-VC 위원
-+ 2009 - 2010    :  NASA Jet Propulsion Laboratory, CalTech, 과학기술고문, 미국 UCLA 방문교수
++ 2021 - 2022    : SAIT(삼성종합기술원) 미세먼지연구소장 겸 탄소포집연구소장
++ 2017 - 2020    : International Radiation Commission (IRC) 위원
++ 2017 - 현재     : WMO (세계기상기구) GAW Urban Research Meteorology and Environment (GURME) 과학기술자문위원
++ 2016 - 2017    : Harvard Smithonian Center for Astrophysics, Atmospheric Measurement Group 방문과학자
++ 2014 - 2017    : WHO (세계보건기구) Global Platform for Air Quality and Health, 자문위원
++ 2012 - 2020    : 환경위성탑재체알고리즘개발 연구단장, GEMS (Geostationary Environment Monitoring Spectrometer) Mission
++ 2010 - 현재     : CEOS (Committee on Earth Observing Satellites) AC-VC 위원
++ 2009 - 2010    : NASA Jet Propulsion Laboratory/CalTech 과학기술고문, 미국 UCLA 객원학자
 
 
 #### 수상
-+ 2019, 2013, 2012 :        연세대학교 우수강의 교수상
-+ 2018, 2017, 2016, 2015, 2014 : 연세대학교 우수업적 교수상
++ 2023           :        연세 이윤재 펠로우 교원 선정
++ 2020, 2019, 2013, 2012 :        연세대학교 우수강의 교수상
 + 2019. 4        :        정부 과학기술 포장
 + 2018. 2        :        과학기술정보통신부 한국연구재단,  이달의 과학기술인
-+ 2018. 1        :        연세대학교 공헌교수상
++ 2018. 1.       :        연세대학교 공헌교수상
 + 2017. 6        :        NASA Group Achievement Award
 
 
 #### 담당 과목
-+ 대기물리2(대기복사)
++ 대기물리2
 + 대기복사론
-+ 환경원격탐사론
++ 환경원격탐사
 
 #### 논문
 + Kim, J., and Coauthors, 2020: New Era of Air Quality Monitoring from Space: Geostationary Environment Monitoring Spectrometer (GEMS). BAMS, 101, E1–E22, https://doi.org/10.1175/BAMS-D-18-0013.1.
