@@ -38,7 +38,6 @@ weight = 4
 
 
 #### 수상
-+ 2023           :        연세 이윤재 펠로우 교원 선정
 + 2020, 2019, 2013, 2012 :        연세대학교 우수강의 교수상
 + 2019. 4        :        정부 과학기술 포장
 + 2018. 2        :        과학기술정보통신부 한국연구재단,  이달의 과학기술인
@@ -47,6 +46,7 @@ weight = 4
 
 
 #### 담당 과목
++ 대기환경
 + 대기물리2
 + 대기복사론
 + 환경원격탐사
@@ -59,3 +59,4 @@ weight = 4
 + Kim, J., J. Lee, H.C. Lee, A. Higurashi, T. Takemura, and C.H. Song (2007), Consistency of the aerosol type classification from satellite remote sensing during the ABC EAREX campaign, J. Geophys. Res., 112, D22S33, doi:10.1029/2006JD008201
 + Kim, J., C.J. Park, K.Y. Lee, D.H. Lee, Y.O. Kim, H.K. Cho, G.R. Cho, and J. H. Park (1997), Rocket soundings of ozone profiles in the stratosphere over the Korean Peninsula, J. Geophys. Res., 102, 16121.
 + 외 논문 다수 (http://atrad.yonsei.ac.kr/bbs/board.php?tbl=bbs31)
+
