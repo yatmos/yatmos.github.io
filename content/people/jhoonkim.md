@@ -4,7 +4,8 @@ date = "2018-04-14T13:39:46+02:00"
 teams = ["faculty"]
 banner = "img/people/jhoonkim2.jpg"
 email = "jkim2@yonsei.ac.kr"
-job = "정교수, 연세 이윤재 펠로우"
+job = "정교수"
+job2 = "연세 이윤재 펠로우"
 phone = "02-2123-5682"
 room = "대기복사 연구실 / 과학관 545호"
 web = "http://atrad.yonsei.ac.kr"
@@ -41,7 +42,7 @@ weight = 4
 + 2020, 2019, 2013, 2012 :        연세대학교 우수강의 교수상
 + 2019. 4        :        정부 과학기술 포장
 + 2018. 2        :        과학기술정보통신부 한국연구재단,  이달의 과학기술인
-+ 2018. 1.       :        연세대학교 공헌교수상
++ 2018. 1        :        연세대학교 공헌교수상
 + 2017. 6        :        NASA Group Achievement Award
 
 
