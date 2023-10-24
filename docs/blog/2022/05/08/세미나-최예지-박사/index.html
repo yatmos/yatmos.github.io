@@ -18,7 +18,7 @@
 
 <meta name="description" content="Site template made by devcows using hugo">
 
-<meta name="generator" content="Hugo 0.92.0" />
+<meta name="generator" content="Hugo 0.119.0">
 
 
 <link href='//fonts.googleapis.com/css?family=Roboto:400,100,100italic,300,300italic,500,700,800' rel='stylesheet' type='text/css'>
@@ -303,18 +303,11 @@
                         <p class="text-muted text-uppercase mb-small text-right">May 8, 2022</p>
 
                         <div id="post-content">
-                          
-
-<h3 id="기상-관측-자료를-활용한-인공지능-기반-기상-예측-및-분석-정보-생산-연구">기상 관측 자료를 활용한 인공지능 기반 기상 예측 및 분석 정보 생산 연구</h3>
-
+                          <h3 id="기상-관측-자료를-활용한-인공지능-기반-기상-예측-및-분석-정보-생산-연구">기상 관측 자료를 활용한 인공지능 기반 기상 예측 및 분석 정보 생산 연구</h3>
 <h4 id="최예지-박사">최예지 박사</h4>
-
-<h4 id="2022년-5월-10일-화-16-00">2022년 5월 10일 (화) 16:00</h4>
-
-<h4 id="zoom-세미나-참석-문의-ajin05-yonsei-ac-kr-조아진-조교">ZOOM (세미나 참석 문의: ajin05@yonsei.ac.kr(조아진 조교))</h4>
-
+<h4 id="2022년-5월-10일-화-1600">2022년 5월 10일 (화) 16:00</h4>
+<h4 id="zoom-세미나-참석-문의-ajin05yonseiackr조아진-조교">ZOOM (세미나 참석 문의: <a href="mailto:ajin05@yonsei.ac.kr">ajin05@yonsei.ac.kr</a>(조아진 조교))</h4>
 <h4 id="abstract">Abstract</h4>
-
 <p>기상정보는 일기의 상태나 변화를 설명하고 예측하기 위해 생산되며, 국제적으로 기준에 맞춰 표준화된 디지털 자료로 배포되고 있다. 최근 데이터를 기반으로 급속도로 확장되고 있는 기계학습과 딥러닝 기술은 다양한 종류의 대용량 디지털 자료를 보유하고 있는 기상 분야에도 적용되어 여러 연구를 통해 기상 변수의 예측 및 산출 정확도를 높일 수 있다는 가능성이 확인되고 있다. 특히, 인공지능 기법은 대용량 연구 데이터를 처리하기에 효과적이며, 비선형 관계에 있는 다차원의 데이터로부터 시공간적으로 일반화된 특징을 찾는데 탁월하기 때문에, 100PB가 넘는 대용량 기상 데이터가 수집되고 있는 시점에서 필요한 정보를 추출하고, 추출된 정보를 통합하고 해석하여 새로운 통찰을 얻는 도구로 활용될 수 있다. 본 세미나에서는 시계열 예측 모델인 LSTM기반의 PredRNN-V2를 도입하여 기상위성관측을 활용한 운량 예측 연구와 CNN기반의 U-Net 모델 구조를 활용하여 마이크로파위성 자료로부터 강우강도를 산출한 연구를 소개하고자 한다. PredRNN은 기존 LSTM에서 장기 기억을 담당하고 있는 Cell-state와 단기 기억을 담당하는 Hidden-state에 메모리 셀을 추가하여 서로 다른 양상을 띠는 시공간 데이터 분포를 각각 학습시키는 모델이며, 모델에서 활용되는 Reverse scheduled sampling은 Teacher Forcing으로 인한 인코더-디코더 간의 학습 격차를 해소하여 학습 안정도를 부여하는 모델이다. U-Net은 기상분야에서 가장 널리 활용되는 모델로 기본적으로는 CNN을 활용한 인코더-디코더 구조에 Skip-connection을 이용하여 인코더 네트워크에서 생성된 고해상도의 Feature map을 디코더에서 한 번 더 활용함으로써 pixel-level의 segmentation 성능을 크게 향상시킬 수 있음을 보인 모델이다. PredRNN과 U-Net으로 생산된 운량 예측과 강우강도 산출 결과를 이용하여 현재 시계열예측모델의 한계와 위성관측의 역변환 모델로서 딥러닝 모델의 가능성에 대해 살펴보고, 딥러닝 모델의 가장 기본이 되는 MLP (Multi-Layer Perceptron), CNN (Convolutional Neural Network), LSTM (Long Short Term Memory)을 활용하기 위해 기상 데이터을 이용하여 학습데이터를 구축하는 과정에서 필요한 기상 도메인 지식의 필요성에 대해 논의하고자 한다.</p>
 
                         </div>
@@ -398,11 +391,7 @@
 
           <h4>Contact</h4>
 
-            <br>03722
-        <br>서울특별시 서대문구 연세로 50
-        <br>연세대학교 이과대학(과학관) 528A
-        <br>+82-2-2123-8150
-        <br><strong>대기과학과</strong>
+            <!-- raw HTML omitted -->
 
             
             <a href="/about/#bottom" class="btn btn-small btn-template-main">Go to contact page</a>
