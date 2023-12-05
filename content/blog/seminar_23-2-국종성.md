@@ -3,7 +3,7 @@ banner = "/files/placeholder.png"
 categories = ["세미나"]
 date = 2023-11-14T07:00:00Z
 icon = "microphone"
-title = "[세미나] 김혜미 교수"
+title = "[세미나] 국종성 교수"
 
 +++
 ### 온실가스 증가에 대한 바다의 지연된 반격
