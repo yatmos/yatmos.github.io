@@ -7,7 +7,7 @@ email = "my9356@yonsei.ac.kr"
 job = "박사과정"
 phone = ""
 room = "기후이론 연구실 / 첨단관 307B호"
-web = "https://www.yonseictl.com/"
+web = "https://ysctl.yonsei.ac.kr/"
 weight = 40
 +++
 

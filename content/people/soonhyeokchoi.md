@@ -7,7 +7,7 @@ email = "tnsgur981130@gmail.com"
 job = "석사과정"
 phone = ""
 room = "기후이론 연구실 / 첨단관 606호"
-web = "https://www.yonseictl.com/"
+web = "https://ysctl.yonsei.ac.kr/"
 weight = 50
 +++
 
