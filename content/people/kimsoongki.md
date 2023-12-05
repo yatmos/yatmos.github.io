@@ -24,6 +24,11 @@ weight = 40
 + 학과우수논문상 (2023)
 
 #### 논문
++ S. Paik,  S.-I. An, S.-K. Min, A. D. King, S.-K. Kim (2023) Emergent constraints on future extreme precipitation intensification: From global to continental scales, Weather and Climate Extremes, 42, 100613. 
++ C. Liu, S.-I. An, F.-F. Jin, M. F. Stuecker, W. Zhang, J.-S. Kug, X. Yuan, J. Shin, A. Xue, X. Geng, S.-K. Kim (2023) ENSO skewness hysteresis and associated changes in strong El Niño under a CO2 removal scenario, npj Climate and Atmospheric Science, 6, 117.
++ C. Liu, S.-I. An, F.-F. Jin, J. Shin, J.-S. Kug, W. Zhang, M. F. Stuecker, X. Yuan, A. Xue, X. Geng, S.-K. Kim (2023) Hysteresis of the El Niño-Southern Oscillation to CO2 forcing, Science Advances, 9(31), eadh8442. 
++ S.-I. An, H.-J. Park, S.-K. Kim, W. Cai, A. Santoso, D. Kim, J.-S. Kug (2023) Main drivers of Indian Ocean Dipole asymmetry revealed by a simple IOD model, npj Climate and Atmospheric Science, 6, 93. 
++ S. K. Mondal, S.-I. An, S.-K. Min, S.-K. Kim, J. Shin, S. Paik, N. Im, C. Liu (2023) Hysteresis and irreversibility of global extreme precipitation to anthropogenic CO2  emission, Weather and Climate Extremes, 40, 100561.
 + R. Olson, S.-K. Kim, Y. Fan, S.-I. An (2022) Probabilistic projections of El Niño Southern Oscillation properties accounting for model dependence and skill, Scientific Reports, 12, 22128.
 + S.-K. Kim, J. Shin, S.-I. An, H.-J. Kim, N. Im, S.-P. Xie, J.-S. Kug, S.-W. Yeh (2022) Widespread irreversible changes in surface temperature and precipitation in response to CO2 forcing, Nature Climate Change.
 + S.-K. Kim, A. Timmermann, J.-S. Kim, R. Olson, S.-I. An (2022) A low-order dynamical model for fire-vegetation-climate interactions, Environmental Research Letters, 17, 094004. 
