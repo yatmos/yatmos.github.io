@@ -25,6 +25,14 @@ summarylength = 20
 #    [markup.goldmark.renderer]
 #      unsafe = true
 
+[markup]
+  [markup.goldmark.renderer]
+    # Needed for mermaid shortcode
+    unsafe = true
+  [markup.tableOfContents]
+    startLevel = 1
+    endLevel = 9
+
 [menu]
 
 # Main menu
