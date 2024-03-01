@@ -1,7 +1,7 @@
 +++
 banner = "/files/placeholder.png"
 categories = ["세미나"]
-date = 2024-03-01T07:00:00Z
+date = 2024-02-29T07:00:00Z
 icon = "microphone"
 title = "[세미나] Dr.Laura Judd"
 
