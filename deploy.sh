@@ -6,6 +6,7 @@ echo -e "\033[0;32mDeploying updates to GitHub...\033[0m"
 hugo # if using a theme, replace with `hugo -t <YOURTHEME>`
 
 cp CNAME docs/
+cp CNAME content/
 
 # Add changes to git.
 git add .
