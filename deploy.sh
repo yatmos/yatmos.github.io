@@ -10,10 +10,16 @@ cp CNAME docs/
 # Add changes to git.
 git add .
 
+# Commit changes.
+msg="rebuilding site `date`"
+if [ $# -eq 1 ]
+  then msg="$1"
+fi
+git commit -m "$msg"
+
+# same on content folder
 cp CNAME content/
 git add .
-
-# Commit changes.
 msg="rebuilding site `date`"
 if [ $# -eq 1 ]
   then msg="$1"
