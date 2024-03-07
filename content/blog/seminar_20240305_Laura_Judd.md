@@ -4,9 +4,9 @@ date = 2024-03-04T07:00:00+09:00
 categories = ["세미나"]
 banner = "img/placeholder.png"
 icon = "microphone"
+
 +++
 ### Unveiling new air quality perspectives with airborne and satellite measurements.
-
 
 #### Dr. Laura Judd
 
