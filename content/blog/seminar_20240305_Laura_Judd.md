@@ -2,12 +2,10 @@
 title = "[세미나] Dr.Laura Judd"
 date = 2024-02-29T07:00:00+09:00
 categories = ["세미나"]
-banner = "files/placeholder.png"
+banner = "img/placeholder.png"
 icon = "microphone"
 +++
-
 ### Unveiling new air quality perspectives with airborne and satellite measurements
-
 <br>
 #### Dr. Laura Judd
 #### 2024년 3월 5일 (화) 16:00
