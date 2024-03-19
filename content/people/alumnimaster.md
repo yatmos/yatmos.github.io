@@ -1095,6 +1095,12 @@ th.tg-sort-header::-moz-selection { background:transparent; }th.tg-sort-header::
     <td class="tg-s8ju">구자호</td>
   </tr>
   <tr>
+    <td class="tg-s8ju">김대룡</td>
+    <td class="tg-s8ju">2022년 2월</td>
+    <td class="tg-s8ju">GK-2A IR관측 기반 한반도 여름철 대류운 발생 사례 분석 및 대류운 발생 탐지 알고리즘 적용방안 연구</td>
+    <td class="tg-s8ju">신동빈</td>
+  </tr>
+  <tr>
     <td class="tg-s8ju">조원석</td>
     <td class="tg-s8ju">2022년 2월</td>
     <td class="tg-s8ju">WRF-Chem을 이용한 동아시아 지역 대기오염 모의에 대한 지형과 식생의 영향</td>
@@ -1121,6 +1127,18 @@ th.tg-sort-header::-moz-selection { background:transparent; }th.tg-sort-header::
     <td class="tg-s8ju">송하준</td>
   </tr>  
   <tr>
+    <td class="tg-s8ju">김유진</td>
+    <td class="tg-s8ju">2023년 2월</td>
+    <td class="tg-s8ju">북서태평양 해양순환 지역모델 구축 및 동해 잔차 역전 순환 분석</td>
+    <td class="tg-s8ju">송하준</td>
+  </tr>
+  <tr>
+    <td class="tg-s8ju">선우효준</td>
+    <td class="tg-s8ju">2023년 2월</td>
+    <td class="tg-s8ju">남극해에서 새 유형의 에디 분류와 에디들이 해류-바람 상호작용에 의해 받는 영향에 대한 연구</td>
+    <td class="tg-s8ju">송하준</td>
+  </tr>
+  <tr>
     <td class="tg-s8ju">이예슬</td>
     <td class="tg-s8ju">2023년 2월</td>
     <td class="tg-s8ju">고해상도 라디오존데 자료에서 드러난 하층대기의 바람과 안정도 분석 및 자기조직화지도를 이용한 불안정 사례 종관패턴 분류</td>
@@ -1138,7 +1156,48 @@ th.tg-sort-header::-moz-selection { background:transparent; }th.tg-sort-header::
     <td class="tg-s8ju">미국 서부 지역의 산불과 대류권 오존의 변화에 대한 연구</td>
     <td class="tg-s8ju">안순일</td>
   </tr>
-    
+  <tr>
+    <td class="tg-s8ju">이채형</td>
+    <td class="tg-s8ju">2023년 8월</td>
+    <td class="tg-s8ju">해수면 온도편차 지속성 증가 추세와 그의 원인 규명</td>
+    <td class="tg-s8ju">송하준</td>
+  </tr>
+  <tr>
+    <td class="tg-s8ju">이다영</td>
+    <td class="tg-s8ju">2023년 8월</td>
+    <td class="tg-s8ju">격자화 된 에어로졸의 정량적 정보를 활용한 한반도 지역 미세먼지 특성 및 영향력 분석</td>
+    <td class="tg-s8ju">구자호</td>
+  </tr>
+  <tr>
+    <td class="tg-s8ju">이나현</td>
+    <td class="tg-s8ju">2023년 8월</td>
+    <td class="tg-s8ju">위성산출물을 활용한 동남아시아 국가의 대기질 특성 파악</td>
+    <td class="tg-s8ju">구자호</td>
+  </tr>
+  <tr>
+    <td class="tg-s8ju">박효진</td>
+    <td class="tg-s8ju">2024년 2월</td>
+    <td class="tg-s8ju">Exploring the Indian Ocean Dipole through a simple IOD model</td>
+    <td class="tg-s8ju">안순일</td>
+  </tr>
+  <tr>
+    <td class="tg-s8ju">최현의</td>
+    <td class="tg-s8ju">2024년 2월</td>
+    <td class="tg-s8ju">A Surface Energy Budget Framework To Examine Abrupt Winter Artic Sea Ice Changes in a CO2 Removal Experiment</td>
+    <td class="tg-s8ju">안순일</td>
+  </tr>
+  <tr>
+    <td class="tg-s8ju">한경훈</td>
+    <td class="tg-s8ju">2024년 2월</td>
+    <td class="tg-s8ju">지역해양순환모델을 이용한 동해 미래 해양 환경 변화 분석</td>
+    <td class="tg-s8ju">송하준</td>
+  </tr>
+  <tr>
+    <td class="tg-s8ju">나성균</td>
+    <td class="tg-s8ju">2024년 2월</td>
+    <td class="tg-s8ju">한반도 지표 미세먼지 농도의 일별 변동성 분석</td>
+    <td class="tg-s8ju">구자호</td>
+  </tr>    
 </table></div>
 
 <script type="text/javascript" charset="utf-8">var TgTableSort=window.TgTableSort||function(n,t){"use strict";function r(n,t){for(var e=[],o=n.childNodes,i=0;i<o.length;++i){var u=o[i];if("."==t.substring(0,1)){var a=t.substring(1);f(u,a)&&e.push(u)}else u.nodeName.toLowerCase()==t&&e.push(u);var c=r(u,t);e=e.concat(c)}return e}function e(n,t){var e=[],o=r(n,"tr");return o.forEach(function(n){var o=r(n,"td");t>=0&&t<o.length&&e.push(o[t])}),e}function o(n){return n.textContent||n.innerText||""}function i(n){return n.innerHTML||""}function u(n,t){var r=e(n,t);return r.map(o)}function a(n,t){var r=e(n,t);return r.map(i)}function c(n){var t=n.className||"";return t.match(/\S+/g)||[]}function f(n,t){return-1!=c(n).indexOf(t)}function s(n,t){f(n,t)||(n.className+=" "+t)}function d(n,t){if(f(n,t)){var r=c(n),e=r.indexOf(t);r.splice(e,1),n.className=r.join(" ")}}function v(n){d(n,L),d(n,E)}function l(n,t,e){r(n,"."+E).map(v),r(n,"."+L).map(v),e==T?s(t,E):s(t,L)}function g(n){return function(t,r){var e=n*t.str.localeCompare(r.str);return 0==e&&(e=t.index-r.index),e}}function h(n){return function(t,r){var e=+t.str,o=+r.str;return e==o?t.index-r.index:n*(e-o)}}function m(n,t,r){var e=u(n,t),o=e.map(function(n,t){return{str:n,index:t}}),i=e&&-1==e.map(isNaN).indexOf(!0),a=i?h(r):g(r);return o.sort(a),o.map(function(n){return n.index})}function p(n,t,r,o){for(var i=f(o,E)?N:T,u=m(n,r,i),c=0;t>c;++c){var s=e(n,c),d=a(n,c);s.forEach(function(n,t){n.innerHTML=d[u[t]]})}l(n,o,i)}function x(n,t){var r=t.length;t.forEach(function(t,e){t.addEventListener("click",function(){p(n,r,e,t)}),s(t,"tg-sort-header")})}var T=1,N=-1,E="tg-sort-asc",L="tg-sort-desc";return function(t){var e=n.getElementById(t),o=r(e,"tr"),i=o.length>0?r(o[0],"td"):[];0==i.length&&(i=r(o[0],"th"));for(var u=1;u<o.length;++u){var a=r(o[u],"td");if(a.length!=i.length)return}x(e,i)}}(document);document.addEventListener("DOMContentLoaded",function(n){TgTableSort("tg-tAfjM")});</script>
