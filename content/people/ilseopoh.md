@@ -2,7 +2,7 @@
 title = "오일섭"
 date = "2018-03-24T13:39:46+02:00"
 teams = ["graduate"]
-banner = "img/people/ilseopoh.png"
+banner = "img/people/ilseopoh.jpg"
 email = "ooij47@yonsei.ac.kr"
 job = "통합과정"
 phone = "02-2123-4815"
