@@ -2,7 +2,7 @@
 title = "서승환"
 date = "2024-03-18T01:00:00+09:00"
 teams = ["graduate"]
-banner = "img/people/seunghwanseo.png"
+banner = "img/people/seunghwanseo.jpg"
 email = "chemicdwarf@yonsei.ac.kr"
 job = "통합과정(박사)"
 phone = "02-2123-7616"
