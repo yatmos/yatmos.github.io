@@ -1,14 +1,14 @@
 +++
 title = "최연주"
-date = "2018-03-24T13:39:46+02:00"
+date = "2024-03-18T01:00:00+09:00"
 teams = ["staff"]
 banner = "img/people/yeonjuchoi.png"
 email = "ywn0709@yonsei.ac.kr"
 job = "박사 후 연구원"
-phone = "02-2123-7619"
-room = "대기해양모델링 연구실 / 과학관 532호"
+phone = "02-2123-7608"
+room = "대기해양모델링 연구실 / 과학관 554A호"
 web = "http://airsea.yonsei.ac.kr"
-weight = 30
+weight = 40
 +++
 
 #### 연구분야

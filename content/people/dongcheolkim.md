@@ -1,8 +1,8 @@
 +++
 title = "김동철"
-date = "2018-03-24T13:39:46+02:00"
+date = "2024-03-18T01:00:00+09:00"
 teams = ["graduate"]
-banner = "img/people/dongcheol.png"
+banner = "img/people/dongcheolkim.jpg"
 email = "mr_cheol@yonsei.ac.kr"
 job = "박사과정"
 phone = ""
@@ -14,7 +14,7 @@ weight = 40
 #### 연구분야
 + IR-based rainfall estimation
 + Surface Solar Radiation
-+ Satellite Retrievals,
++ Satellite Retrievals
 
 #### 학력
 + **M.Sc** (2016) Atmospheric and Environmental Sciences, Gangneung-Wonju National Univ., Gangneung, Korea

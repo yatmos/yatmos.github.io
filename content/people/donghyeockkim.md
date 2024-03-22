@@ -1,8 +1,8 @@
 ﻿+++
 title = "김동혁"
-date = "2018-03-24T13:39:46+02:00"
+date = "2024-03-18T01:00:00+09:00"
 teams = ["graduate"]
-banner = "img/people/donghyeockkim.png"
+banner = "img/people/donghyeockkim.jpg"
 email = "kimbab1111@yonsei.ac.kr"
 job = "통합과정"
 phone = "-"

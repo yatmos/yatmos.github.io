@@ -40,6 +40,12 @@ weight = 5
 + 예측가능성론
 
 #### 논문
++ Cho, Y., H. M. Kim, E.-G. Yang, Y. Lee, J.-B. Lee, and S. Ha, 2024: Effect of meteorological data assimilation on regional air quality forecasts over the Korean Peninsula. Journal of Meteorological Research, accepted. doi:10.1007/s13351-024-3152-8.
++ Ha, S., R. Kumar, G. G. Pfister, Y. Lee, D. Lee, H. M. Kim, and Y.-H. Ryu, 2024: Chemical data assimilation with aqueous chemistry in WRF-Chem coupled with WRFDA (V4.4.1). Journal of Advances in Modeling Earth Systems, 16, e2023MS003928, https://doi.org/10.1029/2023MS003928.
++ Seo, M.-G., H. M. Kim, and D.-H. Kim, 2024: Effect of atmospheric conditions and VPRM parameters on high-resolution regional CO2 simulations over East Asia. Theoretical and Applied Climatology, 155, 859-877, https://doi.org/10.1007/s00704-023-04663-2.
++ Kim, D.-H., and H. M. Kim, 2024: Design of buoy observation network over the Arctic Ocean. Cold Regions Science and Technology, 218, 104087, https://doi.org/10.1016/j.coldregions.2023.104087.
++ Kim, D.-H., and H. M. Kim, 2023: Evaluation of observation impact on the meteorological forecasts associated with heat wave in 2018 over East Asia using observing system experiments. Heliyon, 9, e23064, https://doi.org/10.1016/j.heliyon.2023.e23064.
++ Seo, M.-G., and H. M. Kim, 2023: Effect of meteorological data assimilation using 3DVAR on high-resolution simulations of atmospheric CO2 concentrations in East Asia. Atmospheric Pollution Research, 14, 101759, https://doi.org/10.1016/j.apr.2023.101759.
 + Terao T., S. Kanae, H. Fujinami, S. Das, A. P. Dimri, S. Dutta, K. Fujita, A. Fukushima, K.-J. Ha, M. Hirose, J. Hong, H. Kamimera, R. B. Kayastha, M. Kiguchi, K. Kikuchi, H. M. Kim, A. Kitoh, H. Kubota, W. Ma, Y. Ma, M. Mujumdar, M. I. Nodzu, T. Sato, Z. Su, S. Sugimoto, H. G. Takahashi, Y. Takaya, S. Wang, K. Yang, S. Yokoi, and J. Matsumoto, 2023: AsiaPEX: Challenges and Prospects in Asian Precipitation Research. Bulletin of the American Meteorological Society.
 + Kim, D.-H., and H. M. Kim, 2022: Deep learning for downward longwave radiative flux forecasts in the Arctic. Expert Systems With Applications, 210, 118547, https://doi.org/10.1016/j.eswa.2022.118547.
 + Yang, E.-G., H. M. Kim, and D.-H. Kim, 2022: Development of East Asia Regional Reanalysis based on advanced hybrid gain data assimilation method and evaluation with E3DVAR, ERA-5, and ERA-Interim reanalysis. Earth System Science Data, 14, 2109-2127, https://doi.org/10.5194/essd-14-2109-2022.
@@ -94,3 +100,4 @@ weight = 5
 + Kim, H. M., M. Morgan, and R. E. Morss, 2004: Evolution of analysis error and adjoint-based sensitivities: Implications for adaptive observations.  J. Atmos. Sci., 61, 795-812.
 + Kim, H. M., 2003: A computation of adjoint-based sensitivities in a quasigeostrophic model.  Korean Journal of the Atmospheric Sciences, 6(2), 71-83.
 + Kim, H. M. and M. Morgan, 2002: Dependence of singular vector structure and evolution on the choice of norm. J. Atmos. Sci., 59, 3099-3116.
+

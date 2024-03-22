@@ -6,7 +6,7 @@
     <description>Recent content in staff on 연세대학교 대기과학과</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko</language>
-    <lastBuildDate>Tue, 05 Jul 2022 13:39:46 +0200</lastBuildDate><atom:link href="https://atmos.yonsei.ac.kr/teams/staff/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 18 Mar 2024 01:00:00 +0900</lastBuildDate><atom:link href="https://atmos.yonsei.ac.kr/teams/staff/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>박정규</title>
       <link>https://atmos.yonsei.ac.kr/people/jkpark/</link>
@@ -62,9 +62,45 @@
     </item>
     
     <item>
+      <title>김지섭</title>
+      <link>https://atmos.yonsei.ac.kr/people/jiseobkim/</link>
+      <pubDate>Mon, 18 Mar 2024 01:00:00 +0900</pubDate>
+      
+      <guid>https://atmos.yonsei.ac.kr/people/jiseobkim/</guid>
+      <description>연구분야 Remote sensing Atmospheric radiative transfer Optical properties Cloud microphysics Rainfall rate retrieval 학력 Ph.d. (2023)</description>
+    </item>
+    
+    <item>
+      <title>김효정</title>
+      <link>https://atmos.yonsei.ac.kr/people/hyojeongkim/</link>
+      <pubDate>Mon, 18 Mar 2024 01:00:00 +0900</pubDate>
+      
+      <guid>https://atmos.yonsei.ac.kr/people/hyojeongkim/</guid>
+      <description>연구분야 Climate-carbon cycle interactions Ocean circulations Low-frequency internal variabilities Climate modeling 학력 Ph.D (2022) in Atmospheric</description>
+    </item>
+    
+    <item>
+      <title>윤정희</title>
+      <link>https://atmos.yonsei.ac.kr/people/jungheeyun/</link>
+      <pubDate>Mon, 18 Mar 2024 01:00:00 +0900</pubDate>
+      
+      <guid>https://atmos.yonsei.ac.kr/people/jungheeyun/</guid>
+      <description>연구분야 Mesoscale ocean eddies Air-Sea interactions Coupled Atmosphere-Ocean Dynamics 학력 Ph.D (2023) in Atmospheric Sciences, Pusan</description>
+    </item>
+    
+    <item>
+      <title>이채형</title>
+      <link>https://atmos.yonsei.ac.kr/people/chaehyeonglee/</link>
+      <pubDate>Mon, 18 Mar 2024 01:00:00 +0900</pubDate>
+      
+      <guid>https://atmos.yonsei.ac.kr/people/chaehyeonglee/</guid>
+      <description>Research interests Air-sea interactions Persistence of sea surface temperature anomalies Education B.Sc (2022) in Atmospheric Sciences, Yonsei University, Seoul, Korea</description>
+    </item>
+    
+    <item>
       <title>최연주</title>
       <link>https://atmos.yonsei.ac.kr/people/yeonjuchoi/</link>
-      <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
+      <pubDate>Mon, 18 Mar 2024 01:00:00 +0900</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/people/yeonjuchoi/</guid>
       <description>연구분야 Mesoscale eddy Ocean Mixed Layer Large Eddy Simulation Atmospheric Boundary Layer 학력 Ph.D (2022) in</description>
