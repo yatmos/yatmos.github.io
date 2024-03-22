@@ -2,7 +2,7 @@
 title = "문준영"
 date = "2024-03-18T01:00:00+09:00"
 teams = ["graduate"]
-banner = "img/people/moonjunyeong.jpeg"
+banner = "img/people/moonjunyeong.jpg"
 email = "jy.moon@yonsei.ac.kr"
 job = "석사과정"
 phone = ""
