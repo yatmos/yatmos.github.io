@@ -16,7 +16,7 @@ weight = 40
  + Aviation Turbulence
 
 #### 학력
- + **B.Sc** (2024) in Air Transportation, Korean Aerospace University, Goyang, Korea
+ + **B.Sc** (2024) in Air Transportation, Korea Aerospace University, Goyang, Korea
 
 #### 수상내역
 
