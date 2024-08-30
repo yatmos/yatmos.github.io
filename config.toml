@@ -1,0 +1,270 @@
+baseurl = "https://atmos.yonsei.ac.kr/"
+title = "연세대학교 대기과학과"
+theme = "hugo-universal-theme"
+languageCode = "ko"
+# Site language. Available translations in the theme's `/i18n` directory.
+defaultContentLanguage = "en"
+# Enable comments by entering your Disqus shortname
+# disqusShortname = "yatmos"
+# Enable Google Analytics by entering your tracking code
+googleAnalytics = "UA-117501743-1"
+
+publishDir = "docs"
+
+hasCJKLanguage = true
+# Define the number of posts per page
+paginate = 20
+
+summarylength = 20
+
+#[markup.goldmark.renderer]
+#    unsafe = true
+
+#[markup]
+#  [markup.goldmark]
+#    [markup.goldmark.renderer]
+#      unsafe = true
+
+[markup]
+  [markup.goldmark.renderer]
+    # Needed for mermaid shortcode
+    unsafe = true
+  [markup.tableOfContents]
+    startLevel = 1
+    endLevel = 9
+
+[menu]
+
+# Main menu
+
+#[[menu.main]]
+#    name = "Home"
+#    url  = "/"
+#    weight = 1
+
+[[menu.main]]
+    name = "학과소개"
+    url  = "/about/"
+    weight = 1
+
+[[menu.main]]
+    name = "사람들"
+    identifier = "peo"
+    url  = "/people/"
+    weight = 3
+
+#[[menu.main]]
+#    name = "Faculty"
+#    parent = "peo"
+#    url  = "/people/faculty"
+#    weight = 2.1
+
+#[[menu.main]]
+#    name = "Researchers"
+#    parent = "peo"
+#    url  = "/people/researcher"
+#    weight = 2.2
+
+#[[menu.main]]
+#    name = "Students"
+#    parent = "peo"
+#    url  = "/people/students"
+#    weight = 2.3
+
+[[menu.main]]
+    name = "연구활동"
+    url  = "/research/"
+    weight = 2
+
+[[menu.main]]
+    name = "학과소식"
+    url  = "/blog/"
+    weight = 5
+
+[[menu.main]]
+    name = "학사안내"
+    identifier = "edu"
+    url  = "/education/"
+    weight = 4
+
+#[[menu.main]]
+#    name = "Undergraduate"
+#    parent = "edu"
+#    url  = "/academics/undergraduate"
+#    weight = 3.1
+
+#[[menu.main]]
+#    name = "Graduate"
+#    parent = "edu"
+#    url  = "/academics/graduate"
+#    weight = 3.2
+
+#[[menu.main]]
+#    name = "Contact"
+#    url  = "/contact/"
+#    weight = 6
+
+[[menu.topbar]]
+    weight = 1
+    name = "school"
+    url = "https://www.yonsei.ac.kr/sc/"
+    pre = "연세대학교"
+
+[[menu.topbar]]
+    weight = 3
+    name = "Language"
+    url = "https://yatmos.github.io/eng"
+    pre = "English"
+
+[[menu.topbar]]
+    weight = 2
+    name = "Facebook"
+#    url = "http://facebook.com"
+#    pre = "<i class='fab fa-2x fa-facebook'></i>"
+    url = "https://www.facebook.com/%EC%97%B0%EC%84%B8%EB%8C%80%ED%95%99%EA%B5%90-%EB%8C%80%EA%B8%B0%EA%B3%BC%ED%95%99%EA%B3%BC-111926883780249/?modal=admin_todo_tour"
+    #url = "http://facebook.com"
+#    pre = "<i class='fa fa-facebook'></i>"
+#pre = "<i class='fa fa-facebook-square'></i>"
+    #pre = "<i class='fa fa-bullhorn fa-stack-1x'></i>"
+    pre = "Facebook"
+
+[params]
+    viewMorePostLink = "/blog/"
+    author = "YAtmos"
+    defaultKeywords = ["atmos"]
+    defaultDescription = "Site template made by devcows using hugo"
+
+    # Google Maps API key (if not set will default to not passing a key.)
+    googleMapsApiKey = "AIzaSyAHcuGKNdKTQD9FNB4y1GL1mWgdzP1B2Rw"
+
+    # Style options: default (light-blue), blue, green, marsala, pink, red, turquoise, violet
+    style = "yonsei"
+
+    # Since this template is static, the contact form uses www.formspree.io as a
+    # proxy. The form makes a POST request to their servers to send the actual
+    # email. Visitors can send up to a 1000 emails each month for free.
+    #
+    # What you need to do for the setup?
+    #
+    # - set your email address under 'email' below
+    # - upload the generated site to your server
+    # - send a dummy email yourself to confirm your account
+    # - click the confirm link in the email from www.formspree.io
+    # - you're done. Happy mailing!
+    #
+    # Enable the contact form by entering your Formspree.io email
+    email = "yonseiatmos@gmail.com"
+
+    about_us = "<p>연세대학교 이과대학 대기과학과</p>"
+    copyright = "Copyright (c) 2018 - 2018, Department of Atmospheric Sciences, Yonsei University; all rights reserved."
+
+    # Format dates with Go's time formatting
+    date_format = "January 2, 2006"
+
+    # logo = "img/apple-touch-icon.png"
+    address = """<p>
+        <br>03722
+        <br>서울특별시 서대문구 연세로 50
+        <br>연세대학교 이과대학(과학관) 528A
+        <br>+82-2-2123-8150
+        <br><strong>대기과학과</strong>
+      </p>
+      """
+    latitude = "37.564044"
+    longitude = "126.934705"
+    direction = "25 Yeonhui-dong, Seodaemun-gu, Seoul, South Korea"
+
+[Permalinks]
+    blog = "/blog/:year/:month/:day/:filename/"
+
+# Enable or disable top bar with social icons
+[params.topbar]
+    enable = true
+    text = """
+      <p class="hidden-md hidden-lg"><a href="#" data-animate-hover="pulse"><i class="fa fa-phone"></i></a>
+      <a href="#" data-animate-hover="pulse"><i class="fa fa-envelope"></i></a>
+      </p>
+      """
+
+# Enable and disable widgets for the right sidebar
+[params.widgets]
+    categories = true
+    tags = false
+    search = true
+    teams = true
+
+[params.carousel]
+    enable = true
+    # All carousel items are defined in their own files. You can find example items
+    # at 'exampleSite/data/carousel'.
+    # For more informtion take a look at the README.
+
+[params.features]
+    enable = false
+    # All features are defined in their own files. You can find example items
+    # at 'exampleSite/data/features'.
+    # For more informtion take a look at the README.
+
+[params.testimonials]
+    enable = false
+    # All testimonials are defined in their own files. You can find example items
+    # at 'exampleSite/data/testimonials'.
+    # For more informtion take a look at the README.
+    title = "Testimonials"
+    subtitle = "We have worked with many clients and we always like to hear they come out from the cooperation happy and satisfied. Have a look what our clients said about us."
+
+[params.movie]
+    enable = true
+    #moviefile = "http://thenewcode.com/assets/videos/polina.mp4"
+    # iss
+    #moviefile = "img/iss.mp4"
+    #snapfile = "img/iss_ini.jpg"
+    #sourcefile = "https://youtu.be/W0LHTWG-UmQ"
+    # convection
+    moviefile = "img/convection_a.mp4"
+    snapfile = "img/convection.png"
+    sourcefile = "https://youtu.be/SetPNQCJq9s"
+
+    ##
+    #moviefile = "img/sky.mp4"
+    #snapfile = "img/sky_Moment.jpg"
+    #sourcefile = "https://youtu.be/0_jNjpVxUt0"
+    #moviefile = "img/earth2.mp4"
+    #snapfile = "img/earth2_Moment.jpg"
+    #sourcefile = "https://youtu.be/p6dtYdWPabI"
+    ##
+
+    title = "대기과학이란?"
+    subtitle = "21세기 인류가 당면한 가장 도전적인 문제인 지구환경 분야를 선도하는 대기과학은 자연과 인간의 조화로운 공존을 위해 책임 있는 해결을 제시할 수 있는 핵심 과학입니다."
+
+
+[params.topstory]
+    enable = false
+    title = 'topstory'
+
+[params.see_more]
+    enable = true
+    icon = "fa fa-paper-plane"
+    title = "학과 지원하기"
+    subtitle = "대기과학 및 지구과학의 다양한 분야에서 활발한 연구를 하고 있습니다. 여러분의 참여를 기다립니다."
+    link_url1 = "https://graduate.yonsei.ac.kr/graduate/admission/general_fall_schedule.do"
+    link_text1 = "대학원지원안내"
+    link_url2 = "education"
+    link_text2 = "학사안내"
+
+[params.clients]
+    enable = true
+    # All clients are defined in their own files. You can find example items
+    # at 'exampleSite/data/clients'.
+    # For more informtion take a look at the README.
+    title = "축하합니다."
+
+[params.recent_posts]
+    enable = true
+    title = "학과 소식 및 세미나 공지"
+    subtitle = "학과 소식과 최근 출판된 논문 관련 소식 및 세미나에 대한 공지사항입니다. 자세한 사항은 학과 소식을 참고해 주세요."
+
+[taxonomies]
+    tag = "tags"
+    category = "categories"
+    team = "teams"
