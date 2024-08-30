@@ -1,3 +1,0 @@
-<h1>Archive! Hooray...</h1>
-{{ $currentTaxonomy := index (last 1 (split (delimit (split .URL "/") "," "") ",")) 0 }}
-{{ .Pages | jsonify }}
