@@ -1,6 +1,6 @@
 ﻿+++
 title = "[세미나] 유희동 전(前) 기상청장"
-date = 2024-09-01T01:00:00+09:00
+date = 2024-08-30T01:00:00+09:00
 categories = ["세미나"]
 banner = "img/placeholder.png"
 icon = "microphone"
@@ -25,4 +25,4 @@ icon = "microphone"
 
 <br><br>
 
-붙임.[**Seminar_Poster_-_20240903_Hee-Dong_Yoo**](/files/seminar_20240903_Hee-Dong_Yoo.pdf)
+붙임.[**Seminar_Poster_-_20240903_HeeDong_Yoo**](/files/seminar_20240903_HeeDong_Yoo.pdf)
