@@ -8,7 +8,7 @@ echo -e "\033[0;32mDeploying updates to GitHub...\033[0m"
 cp CNAME docs/
 
 # Add changes to git.
-git add .
+git add -f *
 
 # Commit changes.
 msg="rebuilding site `date`"
