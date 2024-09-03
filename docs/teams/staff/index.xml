@@ -6,7 +6,7 @@
     <description>Recent content in staff on 연세대학교 대기과학과</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko</language>
-    <lastBuildDate>Mon, 18 Mar 2024 01:00:00 +0900</lastBuildDate><atom:link href="https://atmos.yonsei.ac.kr/teams/staff/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 02 Sep 2024 01:00:00 +0900</lastBuildDate><atom:link href="https://atmos.yonsei.ac.kr/teams/staff/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>박정규</title>
       <link>https://atmos.yonsei.ac.kr/people/jkpark/</link>
@@ -90,10 +90,10 @@
     
     <item>
       <title>이채형</title>
-      <link>https://atmos.yonsei.ac.kr/people/chaehyeonglee/</link>
+      <link>https://atmos.yonsei.ac.kr/people/notanymore/chaehyeonglee/</link>
       <pubDate>Mon, 18 Mar 2024 01:00:00 +0900</pubDate>
       
-      <guid>https://atmos.yonsei.ac.kr/people/chaehyeonglee/</guid>
+      <guid>https://atmos.yonsei.ac.kr/people/notanymore/chaehyeonglee/</guid>
       <description>Research interests Air-sea interactions Persistence of sea surface temperature anomalies Education B.Sc (2022) in Atmospheric Sciences, Yonsei University, Seoul, Korea</description>
     </item>
     
@@ -149,6 +149,15 @@
       
       <guid>https://atmos.yonsei.ac.kr/people/donggunoh/</guid>
       <description>연구분야 Large-eddy simulation Cloud microphysics parameterization Particle-based cloud model Turbulence 학력 Ph.D. (2023) in Atmospheric Sciences,</description>
+    </item>
+    
+    <item>
+      <title>송병권</title>
+      <link>https://atmos.yonsei.ac.kr/people/bgsong/</link>
+      <pubDate>Mon, 02 Sep 2024 01:00:00 +0900</pubDate>
+      
+      <guid>https://atmos.yonsei.ac.kr/people/bgsong/</guid>
+      <description>연구분야 The dynamics of the mesosphere and lower thermosphere (MLT) Atmospheric waves including planetary waves, gravity waves,</description>
     </item>
     
     <item>
