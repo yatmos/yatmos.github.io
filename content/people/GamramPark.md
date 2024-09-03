@@ -6,7 +6,7 @@ banner = "img/people/GamramPark.jpeg"
 email  = "gamram2@yonsei.ac.kr "
 job    = "석사"
 phone  = "010-8660-4827"
-room   = "수리대기물리연구실 / 과학관 529호"
+room   = "수리대기물리연구실 / 과학관 529A호"
 web    = "https://mapl.yonsei.ac.kr/index.html"
 weight = 40
 +++
