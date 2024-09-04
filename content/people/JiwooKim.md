@@ -12,9 +12,8 @@ weight = 40
 +++
 
 #### 연구분야
- + Upper atmospheric modeling
- + Ionosphere/upper atmosphere coupling with magnetosphere
- + Complex impacts of space weather and lower atmospheric waves on Earth's upper atmosphere
+ + Whole atmospheric modeling
+ + Complex impacts of space weather and atmospheric waves on Earth's upper atmosphere
 
 #### 학력
  + **M.Sc** (2021) in Space Science, Chungnam National University, Daejeon, Korea
