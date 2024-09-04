@@ -1,6 +1,6 @@
 +++
 title = "김지우"
-date = "2024-09-03T01:00:00+09:00"
+date = "2024-03-02T01:00:00+09:00"
 teams = ["graduate"]
 banner = "img/people/jiwookim.jpg"
 email = "jkimm@yonsei.ac.kr"

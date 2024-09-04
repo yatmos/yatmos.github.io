@@ -1,6 +1,6 @@
 +++
 title = "어회진"
-date = "2024-09-03T01:00:00+09:00"
+date = "2023-03-02T01:00:00+09:00"
 teams = ["graduate"]
 banner = "img/people/hoijinuh.jpg"
 email = "uhhoi@yonsei.ac.kr"
