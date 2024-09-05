@@ -18,4 +18,4 @@ icon = "microphone"
 
 <br>
 
-<img src="seminar_20240910_Kam.png" width="95%"/>
+<img src="files/seminar_20240910_Kam.png" width="95%">
