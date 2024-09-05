@@ -2,7 +2,7 @@
 title = "김지우"
 date = "2024-03-02T01:00:00+09:00"
 teams = ["graduate"]
-banner = "img/people/jiwookim.jpg"
+banner = "img/people/jiwookim.png"
 email = "jkimm@yonsei.ac.kr"
 job = "박사과정"
 phone = "02-2123-7627"
