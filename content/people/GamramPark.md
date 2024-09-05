@@ -17,7 +17,7 @@ weight = 40
  + Jet Wave
 
 #### 학력
- + **B.Sc** in Atmospheric Sciences, Pusan University, Busan, Korea
+ + **B.Sc**(2021) in Atmospheric Sciences, Pusan University, Busan, Korea
 
 #### 수상내역
  + 
