@@ -40,7 +40,8 @@ weight = 5
 + 예측가능성론
 
 #### 논문
-+ Cho, Y., H. M. Kim, E.-G. Yang, Y. Lee, J.-B. Lee, and S. Ha, 2024: Effect of meteorological data assimilation on regional air quality forecasts over the Korean Peninsula. Journal of Meteorological Research, accepted. doi:10.1007/s13351-024-3152-8.
++ Kim, D.-H., and H. M. Kim, 2024: Effect of microphysics scheme and data assimilation on hydrometer and radiative flux simulations in the Arctic. Royal Society Open Science, 11, 240594, https://doi.org/10.1098/rsos.240594.
++ Cho, Y., H. M. Kim, E.-G. Yang, Y. Lee, J.-B. Lee, and S. Ha, 2024: Effect of meteorological data assimilation on regional air quality forecasts over the Korean Peninsula. Journal of Meteorological Research, 38, 1-23. https://doi.org/10.1007/s13351-024-3152-8.
 + Ha, S., R. Kumar, G. G. Pfister, Y. Lee, D. Lee, H. M. Kim, and Y.-H. Ryu, 2024: Chemical data assimilation with aqueous chemistry in WRF-Chem coupled with WRFDA (V4.4.1). Journal of Advances in Modeling Earth Systems, 16, e2023MS003928, https://doi.org/10.1029/2023MS003928.
 + Seo, M.-G., H. M. Kim, and D.-H. Kim, 2024: Effect of atmospheric conditions and VPRM parameters on high-resolution regional CO2 simulations over East Asia. Theoretical and Applied Climatology, 155, 859-877, https://doi.org/10.1007/s00704-023-04663-2.
 + Kim, D.-H., and H. M. Kim, 2024: Design of buoy observation network over the Arctic Ocean. Cold Regions Science and Technology, 218, 104087, https://doi.org/10.1016/j.coldregions.2023.104087.
@@ -100,4 +101,3 @@ weight = 5
 + Kim, H. M., M. Morgan, and R. E. Morss, 2004: Evolution of analysis error and adjoint-based sensitivities: Implications for adaptive observations.  J. Atmos. Sci., 61, 795-812.
 + Kim, H. M., 2003: A computation of adjoint-based sensitivities in a quasigeostrophic model.  Korean Journal of the Atmospheric Sciences, 6(2), 71-83.
 + Kim, H. M. and M. Morgan, 2002: Dependence of singular vector structure and evolution on the choice of norm. J. Atmos. Sci., 59, 3099-3116.
-
