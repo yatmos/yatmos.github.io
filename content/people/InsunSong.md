@@ -19,9 +19,10 @@ web = "https://mapl.yonsei.ac.kr"
 #### 학력
 + **Ph.D.** (2005) Department of Atmospheric Sciences, Yonsei University, Seoul, Korea
 + **M.S.** (1999) Department of Atmospheric Sciences, Yonsei University, Seoul, Korea
-+ **B.S.** (1997)  Department of Atmospheric Sciences, Yonsei University, Seoul, Korea
++ **B.S.** (1997) Department of Atmospheric Sciences, Yonsei University, Seoul, Korea
 
 #### 연구경력
++ 2021-current : Associate Professor, Yonsei University
 + 2015-2021: Postdoctoral scientist, Korea Polar Research Institute
 + 2011-2015: Korea Institute of Atmospheric Prediction Systems
 + 2007-2011: Global Modeling and Assimilation Office, NASA GSFC

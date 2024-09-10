@@ -17,10 +17,11 @@ weight = 40
 #### 학력
 + **B.Sc**(2011) in Applied Meteorology (AOC Fligh Weather), Embry-Riddle Aeronautical University, FL, U.S.
 
-#### 경력
-+ (2014-2024) 제주항공 학술훈련팀 학술교관
-+ (2013-2014) 제주항공 운항기술팀
-+ (2012-2013) 케이웨더 해외사업팀
+#### 수상내역
+ + (2023) 제주항공 창립 19주년 표창
+ + (2021) 제주항공 창립 16주년 표창
+ + (2018) 제주항공 New Standard Award
+ + (2015) 제주항공 핵심가치상
 
 #### 논문
 + 
