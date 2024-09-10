@@ -1186,6 +1186,12 @@ th.tg-sort-header::-moz-selection { background:transparent; }th.tg-sort-header::
     <td class="tg-s8ju">위성산출물을 활용한 동남아시아 국가의 대기질 특성 파악</td>
     <td class="tg-s8ju">구자호</td>
   </tr>
+    <tr>
+    <td class="tg-s8ju">나성균</td>
+    <td class="tg-s8ju">2024년 2월</td>
+    <td class="tg-s8ju">한반도 지표 미세먼지 농도의 일별 변동성 분석</td>
+    <td class="tg-s8ju">구자호</td>
+  </tr>  
   <tr>
     <td class="tg-s8ju">박효진</td>
     <td class="tg-s8ju">2024년 2월</td>
@@ -1199,24 +1205,18 @@ th.tg-sort-header::-moz-selection { background:transparent; }th.tg-sort-header::
     <td class="tg-s8ju">안순일</td>
   </tr>
   <tr>
-    <td class="tg-s8ju">한경훈</td>
-    <td class="tg-s8ju">2024년 2월</td>
-    <td class="tg-s8ju">지역해양순환모델을 이용한 동해 미래 해양 환경 변화 분석</td>
-    <td class="tg-s8ju">송하준</td>
-  </tr>
-  <tr>
-    <td class="tg-s8ju">나성균</td>
-    <td class="tg-s8ju">2024년 2월</td>
-    <td class="tg-s8ju">한반도 지표 미세먼지 농도의 일별 변동성 분석</td>
-    <td class="tg-s8ju">구자호</td>
-  </tr>    
-  <tr>
     <td class="tg-s8ju">유승민</td>
     <td class="tg-s8ju">2024년 2월</td>
     <td class="tg-s8ju">Analyzing Forecasting Skill and Error Growth of Neural Network-based Global Atmospheric Model Using Ideal Atmospheric Simulations</td>
     <td class="tg-s8ju">박상훈</td>
   </tr>
   <tr>
+    <td class="tg-s8ju">한경훈</td>
+    <td class="tg-s8ju">2024년 2월</td>
+    <td class="tg-s8ju">지역해양순환모델을 이용한 동해 미래 해양 환경 변화 분석</td>
+    <td class="tg-s8ju">송하준</td>
+  </tr>
+   <tr>
     <td class="tg-s8ju">이소정</td>
     <td class="tg-s8ju">2024년 8월</td>
     <td class="tg-s8ju">위성 자료 기반 동아시아 지역의 질소산화물 하향식 배출량 추정</td>
