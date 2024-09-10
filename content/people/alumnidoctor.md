@@ -764,7 +764,6 @@ th.tg-sort-header::-moz-selection { background:transparent; }th.tg-sort-header::
     <td class="tg-s8ju">송병권</td>
     <td class="tg-s8ju">2023년 2월</td>
     <td class="tg-s8ju">A Study on Winds and Gravity Waves in the Mesosphere and Lower Thermosphere Using Meteor Radar Observations at King Sejong Station, Antarctica</td>
-
     <td class="tg-s8ju">전혜영</td>
   </tr>    
   <tr>
