@@ -4,9 +4,9 @@ date   = "2024-09-02T01:00:00+09:00"
 teams  = ["graduate"]
 banner = "img/people/DaeunYoo.jpg"
 email  = "yoode04@yonsei.ac.kr"
-job    = "(석사)"
-phone  = "(010-2081-8290)"
-room   = "(미기상 연구실) / 과학관 533B호"
+job    = "석사과정"
+phone  = "010-2081-8290"
+room   = "미기상 연구실 / 과학관 533B호"
 web    = "https://eapl.yonsei.ac.kr/ "
 weight = 40
 +++
