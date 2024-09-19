@@ -19,4 +19,4 @@ icon = "microphone"
 <br>
 <br>
 
-<img src="seminar_20240924_Daehyun_Kang.png" width="95%">
+<img src="files/seminar_20240924_Daehyun_Kang.png" width="95%">
