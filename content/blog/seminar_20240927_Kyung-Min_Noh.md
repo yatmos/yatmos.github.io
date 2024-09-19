@@ -1,6 +1,6 @@
 ﻿+++
 title = "[세미나] 노경민 박사 (Princeton University)"
-date = 2024-09-18T01:00:00+09:00
+date = 2024-09-19T01:00:10+09:00
 categories = ["세미나"]
 banner = "img/placeholder.png"
 icon = "microphone"
@@ -18,4 +18,4 @@ icon = "microphone"
 <br>
 <br>
 
-<img src="files/seminar_20240927_Kyung-Min_Noh.png" width="95%">
+<img src="/files/seminar_20240927_Kyung-Min_Noh.png" width="95%">
