@@ -94,3 +94,15 @@ TV와 라디오에서 실시하는 기상예보과정이해와 방송기사 작�
 
 <br>
 <br>
+<br>
+
+## 대학 요람
+_ _ _
+
+[연세대학교 대학요람 바로가기]( https://www.yonsei.ac.kr/sc/support/college_bulletin.jsp)
+<br>
+
+교과과정 및 졸업요건은 입학 연도의 대학요람(각 대학별 교과과정)을 참고
+
+<br>
+<br>
