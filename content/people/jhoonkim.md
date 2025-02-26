@@ -38,7 +38,7 @@ weight = 4
 
 
 #### Awards
-+ 2024. 9.       :       Alumni Merit Award, College of Engineering, University of Michigan, Ann Arbor, MI, USA
++ 2024. 9       :        Alumni Merit Award, College of Engineering, University of Michigan, Ann Arbor, MI, USA
 + 2024, 2017     :       NASA Group Achievement Award, NASA
 + 2019. 4        :       Medal of Honor in Science and Technology, The President, Republic of Korea
 + 2018. 2        :       Contributed Professor Award, Yonsei University
