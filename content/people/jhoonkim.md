@@ -37,7 +37,6 @@ weight = 4
 + 2010 - 현재     : CEOS (Committee on Earth Observing Satellites) AC-VC 위원
 + 2009 - 2010    : NASA Jet Propulsion Laboratory/CalTech 과학기술고문, 미국 UCLA 객원학자
 
-
 #### Awards
 + 2024. 9        :        미국 미시건 대학 공과대학 Alumni Merit Award
 + 2020, 2019, 2013, 2012 :        연세대학교 우수강의 교수상
