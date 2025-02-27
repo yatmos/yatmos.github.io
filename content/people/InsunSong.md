@@ -23,10 +23,10 @@ web = "https://mapl.yonsei.ac.kr"
 
 #### 연구경력
 + 2021-current : Associate Professor, Yonsei University
-+ 2015-2021: Postdoctoral scientist, Korea Polar Research Institute
-+ 2011-2015: Korea Institute of Atmospheric Prediction Systems
-+ 2007-2011: Global Modeling and Assimilation Office, NASA GSFC
-+ 2005-2007: Institute of National Science, Yonsei University
++ 2015-2021    : Postdoctoral scientist, Korea Polar Research Institute
++ 2011-2015    : Korea Institute of Atmospheric Prediction Systems
++ 2007-2011    : Global Modeling and Assimilation Office, NASA GSFC
++ 2005-2007    : Institute of National Science, Yonsei University
 
 
 #### 담당과목
