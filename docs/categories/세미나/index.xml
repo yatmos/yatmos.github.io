@@ -6,21 +6,15 @@
     <description>Recent content in 세미나 on 연세대학교 대기과학과</description>
     <generator>Hugo</generator>
     <language>ko</language>
-<<<<<<< HEAD
-    <lastBuildDate>Sat, 15 Mar 2025 01:00:00 +0900</lastBuildDate><atom:link href="https://atmos.yonsei.ac.kr/categories/%EC%84%B8%EB%AF%B8%EB%82%98/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 15 Mar 2025 01:00:00 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/%EC%84%B8%EB%AF%B8%EB%82%98/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>[세미나] 허연숙 교수</title>
-      <link>https://atmos.yonsei.ac.kr/blog/2025/03/15/seminar_20250318/</link>
+      <link>http://localhost:1313/blog/2025/03/15/seminar_20250318/</link>
       <pubDate>Sat, 15 Mar 2025 01:00:00 +0900</pubDate>
-      
-      <guid>https://atmos.yonsei.ac.kr/blog/2025/03/15/seminar_20250318/</guid>
-      <description>Role of Buildings in Sustainable Urban Climate 2025년 03월 18일 (화</description>
+      <guid>http://localhost:1313/blog/2025/03/15/seminar_20250318/</guid>
+      <description>&lt;h3 id=&#34;role-of-buildings-in-sustainable-urban-climate&#34;&gt;Role of Buildings in Sustainable Urban Climate&lt;/h3&gt;&#xA;&lt;br&gt;&#xA;&lt;h4 id=&#34;2025년-03월-18일-화-1600&#34;&gt;2025년 03월 18일 (화) 16:00&lt;/h4&gt;&#xA;&lt;h4 id=&#34;과학관-b104호&#34;&gt;과학관 B104호&lt;/h4&gt;&#xA;&lt;h4 id=&#34;허연숙-교수-고려대학교-건축사회환경공학부&#34;&gt;허연숙 교수 (고려대학교 건축사회환경공학부)&lt;/h4&gt;&#xA;&lt;br&gt;&#xA;&lt;br&gt;&#xA;&lt;img src=&#34;http://localhost:1313/files/seminar_20250318.png&#34; width=&#34;95%&#34;&gt;&#xA;&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;</description>
     </item>
-    
-=======
-    <lastBuildDate>Fri, 07 Mar 2025 01:00:00 +0900</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/%EC%84%B8%EB%AF%B8%EB%82%98/index.xml" rel="self" type="application/rss+xml" />
->>>>>>> upstream/master
     <item>
       <title>[세미나] 노의근 교수</title>
       <link>http://localhost:1313/blog/2025/03/07/seminar_20250311/</link>
