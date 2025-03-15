@@ -36,7 +36,7 @@
 
 
 
-<link href="/css/custom.css?1742006796" rel="stylesheet">
+<link href="/css/custom.css?1742015914" rel="stylesheet">
 
 
 
@@ -318,12 +318,15 @@
 <br></p>
 </li>
 <li>
-<p><strong>전문직</strong> : 변리사 등
-<br></p>
+<p><strong>전문직</strong> : 변리사 등</p>
 </li>
 </ul>
+<!--br>
+
 <br>
+
 <br>
+
 <div class="row">
   <div class="col-xs-12 col-md-6">
     <div id="piechart"></div>
@@ -332,26 +335,26 @@
     // Load google charts
     google.charts.load('current', {'packages':['corechart']});
     google.charts.setOnLoadCallback(drawChart);
-<pre><code>// Draw the chart and set the chart values
-function drawChart() {
-  var data = google.visualization.arrayToDataTable([
-  ['분류', '명'],
-  ['국내외 연구소 및 대학 연구원', 8],
-  ['국내외 대학원', 26],
-  ['정부기관 및 공공기관', 11],
-  ['관련 산업', 3],
-  ['공군', 2]
-]);
 
-  // Optional; add a title and set the width and height of the chart
-  var options = {'title':'최근 10년간 석사 졸업생 진로', 'width':400, 'height':300, chartArea:{left:10,top:20,width:'75%',height:'100%'},legend:'right', titleTextStyle:{fontSize:14}};
+    // Draw the chart and set the chart values
+    function drawChart() {
+      var data = google.visualization.arrayToDataTable([
+      ['분류', '명'],
+      ['국내외 연구소 및 대학 연구원', 8],
+      ['국내외 대학원', 26],
+      ['정부기관 및 공공기관', 11],
+      ['관련 산업', 3],
+      ['공군', 2]
+    ]);
 
-  // Display the chart inside the &lt;div&gt; element with id=&quot;piechart&quot;
-  var chart = new google.visualization.PieChart(document.getElementById('piechart'));
-  chart.draw(data, options);
-}
-&lt;/script&gt;&lt;/div&gt;
-</code></pre>
+      // Optional; add a title and set the width and height of the chart
+      var options = {'title':'최근 10년간 석사 졸업생 진로', 'width':400, 'height':300, chartArea:{left:10,top:20,width:'75%',height:'100%'},legend:'right', titleTextStyle:{fontSize:14}};
+
+      // Display the chart inside the <div> element with id="piechart"
+      var chart = new google.visualization.PieChart(document.getElementById('piechart'));
+      chart.draw(data, options);
+    }
+    </script></div>
   <div class="col-xs-12 col-md-6">
     <div id="piechart1"></div>
     <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
@@ -359,28 +362,30 @@ function drawChart() {
     // Load google charts
     google.charts.load('current', {'packages':['corechart']});
     google.charts.setOnLoadCallback(drawChart);
-<pre><code>// Draw the chart and set the chart values
-function drawChart() {
-  var data = google.visualization.arrayToDataTable([
-  ['분류', '명'],
-  ['국내 연구소 및 대학 연구원', 21],
-  ['해외 연구소 및 대학 연구원', 14],
-  ['교수', 3],
-  ['정부기관 및 공공기관', 10]
-]);
 
-  // Optional; add a title and set the width and height of the chart
-  var options = {'title':'최근 10년간 박사 졸업생 진로', 'width':400, 'height':300, chartArea:{left:10,top:20,width:'75%',height:'100%'}, legend:'right', titleTextStyle:{fontSize:14}};
+    // Draw the chart and set the chart values
+    function drawChart() {
+      var data = google.visualization.arrayToDataTable([
+      ['분류', '명'],
+      ['국내 연구소 및 대학 연구원', 21],
+      ['해외 연구소 및 대학 연구원', 14],
+      ['교수', 3],
+      ['정부기관 및 공공기관', 10]
+    ]);
 
-  // Display the chart inside the &lt;div&gt; element with id=&quot;piechart&quot;
-  var chart = new google.visualization.PieChart(document.getElementById('piechart1'));
-  chart.draw(data, options);
-}
-&lt;/script&gt;&lt;/div&gt;
-</code></pre>
+      // Optional; add a title and set the width and height of the chart
+      var options = {'title':'최근 10년간 박사 졸업생 진로', 'width':400, 'height':300, chartArea:{left:10,top:20,width:'75%',height:'100%'}, legend:'right', titleTextStyle:{fontSize:14}};
+
+      // Display the chart inside the <div> element with id="piechart"
+      var chart = new google.visualization.PieChart(document.getElementById('piechart1'));
+      chart.draw(data, options);
+    }
+    </script></div>
 </div>
+
 <br>
-<p><a id="bottom"></a></p>
+
+<a id="bottom"></a-->
 
                 
 
