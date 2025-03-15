@@ -2,73 +2,60 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>퇴임교수 on 연세대학교 대기과학과</title>
-    <link>https://atmos.yonsei.ac.kr/teams/%ED%87%B4%EC%9E%84%EA%B5%90%EC%88%98/</link>
+    <link>http://localhost:1313/teams/%ED%87%B4%EC%9E%84%EA%B5%90%EC%88%98/</link>
     <description>Recent content in 퇴임교수 on 연세대학교 대기과학과</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>ko</language>
-    <lastBuildDate>Tue, 17 Apr 2018 00:39:46 +0200</lastBuildDate><atom:link href="https://atmos.yonsei.ac.kr/teams/%ED%87%B4%EC%9E%84%EA%B5%90%EC%88%98/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 17 Apr 2018 00:39:46 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/teams/%ED%87%B4%EC%9E%84%EA%B5%90%EC%88%98/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>노의근</title>
-      <link>https://atmos.yonsei.ac.kr/people/yignnoh/</link>
+      <link>http://localhost:1313/people/yignnoh/</link>
       <pubDate>Tue, 17 Apr 2018 00:39:46 +0200</pubDate>
-      
-      <guid>https://atmos.yonsei.ac.kr/people/yignnoh/</guid>
-      <description>연구분야 난류 유체역학 해양물리 미기상학 담당</description>
+      <guid>http://localhost:1313/people/yignnoh/</guid>
+      <description>&lt;h4 id=&#34;연구분야&#34;&gt;연구분야&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;난류&lt;/li&gt;&#xA;&lt;li&gt;유체역학&lt;/li&gt;&#xA;&lt;li&gt;해양물리&lt;/li&gt;&#xA;&lt;li&gt;미기상학&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;담당과목&#34;&gt;담당과목&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;유체역학&lt;/li&gt;&#xA;&lt;li&gt;전산유체역학&lt;/li&gt;&#xA;&lt;li&gt;미기상학&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;재임기간&#34;&gt;재임기간&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;1993년 3월 ~ 2022년 8월&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
-    
     <item>
       <title>이태영</title>
-      <link>https://atmos.yonsei.ac.kr/people/taeyounglee/</link>
+      <link>http://localhost:1313/people/taeyounglee/</link>
       <pubDate>Mon, 10 Apr 2017 13:39:46 +0200</pubDate>
-      
-      <guid>https://atmos.yonsei.ac.kr/people/taeyounglee/</guid>
-      <description>연구분야 중규모기상학 대기오염 대기모델링 담</description>
+      <guid>http://localhost:1313/people/taeyounglee/</guid>
+      <description>&lt;h4 id=&#34;연구분야&#34;&gt;연구분야&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;중규모기상학&lt;/li&gt;&#xA;&lt;li&gt;대기오염&lt;/li&gt;&#xA;&lt;li&gt;대기모델링&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;담당과목&#34;&gt;담당과목&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;대기분석&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;재임기간&#34;&gt;재임기간&lt;/h4&gt;&#xA;&lt;p&gt;1987년 3월~2017년 2월&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>조희구</title>
-      <link>https://atmos.yonsei.ac.kr/people/hikucho/</link>
+      <link>http://localhost:1313/people/hikucho/</link>
       <pubDate>Sun, 09 Apr 2017 13:39:46 +0200</pubDate>
-      
-      <guid>https://atmos.yonsei.ac.kr/people/hikucho/</guid>
-      <description>연구분야 대기복사 오존층 감시 재임기간 197</description>
+      <guid>http://localhost:1313/people/hikucho/</guid>
+      <description>&lt;h4 id=&#34;연구분야&#34;&gt;연구분야&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;대기복사&lt;/li&gt;&#xA;&lt;li&gt;오존층 감시&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;재임기간&#34;&gt;재임기간&lt;/h4&gt;&#xA;&lt;p&gt;1971년 2월~1999년 2월&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>김정우</title>
-      <link>https://atmos.yonsei.ac.kr/people/jeongwookim/</link>
+      <link>http://localhost:1313/people/jeongwookim/</link>
       <pubDate>Sat, 09 Apr 2016 13:39:46 +0200</pubDate>
-      
-      <guid>https://atmos.yonsei.ac.kr/people/jeongwookim/</guid>
-      <description>연구분야 대기역학 기후역학 재임기간 1982</description>
+      <guid>http://localhost:1313/people/jeongwookim/</guid>
+      <description>&lt;h4 id=&#34;연구분야&#34;&gt;연구분야&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;대기역학&lt;/li&gt;&#xA;&lt;li&gt;기후역학&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;재임기간&#34;&gt;재임기간&lt;/h4&gt;&#xA;&lt;p&gt;1982년 8월~2003년 2월&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>이승만</title>
-      <link>https://atmos.yonsei.ac.kr/people/seungmanlee/</link>
+      <link>http://localhost:1313/people/seungmanlee/</link>
       <pubDate>Fri, 08 Apr 2016 13:39:46 +0200</pubDate>
-      
-      <guid>https://atmos.yonsei.ac.kr/people/seungmanlee/</guid>
-      <description>연구분야 구름물리 재임기간 1979년 8월~</description>
+      <guid>http://localhost:1313/people/seungmanlee/</guid>
+      <description>&lt;h4 id=&#34;연구분야&#34;&gt;연구분야&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;구름물리&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;재임기간&#34;&gt;재임기간&lt;/h4&gt;&#xA;&lt;p&gt;1979년 8월~2001년 2월&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>김준A</title>
-      <link>https://atmos.yonsei.ac.kr/people/joonkim/</link>
+      <link>http://localhost:1313/people/joonkim/</link>
       <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
-      
-      <guid>https://atmos.yonsei.ac.kr/people/joonkim/</guid>
-      <description>학력 Ph.D., Biometeorology, University of Nebraska-Lincoln, NE, USA MS, Agricultural Meteorology, University of Nebraska-Lincoln, NE, USA BS, Atmospheric Sciences,</description>
+      <guid>http://localhost:1313/people/joonkim/</guid>
+      <description>&lt;h4 id=&#34;학력&#34;&gt;학력&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;ol start=&#34;1990&#34;&gt;&#xA;&lt;li&gt;Ph.D., Biometeorology, University of Nebraska-Lincoln, NE, USA&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;ol start=&#34;1986&#34;&gt;&#xA;&lt;li&gt;MS, Agricultural Meteorology, University of Nebraska-Lincoln, NE, USA&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;ol start=&#34;1981&#34;&gt;&#xA;&lt;li&gt;BS, Atmospheric Sciences, Yonsei University, Seoul, Korea&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;약력&#34;&gt;약력&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;ol start=&#34;2008&#34;&gt;&#xA;&lt;li&gt;4 ~ present&#x9;Chair of AsiaFlux&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;ol start=&#34;2008&#34;&gt;&#xA;&lt;li&gt;1 ~ present Editor-in-Chief, Korean Journal of Agricultural and Forest Meteorology&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;ol start=&#34;2012&#34;&gt;&#xA;&lt;li&gt;3 ~ present&#x9;Chair, Interdisciplinary Program in Agricultural and Forest Meteorology, Seoul National University&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
-    
     <item>
       <title>홍성유</title>
-      <link>https://atmos.yonsei.ac.kr/people/songyouhong/</link>
+      <link>http://localhost:1313/people/songyouhong/</link>
       <pubDate>Sun, 10 Apr 2016 13:39:46 +0200</pubDate>
-      
-      <guid>https://atmos.yonsei.ac.kr/people/songyouhong/</guid>
-      <description>연구분야 수치모델링 단기예보 계절예보 집중호</description>
+      <guid>http://localhost:1313/people/songyouhong/</guid>
+      <description>&lt;h4 id=&#34;연구분야&#34;&gt;연구분야&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;수치모델링&lt;/li&gt;&#xA;&lt;li&gt;단기예보&lt;/li&gt;&#xA;&lt;li&gt;계절예보&lt;/li&gt;&#xA;&lt;li&gt;집중호우&lt;/li&gt;&#xA;&lt;li&gt;지역기후&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;학력&#34;&gt;학력&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;서울대학교 대기과학 박사(&amp;lsquo;92)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;약력&#34;&gt;약력&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;사업단장, 한국형수치예보모델개발사업단(KIAPS)(&amp;lsquo;14~)&lt;/li&gt;&#xA;&lt;li&gt;이학부 정회원, 한국과학기술한림원(KAST)(&amp;lsquo;14~)&lt;/li&gt;&#xA;&lt;li&gt;제휴연구원, 미국대기과학연구소(NCAR)(&amp;lsquo;13~)&lt;/li&gt;&#xA;&lt;li&gt;편집자, Meteorology and Atmospheric Physics(SCI 저널)(&amp;lsquo;11~)&lt;/li&gt;&#xA;&lt;li&gt;편집장, Asia-Pacific Journal of Atmospheric Sciences(SCIE 저널)(&amp;lsquo;11~&amp;lsquo;15)&lt;/li&gt;&#xA;&lt;li&gt;부주필, Monthly Weather Review(SCI 저널)(&amp;lsquo;11~&amp;lsquo;15)&lt;/li&gt;&#xA;&lt;li&gt;객원연구원, 미국 스크립스 해양연구원(&amp;lsquo;07~&amp;lsquo;12)&lt;/li&gt;&#xA;&lt;li&gt;교수, 연세대학교 이과대학 대기과학과(&amp;lsquo;00~&amp;lsquo;17)&lt;/li&gt;&#xA;&lt;li&gt;연구원, 미국기상청(NCEP) 수치예보과(EMC)(&amp;lsquo;93~&amp;lsquo;00)&lt;/li&gt;&#xA;&lt;li&gt;연구원, 서울대학교 자연종합연구소(&amp;lsquo;92~&amp;lsquo;93)&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
-    
   </channel>
 </rss>
