@@ -6,7 +6,7 @@
     <description>Recent content on 연세대학교 대기과학과</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko</language>
-    <lastBuildDate>Fri, 07 Mar 2025 01:00:00 +0900</lastBuildDate><atom:link href="https://atmos.yonsei.ac.kr/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 15 Mar 2025 01:00:00 +0900</lastBuildDate><atom:link href="https://atmos.yonsei.ac.kr/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>노의근</title>
       <link>https://atmos.yonsei.ac.kr/people/yignnoh/</link>
@@ -300,6 +300,15 @@
       
       <guid>https://atmos.yonsei.ac.kr/people/yurilee/</guid>
       <description>연구분야 Remote sensing for precipitation estimation 학력 Ph.d. (2017) in Atmospheric Sciences, Yonsei University, Seoul, Korea</description>
+    </item>
+    
+    <item>
+      <title>김윤경</title>
+      <link>https://atmos.yonsei.ac.kr/people/yoonkyungkim/</link>
+      <pubDate>Sat, 15 Mar 2025 01:00:00 +0900</pubDate>
+      
+      <guid>https://atmos.yonsei.ac.kr/people/yoonkyungkim/</guid>
+      <description>연구분야 Wind electronical power source prediction 학력 B.Sc (2019) in Department of Environmental Science &amp;amp; Engineering,</description>
     </item>
     
     <item>
@@ -789,15 +798,6 @@
     </item>
     
     <item>
-      <title>신소정</title>
-      <link>https://atmos.yonsei.ac.kr/people/sjshin/</link>
-      <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
-      
-      <guid>https://atmos.yonsei.ac.kr/people/sjshin/</guid>
-      <description>연구분야 Climate theory analysis 학력 M.Sc (2016) in Atmospheric Sciences, Yonsei University, Seoul, Korea B.Sc (2014)</description>
-    </item>
-    
-    <item>
       <title>안다현</title>
       <link>https://atmos.yonsei.ac.kr/people/dhahyunahn/</link>
       <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
@@ -897,15 +897,6 @@
     </item>
     
     <item>
-      <title>허은숙</title>
-      <link>https://atmos.yonsei.ac.kr/people/eunsookheo/</link>
-      <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
-      
-      <guid>https://atmos.yonsei.ac.kr/people/eunsookheo/</guid>
-      <description>연구분야 El Nino-Southern Oscillation (ENSO) Arctic Sea ice Feedback process Pacific Decadal Oscillation 학력 M.Sc (2018)</description>
-    </item>
-    
-    <item>
       <title>홍재민</title>
       <link>https://atmos.yonsei.ac.kr/people/jaeminhong/</link>
       <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
@@ -933,48 +924,12 @@
     </item>
     
     <item>
-      <title>박찬</title>
-      <link>https://atmos.yonsei.ac.kr/people/chanpark/</link>
-      <pubDate>Wed, 01 Mar 2023 13:39:46 +0200</pubDate>
-      
-      <guid>https://atmos.yonsei.ac.kr/people/chanpark/</guid>
-      <description>연구분야 Atmospheric Modeling 학력 B.Sc (2014) Militrary Strategy, Korea Airforce Academy, Cheongju, Korea 수상내</description>
-    </item>
-    
-    <item>
       <title>차혜지</title>
       <link>https://atmos.yonsei.ac.kr/people/hyejicha/</link>
       <pubDate>Tue, 05 Jul 2022 13:39:46 +0200</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/people/hyejicha/</guid>
       <description>연구분야 H2O retrieval from Geostationary Environment Monitoring Spectrometer (GEMS) Inferring NOx emissions over South Korea by using</description>
-    </item>
-    
-    <item>
-      <title>김정우</title>
-      <link>https://atmos.yonsei.ac.kr/people/jeongwoo_kim/</link>
-      <pubDate>Thu, 24 Mar 2022 13:39:46 +0200</pubDate>
-      
-      <guid>https://atmos.yonsei.ac.kr/people/jeongwoo_kim/</guid>
-      <description>연구분야 Measurement and analysis of wind profile using Doppler LIDAR system 학력 B.Sc (2022) in Atmospheric</description>
-    </item>
-    
-    <item>
-      <title>신수현</title>
-      <link>https://atmos.yonsei.ac.kr/people/shshin/</link>
-      <pubDate>Wed, 24 Mar 2021 13:39:46 +0200</pubDate>
-      
-      <guid>https://atmos.yonsei.ac.kr/people/shshin/</guid>
-      <description>연구분야 ENSO teleconnection 학력 B.Sc (2023) in Atmospheric Sciences, Yonsei University, Seoul, Korea 수상내</description>
-    </item>
-    
-    <item>
-      <title>최순혁</title>
-      <link>https://atmos.yonsei.ac.kr/people/soonhyeokchoi/</link>
-      <pubDate>Wed, 24 Mar 2021 13:39:46 +0200</pubDate>
-      
-      <guid>https://atmos.yonsei.ac.kr/people/soonhyeokchoi/</guid>
-      <description>연구분야 ENSO teleconnection 학력 B.Sc (2023) in Physics, Dankook University, Korea 수상내역 논</description>
     </item>
     
     <item>
@@ -1095,21 +1050,21 @@
     </item>
     
     <item>
-      <title>한경훈</title>
-      <link>https://atmos.yonsei.ac.kr/people/kyunghunhan/</link>
-      <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
-      
-      <guid>https://atmos.yonsei.ac.kr/people/kyunghunhan/</guid>
-      <description>Research interests Ocean circulation Air-Sea interaction Education B.Sc (2017) in Computer Sciences, Korea Naval Academy, Jinhae, Korea Awards Publications</description>
-    </item>
-    
-    <item>
       <title>박사졸업생</title>
       <link>https://atmos.yonsei.ac.kr/people/alumnidoctor/</link>
       <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
       
       <guid>https://atmos.yonsei.ac.kr/people/alumnidoctor/</guid>
       <description>박사학위자 명단 .tg {border-collapse:collapse;border-spacing:0;border:none;border-color:#ccc;margin:0px auto;} .tg td{font-family:Arial, sans-serif;font-size:14px;padding:20px 6px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:#ccc;color:#333;background-color:#fff;} .tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:20px 6px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-color:#ccc;color:#333;background-color:#f0f0f0;} .tg .tg-44m2{font-weight:bold;font-size:16px;font-family:&#34;Arial</description>
+    </item>
+    
+    <item>
+      <title>[세미나] 허연숙 교수</title>
+      <link>https://atmos.yonsei.ac.kr/blog/2025/03/15/seminar_20250318/</link>
+      <pubDate>Sat, 15 Mar 2025 01:00:00 +0900</pubDate>
+      
+      <guid>https://atmos.yonsei.ac.kr/blog/2025/03/15/seminar_20250318/</guid>
+      <description>Role of Buildings in Sustainable Urban Climate 2025년 03월 18일 (화</description>
     </item>
     
     <item>
