@@ -1,0 +1,34 @@
+{{ if isset .Site.Params "movie" }}
+{{ if .Site.Params.movie.enable }}
+
+<section>
+    <div class="video-background">
+        <div class="video-foreground">
+          <iframe src="https://www.youtube.com/embed/{{ .Site.Params.movie.moviefile }}?controls=0&showinfo=0&rel=0&autoplay=1&loop=1&playlist={{ .Site.Params.movie.moviefile }}" frameborder="0" allowfullscreen></iframe>
+        </div>
+    </div>
+
+    <div class="container">
+        <div class="col-md-12">
+            <div class="vid-info">
+                <div class="heading text-center">
+	            <h2>{{ .Site.Params.movie.title }}</h2>
+                    <p>{{ .Site.Params.movie.subtitle }}</p>
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+                </div>
+            </div>
+            <div style="text-align: right;">
+            <a style="color: #fff" href="https://youtu.be/{{ .Site.Params.movie.moviefile }}" target="_blank">video source</a>
+            </div>
+        </div>
+    </div>
+
+</section>
+
+{{ end }}
+{{ end }}
