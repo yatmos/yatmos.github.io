@@ -6,8 +6,12 @@
     <description>Recent content in 사람들 on 연세대학교 대기과학과</description>
     <generator>Hugo</generator>
     <language>ko</language>
+<<<<<<< HEAD
+    <lastBuildDate>Sat, 15 Mar 2025 01:00:00 +0900</lastBuildDate><atom:link href="https://atmos.yonsei.ac.kr/people/index.xml" rel="self" type="application/rss+xml" />
+=======
     <lastBuildDate>Wed, 05 Mar 2025 13:39:46 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/people/index.xml" rel="self" type="application/rss+xml" />
+>>>>>>> upstream/master
     <item>
       <title>노의근</title>
       <link>http://localhost:1313/people/yignnoh/</link>
@@ -183,6 +187,15 @@
       <guid>http://localhost:1313/people/yurilee/</guid>
       <description>&lt;h4 id=&#34;연구분야&#34;&gt;연구분야&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Remote sensing for precipitation estimation&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;학력&#34;&gt;학력&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Ph.d.&lt;/strong&gt;  (2017) in Atmospheric Sciences, Yonsei University, Seoul, Korea&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;M.Sc&lt;/strong&gt;  (2012) in Earth Science Education, Ewha Womans University, Seoul, Korea&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;B.Sc&lt;/strong&gt;  (2010) in Earth Science Education, Ewha Womans University, Seoul, Korea&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;연구-경력&#34;&gt;연구 경력&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;2017 - current : Post Doctoral researcher, Dept. of Atmospheric Sciences, Yonsei University, Seoul, Korea&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;수상내역&#34;&gt;수상내역&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;제 1회 기상위성을 활용한 연구성과 경진대회 장려상 (2015년)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;논문&#34;&gt;논문&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Lee, Y.-R., D.-B. Shin, J.-H. Kim, and H.-S. Park, 2015: Precipitation estimation over radar gap areas based on satellite and adjacent radar observations, Atmospheric Measurement Techniques, 8, 719-728.&lt;/li&gt;&#xA;&lt;li&gt;Yoo, J.-M., Y.-R. Lee, D. Kim, S.-M. Oh, M.-J. Jeong, W.R. Stockwell, P. K. Kundu, D.-B. Shin, and S.-J. Lee, 2014: New indices for wet scavenging of air pollutants (O3, CO, NO2, SO2, and PM10) by summertime rain, Atmospheric Environment, 82, 226-237.&lt;/li&gt;&#xA;&lt;li&gt;Lee, Y.-R., J.-M. Yoo, M.-J. Jeong, Y.-I. Won, T. Hearty, and D.-B. Shin, 2013: Comparison between MODIS and AIRS/AMSU satellite-derived surface skin temperatures. Atmospheric Measurement Techniques, 6, 445-455.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
+    <item>
+      <title>김윤경</title>
+      <link>https://atmos.yonsei.ac.kr/people/yoonkyungkim/</link>
+      <pubDate>Sat, 15 Mar 2025 01:00:00 +0900</pubDate>
+      
+      <guid>https://atmos.yonsei.ac.kr/people/yoonkyungkim/</guid>
+      <description>연구분야 Wind electronical power source prediction 학력 B.Sc (2019) in Department of Environmental Science &amp;amp; Engineering,</description>
+    </item>
+    
     <item>
       <title>김도영</title>
       <link>http://localhost:1313/people/doyoungkim/</link>
@@ -562,6 +575,8 @@
       <description>&lt;h4 id=&#34;연구분야&#34;&gt;연구분야&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Passive Microwave Remote Sensing of Precipitation&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;학력&#34;&gt;학력&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;B.Sc&lt;/strong&gt; (2017) in Mathematics, University of Colorado Boulder, CO, U.S.A.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;수상내역&#34;&gt;수상내역&lt;/h4&gt;&#xA;&lt;h4 id=&#34;논문&#34;&gt;논문&lt;/h4&gt;</description>
     </item>
     <item>
+<<<<<<< HEAD
+=======
       <title>신소정</title>
       <link>http://localhost:1313/people/sjshin/</link>
       <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
@@ -569,6 +584,7 @@
       <description>&lt;h4 id=&#34;연구분야&#34;&gt;연구분야&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Climate theory analysis&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;학력&#34;&gt;학력&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;M.Sc&lt;/strong&gt; (2016) in Atmospheric Sciences, Yonsei University, Seoul, Korea&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;B.Sc&lt;/strong&gt; (2014) in Atmospheric Sciences, Yonsei University, Seoul, Korea&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;수상내역&#34;&gt;수상내역&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;2019년 한국기상학회 봄학술대회 우수논문발표상, Inter-model diversity of regional climate in 15 C and 17 C worlds&lt;/li&gt;&#xA;&lt;li&gt;우수논문상. Interdecadal change in the relationship between the North Pacific Oscillation and the Pacific Meridional Mode and its impact on ENSO. 연세대학교 BK21플러스 지구대기천문사업단장&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;논문&#34;&gt;논문&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Shin, S. J., &amp;amp; An, S. I. (2017). Interdecadal change in the relationship between the North Pacific Oscillation and the Pacific Meridional Mode and its impact on ENSO. Asia-Pacific Journal of Atmospheric Sciences, 1-14.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
+>>>>>>> upstream/master
       <title>안다현</title>
       <link>http://localhost:1313/people/dhahyunahn/</link>
       <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
@@ -646,6 +662,8 @@
       <description>&lt;h4 id=&#34;연구분야&#34;&gt;연구분야&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Data assimilation&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;학력&#34;&gt;학력&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;M.Sc&lt;/strong&gt; (2019) in Atmospheric Sciences, Yonsei University, Seoul, Korea&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;B.Sc&lt;/strong&gt; (2017) in Atmospheric Sciences, Yonsei University, Seoul, Korea&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;수상내역&#34;&gt;수상내역&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;(2018.10) 한국기상학회 가을 학술대회 환경 및 응용기상분과 우수논문발표상 (수상기관: 한국기상학회)&lt;/li&gt;&#xA;&lt;li&gt;(2024.07) 장려상, 연세대학교 2024-1학기 대학원혁신 우수논문상 학술논문부문&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;논문&#34;&gt;논문&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Cho, Y., H. M. Kim, E.-G. Yang, Y. Lee, J.-B. Lee, and S. Ha, 2024: Effect of meteorological data assimilation on regional air quality forecasts over the Korean Peninsula. Journal of Meteorological Research, 38, 1-23. &lt;a href=&#34;https://doi.org/10.1007/s13351-024-3152-8&#34;&gt;https://doi.org/10.1007/s13351-024-3152-8&lt;/a&gt;.&lt;/li&gt;&#xA;&lt;li&gt;Cho, M., and H. M. Kim, 2022: Effect of assimilating CO2 observations in the Korean Peninsula on the inverse modeling to estimate surface CO2 flux over Asia. PLoS ONE, 17, e0263925. &lt;a href=&#34;https://doi.org/10.1371/journal.pone.0263925&#34;&gt;https://doi.org/10.1371/journal.pone.0263925&lt;/a&gt;.&lt;/li&gt;&#xA;&lt;li&gt;Kim, H., H. M. Kim, M. K. Cho, J. Park, and D.-H. Kim, 2018:  Development of the aircraft CO₂ measurement data assimilation system to improve the estimation of surface CO₂ fluxes using an inverse modeling system, Atmosphere, 28(2), 1-9, doi:10.14191/Atmos.2018.28.2.1. (in Korean with English abstract)&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
+<<<<<<< HEAD
+=======
       <title>허은숙</title>
       <link>http://localhost:1313/people/eunsookheo/</link>
       <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
@@ -653,6 +671,7 @@
       <description>&lt;h4 id=&#34;연구분야&#34;&gt;연구분야&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;El Nino-Southern Oscillation (ENSO)&lt;/li&gt;&#xA;&lt;li&gt;Arctic Sea ice&lt;/li&gt;&#xA;&lt;li&gt;Feedback process&lt;/li&gt;&#xA;&lt;li&gt;Pacific Decadal Oscillation&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;학력&#34;&gt;학력&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;M.Sc&lt;/strong&gt; (2018) in Atmospheric Sciences, Yonsei University, Seoul, Korea&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;B.Sc&lt;/strong&gt; (2016) in Atmospheric Sciences, Yonsei University, Seoul, Korea&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;수상내역&#34;&gt;수상내역&lt;/h4&gt;&#xA;&lt;h4 id=&#34;논문&#34;&gt;논문&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;An, S. -I., E. S. Heo, and S. T. Kim (2017), Feedback processes responsible for intermodel diversity of ENSO variability, Geophys. Res. Lett., 44, 4272-4279.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
+>>>>>>> upstream/master
       <title>홍재민</title>
       <link>http://localhost:1313/people/jaeminhong/</link>
       <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
@@ -674,6 +693,8 @@
       <description>&lt;h4 id=&#34;연구분야&#34;&gt;연구분야&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;The dynamics of the mesosphere and lower thermosphere (MLT)&lt;/li&gt;&#xA;&lt;li&gt;Atmospheric waves including planetary waves, gravity waves, and atmospheric tides&lt;/li&gt;&#xA;&lt;li&gt;Global whole atmosphere model simulations&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;학력&#34;&gt;학력&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Ph.D.&lt;/strong&gt; (2023) in Atmospheric Sciences, Yonsei University, Seoul, South Korea&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;B.Sc&lt;/strong&gt; (2014) in Atmospheric Sciences, Yonsei University, Seoul, South Korea&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;경력&#34;&gt;경력&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Mar. 2023 - Present: Mathematical Atmospheric Physics Laboratory (MAPL), Department of Atmospheric Sciences, Yonsei University&lt;/li&gt;&#xA;&lt;li&gt;Dec. 2018 - Dec. 2021: Division of Atmospheric Sciences, Korea Polar Research Institute (KOPRI)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;논문&#34;&gt;논문&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Song, B.‐G.&lt;/strong&gt;, &amp;amp; Song, I.‐S. (2024). Coupling of long-term trends of zonal winds between the mesopause and stratosphere in southern winter. Geophysical Research Letters. 51, e2023GL107014. &lt;a href=&#34;https://doi.org/10.1029/2023GL107014&#34;&gt;https://doi.org/10.1029/2023GL107014&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Song, B.‐G.&lt;/strong&gt;, Chun, H.‐Y., Song, I.‐S., Lee, C., Kim, J.-H., &amp;amp; Jee, G. (2023). Long-term characteristics of the meteor radar winds observed at King Sejong Station, Antarctica. Journal of Geophysical Research: Atmospheres. 128, e2022JD037190. &lt;a href=&#34;https://doi.org/10.1029/2022JD037190&#34;&gt;https://doi.org/10.1029/2022JD037190&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Song, B.‐G.&lt;/strong&gt;, Song, I. ‐S., Chun, H. ‐Y., Lee, C., Kam, H., Kim, Y. H., Kang, M. ‐J., Hindley, N. P., &amp;amp; Mitchell, N. J. (2021). Activities of small‐scale gravity waves in the upper mesosphere observed from meteor radar at King Sejong Station, Antarctica (62.22°S, 58.78°W) and their potential sources. Journal of Geophysical Research: Atmospheres, 126(10), e2021JD034528. &lt;a href=&#34;https://doi.org/10.1029/2021jd034528&#34;&gt;https://doi.org/10.1029/2021jd034528&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Song, B.‐G.&lt;/strong&gt;, Chun, H.-Y., &amp;amp; Song, I.-S. (2020). Role of gravity waves in a vortex-split sudden stratospheric warming in January 2009. Journal of the Atmospheric Sciences, 77(10), 3321–3342. &lt;a href=&#34;https://doi.org/10.1175/JAS-D-20-0039.1&#34;&gt;https://doi.org/10.1175/JAS-D-20-0039.1&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
+<<<<<<< HEAD
+=======
       <title>박찬</title>
       <link>http://localhost:1313/people/chanpark/</link>
       <pubDate>Wed, 01 Mar 2023 13:39:46 +0200</pubDate>
@@ -681,6 +702,7 @@
       <description>&lt;h4 id=&#34;연구분야&#34;&gt;연구분야&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Atmospheric Modeling&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;학력&#34;&gt;학력&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;B.Sc&lt;/strong&gt; (2014) Militrary Strategy, Korea Airforce Academy, Cheongju, Korea&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;수상내역&#34;&gt;수상내역&lt;/h4&gt;&#xA;&lt;h4 id=&#34;논문&#34;&gt;논문&lt;/h4&gt;</description>
     </item>
     <item>
+>>>>>>> upstream/master
       <title>차혜지</title>
       <link>http://localhost:1313/people/hyejicha/</link>
       <pubDate>Tue, 05 Jul 2022 13:39:46 +0200</pubDate>
@@ -688,6 +710,8 @@
       <description>&lt;h4 id=&#34;연구분야&#34;&gt;연구분야&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;H2O retrieval from Geostationary Environment Monitoring Spectrometer (GEMS)&lt;/li&gt;&#xA;&lt;li&gt;Inferring NOx emissions over South Korea by using satellite NO2 data&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;학력&#34;&gt;학력&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;B.Sc&lt;/strong&gt; (2022) in Atmospheric Sciences, Yonsei University, Seoul, Korea&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;논문&#34;&gt;논문&lt;/h4&gt;</description>
     </item>
     <item>
+<<<<<<< HEAD
+=======
       <title>김정우</title>
       <link>http://localhost:1313/people/jeongwoo_kim/</link>
       <pubDate>Thu, 24 Mar 2022 13:39:46 +0200</pubDate>
@@ -709,6 +733,7 @@
       <description>&lt;h4 id=&#34;연구분야&#34;&gt;연구분야&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;ENSO teleconnection&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;학력&#34;&gt;학력&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;B.Sc&lt;/strong&gt; (2023) in Physics, Dankook University, Korea&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;수상내역&#34;&gt;수상내역&lt;/h4&gt;&#xA;&lt;h4 id=&#34;논문&#34;&gt;논문&lt;/h4&gt;</description>
     </item>
     <item>
+>>>>>>> upstream/master
       <title>최현의</title>
       <link>http://localhost:1313/people/hyeonuichoe/</link>
       <pubDate>Wed, 24 Mar 2021 13:39:46 +0200</pubDate>
@@ -800,6 +825,8 @@
       <description>&lt;h4 id=&#34;연구분야&#34;&gt;연구분야&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Air-sea interactions&lt;/li&gt;&#xA;&lt;li&gt;Air-sea coupled modeling&lt;/li&gt;&#xA;&lt;li&gt;Tropical cyclone&lt;/li&gt;&#xA;&lt;li&gt;Current Effect&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;학력&#34;&gt;학력&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;M.Sc&lt;/strong&gt; (2021) in Atmospheric Sciences, Yonsei University, Seoul, Korea&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;B.Sc&lt;/strong&gt; (2019) in Atmospheric sicences, Yonsei University, Seoul, Korea&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;수상내역&#34;&gt;수상내역&lt;/h4&gt;&#xA;&lt;h4 id=&#34;논문&#34;&gt;논문&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Cho, A., Song, H., Tak, Y. J., Yeh, S. W., An, S. I., Lee, S. M., &amp;hellip; &amp;amp; Hyun, Y. K. (2022). Atmosphere-driven cold SST biases over the western North Pacific in the GloSea5 seasonal forecast system. Climate Dynamics, 1-14.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
+<<<<<<< HEAD
+=======
       <title>한경훈</title>
       <link>http://localhost:1313/people/kyunghunhan/</link>
       <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
@@ -807,6 +834,7 @@
       <description>&lt;h4 id=&#34;research-interests&#34;&gt;Research interests&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Ocean circulation&lt;/li&gt;&#xA;&lt;li&gt;Air-Sea interaction&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;education&#34;&gt;Education&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;B.Sc&lt;/strong&gt; (2017) in Computer Sciences, Korea Naval Academy, Jinhae, Korea&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;awards&#34;&gt;Awards&lt;/h4&gt;&#xA;&lt;h4 id=&#34;publications&#34;&gt;Publications&lt;/h4&gt;</description>
     </item>
     <item>
+>>>>>>> upstream/master
       <title>박사졸업생</title>
       <link>http://localhost:1313/people/alumnidoctor/</link>
       <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>

@@ -6,6 +6,15 @@
     <description>Recent content in Categories on 연세대학교 대기과학과</description>
     <generator>Hugo</generator>
     <language>ko</language>
+<<<<<<< HEAD
+    <lastBuildDate>Sat, 15 Mar 2025 01:00:00 +0900</lastBuildDate><atom:link href="https://atmos.yonsei.ac.kr/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>세미나</title>
+      <link>https://atmos.yonsei.ac.kr/categories/%EC%84%B8%EB%AF%B8%EB%82%98/</link>
+      <pubDate>Sat, 15 Mar 2025 01:00:00 +0900</pubDate>
+      
+      <guid>https://atmos.yonsei.ac.kr/categories/%EC%84%B8%EB%AF%B8%EB%82%98/</guid>
+=======
     <lastBuildDate>Fri, 07 Mar 2025 01:00:00 +0900</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -13,6 +22,7 @@
       <link>http://localhost:1313/categories/%EC%84%B8%EB%AF%B8%EB%82%98/</link>
       <pubDate>Fri, 07 Mar 2025 01:00:00 +0900</pubDate>
       <guid>http://localhost:1313/categories/%EC%84%B8%EB%AF%B8%EB%82%98/</guid>
+>>>>>>> upstream/master
       <description></description>
     </item>
     <item>

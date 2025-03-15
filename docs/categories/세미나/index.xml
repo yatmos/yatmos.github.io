@@ -6,8 +6,21 @@
     <description>Recent content in 세미나 on 연세대학교 대기과학과</description>
     <generator>Hugo</generator>
     <language>ko</language>
+<<<<<<< HEAD
+    <lastBuildDate>Sat, 15 Mar 2025 01:00:00 +0900</lastBuildDate><atom:link href="https://atmos.yonsei.ac.kr/categories/%EC%84%B8%EB%AF%B8%EB%82%98/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[세미나] 허연숙 교수</title>
+      <link>https://atmos.yonsei.ac.kr/blog/2025/03/15/seminar_20250318/</link>
+      <pubDate>Sat, 15 Mar 2025 01:00:00 +0900</pubDate>
+      
+      <guid>https://atmos.yonsei.ac.kr/blog/2025/03/15/seminar_20250318/</guid>
+      <description>Role of Buildings in Sustainable Urban Climate 2025년 03월 18일 (화</description>
+    </item>
+    
+=======
     <lastBuildDate>Fri, 07 Mar 2025 01:00:00 +0900</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/%EC%84%B8%EB%AF%B8%EB%82%98/index.xml" rel="self" type="application/rss+xml" />
+>>>>>>> upstream/master
     <item>
       <title>[세미나] 노의근 교수</title>
       <link>http://localhost:1313/blog/2025/03/07/seminar_20250311/</link>
