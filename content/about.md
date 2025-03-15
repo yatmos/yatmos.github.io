@@ -136,7 +136,7 @@ images = "img/img_intro.jpg"
 <br>
 
 - **전문직** : 변리사 등
-<br>
+<!--br>
 
 <br>
 
@@ -200,4 +200,4 @@ images = "img/img_intro.jpg"
 
 <br>
 
-<a id="bottom"></a>
+<a id="bottom"></a-->

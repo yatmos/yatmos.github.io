@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>graduate on 연세대학교 대기과학과</title>
-    <link>https://atmos.yonsei.ac.kr/teams/graduate/</link>
-    <description>Recent content in graduate on 연세대학교 대기과학과</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Graduate on 연세대학교 대기과학과</title>
+    <link>http://localhost:1313/teams/graduate/</link>
+    <description>Recent content in Graduate on 연세대학교 대기과학과</description>
+    <generator>Hugo</generator>
     <language>ko</language>
+<<<<<<< HEAD
     <lastBuildDate>Sat, 15 Mar 2025 01:00:00 +0900</lastBuildDate><atom:link href="https://atmos.yonsei.ac.kr/teams/graduate/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>김윤경</title>
@@ -16,662 +17,585 @@
       <description>연구분야 Wind electronical power source prediction 학력 B.Sc (2019) in Department of Environmental Science &amp;amp; Engineering,</description>
     </item>
     
+=======
+    <lastBuildDate>Wed, 05 Mar 2025 13:39:46 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/teams/graduate/index.xml" rel="self" type="application/rss+xml" />
+>>>>>>> upstream/master
     <item>
       <title>김도영</title>
-      <link>https://atmos.yonsei.ac.kr/people/doyoungkim/</link>
+      <link>http://localhost:1313/people/doyoungkim/</link>
       <pubDate>Mon, 02 Sep 2024 01:00:00 +0900</pubDate>
-      
-      <guid>https://atmos.yonsei.ac.kr/people/doyoungkim/</guid>
-      <description>연구분야 In-flight weather 학력 B.Sc(2011) in Applied Meteorology (AOC Fligh Weather), Embry-Riddle Aeronautical University, FL, U.S.</description>
+      <guid>http://localhost:1313/people/doyoungkim/</guid>
+      <description>&lt;h4 id=&#34;연구분야&#34;&gt;연구분야&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;In-flight weather&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;학력&#34;&gt;학력&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;B.Sc&lt;/strong&gt;(2011) in Applied Meteorology (AOC Fligh Weather), Embry-Riddle Aeronautical University, FL, U.S.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;수상내역&#34;&gt;수상내역&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;(2024) 제주항공 창립 19주년 표창&lt;/li&gt;&#xA;&lt;li&gt;(2021) 제주항공 창립 16주년 표창&lt;/li&gt;&#xA;&lt;li&gt;(2018) 제주항공 New Standard Award&lt;/li&gt;&#xA;&lt;li&gt;(2015) 제주항공 핵심가치상&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;논문&#34;&gt;논문&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
-    
     <item>
       <title>나성균</title>
-      <link>https://atmos.yonsei.ac.kr/people/seonggyun_na/</link>
+      <link>http://localhost:1313/people/seonggyun_na/</link>
       <pubDate>Mon, 02 Sep 2024 01:00:00 +0900</pubDate>
-      
-      <guid>https://atmos.yonsei.ac.kr/people/seonggyun_na/</guid>
-      <description>연구분야 Remote Sensing for Atmospheric Chemistry Diurnal variation of surface PM2.5 학력 M.Sc (2024) in Atmospheric</description>
+      <guid>http://localhost:1313/people/seonggyun_na/</guid>
+      <description>&lt;h4 id=&#34;연구분야&#34;&gt;연구분야&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Remote Sensing for Atmospheric Chemistry&lt;/li&gt;&#xA;&lt;li&gt;Diurnal variation of surface PM2.5&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;학력&#34;&gt;학력&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;M.Sc&lt;/strong&gt; (2024) in Atmospheric Science, Yonsei University, Seoul, Korea&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;B.Sc&lt;/strong&gt; (2021) in Geography, Kyunghee university, Seoul, Korea&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;수상내역&#34;&gt;수상내역&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;2024년 한국대기환경학회 공동학술심포지움 및 학생콜로키움 (최우수 발표상)&lt;/li&gt;&#xA;&lt;li&gt;2023년 제 4회 KGU 연례학술대회 (우수 포스터상)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;논문&#34;&gt;논문&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
-    
     <item>
       <title>노수근</title>
-      <link>https://atmos.yonsei.ac.kr/people/rsk/</link>
+      <link>http://localhost:1313/people/rsk/</link>
       <pubDate>Mon, 02 Sep 2024 01:00:00 +0900</pubDate>
-      
-      <guid>https://atmos.yonsei.ac.kr/people/rsk/</guid>
-      <description>연구분야 Aerosols-meteorology interactions and Regional-scale air quality modeling 학력 M.S.(2024) in Atmospheric Sciences, Kongju National University</description>
+      <guid>http://localhost:1313/people/rsk/</guid>
+      <description>&lt;h4 id=&#34;연구분야&#34;&gt;연구분야&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Aerosols-meteorology interactions and Regional-scale air quality modeling&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;학력&#34;&gt;학력&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;M.S.&lt;/strong&gt;(2024) in Atmospheric Sciences, Kongju National University&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;B.S.&lt;/strong&gt;(2022) in Atmospheric Sciences, Kongju National University&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;수상내역&#34;&gt;수상내역&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;논문&#34;&gt;논문&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
-    
     <item>
       <title>박감람</title>
-      <link>https://atmos.yonsei.ac.kr/people/gamrampark/</link>
+      <link>http://localhost:1313/people/gamrampark/</link>
       <pubDate>Mon, 02 Sep 2024 01:00:00 +0900</pubDate>
-      
-      <guid>https://atmos.yonsei.ac.kr/people/gamrampark/</guid>
-      <description>연구분야 Polar Atmosphere Dynamics Arctic Oscillation Jet Wave 학력 B.Sc(2021) in Atmospheric Sciences, Pusan University, Busan,</description>
+      <guid>http://localhost:1313/people/gamrampark/</guid>
+      <description>&lt;h4 id=&#34;연구분야&#34;&gt;연구분야&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Polar Atmosphere Dynamics&lt;/li&gt;&#xA;&lt;li&gt;Arctic Oscillation&lt;/li&gt;&#xA;&lt;li&gt;Jet Wave&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;학력&#34;&gt;학력&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;B.Sc&lt;/strong&gt;(2021) in Atmospheric Sciences, Pusan University, Busan, Korea&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;수상내역&#34;&gt;수상내역&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;논문&#34;&gt;논문&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
-    
     <item>
       <title>박지민</title>
-      <link>https://atmos.yonsei.ac.kr/people/park_ji_min/</link>
+      <link>http://localhost:1313/people/park_ji_min/</link>
       <pubDate>Mon, 02 Sep 2024 01:00:00 +0900</pubDate>
-      
-      <guid>https://atmos.yonsei.ac.kr/people/park_ji_min/</guid>
-      <description>연구분야 Classification of Aerosol Types in Korea 학력 B.Sc (2024) in chemistry , Hannam University, Deajeon,</description>
+      <guid>http://localhost:1313/people/park_ji_min/</guid>
+      <description>&lt;h4 id=&#34;연구분야&#34;&gt;연구분야&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Classification of Aerosol Types in Korea&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;학력&#34;&gt;학력&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;B.Sc&lt;/strong&gt; (2024) in chemistry , Hannam University, Deajeon, Korea&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;수상내역&#34;&gt;수상내역&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;논문&#34;&gt;논문&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
-    
     <item>
       <title>박지원</title>
-      <link>https://atmos.yonsei.ac.kr/people/park-ji-won/</link>
+      <link>http://localhost:1313/people/park-ji-won/</link>
       <pubDate>Mon, 02 Sep 2024 01:00:00 +0900</pubDate>
-      
-      <guid>https://atmos.yonsei.ac.kr/people/park-ji-won/</guid>
-      <description>연구분야 Physicochemistry of Aerosol particle 학력 M.Sc. (2021) in Chemistry in Soongsil University, Seoul, Korea B.Sc.</description>
+      <guid>http://localhost:1313/people/park-ji-won/</guid>
+      <description>&lt;h4 id=&#34;연구분야&#34;&gt;연구분야&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Physicochemistry of Aerosol particle&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;학력&#34;&gt;학력&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;M.Sc.&lt;/strong&gt; (2021) in Chemistry in Soongsil University, Seoul, Korea&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;B.Sc.&lt;/strong&gt; (2019) in Chemistry in Soongsil University, Seoul, Korea&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;수상내역&#34;&gt;수상내역&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;논문&#34;&gt;논문&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
-    
     <item>
       <title>서예준</title>
-      <link>https://atmos.yonsei.ac.kr/people/seoyejun/</link>
+      <link>http://localhost:1313/people/seoyejun/</link>
       <pubDate>Mon, 02 Sep 2024 01:00:00 +0900</pubDate>
-      
-      <guid>https://atmos.yonsei.ac.kr/people/seoyejun/</guid>
-      <description>연구분야 Trace gas remote sensing(Nitrogen dioxide) 학력 B.Sc (2024) in Atmospheric Science, Yonsei University, Seoul, Korea</description>
+      <guid>http://localhost:1313/people/seoyejun/</guid>
+      <description>&lt;h4 id=&#34;연구분야&#34;&gt;연구분야&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Trace gas remote sensing(Nitrogen dioxide)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;학력&#34;&gt;학력&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;B.Sc&lt;/strong&gt; (2024) in Atmospheric Science, Yonsei University, Seoul, Korea&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;수상내역&#34;&gt;수상내역&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;논문&#34;&gt;논문&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
-    
     <item>
       <title>신재형</title>
-      <link>https://atmos.yonsei.ac.kr/people/shinjaehyeong/</link>
+      <link>http://localhost:1313/people/shinjaehyeong/</link>
       <pubDate>Mon, 02 Sep 2024 01:00:00 +0900</pubDate>
-      
-      <guid>https://atmos.yonsei.ac.kr/people/shinjaehyeong/</guid>
-      <description>연구분야 Gravity wave 학력 B.Sc (2024) in Atmospheric Sciences, Yonsei University, Seoul, Korea 수상내</description>
+      <guid>http://localhost:1313/people/shinjaehyeong/</guid>
+      <description>&lt;h4 id=&#34;연구분야&#34;&gt;연구분야&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Gravity wave&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;학력&#34;&gt;학력&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;B.Sc&lt;/strong&gt; (2024) in Atmospheric Sciences, Yonsei University, Seoul, Korea&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;수상내역&#34;&gt;수상내역&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;논문&#34;&gt;논문&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
-    
     <item>
       <title>안재형</title>
-      <link>https://atmos.yonsei.ac.kr/people/jaehyungahn/</link>
+      <link>http://localhost:1313/people/jaehyungahn/</link>
       <pubDate>Mon, 02 Sep 2024 01:00:00 +0900</pubDate>
-      
-      <guid>https://atmos.yonsei.ac.kr/people/jaehyungahn/</guid>
-      <description>연구분야 Air quality forecasting using deep learning 학력 B.Sc(2023) in Atmospheric Sciences &amp;amp; Applied Statistics, Yonsei</description>
+      <guid>http://localhost:1313/people/jaehyungahn/</guid>
+      <description>&lt;h4 id=&#34;연구분야&#34;&gt;연구분야&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Air quality forecasting using deep learning&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;학력&#34;&gt;학력&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;B.Sc&lt;/strong&gt;(2023) in Atmospheric Sciences &amp;amp; Applied Statistics, Yonsei University, Seoul, Korea&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;수상내역&#34;&gt;수상내역&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;논문&#34;&gt;논문&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
-    
     <item>
       <title>유다은</title>
-      <link>https://atmos.yonsei.ac.kr/people/daeunyoo/</link>
+      <link>http://localhost:1313/people/daeunyoo/</link>
       <pubDate>Mon, 02 Sep 2024 01:00:00 +0900</pubDate>
-      
-      <guid>https://atmos.yonsei.ac.kr/people/daeunyoo/</guid>
-      <description>연구분야 Urban climate and turbulence 학력 B.Sc(2024) in Atmospheric Sciences, Yonsei University, Seoul, Korea 수상</description>
+      <guid>http://localhost:1313/people/daeunyoo/</guid>
+      <description>&lt;h4 id=&#34;연구분야&#34;&gt;연구분야&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Urban climate and turbulence&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;학력&#34;&gt;학력&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;B.Sc&lt;/strong&gt;(2024) in Atmospheric Sciences, Yonsei University, Seoul, Korea&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;수상내역&#34;&gt;수상내역&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;논문&#34;&gt;논문&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
-    
     <item>
       <title>이현규</title>
-      <link>https://atmos.yonsei.ac.kr/people/hyun-kyu_lee/</link>
+      <link>http://localhost:1313/people/hyun-kyu_lee/</link>
       <pubDate>Mon, 02 Sep 2024 01:00:00 +0900</pubDate>
-      
-      <guid>https://atmos.yonsei.ac.kr/people/hyun-kyu_lee/</guid>
-      <description>연구분야 Quasi-Biennial Oscillation Convective Gravity Waves Wave dynamics Climate Change 학력 B.Sc (2020) in Atmospheric Science,</description>
+      <guid>http://localhost:1313/people/hyun-kyu_lee/</guid>
+      <description>&lt;h4 id=&#34;연구분야&#34;&gt;연구분야&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Quasi-Biennial Oscillation&lt;/li&gt;&#xA;&lt;li&gt;Convective Gravity Waves&lt;/li&gt;&#xA;&lt;li&gt;Wave dynamics&lt;/li&gt;&#xA;&lt;li&gt;Climate Change&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;학력&#34;&gt;학력&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;B.Sc&lt;/strong&gt; (2020) in Atmospheric Science, Yonsei University, Seoul, Korea&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;수상내역&#34;&gt;수상내역&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;논문&#34;&gt;논문&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Kim, D., Shin, D. B., Kim, J., Kang, M. J., Lee, H. K., &amp;amp; Chun, H. Y. (2022). Differences in Satellite‐Based Latent Heating Profiles Between the 2015/2016 Disruption and Westerly Phase of the Quasi‐Biennial Oscillation. Journal of Geophysical Research: Atmospheres, 127(19), e2021JD036254. &lt;a href=&#34;https://doi.org/10.1029/2021JD036254&#34;&gt;https://doi.org/10.1029/2021JD036254&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Lee, H.-K., Kang, M.-J., Chun, H.-Y., Kim, D., &amp;amp; Shin, D.-B. (2022). Characteristics of Latent Heating Rate from GPM and Convective Gravity Wave Momentum Flux Calculated Using the GPM Data. Journal of Geophysical Research: Atmospheres, 127(17), e2022JD037003. &lt;a href=&#34;https://doi.org/10.1029/2022JD037003&#34;&gt;https://doi.org/10.1029/2022JD037003&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Kim, D., Song, H., Chun, H. Y., Yoo, C., Kang, M. J., &amp;amp; Lee, H. K. (2024). Springtime Southern Hemisphere Quasi‐Stationary Planetary Wave Activities Associated With ENSO/IOD. Journal of Geophysical Research: Atmospheres, 129(2), e2023JD039678. &lt;a href=&#34;https://doi.org/10.1029/2023JD039678&#34;&gt;https://doi.org/10.1029/2023JD039678&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Lee, H.-K., Chun, H.-Y., Richter, J. H. , Simpson, I. R., &amp;amp; Garcia R. R. (2024). Contributions of Parameterized Gravity Waves and Resolved Equatorial Waves to the QBO Period in a Future Climate of CESM2. Journal of Geophysical Research: Atmospheres, 129(8).&lt;/li&gt;&#xA;&lt;li&gt;Lott, F., Rani, R., McLandress, C., Podglajen, A., Bushell, A., Bramberger, M., Lee, H.-K., &amp;amp; et al. (2024). Comparison between non-orographic gravity-wave parameterizations used in QBOi models and Strateole 2 constant-level balloons. Quarterly Journal of the Royal Meteorological Society.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
-    
     <item>
       <title>강욱</title>
-      <link>https://atmos.yonsei.ac.kr/people/kangwook/</link>
+      <link>http://localhost:1313/people/kangwook/</link>
       <pubDate>Mon, 18 Mar 2024 01:00:00 +0900</pubDate>
-      
-      <guid>https://atmos.yonsei.ac.kr/people/kangwook/</guid>
-      <description>연구분야 Green-House Gas Emissions in Korea 학력 B.Sc (2024) in Atmospheric Science, Yonsei University, Seoul, Korea</description>
+      <guid>http://localhost:1313/people/kangwook/</guid>
+      <description>&lt;h4 id=&#34;연구분야&#34;&gt;연구분야&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Green-House Gas Emissions in Korea&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;학력&#34;&gt;학력&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;B.Sc&lt;/strong&gt; (2024) in Atmospheric Science, Yonsei University, Seoul, Korea&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;수상내역&#34;&gt;수상내역&lt;/h4&gt;&#xA;&lt;h4 id=&#34;논문&#34;&gt;논문&lt;/h4&gt;</description>
     </item>
-    
     <item>
       <title>고한창</title>
-      <link>https://atmos.yonsei.ac.kr/people/hanchangko/</link>
+      <link>http://localhost:1313/people/hanchangko/</link>
       <pubDate>Mon, 18 Mar 2024 01:00:00 +0900</pubDate>
-      
-      <guid>https://atmos.yonsei.ac.kr/people/hanchangko/</guid>
-      <description>연구분야 Estimation and characteristics of atmospheric turbulence in the free atmosphere using high vertical-resolution radiosonde data (HVRRD)</description>
+      <guid>http://localhost:1313/people/hanchangko/</guid>
+      <description>&lt;h4 id=&#34;연구분야&#34;&gt;연구분야&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Estimation and characteristics of atmospheric turbulence in the free atmosphere using high vertical-resolution radiosonde data (HVRRD)&lt;/li&gt;&#xA;&lt;li&gt;Sources and generation mechanisms of turbulence using high-resolution numerical simulation&lt;/li&gt;&#xA;&lt;li&gt;Aviation turbulence forecasting&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;학력&#34;&gt;학력&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;B.Sc&lt;/strong&gt; (2017) in Atmospheric Science, Yonsei University, Seoul, Republic of Korea&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;수상내역&#34;&gt;수상내역&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;The Best Student Paper and Presenter, American Meteorological Society (2023)&lt;/li&gt;&#xA;&lt;li&gt;Outstanding Academic Paper Award, Yonsei University (2022)&lt;/li&gt;&#xA;&lt;li&gt;Outstanding Academic Paper Award, BK21Plus Institute of Earth-Atmosphere-Astronomy (2020)&lt;/li&gt;&#xA;&lt;li&gt;Outstanding Academic Paper Award, Yonsei University (2019)&lt;/li&gt;&#xA;&lt;li&gt;Selected on Eos Editor’s Highlights, Eos (2019)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;논문&#34;&gt;논문&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Lee, Y. S., Chun, H. Y., &amp;amp; Ko, H. C. (2023). Lower tropospheric states revealed in high vertical-resolution radiosonde data in Korea and synoptic patterns for instability based on a self-organizing map. Atmospheric Research, 295, 107037.&lt;/li&gt;&#xA;&lt;li&gt;Ko, H. C., Chun, H. Y., Sharman, R. D., &amp;amp; Kim, J. H. (2023). Comparison of eddy dissipation rate estimated from operational radiosonde and commercial aircraft observations in the United States. Journal of Geophysical Research: Atmospheres, 128(20), e2023JD039352.&lt;/li&gt;&#xA;&lt;li&gt;Ko, H. C., &amp;amp; Chun, H. Y. (2022). Potential sources of atmospheric turbulence estimated using the Thorpe method and operational radiosonde data in the United States. Atmospheric Research, 265, 105891.&lt;/li&gt;&#xA;&lt;li&gt;Ko, H. C., Chun, H. Y., Wilson, R., &amp;amp; Geller, M. A. (2019). Characteristics of atmospheric turbulence retrieved from high vertical‐resolution radiosonde data in the United States. Journal of Geophysical Research: Atmospheres, 124(14), 7553-7579.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
-    
     <item>
       <title>김경민</title>
-      <link>https://atmos.yonsei.ac.kr/people/kimkyoungmin/</link>
+      <link>http://localhost:1313/people/kimkyoungmin/</link>
       <pubDate>Mon, 18 Mar 2024 01:00:00 +0900</pubDate>
-      
-      <guid>https://atmos.yonsei.ac.kr/people/kimkyoungmin/</guid>
-      <description>연구분야 Chemical transport model simulation Air pollution Atmospheric chemistry 학력 B.Sc (2017) in Atmospheric Science, Yonsei</description>
+      <guid>http://localhost:1313/people/kimkyoungmin/</guid>
+      <description>&lt;h4 id=&#34;연구분야&#34;&gt;연구분야&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Chemical transport model simulation&lt;/li&gt;&#xA;&lt;li&gt;Air pollution&lt;/li&gt;&#xA;&lt;li&gt;Atmospheric chemistry&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;학력&#34;&gt;학력&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;B.Sc&lt;/strong&gt; (2017) in Atmospheric Science, Yonsei University, Seoul, Korea&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;수상내역&#34;&gt;수상내역&lt;/h4&gt;&#xA;&lt;h4 id=&#34;논문&#34;&gt;논문&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Kim, K.-M., Kim, S.-W., Choi, M., Kim, M., Kim, J., Shin, I., et al. (2021). Modeling Asian dust storms using WRF-Chem during the DRAGON-Asia field campaign in April 2012. Journal of Geophysical Research: Atmospheres, 126, e2021JD034793. &lt;a href=&#34;https://doi.org/10.1029/2021JD034793&#34;&gt;https://doi.org/10.1029/2021JD034793&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Kim, K.-M., Kim, S.-W., Seo, S., Blake, D. R., Cho, S., Crawford, J. H., et al. (2024). Sensitivity of the WRF-Chem v4.4 simulations of ozone and formaldehyde and their precursors to multiple bottom-up emission inventories over East Asia during the KORUS-AQ 2016 field campaign, Geoscientific Model Development, 17, 1931–1955, &lt;a href=&#34;https://doi.org/10.5194/gmd-17-1931-2024&#34;&gt;https://doi.org/10.5194/gmd-17-1931-2024&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
-    
     <item>
       <title>김동철</title>
-      <link>https://atmos.yonsei.ac.kr/people/dongcheolkim/</link>
+      <link>http://localhost:1313/people/dongcheolkim/</link>
       <pubDate>Mon, 18 Mar 2024 01:00:00 +0900</pubDate>
-      
-      <guid>https://atmos.yonsei.ac.kr/people/dongcheolkim/</guid>
-      <description>연구분야 IR-based rainfall estimation Surface Solar Radiation Satellite Retrievals 학력 M.Sc (2016) Atmospheric and Environmental Sciences,</description>
+      <guid>http://localhost:1313/people/dongcheolkim/</guid>
+      <description>&lt;h4 id=&#34;연구분야&#34;&gt;연구분야&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;IR-based rainfall estimation&lt;/li&gt;&#xA;&lt;li&gt;Surface Solar Radiation&lt;/li&gt;&#xA;&lt;li&gt;Satellite Retrievals&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;학력&#34;&gt;학력&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;M.Sc&lt;/strong&gt; (2016) Atmospheric and Environmental Sciences, Gangneung-Wonju National Univ., Gangneung, Korea&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;B.Sc&lt;/strong&gt; (2014) Atmospheric and Environmental Sciences, Gangneung-Wonju National Univ. , Gangneung, Korea&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;수상내역&#34;&gt;수상내역&lt;/h4&gt;&#xA;&lt;p&gt;2014, 디지털카메라로 촬영된 월면사진을 활용한 야간의 대기광학특성 추정 대한원격탐사학회 우수논문발표상&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>김동혁</title>
-      <link>https://atmos.yonsei.ac.kr/people/donghyeockkim/</link>
+      <link>http://localhost:1313/people/donghyeockkim/</link>
       <pubDate>Mon, 18 Mar 2024 01:00:00 +0900</pubDate>
-      
-      <guid>https://atmos.yonsei.ac.kr/people/donghyeockkim/</guid>
-      <description>연구분야 Passive Microwave Remote Sensing of Precipitation Ocean surface emissivity 학력 B.Sc (2018) in Atmospheric Sciences,</description>
+      <guid>http://localhost:1313/people/donghyeockkim/</guid>
+      <description>&lt;h4 id=&#34;연구분야&#34;&gt;연구분야&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Passive Microwave Remote Sensing of Precipitation&lt;/li&gt;&#xA;&lt;li&gt;Ocean surface emissivity&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;학력&#34;&gt;학력&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;B.Sc&lt;/strong&gt; (2018) in Atmospheric Sciences, Yonsei University, Seoul, Korea&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;수상내역&#34;&gt;수상내역&lt;/h4&gt;&#xA;&lt;h4 id=&#34;논문&#34;&gt;논문&lt;/h4&gt;</description>
     </item>
-    
     <item>
       <title>김동혁</title>
-      <link>https://atmos.yonsei.ac.kr/people/donghyukkim/</link>
+      <link>http://localhost:1313/people/donghyukkim/</link>
       <pubDate>Mon, 18 Mar 2024 01:00:00 +0900</pubDate>
-      
-      <guid>https://atmos.yonsei.ac.kr/people/donghyukkim/</guid>
-      <description>연구분야 Indian Ocean Dipole Ocean circulation Machine learning 학력 M.Sc (2022) in Atmospheric Sciences, Yonsei University,</description>
+      <guid>http://localhost:1313/people/donghyukkim/</guid>
+      <description>&lt;h4 id=&#34;연구분야&#34;&gt;연구분야&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Indian Ocean Dipole&lt;/li&gt;&#xA;&lt;li&gt;Ocean circulation&lt;/li&gt;&#xA;&lt;li&gt;Machine learning&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;학력&#34;&gt;학력&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;M.Sc&lt;/strong&gt; (2022) in Atmospheric Sciences, Yonsei University, Seoul, Korea&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;B.Sc&lt;/strong&gt; (2020) in Atmospheric Sciences, Yonsei University, Seoul, Korea&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;논문&#34;&gt;논문&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Kim, D., Song, H., Chun, H. Y., Yoo, C., Kang, M. J., &amp;amp; Lee, H. K. (2024). Springtime Southern Hemisphere Quasi‐Stationary Planetary Wave Activities Associated With ENSO/IOD. Journal of Geophysical Research: Atmospheres, 129(2), e2023JD039678.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
-    
     <item>
       <title>김민석</title>
-      <link>https://atmos.yonsei.ac.kr/people/kimminseok/</link>
+      <link>http://localhost:1313/people/kimminseok/</link>
       <pubDate>Mon, 18 Mar 2024 01:00:00 +0900</pubDate>
-      
-      <guid>https://atmos.yonsei.ac.kr/people/kimminseok/</guid>
-      <description>연구분야 Aerosol remote sensing from geostationary Earth orbit satellite instruments 학력 B.Sc (2019) in Atmospheric Science,</description>
+      <guid>http://localhost:1313/people/kimminseok/</guid>
+      <description>&lt;h4 id=&#34;연구분야&#34;&gt;연구분야&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Aerosol remote sensing from geostationary Earth orbit satellite instruments&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;학력&#34;&gt;학력&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;B.Sc&lt;/strong&gt; (2019) in Atmospheric Science, Yonsei University, Seoul, Korea&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;수상내역&#34;&gt;수상내역&lt;/h4&gt;&#xA;&lt;h4 id=&#34;논문&#34;&gt;논문&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Kim, M., Kim, J., Lim, H., Lee, S., Cho, Y., Lee, Y.-G., &amp;amp; Lee, K.: AOD data fusion with Geostationary Korea Multi-Purpose Satellite (Geo-KOMPSAT-2) instruments GEMS, AMI, and GOCI-II: Statistical and deep neural network methods. Atmospheric Measurement Technique, 2024.&lt;/li&gt;&#xA;&lt;li&gt;Kim, M., Kim, J., Lim, H., Lee, S., Cho, Y., Yeo, H., &amp;amp; Kim, S. W. (2023): Exploring geometrical stereoscopic aerosol top height retrieval from geostationary satellite imagery in East Asia. Atmospheric Measurement Technique, 16, 10, 2673-2690, 2023.&lt;/li&gt;&#xA;&lt;li&gt;Kim, M., Lee, S., Cho, Y., Koo, J., Yum, S.S., Kim, J.: The Relationship of Particulate Matter and Visibility Under Different Meteorological Conditions in Seoul, South Korea, Atmosphere. Korean Meteorological Society, 30, 391-440, 2020.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
-    
     <item>
       <title>김예리</title>
-      <link>https://atmos.yonsei.ac.kr/people/kimyeri/</link>
+      <link>http://localhost:1313/people/kimyeri/</link>
       <pubDate>Mon, 18 Mar 2024 01:00:00 +0900</pubDate>
-      
-      <guid>https://atmos.yonsei.ac.kr/people/kimyeri/</guid>
-      <description>연구분야 Future projections of greenhouse warming and aerosols in Asia 학력 B.Sc (2022) in Organic Materials</description>
+      <guid>http://localhost:1313/people/kimyeri/</guid>
+      <description>&lt;h4 id=&#34;연구분야&#34;&gt;연구분야&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Future projections of greenhouse warming and aerosols in Asia&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;학력&#34;&gt;학력&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;B.Sc&lt;/strong&gt; (2022) in Organic Materials Science and Engineering, Pusan National University, Busan, Korea&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;수상내역&#34;&gt;수상내역&lt;/h4&gt;&#xA;&lt;h4 id=&#34;논문&#34;&gt;논문&lt;/h4&gt;</description>
     </item>
-    
     <item>
       <title>문준영</title>
-      <link>https://atmos.yonsei.ac.kr/people/moonjunyeong/</link>
+      <link>http://localhost:1313/people/moonjunyeong/</link>
       <pubDate>Mon, 18 Mar 2024 01:00:00 +0900</pubDate>
-      
-      <guid>https://atmos.yonsei.ac.kr/people/moonjunyeong/</guid>
-      <description>연구분야 Atlantic Meridional Overturning Circulation 학력 B.Sc (2024) in Atmospheric Science, Yonsei University, Seoul, Korea 수</description>
+      <guid>http://localhost:1313/people/moonjunyeong/</guid>
+      <description>&lt;h4 id=&#34;연구분야&#34;&gt;연구분야&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Atlantic Meridional Overturning Circulation&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;학력&#34;&gt;학력&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;B.Sc&lt;/strong&gt; (2024) in Atmospheric Science, Yonsei University, Seoul, Korea&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;수상내역&#34;&gt;수상내역&lt;/h4&gt;&#xA;&lt;h4 id=&#34;논문&#34;&gt;논문&lt;/h4&gt;</description>
     </item>
-    
     <item>
       <title>서승환</title>
-      <link>https://atmos.yonsei.ac.kr/people/seunghwanseo/</link>
+      <link>http://localhost:1313/people/seunghwanseo/</link>
       <pubDate>Mon, 18 Mar 2024 01:00:00 +0900</pubDate>
-      
-      <guid>https://atmos.yonsei.ac.kr/people/seunghwanseo/</guid>
-      <description>연구분야 Analyzing spatiotemporal characteristics of trace gases Estimating emission inventories using chemical transport model and satellite observations</description>
+      <guid>http://localhost:1313/people/seunghwanseo/</guid>
+      <description>&lt;h4 id=&#34;연구분야&#34;&gt;연구분야&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Analyzing spatiotemporal characteristics of trace gases&lt;/li&gt;&#xA;&lt;li&gt;Estimating emission inventories using chemical transport model and satellite observations&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;학력&#34;&gt;학력&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;B.Sc&lt;/strong&gt; (2019) in Atmospheric Sciences, Yonsei University, Seoul, Korea&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;수상내역&#34;&gt;수상내역&lt;/h4&gt;&#xA;&lt;h4 id=&#34;논문&#34;&gt;논문&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Seo, S., Kim, S.-W., Kim, K.-M., Lamsal, L. N., and Jin, H. (2021), Reductions in NO2 concentrations in Seoul, South Korea detected from space and ground-based monitors prior to and during the COVID-19 pandemic. Environmental Research Communications, 3 (5), 051005. &lt;a href=&#34;https://doi.org/10.1088/2515-7620/abed92&#34;&gt;https://doi.org/10.1088/2515-7620/abed92&lt;/a&gt;.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
-    
     <item>
       <title>유승민</title>
-      <link>https://atmos.yonsei.ac.kr/people/seungminyu/</link>
+      <link>http://localhost:1313/people/seungminyu/</link>
       <pubDate>Mon, 18 Mar 2024 01:00:00 +0900</pubDate>
-      
-      <guid>https://atmos.yonsei.ac.kr/people/seungminyu/</guid>
-      <description>연구분야 Machine Learning-based atmospheric model 학력 M.Sc (2024) in Atmospheric Sciences, Yonsei University, Seoul, Korea B.Sc</description>
+      <guid>http://localhost:1313/people/seungminyu/</guid>
+      <description>&lt;h4 id=&#34;연구분야&#34;&gt;연구분야&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Machine Learning-based atmospheric model&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;학력&#34;&gt;학력&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;M.Sc&lt;/strong&gt; (2024) in Atmospheric Sciences, Yonsei University, Seoul, Korea&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;B.Sc&lt;/strong&gt; (2022) in Atmospheric Sciences, Yonsei University, Seoul, Korea&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;수상내역&#34;&gt;수상내역&lt;/h4&gt;&#xA;&lt;h4 id=&#34;논문&#34;&gt;논문&lt;/h4&gt;</description>
     </item>
-    
     <item>
       <title>이예슬</title>
-      <link>https://atmos.yonsei.ac.kr/people/yeseullee/</link>
+      <link>http://localhost:1313/people/yeseullee/</link>
       <pubDate>Mon, 18 Mar 2024 01:00:00 +0900</pubDate>
-      
-      <guid>https://atmos.yonsei.ac.kr/people/yeseullee/</guid>
-      <description>연구분야 Aviation Turbulence 학력 M.Sc (2023) in Atmospheric Sciences, Yonsei University, Seoul, Korea B.Sc (2021) in</description>
+      <guid>http://localhost:1313/people/yeseullee/</guid>
+      <description>&lt;h4 id=&#34;연구분야&#34;&gt;연구분야&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Aviation Turbulence&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;학력&#34;&gt;학력&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;M.Sc&lt;/strong&gt; (2023) in Atmospheric Sciences, Yonsei University, Seoul, Korea&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;B.Sc&lt;/strong&gt; (2021) in Atmospheric Science, Yonsei University, Seoul, Korea&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;수상내역&#34;&gt;수상내역&lt;/h4&gt;&#xA;&lt;h4 id=&#34;논문&#34;&gt;논문&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Lee, Y. S., Chun, H. Y., &amp;amp; Ko, H. C. (2023). Lower tropospheric states revealed in high vertical-resolution radiosonde data in Korea and synoptic patterns for instability based on a self-organizing map. Atmospheric Research, 295, 107037.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
-    
     <item>
       <title>이지우</title>
-      <link>https://atmos.yonsei.ac.kr/people/jeewoo-lee/</link>
+      <link>http://localhost:1313/people/jeewoo-lee/</link>
       <pubDate>Mon, 18 Mar 2024 01:00:00 +0900</pubDate>
-      
-      <guid>https://atmos.yonsei.ac.kr/people/jeewoo-lee/</guid>
-      <description>연구분야 Developing and diversifying aerosol retrieval algorithm of Geostationary Ocean Color Imager-II (GOCI-II) and its products 학</description>
+      <guid>http://localhost:1313/people/jeewoo-lee/</guid>
+      <description>&lt;h4 id=&#34;연구분야&#34;&gt;연구분야&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Developing and diversifying aerosol retrieval algorithm of Geostationary Ocean Color Imager-II (GOCI-II) and its products&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;학력&#34;&gt;학력&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;B.Sc&lt;/strong&gt; (2021) in Bio-Convergence and Atmospheric Science, Yonsei University, Seoul, Korea&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;수상내역&#34;&gt;수상내역&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;2022년 천리안위성 2A/2B호 융복합 활용연구 학생경진대회 (최우수 발표 논문상)&lt;/li&gt;&#xA;&lt;li&gt;2022년도 한국대기환경학회 공동학술심포지움 및 학생콜로키움 (최우수발표상)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;논문&#34;&gt;논문&lt;/h4&gt;</description>
     </item>
-    
     <item>
       <title>이현규</title>
-      <link>https://atmos.yonsei.ac.kr/people/hyunkyulee/</link>
+      <link>http://localhost:1313/people/hyunkyulee/</link>
       <pubDate>Mon, 18 Mar 2024 01:00:00 +0900</pubDate>
-      
-      <guid>https://atmos.yonsei.ac.kr/people/hyunkyulee/</guid>
-      <description>연구분야 Quasi-Biennial Oscillation Convective Gravity Waves Wave dynamics 학력 B.Sc (2020) in Atmospheric Science, Yonsei University,</description>
+      <guid>http://localhost:1313/people/hyunkyulee/</guid>
+      <description>&lt;h4 id=&#34;연구분야&#34;&gt;연구분야&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Quasi-Biennial Oscillation&lt;/li&gt;&#xA;&lt;li&gt;Convective Gravity Waves&lt;/li&gt;&#xA;&lt;li&gt;Wave dynamics&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;학력&#34;&gt;학력&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;B.Sc&lt;/strong&gt; (2020) in Atmospheric Science, Yonsei University, Seoul, Korea&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;수상내역&#34;&gt;수상내역&lt;/h4&gt;&#xA;&lt;h4 id=&#34;논문&#34;&gt;논문&lt;/h4&gt;&#xA;&lt;p&gt;Kim, D., Shin, D. B., Kim, J., Kang, M. J., Lee, H. K., &amp;amp; Chun, H. Y. (2022). Differences in Satellite‐Based Latent Heating Profiles Between the 2015/2016 Disruption and Westerly Phase of the Quasi‐Biennial Oscillation. Journal of Geophysical Research: Atmospheres, 127(19), e2021JD036254. &lt;a href=&#34;https://doi.org/10.1029/2021JD036254&#34;&gt;https://doi.org/10.1029/2021JD036254&lt;/a&gt;&#xA;Lee, H.-K., Kang, M.-J., Chun, H.-Y., Kim, D., &amp;amp; Shin, D.-B. (2022). Characteristics of Latent Heating Rate from GPM and Convective Gravity Wave Momentum Flux Calculated Using the GPM Data. Journal of Geophysical Research: Atmospheres, 127(17), e2022JD037003. &lt;a href=&#34;https://doi.org/10.1029/2022JD037003&#34;&gt;https://doi.org/10.1029/2022JD037003&lt;/a&gt;&#xA;Kim, D., Song, H., Chun, H. Y., Yoo, C., Kang, M. J., &amp;amp; Lee, H. K. (2024). Springtime Southern Hemisphere Quasi‐Stationary Planetary Wave Activities Associated With ENSO/IOD. Journal of Geophysical Research: Atmospheres, 129(2), e2023JD039678. &lt;a href=&#34;https://doi.org/10.1029/2023JD039678&#34;&gt;https://doi.org/10.1029/2023JD039678&lt;/a&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>정희원</title>
-      <link>https://atmos.yonsei.ac.kr/people/heewonjung/</link>
+      <link>http://localhost:1313/people/heewonjung/</link>
       <pubDate>Mon, 18 Mar 2024 01:00:00 +0900</pubDate>
-      
-      <guid>https://atmos.yonsei.ac.kr/people/heewonjung/</guid>
-      <description>연구분야 Aviation Meteorology Aviation Turbulence 학력 B.Sc (2024) in Air Transportation, Korea Aerospace University, Goyang, Korea</description>
+      <guid>http://localhost:1313/people/heewonjung/</guid>
+      <description>&lt;h4 id=&#34;연구분야&#34;&gt;연구분야&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Aviation Meteorology&lt;/li&gt;&#xA;&lt;li&gt;Aviation Turbulence&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;학력&#34;&gt;학력&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;B.Sc&lt;/strong&gt; (2024) in Air Transportation, Korea Aerospace University, Goyang, Korea&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;수상내역&#34;&gt;수상내역&lt;/h4&gt;&#xA;&lt;h4 id=&#34;논문&#34;&gt;논문&lt;/h4&gt;</description>
     </item>
-    
     <item>
       <title>차혜지</title>
-      <link>https://atmos.yonsei.ac.kr/people/chahyeji/</link>
+      <link>http://localhost:1313/people/chahyeji/</link>
       <pubDate>Mon, 18 Mar 2024 01:00:00 +0900</pubDate>
-      
-      <guid>https://atmos.yonsei.ac.kr/people/chahyeji/</guid>
-      <description>연구분야 Satellite remote sensing of trace gases (Water vapor, Nitrous acid) 학력 B.Sc (2022) in Atmospheric</description>
+      <guid>http://localhost:1313/people/chahyeji/</guid>
+      <description>&lt;h4 id=&#34;연구분야&#34;&gt;연구분야&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Satellite remote sensing of trace gases (Water vapor, Nitrous acid)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;학력&#34;&gt;학력&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;B.Sc&lt;/strong&gt; (2022) in Atmospheric Science, Yonsei University, Seoul, Korea&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;수상내역&#34;&gt;수상내역&lt;/h4&gt;&#xA;&lt;h4 id=&#34;논문&#34;&gt;논문&lt;/h4&gt;</description>
     </item>
-    
     <item>
       <title>채유진</title>
-      <link>https://atmos.yonsei.ac.kr/people/yujinchai/</link>
+      <link>http://localhost:1313/people/yujinchai/</link>
       <pubDate>Mon, 18 Mar 2024 01:00:00 +0900</pubDate>
-      
-      <guid>https://atmos.yonsei.ac.kr/people/yujinchai/</guid>
-      <description>연구분야 aerosol retrieval of geostationary satellite 학력 B.Sc (2022) in Atmospheric Science, Yonsei University, Seoul, Korea</description>
+      <guid>http://localhost:1313/people/yujinchai/</guid>
+      <description>&lt;h4 id=&#34;연구분야&#34;&gt;연구분야&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;aerosol retrieval of geostationary satellite&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;학력&#34;&gt;학력&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;B.Sc&lt;/strong&gt; (2022) in Atmospheric Science, Yonsei University, Seoul, Korea&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;수상내역&#34;&gt;수상내역&lt;/h4&gt;&#xA;&lt;h4 id=&#34;논문&#34;&gt;논문&lt;/h4&gt;</description>
     </item>
-    
     <item>
       <title>채종천</title>
-      <link>https://atmos.yonsei.ac.kr/people/chaejongcheon/</link>
+      <link>http://localhost:1313/people/chaejongcheon/</link>
       <pubDate>Mon, 18 Mar 2024 01:00:00 +0900</pubDate>
-      
-      <guid>https://atmos.yonsei.ac.kr/people/chaejongcheon/</guid>
-      <description>연구분야 Development of NOx Lifetime &amp;amp; Emission Calculation and CO2 Emission Estimation Technology 학력 B.Sc (2024)</description>
+      <guid>http://localhost:1313/people/chaejongcheon/</guid>
+      <description>&lt;h4 id=&#34;연구분야&#34;&gt;연구분야&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Development of NOx Lifetime &amp;amp; Emission Calculation and CO2 Emission Estimation Technology&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;학력&#34;&gt;학력&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;B.Sc&lt;/strong&gt; (2024) in bio&amp;amp;environmental Science, Dongguk University, Seoul, Korea&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;수상내역&#34;&gt;수상내역&lt;/h4&gt;&#xA;&lt;h4 id=&#34;논문&#34;&gt;논문&lt;/h4&gt;</description>
     </item>
-    
     <item>
       <title>최지수</title>
-      <link>https://atmos.yonsei.ac.kr/people/jisuchoi/</link>
+      <link>http://localhost:1313/people/jisuchoi/</link>
       <pubDate>Mon, 18 Mar 2024 01:00:00 +0900</pubDate>
-      
-      <guid>https://atmos.yonsei.ac.kr/people/jisuchoi/</guid>
-      <description>연구분야 Atmospheric remote sensing Rainfall retrieval 학력 B.Sc (2018) in Atmospheric Sciences, Yonsei University, Seoul, Korea</description>
+      <guid>http://localhost:1313/people/jisuchoi/</guid>
+      <description>&lt;h4 id=&#34;연구분야&#34;&gt;연구분야&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Atmospheric remote sensing&lt;/li&gt;&#xA;&lt;li&gt;Rainfall retrieval&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;학력&#34;&gt;학력&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;B.Sc&lt;/strong&gt; (2018) in Atmospheric Sciences, Yonsei University, Seoul, Korea&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;수상내역&#34;&gt;수상내역&lt;/h4&gt;&#xA;&lt;h4 id=&#34;논문&#34;&gt;논문&lt;/h4&gt;</description>
     </item>
-    
     <item>
       <title>김지우</title>
-      <link>https://atmos.yonsei.ac.kr/people/jiwookim/</link>
+      <link>http://localhost:1313/people/jiwookim/</link>
       <pubDate>Sat, 02 Mar 2024 01:00:00 +0900</pubDate>
-      
-      <guid>https://atmos.yonsei.ac.kr/people/jiwookim/</guid>
-      <description>연구분야 Whole atmospheric modeling Complex impacts of space weather and atmospheric waves on Earth&amp;rsquo;s upper atmosphere 학</description>
+      <guid>http://localhost:1313/people/jiwookim/</guid>
+      <description>&lt;h4 id=&#34;연구분야&#34;&gt;연구분야&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Whole atmospheric modeling&lt;/li&gt;&#xA;&lt;li&gt;Complex impacts of space weather and atmospheric waves on Earth&amp;rsquo;s upper atmosphere&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;학력&#34;&gt;학력&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;M.Sc&lt;/strong&gt; (2021) in Space Science, Chungnam National University, Daejeon, Korea&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;B.Sc&lt;/strong&gt; (2019) in Astronomy &amp;amp; Space Sciences, Chungnam National University, Daejeon, Korea&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;수상내역&#34;&gt;수상내역&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Graduate President Award, Chungnam National University, 2021.08&lt;/li&gt;&#xA;&lt;li&gt;SELab Award, The Korean Space Science Society, 2020.10&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;논문&#34;&gt;논문&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Kwak, J., Hwang, J., Park, J., Kim, J., &amp;amp; Kim, H. (2024) Comparison of geomagnetic storm and non-storm periods mid-latitude Pc1 pulsations characteristics. Journal of Space Weather and Space Climate.&lt;/li&gt;&#xA;&lt;li&gt;Min, K., Kim, J., Ma, Q., Jun, C. W., &amp;amp; Liu, K. (2022). Unusual high frequency EMIC waves: Detailed analysis of EMIC wave excitation and energy coupling between EMIC and magnetosonic waves. Advances in Space Research, 69(1), 35-47.&lt;/li&gt;&#xA;&lt;li&gt;Kim, J., Hwang, J., Kim, H., &amp;amp; Yi, Y. (2020). Statistical analysis of Pc1 pulsations observed by a BOH magnetometer. Journal of Astronomy and Space Sciences, 37(1), 19-27.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
-    
     <item>
       <title>전영후</title>
-      <link>https://atmos.yonsei.ac.kr/people/younghuchon/</link>
+      <link>http://localhost:1313/people/younghuchon/</link>
       <pubDate>Sun, 30 Apr 2023 13:39:46 +0200</pubDate>
-      
-      <guid>https://atmos.yonsei.ac.kr/people/younghuchon/</guid>
-      <description>연구분야 Urban climate and modeling of the land-atmosphere interface 학력 B.Sc (2023) in Atmospheric Sciences, Yonsei</description>
+      <guid>http://localhost:1313/people/younghuchon/</guid>
+      <description>&lt;h4 id=&#34;연구분야&#34;&gt;연구분야&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Urban climate and modeling of the land-atmosphere interface&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;학력&#34;&gt;학력&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;B.Sc (2023) in Atmospheric Sciences, Yonsei University, Seoul, Korea&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;수상내역&#34;&gt;수상내역&lt;/h4&gt;&#xA;&lt;h4 id=&#34;논문&#34;&gt;논문&lt;/h4&gt;</description>
     </item>
-    
     <item>
       <title>지승배</title>
-      <link>https://atmos.yonsei.ac.kr/people/seungbaejee/</link>
+      <link>http://localhost:1313/people/seungbaejee/</link>
       <pubDate>Mon, 20 Mar 2023 13:39:46 +0200</pubDate>
-      
-      <guid>https://atmos.yonsei.ac.kr/people/seungbaejee/</guid>
-      <description>연구분야 Cloud physics 학력 B.Sc (2023) in Atmospheric Science, Kongju National University, Gongju, Korea 수상</description>
+      <guid>http://localhost:1313/people/seungbaejee/</guid>
+      <description>&lt;h4 id=&#34;연구분야&#34;&gt;연구분야&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Cloud physics&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;학력&#34;&gt;학력&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;B.Sc&lt;/strong&gt; (2023) in Atmospheric Science, Kongju National University, Gongju, Korea&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;수상내역&#34;&gt;수상내역&lt;/h4&gt;&#xA;&lt;h4 id=&#34;논문&#34;&gt;논문&lt;/h4&gt;</description>
     </item>
-    
     <item>
       <title>김지훈</title>
-      <link>https://atmos.yonsei.ac.kr/people/jihunkim/</link>
+      <link>http://localhost:1313/people/jihunkim/</link>
       <pubDate>Thu, 02 Mar 2023 13:39:46 +0200</pubDate>
-      
-      <guid>https://atmos.yonsei.ac.kr/people/jihunkim/</guid>
-      <description>연구분야 Vertical Distribution of Air Quality in the Upper Troposphere 학력 B.Ec (2021) in Environmental Engineering,</description>
+      <guid>http://localhost:1313/people/jihunkim/</guid>
+      <description>&lt;h4 id=&#34;연구분야&#34;&gt;연구분야&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Vertical Distribution of Air Quality in the Upper Troposphere&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;학력&#34;&gt;학력&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;B.Ec&lt;/strong&gt; (2021) in Environmental Engineering, Korea Military Academy, Seoul, Korea&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;수상내역&#34;&gt;수상내역&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;논문&#34;&gt;논문&lt;/h4&gt;</description>
     </item>
-    
     <item>
       <title>어회진</title>
-      <link>https://atmos.yonsei.ac.kr/people/hoijinuh/</link>
+      <link>http://localhost:1313/people/hoijinuh/</link>
       <pubDate>Thu, 02 Mar 2023 01:00:00 +0900</pubDate>
-      
-      <guid>https://atmos.yonsei.ac.kr/people/hoijinuh/</guid>
-      <description>연구분야 Middle atmosphere dynamics Equatorial waves Upper atmospheric dynamics 학력 B.Sc (2023) in Atmospheric Sciences, Yonsei</description>
+      <guid>http://localhost:1313/people/hoijinuh/</guid>
+      <description>&lt;h4 id=&#34;연구분야&#34;&gt;연구분야&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Middle atmosphere dynamics&lt;/li&gt;&#xA;&lt;li&gt;Equatorial waves&lt;/li&gt;&#xA;&lt;li&gt;Upper atmospheric dynamics&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;학력&#34;&gt;학력&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;B.Sc&lt;/strong&gt; (2023) in Atmospheric Sciences, Yonsei University, Seoul, Korea&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;수상내역&#34;&gt;수상내역&lt;/h4&gt;&#xA;&lt;h4 id=&#34;논문&#34;&gt;논문&lt;/h4&gt;</description>
     </item>
-    
     <item>
       <title>김상겸</title>
-      <link>https://atmos.yonsei.ac.kr/people/sanggyeomkim/</link>
+      <link>http://localhost:1313/people/sanggyeomkim/</link>
       <pubDate>Mon, 03 Oct 2022 13:39:46 +0200</pubDate>
-      
-      <guid>https://atmos.yonsei.ac.kr/people/sanggyeomkim/</guid>
-      <description>연구분야 Numerical modeling of the cloud chamber 학력 B.Sc (2022) in Atmospheric Sciences, Yonsei University, Seoul,</description>
+      <guid>http://localhost:1313/people/sanggyeomkim/</guid>
+      <description>&lt;h4 id=&#34;연구분야&#34;&gt;연구분야&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Numerical modeling of the cloud chamber&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;학력&#34;&gt;학력&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;B.Sc&lt;/strong&gt; (2022) in Atmospheric Sciences, Yonsei University, Seoul, Korea&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;수상내역&#34;&gt;수상내역&lt;/h4&gt;&#xA;&lt;h4 id=&#34;논문&#34;&gt;논문&lt;/h4&gt;</description>
     </item>
-    
     <item>
       <title>이수정</title>
-      <link>https://atmos.yonsei.ac.kr/people/soojeonglee/</link>
+      <link>http://localhost:1313/people/soojeonglee/</link>
       <pubDate>Thu, 17 Mar 2022 13:39:46 +0200</pubDate>
-      
-      <guid>https://atmos.yonsei.ac.kr/people/soojeonglee/</guid>
-      <description>연구분야 Urban Greenhouse Gas measurement 학력 M.Sc (2019) Environmental Science and Ecological Engineering, Korea University B.IS</description>
+      <guid>http://localhost:1313/people/soojeonglee/</guid>
+      <description>&lt;h4 id=&#34;연구분야&#34;&gt;연구분야&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Urban Greenhouse Gas measurement&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;학력&#34;&gt;학력&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;M.Sc&lt;/strong&gt; (2019) Environmental Science and Ecological Engineering, Korea University&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;B.IS&lt;/strong&gt; (2016) International Studies / &lt;strong&gt;B.Sc&lt;/strong&gt; Environmental Science and Ecological Engineering, Korea University&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;수상내역&#34;&gt;수상내역&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;(2017) 대한원격탐사학회 환경공간정보 우수논문 공모전 장려상&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;논문&#34;&gt;논문&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Lee, S.J., Lee, H., Kim, S., and Kim, Y., (2021). Inter-comparison Experiment for Korea GAW Network to Improve the GHGs Measurement Quality, J. Korean Soc. Atmos. Environ, 37(5): 790-802. (in Korean with English abstract)&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
-    
     <item>
       <title>박소은</title>
-      <link>https://atmos.yonsei.ac.kr/people/soeunpark/</link>
+      <link>http://localhost:1313/people/soeunpark/</link>
       <pubDate>Tue, 24 Mar 2020 13:39:46 +0200</pubDate>
-      
-      <guid>https://atmos.yonsei.ac.kr/people/soeunpark/</guid>
-      <description>연구분야 Climate Irreversibility Global energy transport 학력 M.Sc (2022) in Atmospheric Sciences, Yonsei University, Seoul, Korea</description>
+      <guid>http://localhost:1313/people/soeunpark/</guid>
+      <description>&lt;h4 id=&#34;연구분야&#34;&gt;연구분야&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Climate Irreversibility&lt;/li&gt;&#xA;&lt;li&gt;Global energy transport&lt;/li&gt;&#xA;&lt;li&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;학력&#34;&gt;학력&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;M.Sc&lt;/strong&gt; (2022) in Atmospheric Sciences, Yonsei University, Seoul, Korea&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;B.Sc&lt;/strong&gt; (2020) in Atmospheric sicences, Yonsei University, Seoul, Korea&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;수상내역&#34;&gt;수상내역&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;2020년 한국기상학회 가을학술대회 우수논문발표상, Inter-hemispheric difference of ocean heat storage due to abrupt short-term CO2 emissions&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;논문&#34;&gt;논문&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;S.-I An, S.-E. Park, J. Shin, Y.-M Yang, S.-W. Yeh, S.-W. Son, J.-S. Kug,  (2022) General circulation and global heat transport in a quadrupling CO2 pulse experiment, Scientific Reports, 12(1), 1-11, &lt;a href=&#34;https://doi.org/10.1038/s41598-022-15905-0&#34;&gt;https://doi.org/10.1038/s41598-022-15905-0&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
-    
     <item>
       <title>안찬우</title>
-      <link>https://atmos.yonsei.ac.kr/people/chanwooahn/</link>
+      <link>http://localhost:1313/people/chanwooahn/</link>
       <pubDate>Tue, 24 Mar 2020 13:39:46 +0200</pubDate>
-      
-      <guid>https://atmos.yonsei.ac.kr/people/chanwooahn/</guid>
-      <description>연구분야 Aerosol in situ observation 학력 B.Sc (2021) in Atmospheric Sciences, Yonsei University, Seoul, Korea 수</description>
+      <guid>http://localhost:1313/people/chanwooahn/</guid>
+      <description>&lt;h4 id=&#34;연구분야&#34;&gt;연구분야&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Aerosol in situ observation&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;학력&#34;&gt;학력&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;B.Sc&lt;/strong&gt; (2021) in Atmospheric Sciences, Yonsei University, Seoul, Korea&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;수상내역&#34;&gt;수상내역&lt;/h4&gt;&#xA;&lt;h4 id=&#34;논문&#34;&gt;논문&lt;/h4&gt;</description>
     </item>
-    
     <item>
       <title>구본훈</title>
-      <link>https://atmos.yonsei.ac.kr/people/bonhoonkoo/</link>
+      <link>http://localhost:1313/people/bonhoonkoo/</link>
       <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
-      
-      <guid>https://atmos.yonsei.ac.kr/people/bonhoonkoo/</guid>
-      <description>연구분야 Regional modeling at the land-atmosphere interface 학력 B.Sc (2023) in Atmospheric Sciences &amp;amp; Chemistry, Yonsei</description>
+      <guid>http://localhost:1313/people/bonhoonkoo/</guid>
+      <description>&lt;h4 id=&#34;연구분야&#34;&gt;연구분야&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Regional modeling at the land-atmosphere interface&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;학력&#34;&gt;학력&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;B.Sc (2023) in Atmospheric Sciences &amp;amp; Chemistry, Yonsei University, Seoul, Korea&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;수상내역&#34;&gt;수상내역&lt;/h4&gt;&#xA;&lt;h4 id=&#34;논문&#34;&gt;논문&lt;/h4&gt;</description>
     </item>
-    
     <item>
       <title>권도윤</title>
-      <link>https://atmos.yonsei.ac.kr/people/doyoonkwon/</link>
+      <link>http://localhost:1313/people/doyoonkwon/</link>
       <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
-      
-      <guid>https://atmos.yonsei.ac.kr/people/doyoonkwon/</guid>
-      <description>연구분야 Regional modeling land-atmosphere interaction 학력 M.Sc (2023) in Atmospheric Sciences, Yonsei University, Seoul, Korea B.Sc</description>
+      <guid>http://localhost:1313/people/doyoonkwon/</guid>
+      <description>&lt;h4 id=&#34;연구분야&#34;&gt;연구분야&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Regional modeling land-atmosphere interaction&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;학력&#34;&gt;학력&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;M.Sc (2023) in Atmospheric Sciences, Yonsei University, Seoul, Korea&lt;/li&gt;&#xA;&lt;li&gt;B.Sc (2021) in Atmospheric Sciences (Major) &amp;amp; Computer Sciences (Minor), Yonsei University, Seoul, Korea&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;수상내역&#34;&gt;수상내역&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;(2023.06) Best Presentation Award, Korean Society of Climate Change Research&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;논문&#34;&gt;논문&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Joo, S., H. Lee, J. Hong, D. Kwon, C. Shim, Y. Oh, S. Li, S. Kenea, S. Lee, J. Kim, K. Boo (2022) Consideration of top-down greenhouse gas estimation approaches to prepare carbon neutral policy, Journal of Climate Change Research, 38, 933-947 (In Korean with English Abstract).&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
-    
     <item>
       <title>김경민</title>
-      <link>https://atmos.yonsei.ac.kr/people/kyoungminkim/</link>
+      <link>http://localhost:1313/people/kyoungminkim/</link>
       <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
-      
-      <guid>https://atmos.yonsei.ac.kr/people/kyoungminkim/</guid>
-      <description>연구분야 Aerosol regional model simulation Dust model simulation Atmospheric chemistry 학력 B.Sc (2017) in Atmospheric Sciences,</description>
+      <guid>http://localhost:1313/people/kyoungminkim/</guid>
+      <description>&lt;h4 id=&#34;연구분야&#34;&gt;연구분야&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Aerosol regional model simulation&lt;/li&gt;&#xA;&lt;li&gt;Dust model simulation&lt;/li&gt;&#xA;&lt;li&gt;Atmospheric chemistry&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;학력&#34;&gt;학력&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;B.Sc&lt;/strong&gt; (2017) in Atmospheric Sciences, Yonsei University, Seoul, Korea&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;수상내역&#34;&gt;수상내역&lt;/h4&gt;&#xA;&lt;h4 id=&#34;논문&#34;&gt;논문&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Kim, K.-M., Kim, S.-W., Choi, M., Kim, M., Kim, J., Shin, I., et al. (2021). Modeling Asian dust storms using WRF-Chem during the DRAGON-Asia field campaign in April 2012. Journal of Geophysical Research: Atmospheres, 126, e2021JD034793. &lt;a href=&#34;https://doi.org/10.1029/2021JD034793&#34;&gt;https://doi.org/10.1029/2021JD034793&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
-    
     <item>
       <title>김민석</title>
-      <link>https://atmos.yonsei.ac.kr/people/minseokkim/</link>
+      <link>http://localhost:1313/people/minseokkim/</link>
       <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
-      
-      <guid>https://atmos.yonsei.ac.kr/people/minseokkim/</guid>
-      <description>연구분야 Aerosol retrieval from satellite remote sensing 학력 B.Sc (2019) in Atmospheric Sciences, Yonsei University, Seoul,</description>
+      <guid>http://localhost:1313/people/minseokkim/</guid>
+      <description>&lt;h4 id=&#34;연구분야&#34;&gt;연구분야&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Aerosol retrieval from satellite remote sensing&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;학력&#34;&gt;학력&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;B.Sc&lt;/strong&gt; (2019) in Atmospheric Sciences, Yonsei University, Seoul, Korea&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;수상내역&#34;&gt;수상내역&lt;/h4&gt;&#xA;&lt;h4 id=&#34;논문&#34;&gt;논문&lt;/h4&gt;</description>
     </item>
-    
     <item>
       <title>김정원</title>
-      <link>https://atmos.yonsei.ac.kr/people/jeongwonkim/</link>
+      <link>http://localhost:1313/people/jeongwonkim/</link>
       <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
-      
-      <guid>https://atmos.yonsei.ac.kr/people/jeongwonkim/</guid>
-      <description>연구분야 Regional climate modeling Arctic Modeling 학력 M.Sc (2019) in Atmospheric Sciences, Yonsei University, Seoul, Korea</description>
+      <guid>http://localhost:1313/people/jeongwonkim/</guid>
+      <description>&lt;h4 id=&#34;연구분야&#34;&gt;연구분야&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Regional climate modeling&lt;/li&gt;&#xA;&lt;li&gt;Arctic Modeling&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;학력&#34;&gt;학력&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;M.Sc (2019) in Atmospheric Sciences, Yonsei University, Seoul, Korea&lt;/li&gt;&#xA;&lt;li&gt;B.Sc (2017) in Atmospheric Sciences &amp;amp; Business Administration, Yonsei University, Seoul, Korea&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;수상내역&#34;&gt;수상내역&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;(2019) Best Presentation in the 2019 fall conference of Korean Meteorological Society&lt;/li&gt;&#xA;&lt;li&gt;(2017) Best university graduate award from the Korea Meteorological Society&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;논문&#34;&gt;논문&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Lee, J., Claussen, M., Kim, J., Hong, J. W., Song, I. S. and Hong, J. (2022). Effect of nitrogen limitation and soil biophysics on Holocene greening of the Sahara. Climate of the Past, 18(2), 313-326.&lt;/li&gt;&#xA;&lt;li&gt;Lee, K, J.-W. Hong, J. Kim, S. Jo, and J. Hong (2021) Traces of urban forest in temperature and CO2 signals in the East Asian monsoon region, Atmospheric Chemistry and Physics, 21, 17833-17853.&lt;/li&gt;&#xA;&lt;li&gt;Lee, K. et al. (2021) Partitioning of net CO2 exchanges at the city-atmosphere interface into biotic and abiotic components. MethodsX, 8, 101231.&lt;/li&gt;&#xA;&lt;li&gt;Kim, J. et al. (2020) Evaluation of land-atmosphere processes of the Polar WRF in the summertime Arctic tundra. Atmospheric Research, 240, 104946.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
-    
     <item>
       <title>박민주</title>
-      <link>https://atmos.yonsei.ac.kr/people/minjupark/</link>
+      <link>http://localhost:1313/people/minjupark/</link>
       <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
-      
-      <guid>https://atmos.yonsei.ac.kr/people/minjupark/</guid>
-      <description>연구분야 Spatiotemporal characteristics of polar and mid-latitude ozone 학력 B.Sc (2022) in Atmospheric Science, Yonsei University,</description>
+      <guid>http://localhost:1313/people/minjupark/</guid>
+      <description>&lt;h4 id=&#34;연구분야&#34;&gt;연구분야&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Spatiotemporal characteristics of polar and mid-latitude ozone&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;학력&#34;&gt;학력&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;B.Sc&lt;/strong&gt; (2022) in Atmospheric Science, Yonsei University, Seoul, Korea&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;수상내역&#34;&gt;수상내역&lt;/h4&gt;&#xA;&lt;h4 id=&#34;논문&#34;&gt;논문&lt;/h4&gt;</description>
     </item>
-    
     <item>
       <title>서민경</title>
-      <link>https://atmos.yonsei.ac.kr/people/mingyungseo/</link>
+      <link>http://localhost:1313/people/mingyungseo/</link>
       <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
-      
-      <guid>https://atmos.yonsei.ac.kr/people/mingyungseo/</guid>
-      <description>연구분야 Data assimilation 학력 M.Sc (2021) in Atmospheric Sciences, Yonsei University, Seoul, Korea B.Sc (2019) in</description>
+      <guid>http://localhost:1313/people/mingyungseo/</guid>
+      <description>&lt;h4 id=&#34;연구분야&#34;&gt;연구분야&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Data assimilation&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;학력&#34;&gt;학력&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;M.Sc&lt;/strong&gt; (2021) in Atmospheric Sciences, Yonsei University, Seoul, Korea&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;B.Sc&lt;/strong&gt; (2019) in Atmospheric Sciences, Yonsei University, Seoul, Korea&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;수상내역&#34;&gt;수상내역&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;(2024.01.10) 우수논문상, 연세대학교 대학원 2023-2학기 혁신 우수논문상 학술논문부분&lt;/li&gt;&#xA;&lt;li&gt;(2023.11.03) 우수논문발표상, 2023년 한국기상학회 가을학술대회 환경 및 응용기상분과&lt;/li&gt;&#xA;&lt;li&gt;(2022.01.12) 우수논문장려상, 연세대학교 대학원 2021-2학기 우수 논문상 석사학위과정 자연부분&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;논문&#34;&gt;논문&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Seo, M.-G., H. M. Kim, and D.-H. Kim, 2024: Effect of atmospheric conditions and VPRM parameters on high-resolution regional CO2 simulations over East Asia. Theoretical and Applied Climatology, 155, 859-877, &lt;a href=&#34;https://doi.org/10.1007/s00704-023-04663-2&#34;&gt;https://doi.org/10.1007/s00704-023-04663-2&lt;/a&gt;.&lt;/li&gt;&#xA;&lt;li&gt;Seo, M.-G., and H. M. Kim, 2023: Effect of meteorological data assimilation using 3DVAR on high-resolution simulations of atmospheric CO2 concentrations in East Asia. Atmospheric Pollution Research, 14, 101759, &lt;a href=&#34;https://doi.org/10.1016/j.apr.2023.101759&#34;&gt;https://doi.org/10.1016/j.apr.2023.101759&lt;/a&gt;.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
-    
     <item>
       <title>서표석</title>
-      <link>https://atmos.yonsei.ac.kr/people/pyosukseo/</link>
+      <link>http://localhost:1313/people/pyosukseo/</link>
       <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
-      
-      <guid>https://atmos.yonsei.ac.kr/people/pyosukseo/</guid>
-      <description>연구분야 Aerosol in situ observation 학력 B.Sc (2020) in Atmospheric Sciences, Yonsei University, Seoul, Korea 수</description>
+      <guid>http://localhost:1313/people/pyosukseo/</guid>
+      <description>&lt;h4 id=&#34;연구분야&#34;&gt;연구분야&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Aerosol in situ observation&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;학력&#34;&gt;학력&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;B.Sc&lt;/strong&gt; (2020) in Atmospheric Sciences, Yonsei University, Seoul, Korea&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;수상내역&#34;&gt;수상내역&lt;/h4&gt;&#xA;&lt;h4 id=&#34;논문&#34;&gt;논문&lt;/h4&gt;</description>
     </item>
-    
     <item>
       <title>손승우</title>
-      <link>https://atmos.yonsei.ac.kr/people/seungwoosohn/</link>
+      <link>http://localhost:1313/people/seungwoosohn/</link>
       <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
-      
-      <guid>https://atmos.yonsei.ac.kr/people/seungwoosohn/</guid>
-      <description>연구분야 Passive Microwave Remote Sensing of Precipitation 학력 B.Sc (2017) in Mathematics, University of Colorado Boulder,</description>
+      <guid>http://localhost:1313/people/seungwoosohn/</guid>
+      <description>&lt;h4 id=&#34;연구분야&#34;&gt;연구분야&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Passive Microwave Remote Sensing of Precipitation&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;학력&#34;&gt;학력&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;B.Sc&lt;/strong&gt; (2017) in Mathematics, University of Colorado Boulder, CO, U.S.A.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;수상내역&#34;&gt;수상내역&lt;/h4&gt;&#xA;&lt;h4 id=&#34;논문&#34;&gt;논문&lt;/h4&gt;</description>
     </item>
-    
     <item>
-      <title>안다현</title>
-      <link>https://atmos.yonsei.ac.kr/people/dhahyunahn/</link>
+<<<<<<< HEAD
+=======
+      <title>신소정</title>
+      <link>http://localhost:1313/people/sjshin/</link>
       <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
-      
-      <guid>https://atmos.yonsei.ac.kr/people/dhahyunahn/</guid>
-      <description>연구분야 Polar atmospheric chemistry Climatology of trace gases using satellite measurements 학력 B.Sc (2017) in Atmospheric</description>
+      <guid>http://localhost:1313/people/sjshin/</guid>
+      <description>&lt;h4 id=&#34;연구분야&#34;&gt;연구분야&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Climate theory analysis&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;학력&#34;&gt;학력&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;M.Sc&lt;/strong&gt; (2016) in Atmospheric Sciences, Yonsei University, Seoul, Korea&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;B.Sc&lt;/strong&gt; (2014) in Atmospheric Sciences, Yonsei University, Seoul, Korea&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;수상내역&#34;&gt;수상내역&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;2019년 한국기상학회 봄학술대회 우수논문발표상, Inter-model diversity of regional climate in 15 C and 17 C worlds&lt;/li&gt;&#xA;&lt;li&gt;우수논문상. Interdecadal change in the relationship between the North Pacific Oscillation and the Pacific Meridional Mode and its impact on ENSO. 연세대학교 BK21플러스 지구대기천문사업단장&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;논문&#34;&gt;논문&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Shin, S. J., &amp;amp; An, S. I. (2017). Interdecadal change in the relationship between the North Pacific Oscillation and the Pacific Meridional Mode and its impact on ENSO. Asia-Pacific Journal of Atmospheric Sciences, 1-14.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
-    
+    <item>
+>>>>>>> upstream/master
+      <title>안다현</title>
+      <link>http://localhost:1313/people/dhahyunahn/</link>
+      <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
+      <guid>http://localhost:1313/people/dhahyunahn/</guid>
+      <description>&lt;h4 id=&#34;연구분야&#34;&gt;연구분야&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Polar atmospheric chemistry&lt;/li&gt;&#xA;&lt;li&gt;Climatology of trace gases using satellite measurements&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;학력&#34;&gt;학력&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;B.Sc&lt;/strong&gt; (2017) in Atmospheric Sciences, Yonsei University, Seoul, Korea&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;수상내역&#34;&gt;수상내역&lt;/h4&gt;&#xA;&lt;h4 id=&#34;논문&#34;&gt;논문&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Koo, J. H., T. Choi, Y. Cho, H. Lee, J. Kim, D. H. Ahn, J. Kim, and Y. G. Lee (2017), The variation of aerosol optical depth over the polar stations of Korea, Part. Aerosol Res., 13(4), 141-150, doi:10.11629/jpaar.2017.12.30.141. (in Korean)&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
     <item>
       <title>오일섭</title>
-      <link>https://atmos.yonsei.ac.kr/people/ilseopoh/</link>
+      <link>http://localhost:1313/people/ilseopoh/</link>
       <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
-      
-      <guid>https://atmos.yonsei.ac.kr/people/ilseopoh/</guid>
-      <description>연구분야 Data assimilation 학력 B.Sc (2024) in Atmospheric Sciences and Physics, Yonsei University, Seoul, Korea 수</description>
+      <guid>http://localhost:1313/people/ilseopoh/</guid>
+      <description>&lt;h4 id=&#34;연구분야&#34;&gt;연구분야&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Data assimilation&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;학력&#34;&gt;학력&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;B.Sc&lt;/strong&gt; (2024) in Atmospheric Sciences and Physics, Yonsei University, Seoul, Korea&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;수상내역&#34;&gt;수상내역&lt;/h4&gt;&#xA;&lt;h4 id=&#34;논문&#34;&gt;논문&lt;/h4&gt;</description>
     </item>
-    
     <item>
       <title>이근민</title>
-      <link>https://atmos.yonsei.ac.kr/people/keunminlee/</link>
+      <link>http://localhost:1313/people/keunminlee/</link>
       <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
-      
-      <guid>https://atmos.yonsei.ac.kr/people/keunminlee/</guid>
-      <description>연구분야 Measurement and analysis of carbon, water and energy fluxes at the land-atmosphere interface Urban Climate and</description>
+      <guid>http://localhost:1313/people/keunminlee/</guid>
+      <description>&lt;h4 id=&#34;연구분야&#34;&gt;연구분야&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Measurement and analysis of carbon, water and energy fluxes at the land-atmosphere interface&lt;/li&gt;&#xA;&lt;li&gt;Urban Climate and Environment&lt;/li&gt;&#xA;&lt;li&gt;Atmospheric Turbulence&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;학력&#34;&gt;학력&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;M.Sc&lt;/strong&gt; (2015) in Atmospheric Sciences, Yonsei University, Seoul, Korea&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;B.Sc&lt;/strong&gt; (2013) in Atmospheric Sciences &amp;amp; Systems Biology, Yonsei University, Seoul, Korea&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;수상내역&#34;&gt;수상내역&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;(2018) Group Achievement Award, KORea-United States Air Quality (KORUS-AQ), NASA&lt;/li&gt;&#xA;&lt;li&gt;(2021.11) Best Presentation Award, Korean Society of Climate Change Research&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;논문&#34;&gt;논문&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Lee, K, J.-W. Hong, J. Kim, S. Jo, and J. Hong (2021) Traces of urban forest in temperature and CO2 signals in the East Asian monsoon region, Atmospheric Chemistry and Physics, 21, 17833-17853.&lt;/li&gt;&#xA;&lt;li&gt;Lee, K., Hong, J. W., Kim, J., &amp;amp; Hong, J. (2021). Partitioning of net CO2 exchanges at the city-atmosphere interface into biotic and abiotic components. MethodsX, 8, 101231.&lt;/li&gt;&#xA;&lt;li&gt;Hong, J.-W. et al. (2020) Seasonal variations in surface energy and CO2 flux over a high-rise high-density residential urban area in East Asian monsoon region. International Journal of Climatology.&lt;/li&gt;&#xA;&lt;li&gt;Lee, J. et al. (2019) Ceilometer monitoring of boundary layer height in Seoul and its application to evaluate the dilution effect on air pollution. Boundary Layer Meteorology, 172, 435-455.&lt;/li&gt;&#xA;&lt;li&gt;Kent, C., K. Lee, H. C. Ward, J.-W. Hong, J. Hong, D. Gatey, and S. Grimmond (2018) Aerodynamic roughness variation with vegetation: Analysis in a suburban neighbourhood and a city park, Urban Ecosystems, doi:10.1007/s11252-017-0710-1.&lt;/li&gt;&#xA;&lt;li&gt;Lee, C., K. Han, J. Yeom, K. Lee, M. Seo, J. Hong, J.-W. Hong, K. Lee, J. Shin, I. Shim, J. Chun, and J.-L. Roujean (2018) Surface albedo from the geostationary Communication, Ocean and Meteorological Satellite (COMS)/Meteorological Imager (MI) observation system, GIScience &amp;amp; Remote Sensing, 28, 38-62.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
-    
     <item>
       <title>이동희</title>
-      <link>https://atmos.yonsei.ac.kr/people/dongheelee/</link>
+      <link>http://localhost:1313/people/dongheelee/</link>
       <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
-      
-      <guid>https://atmos.yonsei.ac.kr/people/dongheelee/</guid>
-      <description>연구분야 Spatio-temporal Variation Analysis of Hydrocarbons from Wildfires Estimation of Plume Height from Wildfire Using Remote Sensing</description>
+      <guid>http://localhost:1313/people/dongheelee/</guid>
+      <description>&lt;h4 id=&#34;연구분야&#34;&gt;연구분야&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Spatio-temporal Variation Analysis of Hydrocarbons from Wildfires&lt;/li&gt;&#xA;&lt;li&gt;Estimation of Plume Height from Wildfire Using Remote Sensing&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;학력&#34;&gt;학력&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;M.Ec&lt;/strong&gt; (2017) in Earth and Environmental Engineering, Gwangju Institute of Science and Technology (GIST), Gwangju, Korea&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;B.Ec&lt;/strong&gt; (2015) in Urban Engineering, Chungbuk National University, Cheongju, Korea&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;수상내역&#34;&gt;수상내역&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Best Student Poster Presentation, 4th International Conference on Bioresources, Energy, Environment, and Materials Technology (BEEM), 2020&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;논문&#34;&gt;논문&lt;/h4&gt;</description>
     </item>
-    
     <item>
       <title>이종혁</title>
-      <link>https://atmos.yonsei.ac.kr/people/jonghyuklee/</link>
+      <link>http://localhost:1313/people/jonghyuklee/</link>
       <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
-      
-      <guid>https://atmos.yonsei.ac.kr/people/jonghyuklee/</guid>
-      <description>연구분야 Temperature/humidity profile retrieval using satellite data Satellite soil moisture validation 학력 B.Sc (2013) in Atmospheric</description>
+      <guid>http://localhost:1313/people/jonghyuklee/</guid>
+      <description>&lt;h4 id=&#34;연구분야&#34;&gt;연구분야&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Temperature/humidity profile retrieval using satellite data&lt;/li&gt;&#xA;&lt;li&gt;Satellite soil moisture validation&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;학력&#34;&gt;학력&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;B.Sc&lt;/strong&gt; (2013) in Atmospheric Sciences, Yonsei University, Seoul, Korea&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;수상내역&#34;&gt;수상내역&lt;/h4&gt;&#xA;&lt;h4 id=&#34;논문&#34;&gt;논문&lt;/h4&gt;</description>
     </item>
-    
     <item>
       <title>이주엽</title>
-      <link>https://atmos.yonsei.ac.kr/people/jooyeoplee/</link>
+      <link>http://localhost:1313/people/jooyeoplee/</link>
       <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
-      
-      <guid>https://atmos.yonsei.ac.kr/people/jooyeoplee/</guid>
-      <description>연구분야 Land-atmosphere interaction Climate adaptation modeling Climate Change Green Sahara Earth system modeling 학력 M.Sc (2020)</description>
+      <guid>http://localhost:1313/people/jooyeoplee/</guid>
+      <description>&lt;h4 id=&#34;연구분야&#34;&gt;연구분야&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Land-atmosphere interaction&lt;/li&gt;&#xA;&lt;li&gt;Climate adaptation modeling&lt;/li&gt;&#xA;&lt;li&gt;Climate Change&lt;/li&gt;&#xA;&lt;li&gt;Green Sahara&lt;/li&gt;&#xA;&lt;li&gt;Earth system modeling&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;학력&#34;&gt;학력&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;M.Sc&lt;/strong&gt; (2020) in Atmospheric Sciences, Yonsei University, Seoul, Korea&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;B.Sc&lt;/strong&gt; (2018) in Atmospheric Sciences, Yonsei University, Seoul, Korea&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;수상내역&#34;&gt;수상내역&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;(2022.12) 정성기 동문 대학원생 우수논문상 (수상기관: 연세대학교)&lt;/li&gt;&#xA;&lt;li&gt;(2022.12) Seong-Gi Jeong Graduate Student Best Paper Award by Yonsei University&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;논문&#34;&gt;논문&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Lee, J., Claussen, M., Kim, J., Hong, J. W., Song, I. S. and Hong, J. (2022). Effect of nitrogen limitation and soil biophysics on Holocene greening of the Sahara. Climate of the Past, 18(2), 313-326.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
-    
     <item>
       <title>이주희</title>
-      <link>https://atmos.yonsei.ac.kr/people/juheelee/</link>
+      <link>http://localhost:1313/people/juheelee/</link>
       <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
-      
-      <guid>https://atmos.yonsei.ac.kr/people/juheelee/</guid>
-      <description>연구분야 Prediction of PM2.5 over the Korean Peninsula using Machine Learning Model Analysis of Aerosol Optical Properties</description>
+      <guid>http://localhost:1313/people/juheelee/</guid>
+      <description>&lt;h4 id=&#34;연구분야&#34;&gt;연구분야&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Prediction of PM2.5 over the Korean Peninsula using Machine Learning Model&lt;/li&gt;&#xA;&lt;li&gt;Analysis of Aerosol Optical Properties using Sky-radiometer Observation&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;학력&#34;&gt;학력&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;B.Sc&lt;/strong&gt; (2021) in Atmospheric Sciences, Yonsei University, Seoul, Korea&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;수상내역&#34;&gt;수상내역&lt;/h4&gt;&#xA;&lt;h4 id=&#34;논문&#34;&gt;논문&lt;/h4&gt;</description>
     </item>
-    
     <item>
       <title>이태경</title>
-      <link>https://atmos.yonsei.ac.kr/people/taegyunglee/</link>
+      <link>http://localhost:1313/people/taegyunglee/</link>
       <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
-      
-      <guid>https://atmos.yonsei.ac.kr/people/taegyunglee/</guid>
-      <description>연구분야 Spatiotemporal Variation of Surface Air Pollutants in the Korean Peninsula Relationship between Air Pollution and Meteorology</description>
+      <guid>http://localhost:1313/people/taegyunglee/</guid>
+      <description>&lt;h4 id=&#34;연구분야&#34;&gt;연구분야&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Spatiotemporal Variation of Surface Air Pollutants in the Korean Peninsula&lt;/li&gt;&#xA;&lt;li&gt;Relationship between Air Pollution and Meteorology&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;학력&#34;&gt;학력&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;M.Sc&lt;/strong&gt; (2019) in Atmospheric Sciences, Chungnam National University, Daejeon, Korea&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;B.Sc&lt;/strong&gt; (2017) in Astro &amp;amp; Space Science, Chungnam National University, Daejeon, Korea&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;수상내역&#34;&gt;수상내역&lt;/h4&gt;&#xA;&lt;h4 id=&#34;논문&#34;&gt;논문&lt;/h4&gt;</description>
     </item>
-    
     <item>
       <title>조예슬</title>
-      <link>https://atmos.yonsei.ac.kr/people/yeseulcho/</link>
+      <link>http://localhost:1313/people/yeseulcho/</link>
       <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
-      
-      <guid>https://atmos.yonsei.ac.kr/people/yeseulcho/</guid>
-      <description>연구분야 Column-surface relationship Investigation of aircraft measurement campaign Estimation of ground-level PM2.5 using a machine learning method</description>
+      <guid>http://localhost:1313/people/yeseulcho/</guid>
+      <description>&lt;h4 id=&#34;연구분야&#34;&gt;연구분야&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Column-surface relationship&lt;/li&gt;&#xA;&lt;li&gt;Investigation of aircraft measurement campaign&lt;/li&gt;&#xA;&lt;li&gt;Estimation of ground-level PM2.5 using a machine learning method&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;학력&#34;&gt;학력&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;B.Sc&lt;/strong&gt; (2018) in Atmospheric Sciences, Yonsei University, Seoul, Korea&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;수상내역&#34;&gt;수상내역&lt;/h4&gt;&#xA;&lt;h4 id=&#34;논문&#34;&gt;논문&lt;/h4&gt;</description>
     </item>
-    
     <item>
       <title>조윤재</title>
-      <link>https://atmos.yonsei.ac.kr/people/minkwangcho/</link>
+      <link>http://localhost:1313/people/minkwangcho/</link>
       <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
-      
-      <guid>https://atmos.yonsei.ac.kr/people/minkwangcho/</guid>
-      <description>연구분야 Data assimilation 학력 M.Sc (2019) in Atmospheric Sciences, Yonsei University, Seoul, Korea B.Sc (2017) in</description>
+      <guid>http://localhost:1313/people/minkwangcho/</guid>
+      <description>&lt;h4 id=&#34;연구분야&#34;&gt;연구분야&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Data assimilation&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;학력&#34;&gt;학력&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;M.Sc&lt;/strong&gt; (2019) in Atmospheric Sciences, Yonsei University, Seoul, Korea&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;B.Sc&lt;/strong&gt; (2017) in Atmospheric Sciences, Yonsei University, Seoul, Korea&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;수상내역&#34;&gt;수상내역&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;(2018.10) 한국기상학회 가을 학술대회 환경 및 응용기상분과 우수논문발표상 (수상기관: 한국기상학회)&lt;/li&gt;&#xA;&lt;li&gt;(2024.07) 장려상, 연세대학교 2024-1학기 대학원혁신 우수논문상 학술논문부문&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;논문&#34;&gt;논문&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Cho, Y., H. M. Kim, E.-G. Yang, Y. Lee, J.-B. Lee, and S. Ha, 2024: Effect of meteorological data assimilation on regional air quality forecasts over the Korean Peninsula. Journal of Meteorological Research, 38, 1-23. &lt;a href=&#34;https://doi.org/10.1007/s13351-024-3152-8&#34;&gt;https://doi.org/10.1007/s13351-024-3152-8&lt;/a&gt;.&lt;/li&gt;&#xA;&lt;li&gt;Cho, M., and H. M. Kim, 2022: Effect of assimilating CO2 observations in the Korean Peninsula on the inverse modeling to estimate surface CO2 flux over Asia. PLoS ONE, 17, e0263925. &lt;a href=&#34;https://doi.org/10.1371/journal.pone.0263925&#34;&gt;https://doi.org/10.1371/journal.pone.0263925&lt;/a&gt;.&lt;/li&gt;&#xA;&lt;li&gt;Kim, H., H. M. Kim, M. K. Cho, J. Park, and D.-H. Kim, 2018:  Development of the aircraft CO₂ measurement data assimilation system to improve the estimation of surface CO₂ fluxes using an inverse modeling system, Atmosphere, 28(2), 1-9, doi:10.14191/Atmos.2018.28.2.1. (in Korean with English abstract)&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
-    
     <item>
-      <title>홍재민</title>
-      <link>https://atmos.yonsei.ac.kr/people/jaeminhong/</link>
+<<<<<<< HEAD
+=======
+      <title>허은숙</title>
+      <link>http://localhost:1313/people/eunsookheo/</link>
       <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
-      
-      <guid>https://atmos.yonsei.ac.kr/people/jaeminhong/</guid>
-      <description>연구분야 Retrieval of atmospheric carbon dioxide density using satellite measurement 학력 B.Sc (2017) in Atmospheric Sciences,</description>
+      <guid>http://localhost:1313/people/eunsookheo/</guid>
+      <description>&lt;h4 id=&#34;연구분야&#34;&gt;연구분야&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;El Nino-Southern Oscillation (ENSO)&lt;/li&gt;&#xA;&lt;li&gt;Arctic Sea ice&lt;/li&gt;&#xA;&lt;li&gt;Feedback process&lt;/li&gt;&#xA;&lt;li&gt;Pacific Decadal Oscillation&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;학력&#34;&gt;학력&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;M.Sc&lt;/strong&gt; (2018) in Atmospheric Sciences, Yonsei University, Seoul, Korea&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;B.Sc&lt;/strong&gt; (2016) in Atmospheric Sciences, Yonsei University, Seoul, Korea&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;수상내역&#34;&gt;수상내역&lt;/h4&gt;&#xA;&lt;h4 id=&#34;논문&#34;&gt;논문&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;An, S. -I., E. S. Heo, and S. T. Kim (2017), Feedback processes responsible for intermodel diversity of ENSO variability, Geophys. Res. Lett., 44, 4272-4279.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
-    
+    <item>
+>>>>>>> upstream/master
+      <title>홍재민</title>
+      <link>http://localhost:1313/people/jaeminhong/</link>
+      <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
+      <guid>http://localhost:1313/people/jaeminhong/</guid>
+      <description>&lt;h4 id=&#34;연구분야&#34;&gt;연구분야&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Retrieval of atmospheric carbon dioxide density using satellite measurement&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;학력&#34;&gt;학력&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;B.Sc&lt;/strong&gt; (2017) in Atmospheric Sciences, Yonsei University, Seoul, Korea&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;수상내역&#34;&gt;수상내역&lt;/h4&gt;&#xA;&lt;h4 id=&#34;논문&#34;&gt;논문&lt;/h4&gt;</description>
+    </item>
     <item>
       <title>박효진</title>
-      <link>https://atmos.yonsei.ac.kr/people/hyojinpark/</link>
+      <link>http://localhost:1313/people/hyojinpark/</link>
       <pubDate>Wed, 05 Mar 2025 13:39:46 +0200</pubDate>
-      
-      <guid>https://atmos.yonsei.ac.kr/people/hyojinpark/</guid>
-      <description>연구분야 Indian Ocean Dipole Inter-basin interaction 학력 M.Sc (2024) in Atmospheric Sciences, Yonsei University, Seoul, Korea</description>
+      <guid>http://localhost:1313/people/hyojinpark/</guid>
+      <description>&lt;h4 id=&#34;연구분야&#34;&gt;연구분야&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Indian Ocean Dipole&lt;/li&gt;&#xA;&lt;li&gt;Inter-basin interaction&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;학력&#34;&gt;학력&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;M.Sc&lt;/strong&gt; (2024) in Atmospheric Sciences, Yonsei University, Seoul, Korea&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;B.Sc&lt;/strong&gt; (2022) in Atmospheric Sciences and Applied Statistics, Yonsei University, Seoul, Korea&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;수상내역&#34;&gt;수상내역&lt;/h4&gt;&#xA;&lt;h4 id=&#34;논문&#34;&gt;논문&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;C. Liu, S.-I. An, S.-K. Kim, M. F. Stuecker, W. Zhang, F.-F. Jin, J.-H. Park, L. Jiang, A. Xue, X. Geng, H.-J. Park, Y.-M. Yang, J.-S. Kug (2024) Synchronous decadal climate variability in the tropical Central Pacific and tropical South Atlantic, npj Climate and Atmospheric Science, 7, 253. &lt;a href=&#34;https://doi.org/10.1038/s41612-024-00806-y&#34;&gt;https://doi.org/10.1038/s41612-024-00806-y&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;J.-H. Park, Y.-M.Yang, Y.-G. Ham, H.-S. Jo, H.-J. Park, S.-E. Park, C. Liu, G.Mandal, S.-I. An, J.-S. Kug (2024) significant winter Atlantic Nino effect on ENSO and its future projection, npj Climate and Atmospheric Science, 7, 238. &lt;a href=&#34;https://doi.org/10.1038/s41612-024-00790-3&#34;&gt;https://doi.org/10.1038/s41612-024-00790-3&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;H.-J. Park, S.-I. An, J.-H. Park, M.F. Stuecker, C.Liu, S.-W. Yeh (2024) Local feedback and ENSO govern decadal changes in variability and seasonal synchronization of the Indian Ocean Dipole, Communications Earth and Environment 5,357. &lt;a href=&#34;https://doi.org/10.1038/s43247-024-01525-1&#34;&gt;https://doi.org/10.1038/s43247-024-01525-1&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;G. Pathirana, K.-M. Noh, D.-G. Lee, H.-J. Park, D. Wang, J.-S. Kug (2024) Intensified Surface Chlorophyll Responses to the Indian Ocean Dipole Under Greenhouse Warming, Environmental Research Letters, 19, 6. &lt;a href=&#34;https://doi.org/10.1088/1748-9326/ad4db8&#34;&gt;https://doi.org/10.1088/1748-9326/ad4db8&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;S.-K. Kim, H.-J. Park, S.-I. An, C. Liu, W. Cai, A. Santoso, J.-S. Kug,(2024) Decreased Indian Ocean Dipole variability under prolonged greenhouse warming, Nature Communications, 15, 2811. &lt;a href=&#34;https://doi.org/10.1038/s41467-024-47276-7&#34;&gt;https://doi.org/10.1038/s41467-024-47276-7&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;J.-H. Park, J.-S. Kug, Y.-M. Yang, M.-K. Sung, S. Kim, H.-J. Kim, H.-J. Park, S.-I. An,(2023) Distinct decadal modulation of Atlantic-Niño influence on ENSO. npj Clim Atmos Sci 6, 105. &lt;a href=&#34;https://doi.org/10.1038/s41612-023-00429-9&#34;&gt;https://doi.org/10.1038/s41612-023-00429-9&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;S.-I. An, H.-J. Park, S.-K. Kim, W. Cai, A. Santoso, D. Kim, J.-S. Jug,(2023) Main drivers of Indian Ocean Dipole asymmetry revealed by a simple IOD model, npj Clim Atmos Sci 6, 93. &lt;a href=&#34;https://doi.org/10.1038/s41612-023-00422-2&#34;&gt;https://doi.org/10.1038/s41612-023-00422-2&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;S.-I An, H.-J. Park, S.-K. Kim, J. Shin, S.-W. Yeh, J.-S. Jug,(2022) Intensity changes of Indian Ocean Dipole Mode in a Carbon Dioxide Removal Scenario, npj Climate and Atmospheric Science, 5, 20. &lt;a href=&#34;https://doi.org/10.1038/s41612-022-00246-6&#34;&gt;https://doi.org/10.1038/s41612-022-00246-6&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
-    
     <item>
+<<<<<<< HEAD
+=======
+      <title>박찬</title>
+      <link>http://localhost:1313/people/chanpark/</link>
+      <pubDate>Wed, 01 Mar 2023 13:39:46 +0200</pubDate>
+      <guid>http://localhost:1313/people/chanpark/</guid>
+      <description>&lt;h4 id=&#34;연구분야&#34;&gt;연구분야&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Atmospheric Modeling&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;학력&#34;&gt;학력&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;B.Sc&lt;/strong&gt; (2014) Militrary Strategy, Korea Airforce Academy, Cheongju, Korea&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;수상내역&#34;&gt;수상내역&lt;/h4&gt;&#xA;&lt;h4 id=&#34;논문&#34;&gt;논문&lt;/h4&gt;</description>
+    </item>
+    <item>
+>>>>>>> upstream/master
       <title>차혜지</title>
-      <link>https://atmos.yonsei.ac.kr/people/hyejicha/</link>
+      <link>http://localhost:1313/people/hyejicha/</link>
       <pubDate>Tue, 05 Jul 2022 13:39:46 +0200</pubDate>
-      
-      <guid>https://atmos.yonsei.ac.kr/people/hyejicha/</guid>
-      <description>연구분야 H2O retrieval from Geostationary Environment Monitoring Spectrometer (GEMS) Inferring NOx emissions over South Korea by using</description>
+      <guid>http://localhost:1313/people/hyejicha/</guid>
+      <description>&lt;h4 id=&#34;연구분야&#34;&gt;연구분야&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;H2O retrieval from Geostationary Environment Monitoring Spectrometer (GEMS)&lt;/li&gt;&#xA;&lt;li&gt;Inferring NOx emissions over South Korea by using satellite NO2 data&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;학력&#34;&gt;학력&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;B.Sc&lt;/strong&gt; (2022) in Atmospheric Sciences, Yonsei University, Seoul, Korea&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;논문&#34;&gt;논문&lt;/h4&gt;</description>
     </item>
-    
     <item>
-      <title>최현의</title>
-      <link>https://atmos.yonsei.ac.kr/people/hyeonuichoe/</link>
-      <pubDate>Wed, 24 Mar 2021 13:39:46 +0200</pubDate>
-      
-      <guid>https://atmos.yonsei.ac.kr/people/hyeonuichoe/</guid>
-      <description>연구분야 polar climate and sea ice 학력 B.Sc (2022) in Atmospheric Sciences, Yonsei University, Seoul, Korea</description>
+<<<<<<< HEAD
+=======
+      <title>김정우</title>
+      <link>http://localhost:1313/people/jeongwoo_kim/</link>
+      <pubDate>Thu, 24 Mar 2022 13:39:46 +0200</pubDate>
+      <guid>http://localhost:1313/people/jeongwoo_kim/</guid>
+      <description>&lt;h4 id=&#34;연구분야&#34;&gt;연구분야&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Measurement and analysis of wind profile using Doppler LIDAR system&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;학력&#34;&gt;학력&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;B.Sc&lt;/strong&gt; (2022) in Atmospheric Sciences, Yonsei University, Seoul, Korea&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;수상내역&#34;&gt;수상내역&lt;/h4&gt;&#xA;&lt;h4 id=&#34;논문&#34;&gt;논문&lt;/h4&gt;</description>
     </item>
-    
+    <item>
+      <title>신수현</title>
+      <link>http://localhost:1313/people/shshin/</link>
+      <pubDate>Wed, 24 Mar 2021 13:39:46 +0200</pubDate>
+      <guid>http://localhost:1313/people/shshin/</guid>
+      <description>&lt;h4 id=&#34;연구분야&#34;&gt;연구분야&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;ENSO teleconnection&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;학력&#34;&gt;학력&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;B.Sc&lt;/strong&gt; (2023) in Atmospheric Sciences, Yonsei University, Seoul, Korea&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;수상내역&#34;&gt;수상내역&lt;/h4&gt;&#xA;&lt;h4 id=&#34;논문&#34;&gt;논문&lt;/h4&gt;</description>
+    </item>
+    <item>
+      <title>최순혁</title>
+      <link>http://localhost:1313/people/soonhyeokchoi/</link>
+      <pubDate>Wed, 24 Mar 2021 13:39:46 +0200</pubDate>
+      <guid>http://localhost:1313/people/soonhyeokchoi/</guid>
+      <description>&lt;h4 id=&#34;연구분야&#34;&gt;연구분야&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;ENSO teleconnection&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;학력&#34;&gt;학력&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;B.Sc&lt;/strong&gt; (2023) in Physics, Dankook University, Korea&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;수상내역&#34;&gt;수상내역&lt;/h4&gt;&#xA;&lt;h4 id=&#34;논문&#34;&gt;논문&lt;/h4&gt;</description>
+    </item>
+    <item>
+>>>>>>> upstream/master
+      <title>최현의</title>
+      <link>http://localhost:1313/people/hyeonuichoe/</link>
+      <pubDate>Wed, 24 Mar 2021 13:39:46 +0200</pubDate>
+      <guid>http://localhost:1313/people/hyeonuichoe/</guid>
+      <description>&lt;h4 id=&#34;연구분야&#34;&gt;연구분야&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;polar climate and sea ice&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;학력&#34;&gt;학력&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;B.Sc&lt;/strong&gt; (2022) in Atmospheric Sciences, Yonsei University, Seoul, Korea&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;수상내역&#34;&gt;수상내역&lt;/h4&gt;&#xA;&lt;h4 id=&#34;논문&#34;&gt;논문&lt;/h4&gt;</description>
+    </item>
     <item>
       <title>조성수</title>
-      <link>https://atmos.yonsei.ac.kr/people/sungsoojo/</link>
+      <link>http://localhost:1313/people/sungsoojo/</link>
       <pubDate>Fri, 13 Mar 2020 18:10:46 +0200</pubDate>
-      
-      <guid>https://atmos.yonsei.ac.kr/people/sungsoojo/</guid>
-      <description>연구분야 Measurement and analysis of energy fluxes at the land-atmosphere interface 학력 B.Sc (2021) in Atmospheric</description>
+      <guid>http://localhost:1313/people/sungsoojo/</guid>
+      <description>&lt;h4 id=&#34;연구분야&#34;&gt;연구분야&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Measurement and analysis of energy fluxes at the land-atmosphere interface&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;학력&#34;&gt;학력&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;B.Sc&lt;/strong&gt; (2021) in Atmospheric Sciences &amp;amp; Electrical and Electronic Engineering, Yonsei University, Seoul, Korea&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;수상내역&#34;&gt;수상내역&lt;/h4&gt;&#xA;&lt;h4 id=&#34;논문&#34;&gt;논문&lt;/h4&gt;</description>
     </item>
-    
     <item>
       <title>곽경민</title>
-      <link>https://atmos.yonsei.ac.kr/people/kyungminkwak/</link>
+      <link>http://localhost:1313/people/kyungminkwak/</link>
       <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
-      
-      <guid>https://atmos.yonsei.ac.kr/people/kyungminkwak/</guid>
-      <description>연구분야 Air-sea coupled modeling Southern Ocean carbon exchange 학력 M.Sc (2021) in Atmospheric Sciences, Yonsei University,</description>
+      <guid>http://localhost:1313/people/kyungminkwak/</guid>
+      <description>&lt;h4 id=&#34;연구분야&#34;&gt;연구분야&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Air-sea coupled modeling&lt;/li&gt;&#xA;&lt;li&gt;Southern Ocean carbon exchange&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;학력&#34;&gt;학력&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;M.Sc&lt;/strong&gt; (2021) in Atmospheric Sciences, Yonsei University, Seoul, Korea&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;B.Sc&lt;/strong&gt; (2019) in Atmospheric and Environmental Sciences, Gangneung-Wonju National University, Gangneung, Korea&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;수상내역&#34;&gt;수상내역&lt;/h4&gt;&#xA;&lt;h4 id=&#34;논문&#34;&gt;논문&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Kwak, K., Song, H., Marshall, J., Seo, H. and McGillicuddy, D. J. Jr. (2021). Suppressed pCO2 in the Southern Ocean due to the interaction between current and wind. Journal of Geophysical Research: Oceans, 126, e2021JC017884&lt;/li&gt;&#xA;&lt;li&gt;Hur, I., M. KIM, K. Kwak, H.M. Sung, Y-H Byun, H. Song and C. Yoo (2021). Hadley circulation in the present and future climate simulations of the K-ACE model. Asia-Pacific Journal of Atmospheric Sciences, in press&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
-    
     <item>
       <title>김유진</title>
-      <link>https://atmos.yonsei.ac.kr/people/kimyujin/</link>
+      <link>http://localhost:1313/people/kimyujin/</link>
       <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
-      
-      <guid>https://atmos.yonsei.ac.kr/people/kimyujin/</guid>
-      <description>연구분야 Air-sea Interaction Ocean modeling Overturning circulation in the East Sea 학력 M.Sc (2023) in Atmospheric</description>
+      <guid>http://localhost:1313/people/kimyujin/</guid>
+      <description>&lt;h4 id=&#34;연구분야&#34;&gt;연구분야&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Air-sea Interaction&lt;/li&gt;&#xA;&lt;li&gt;Ocean modeling&lt;/li&gt;&#xA;&lt;li&gt;Overturning circulation in the East Sea &lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;학력&#34;&gt;학력&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;M.Sc&lt;/strong&gt; (2023) in Atmospheric Sciences, Yonsei University, Seoul, Korea&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;B.Sc&lt;/strong&gt; (2021) in Atmospheric Sciences, Yonsei University, Seoul, Korea&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;수상내역&#34;&gt;수상내역&lt;/h4&gt;&#xA;&lt;h4 id=&#34;논문&#34;&gt;논문&lt;/h4&gt;</description>
     </item>
-    
     <item>
       <title>김혜진</title>
-      <link>https://atmos.yonsei.ac.kr/people/heyjinkim/</link>
+      <link>http://localhost:1313/people/heyjinkim/</link>
       <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
-      
-      <guid>https://atmos.yonsei.ac.kr/people/heyjinkim/</guid>
-      <description>연구분야 Estimation of aerosol optical depth from chemical transport model 학력 M.Sc (2020) in Atmospheric Science,</description>
+      <guid>http://localhost:1313/people/heyjinkim/</guid>
+      <description>&lt;h4 id=&#34;연구분야&#34;&gt;연구분야&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Estimation of aerosol optical depth from chemical transport model&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;학력&#34;&gt;학력&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;M.Sc&lt;/strong&gt; (2020) in Atmospheric Science, Yonsei University, Seoul, Korea&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;B.Sc&lt;/strong&gt; (2018) in atmospheric sicence, Kongju National University, Gongju, Korea&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;수상내역&#34;&gt;수상내역&lt;/h4&gt;&#xA;&lt;h4 id=&#34;논문&#34;&gt;논문&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Kim, H.-J., U. Shin, W.-J. Choi, J.-H. Koo, C. H. Jung, K.-P. Nam, and S.-H. Park (2022), Validating aerosol optical depth estimation methods using the National Institute of Environmental Research operational numerical forecast model, Appl. Sci., 12, 2556, doi:10.3390/app12052556.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
-    
     <item>
       <title>민형준</title>
-      <link>https://atmos.yonsei.ac.kr/people/hjmin/</link>
+      <link>http://localhost:1313/people/hjmin/</link>
       <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
-      
-      <guid>https://atmos.yonsei.ac.kr/people/hjmin/</guid>
-      <description>연구분야 Analysis of marine heatwave in CMIP6 models 학력 B.Sc (2023) Atmospheric Sciences, Yonsei University, Seoul,</description>
+      <guid>http://localhost:1313/people/hjmin/</guid>
+      <description>&lt;h4 id=&#34;연구분야&#34;&gt;연구분야&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Analysis of marine heatwave in CMIP6 models&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;학력&#34;&gt;학력&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;B.Sc&lt;/strong&gt; (2023) Atmospheric Sciences, Yonsei University, Seoul, Korea&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;수상내역&#34;&gt;수상내역&lt;/h4&gt;&#xA;&lt;h4 id=&#34;논문&#34;&gt;논문&lt;/h4&gt;</description>
     </item>
-    
     <item>
       <title>박준성</title>
-      <link>https://atmos.yonsei.ac.kr/people/joonsungpark/</link>
+      <link>http://localhost:1313/people/joonsungpark/</link>
       <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
-      
-      <guid>https://atmos.yonsei.ac.kr/people/joonsungpark/</guid>
-      <description>연구분야 Atmospheric Modeling 학력 M.Sc (2021) in atmospheric sicences, Yonsei University, Seoul, Korea B.Sc (2019) in</description>
+      <guid>http://localhost:1313/people/joonsungpark/</guid>
+      <description>&lt;h4 id=&#34;연구분야&#34;&gt;연구분야&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Atmospheric Modeling&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;학력&#34;&gt;학력&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;M.Sc&lt;/strong&gt; (2021) in atmospheric sicences, Yonsei University, Seoul, Korea&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;B.Sc&lt;/strong&gt; (2019) in atmospheric sicences, Yonsei University, Seoul, Korea&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;수상내역&#34;&gt;수상내역&lt;/h4&gt;&#xA;&lt;h4 id=&#34;논문&#34;&gt;논문&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Shin, U, S.-H. Park, &lt;b&gt;J.-S. Park&lt;/b&gt;, J.-H. Koo, C. Yoo, S. Kim, and J.-B. Lee (2021), Predictability of PM2.5 in Seoul based on atmospheric blocking forecasts using the NCEP global forecast system, Atmospheric Environment, 246, 118141, &lt;a href=&#34;https://doi.org/10.1016/j.atmosenv.2020.118141&#34;&gt;https://doi.org/10.1016/j.atmosenv.2020.118141&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
-    
     <item>
       <title>선우효준</title>
-      <link>https://atmos.yonsei.ac.kr/people/seunuhyojun/</link>
+      <link>http://localhost:1313/people/seunuhyojun/</link>
       <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
-      
-      <guid>https://atmos.yonsei.ac.kr/people/seunuhyojun/</guid>
-      <description>연구분야 Air-sea Interaction Eddy Composite Analysis Southern Ocean 학력 M.Sc (2023) in Atmospheric Sciences, Yonsei University,</description>
+      <guid>http://localhost:1313/people/seunuhyojun/</guid>
+      <description>&lt;h4 id=&#34;연구분야&#34;&gt;연구분야&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Air-sea Interaction&lt;/li&gt;&#xA;&lt;li&gt;Eddy Composite Analysis&lt;/li&gt;&#xA;&lt;li&gt;Southern Ocean&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;학력&#34;&gt;학력&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;M.Sc&lt;/strong&gt; (2023) in Atmospheric Sciences, Yonsei University, Seoul, Korea&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;B.Sc&lt;/strong&gt; (2021) in Atmospheric Sciences, Yonsei University, Seoul, Korea&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;수상내역&#34;&gt;수상내역&lt;/h4&gt;&#xA;&lt;h4 id=&#34;논문&#34;&gt;논문&lt;/h4&gt;</description>
     </item>
-    
     <item>
       <title>이민재</title>
-      <link>https://atmos.yonsei.ac.kr/people/minjaelee/</link>
+      <link>http://localhost:1313/people/minjaelee/</link>
       <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
-      
-      <guid>https://atmos.yonsei.ac.kr/people/minjaelee/</guid>
-      <description>연구분야 Atmospheric Modeling 학력 M.Sc (2023) in Atmospheric Sciences, Yonsei University, Seoul, Korea B.Sc (2021) in</description>
+      <guid>http://localhost:1313/people/minjaelee/</guid>
+      <description>&lt;h4 id=&#34;연구분야&#34;&gt;연구분야&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Atmospheric Modeling&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;학력&#34;&gt;학력&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;M.Sc&lt;/strong&gt; (2023) in Atmospheric Sciences, Yonsei University, Seoul, Korea&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;B.Sc&lt;/strong&gt; (2021) in atmospheric sicences, Yonsei University, Seoul, Korea&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;수상내역&#34;&gt;수상내역&lt;/h4&gt;&#xA;&lt;h4 id=&#34;논문&#34;&gt;논문&lt;/h4&gt;</description>
     </item>
-    
     <item>
       <title>이세현</title>
-      <link>https://atmos.yonsei.ac.kr/people/sehyunlee/</link>
+      <link>http://localhost:1313/people/sehyunlee/</link>
       <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
-      
-      <guid>https://atmos.yonsei.ac.kr/people/sehyunlee/</guid>
-      <description>연구분야 Atmospheric Modeling 학력 M.Sc (2023) in Atmospheric Sciences, Yonsei University, Seoul, Korea B.Sc (2021) in</description>
+      <guid>http://localhost:1313/people/sehyunlee/</guid>
+      <description>&lt;h4 id=&#34;연구분야&#34;&gt;연구분야&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Atmospheric Modeling&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;학력&#34;&gt;학력&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;M.Sc&lt;/strong&gt; (2023) in Atmospheric Sciences, Yonsei University, Seoul, Korea&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;B.Sc&lt;/strong&gt; (2021) in atmospheric sicences, Yonsei University, Seoul, Korea&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;수상내역&#34;&gt;수상내역&lt;/h4&gt;&#xA;&lt;h4 id=&#34;논문&#34;&gt;논문&lt;/h4&gt;</description>
     </item>
-    
     <item>
       <title>이준우</title>
-      <link>https://atmos.yonsei.ac.kr/people/joonwoolee/</link>
+      <link>http://localhost:1313/people/joonwoolee/</link>
       <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
-      
-      <guid>https://atmos.yonsei.ac.kr/people/joonwoolee/</guid>
-      <description>연구분야 Air-sea Interaction Global ocean analysis 학력 B.Sc (2022) in Atmospheric Sciences, Yonsei University, Seoul, Korea</description>
+      <guid>http://localhost:1313/people/joonwoolee/</guid>
+      <description>&lt;h4 id=&#34;연구분야&#34;&gt;연구분야&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Air-sea Interaction&lt;/li&gt;&#xA;&lt;li&gt;Global ocean analysis&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;학력&#34;&gt;학력&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;B.Sc&lt;/strong&gt; (2022) in Atmospheric Sciences, Yonsei University, Seoul, Korea&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;수상내역&#34;&gt;수상내역&lt;/h4&gt;&#xA;&lt;h4 id=&#34;논문&#34;&gt;논문&lt;/h4&gt;</description>
     </item>
-    
     <item>
       <title>조아진</title>
-      <link>https://atmos.yonsei.ac.kr/people/ajincho/</link>
+      <link>http://localhost:1313/people/ajincho/</link>
       <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
-      
-      <guid>https://atmos.yonsei.ac.kr/people/ajincho/</guid>
-      <description>연구분야 Air-sea interactions Air-sea coupled modeling Tropical cyclone Current Effect 학력 M.Sc (2021) in Atmospheric Sciences,</description>
+      <guid>http://localhost:1313/people/ajincho/</guid>
+      <description>&lt;h4 id=&#34;연구분야&#34;&gt;연구분야&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Air-sea interactions&lt;/li&gt;&#xA;&lt;li&gt;Air-sea coupled modeling&lt;/li&gt;&#xA;&lt;li&gt;Tropical cyclone&lt;/li&gt;&#xA;&lt;li&gt;Current Effect&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;학력&#34;&gt;학력&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;M.Sc&lt;/strong&gt; (2021) in Atmospheric Sciences, Yonsei University, Seoul, Korea&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;B.Sc&lt;/strong&gt; (2019) in Atmospheric sicences, Yonsei University, Seoul, Korea&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;수상내역&#34;&gt;수상내역&lt;/h4&gt;&#xA;&lt;h4 id=&#34;논문&#34;&gt;논문&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Cho, A., Song, H., Tak, Y. J., Yeh, S. W., An, S. I., Lee, S. M., &amp;hellip; &amp;amp; Hyun, Y. K. (2022). Atmosphere-driven cold SST biases over the western North Pacific in the GloSea5 seasonal forecast system. Climate Dynamics, 1-14.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
+<<<<<<< HEAD
     
+=======
+    <item>
+      <title>한경훈</title>
+      <link>http://localhost:1313/people/kyunghunhan/</link>
+      <pubDate>Sat, 24 Mar 2018 13:39:46 +0200</pubDate>
+      <guid>http://localhost:1313/people/kyunghunhan/</guid>
+      <description>&lt;h4 id=&#34;research-interests&#34;&gt;Research interests&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Ocean circulation&lt;/li&gt;&#xA;&lt;li&gt;Air-Sea interaction&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;education&#34;&gt;Education&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;B.Sc&lt;/strong&gt; (2017) in Computer Sciences, Korea Naval Academy, Jinhae, Korea&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;awards&#34;&gt;Awards&lt;/h4&gt;&#xA;&lt;h4 id=&#34;publications&#34;&gt;Publications&lt;/h4&gt;</description>
+    </item>
+>>>>>>> upstream/master
   </channel>
 </rss>
